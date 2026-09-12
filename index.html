@@ -176,6 +176,18 @@
   .pending ol{ margin:0; padding-left:18px; font-size:13.5px; color:#ffd9c4; }
   .pending li{ margin-bottom:8px; }
 
+  /* ---------- GAP TIERS ---------- */
+  .gap-tier{ border:1px solid var(--hairline); border-left-width:3px; background:var(--panel); padding:16px 18px; margin-bottom:14px; }
+  .gap-tier.easy{ border-left-color:var(--green); }
+  .gap-tier.mid{ border-left-color:var(--amber); }
+  .gap-tier.hard{ border-left-color:var(--danger); }
+  .gap-tier h3{ margin:0 0 4px; font-size:14px; font-weight:600; }
+  .gap-tier .gap-sub{ display:block; font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.05em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:12px; }
+  .gap-item{ margin-bottom:12px; padding-bottom:12px; border-bottom:1px solid var(--hairline); }
+  .gap-item:last-child{ margin-bottom:0; padding-bottom:0; border-bottom:none; }
+  .gap-item h4{ margin:0 0 4px; font-size:13.5px; font-weight:600; color:var(--ink); }
+  .gap-item p{ margin:0; font-size:13px; color:var(--ink-dim); }
+
   .back-to-top{
     position:fixed; right:22px; bottom:22px; z-index:50;
     width:44px; height:44px; border-radius:50%;
@@ -310,9 +322,70 @@
     </div>
   </div>
 
+  <!-- ---------- QUE LE FALTA A ITINERARIO A ---------- -->
+  <div class="section">
+    <div class="section-head"><span class="num mono">01</span><h2>Qué le falta a Itinerario A</h2></div>
+    <p class="section-note">Surgió al evaluar una extensión hacia Tamarindo (12/9/2026): en vez de armar un Itinerario B alternativo, se decidió dejar A como está y documentar todo lo que NO cubre, ordenado por cuán fácil sería sumarlo sin romper los 9 días. Combina research ya documentado + búsquedas nuevas (12/9/2026).</p>
+
+    <div class="gap-tier easy">
+      <h3>🟢 Fácil</h3>
+      <span class="gap-sub">Están sobre la ruta ya trazada — no suman noches</span>
+      <div class="gap-item">
+        <h4>Parque Nacional Carara + cocodrilos de Tárcoles</h4>
+        <p>Sobre la Costanera Sur, el mismo camino que A ya recorre entre el golfo y Manuel Antonio (~1h30 desde Quepos). Mayor concentración de cocodrilos de Centroamérica y santuario de la lapa roja. Parada de camino, no desvío.</p>
+      </div>
+      <div class="gap-item">
+        <h4>Jacó / Playa Herradura / Playa Hermosa</h4>
+        <p>También sobre la Costanera Sur, mismo tramo que Carara — de Jacó a Quepos, menos de 2h. La más desarrollada de la zona (surf, vida nocturna); Hermosa tiene de las mejores olas del país. Encaja como almuerzo o noche extra en el día 7.</p>
+      </div>
+      <div class="gap-item">
+        <h4>Río Celeste (PN Volcán Tenorio)</h4>
+        <p>~1h20-1h30 desde La Fortuna, ruta pavimentada. Catarata y río turquesa, caminata de 6km/~3h. Encaja como excursión de día en el día 2 o 3 del esqueleto, sin sumar noches.</p>
+      </div>
+      <div class="gap-item">
+        <h4>Bajos del Toro</h4>
+        <p>Cerca de Poasito/Volcán Poás. Se combina con la ruta del día 1 (San José → Poás → La Fortuna) desviando por San Miguel — mismo día, más horas de ruta de montaña pero sin sumar noche. Blue Falls + Catarata del Toro, poca gente.</p>
+      </div>
+    </div>
+
+    <div class="gap-tier mid">
+      <h3>🟡 Medio</h3>
+      <span class="gap-sub">Exigen una noche propia o un desvío deliberado</span>
+      <div class="gap-item">
+        <h4>Tamarindo (parada única, cortando por dentro)</h4>
+        <p>3-5h en auto desde Monteverde (Santa Elena → Juntas → Interamericana → puente Nicoya → Santa Cruz → Tamarindo). Necesita mínimo 1 noche — no es desvío de un día. Mejor una sola parada que bordear toda la costa.</p>
+      </div>
+      <div class="gap-item">
+        <h4>Montezuma / Cabo Blanco / Curú</h4>
+        <p>Ferry Puntarenas-Paquera, 70 min (~US$24 el auto) + 60 min en auto a Montezuma. Entre ferry, espera y traslado es casi un día completo de tránsito — necesita 1-2 noches para que valga la pena.</p>
+      </div>
+    </div>
+
+    <div class="gap-tier hard">
+      <h3>🔴 Difícil</h3>
+      <span class="gap-sub">Rompen la estructura del loop — vuelo/bote obligatorio o multi-día dedicado</span>
+      <div class="gap-item">
+        <h4>Corcovado / Bahía Drake</h4>
+        <p>Sin conexión en auto con el resto del loop — exige vuelo interno desde San José. Es un viaje aparte, no una extensión de A.</p>
+      </div>
+      <div class="gap-item">
+        <h4>Tortuguero</h4>
+        <p>Caribe, acceso solo avión/lancha, del otro lado del país respecto a todo el recorrido de A.</p>
+      </div>
+      <div class="gap-item">
+        <h4>Nicoya costa completa (Tamarindo + Nosara + Sámara)</h4>
+        <p>Caminos lentos/de tierra en tramos (sobre todo Nosara-Sámara). Recorrerla en serio pide días propios, y choca con la preferencia ya documentada de evitar viajes de "solo playa".</p>
+      </div>
+      <div class="gap-item">
+        <h4>Zona de los Santos / Orosi / Copey</h4>
+        <p>Queda al sureste de San José, del lado opuesto de todo el loop de A (puramente oeste) — sumarla exige volver a cruzar el Valle Central.</p>
+      </div>
+    </div>
+  </div>
+
   <!-- ---------- VARIANTES ---------- -->
   <div class="section">
-    <div class="section-head"><span class="num mono">01</span><h2>Variantes en evaluación</h2></div>
+    <div class="section-head"><span class="num mono">02</span><h2>Variantes en evaluación</h2></div>
     <p class="section-note">Documentadas primero, elegidas después — a propósito. Ninguna está descartada todavía; la 1 es la más desarrollada (itinerario real de referencia), pero la 3 y la 5 vienen ganando peso con research reciente.</p>
 
     <div class="variant">
@@ -449,7 +522,7 @@
 
   <!-- ---------- LOGÍSTICA ---------- -->
   <div class="section">
-    <div class="section-head"><span class="num mono">02</span><h2>Logística general</h2></div>
+    <div class="section-head"><span class="num mono">03</span><h2>Logística general</h2></div>
 
     <div class="info-grid">
       <div class="info-card">
@@ -510,7 +583,7 @@
 
   <!-- ---------- PARADAS SUELTAS ---------- -->
   <div class="section">
-    <div class="section-head"><span class="num mono">03</span><h2>Paradas sueltas (no atadas a una variante)</h2></div>
+    <div class="section-head"><span class="num mono">04</span><h2>Paradas sueltas (no atadas a una variante)</h2></div>
     <div class="loose-list">
       <ul>
         <li><b>Hacienda Alsacia:</b> finca de café de Starbucks cerca de Alajuela, de camino al norte.</li>
@@ -529,7 +602,7 @@
 
   <!-- ---------- PENDIENTES ---------- -->
   <div class="section">
-    <div class="section-head"><span class="num mono">04</span><h2>Pendiente / próximos pasos</h2></div>
+    <div class="section-head"><span class="num mono">05</span><h2>Pendiente / próximos pasos</h2></div>
     <div class="pending">
       <ol>
         <li>Elegir variante final (o combinación) entre las 5 — la 1 sigue siendo la más desarrollada, pero la 3 y la 5 vienen ganando peso.</li>

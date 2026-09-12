@@ -249,6 +249,31 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 1. **El santuario de perezosos no está cerca de Poás** — está en Monteverde (día 5 de este esqueleto), no en el día 1 como se planteó en la idea original. Si existe otro santuario más cerca de San José/Alajuela, queda pendiente identificarlo.
 2. **Puntarenas/golfo de Nicoya es el tramo menos resuelto:** si el plan es solo bordear la costa del golfo sin cruzar, el día 6-7 es liviano. Si se suma Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote), esa parada necesita 2-3 noches propias según la fuente original (Kike Arnaiz) — con el esqueleto de 9 días de arriba no entra sin sacrificar una noche de otro lado. Sigue sin datos de tiempo/precio del cruce (ver pendiente #5 más abajo).
 
+## Qué le falta a Itinerario A (12/9/2026) — ordenado de más fácil a más difícil de sumar
+
+Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 12/9/2026): en vez de armar un Itinerario B alternativo, se decidió dejar A como está y documentar acá **todo lo que A NO cubre**, ordenado por cuán fácil sería sumarlo sin romper la estructura de 9 días. Combina lo que ya teníamos documentado (research de las 5 variantes + paradas sueltas) con datos nuevos buscados específicamente para esta lista (WebSearch, 12/9/2026).
+
+**Criterio de orden:** ¿está sobre la ruta ya trazada o exige desvío/logística propia? ¿suma horas o suma noches? ¿se llega en auto o hace falta vuelo/ferry?
+
+### 🟢 Fácil — están literalmente sobre la ruta, no suman noches
+
+- **Parque Nacional Carara + cocodrilos de Tárcoles:** sobre la Costanera Sur, el mismo camino que ya recorre A entre el golfo de Nicoya y Manuel Antonio (~1h30 desde Quepos). Mayor concentración de cocodrilos de Centroamérica (+2.000 en la desembocadura del río Tárcoles) y santuario de la lapa roja/guacamaya escarlata. Sendero Laguna Meándrica, 2-4h. Es una parada de camino, no un desvío. *(WebSearch 12/9/2026)*
+- **Jacó / Playa Herradura / Playa Hermosa:** también sobre la Costanera Sur, mismo tramo que Carara — "4km pasando Jacó a Quepos, menos de 2 horas" según una fuente. Jacó es la más desarrollada turísticamente de la zona (surf, vida nocturna); Hermosa es de las mejores olas del país. Encaja como parada de almuerzo o noche extra en el mismo día 7. *(WebSearch 12/9/2026)*
+- **Río Celeste (PN Volcán Tenorio):** ~1h20-1h30 en auto desde La Fortuna, ruta pavimentada. Catarata y río de color turquesa, caminata de 6km/~3h. Ya estaba anotado como excursión de día posible desde La Fortuna (ver variante 1) — encajaría en el día 2 o 3 del esqueleto de A sin sumar noches. *(dato ya documentado + WebSearch 12/9/2026 confirma tiempos)*
+- **Bajos del Toro:** cerca de Poasito/Volcán Poás (Alajuela), cordillera volcánica central. Se puede combinar con la ruta del día 1 de A (San José → Poás → La Fortuna) desviando por San Miguel en vez del camino directo por Varablanca — mismo día, sin sumar noche, aunque sí más horas de ruta de montaña. Blue Falls + Catarata del Toro, poca gente. *(dato ya documentado + WebSearch 12/9/2026 confirma ubicación)*
+
+### 🟡 Medio — exigen una noche propia o un desvío deliberado, pero siguen siendo en auto/ferry corto
+
+- **Tamarindo (parada única, cortando por dentro):** 3-5h en auto desde Monteverde (la ruta pavimentada real: Santa Elena → Juntas → Interamericana → puente Taiwán-Nicoya → Santa Cruz → Tamarindo). Necesita mínimo 1 noche ahí — no es un desvío de un día. Ya charlado con Daniel: mejor una sola parada que bordear toda la costa (ver más abajo, por qué el "loop completo" pasa a difícil). *(WebSearch 12/9/2026)*
+- **Montezuma / Cabo Blanco / Curú (sur de la Península de Nicoya):** ferry Puntarenas-Paquera, 70 min de navegación (~US$24 el auto con conductor) + 60 min en auto de Paquera a Montezuma. Entre el ferry, la espera y el traslado, es prácticamente un día completo solo de tránsito — necesita 1-2 noches para que valga la pena. Reserva Cabo Blanco (la más antigua de Costa Rica) y Refugio Curú (fácil avistaje de fauna) quedan en el camino. *(WebSearch 12/9/2026)*
+
+### 🔴 Difícil — rompen la estructura del loop (vuelo/bote obligatorio, o multi-día dedicado)
+
+- **Corcovado / Bahía Drake (variante 2):** sin conexión en auto con el resto del loop — exige vuelo interno desde San José. Es un viaje aparte, no una extensión de A.
+- **Tortuguero (variante 3):** Caribe, acceso solo avión/lancha, del otro lado del país respecto a todo el recorrido de A.
+- **Nicoya costa completa (Tamarindo + Nosara + Sámara bordeando la costa):** ya evaluado en detalle — los caminos entre playas son lentos/de tierra en tramos (sobre todo Nosara-Sámara), y recorrerla en serio pide días propios, no un desvío. Además choca con la preferencia ya documentada de evitar viajes de "solo playa". Mejor una escapada dedicada aparte que estirar A.
+- **Zona de los Santos / Orosi / Copey (variante 5, tramo este):** geográficamente queda al sureste de San José, del lado opuesto de todo el loop de A (que es puramente oeste) — sumarla exigiría volver a cruzar el Valle Central, rompiendo la lógica de loop cerrado.
+
 ## Pendiente / próximos pasos
 
 1. **Resolver el tramo del golfo de Nicoya del Itinerario A:** ¿solo costa (liviano) o Isla Venado completo (necesita 2-3 noches propias, hay que sacar días de otro lado)?
