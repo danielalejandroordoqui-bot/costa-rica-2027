@@ -87,9 +87,22 @@ Casi todas las opciones de ida salen de madrugada de EZE (00:52-02:08) y llegan 
 
 **Lectura rápida:** para maximizar el margen de descanso antes del lunes 29, la opción **#1 (US$680, Avianca ambos tramos)** es la más barata Y la que mejor llega — no hay que pagar de más para tener mejor horario en este caso puntual. Si se prefiere no salir de Costa Rica de madrugada (evitar el tramo nocturno Manuel Antonio→SJO), la opción **#9 (US$953, Copa)** es la alternativa que mejor concilia ambas cosas, a mayor precio. Las opciones #2, #7 y #8 no tienen sentido frente a sus alternativas al mismo precio — quedan documentadas para no repetir el análisis, no para elegirlas.
 
-**Pendiente:** rebuscar con fecha de vuelta 28/03 (no 27/03) para ver si el patrón de horarios/precios se mantiene.
+### ✅ CONFIRMADO con la fecha real (28/03) — vuelta elegida (12/9/2026)
 
-### Detalle tramo por tramo — combo #1 (Avianca, US$680) vs. combo #5 (Copa, US$861)
+Todo lo de arriba (#1 a #10) se buscó con fecha de vuelta 27/03 — Daniel volvió a buscar con la fecha real del viaje, **domingo 28/03**, y el patrón se mantiene: Avianca vía Bogotá sigue siendo la única opción que sale de SJO y llega a EZE el **mismo domingo a la tarde**. Todas las demás alternativas para el 28/03 salen de SJO recién a partir de las 4am y llegan a EZE ya entrada la noche del domingo — descartadas por Daniel explícitamente, no entran en la comparación.
+
+**Avianca (AV691 + AV8395) — vía Bogotá — vuelta 28/03, fecha real confirmada:**
+| Tramo | Vuelo | Salida | Llegada | Duración |
+|---|---|---|---|---|
+| SJO → BOG | AV691 | Aer. Juan Santamaría, San José — 01:40 (dom 28/3) | Aer. El Dorado Intl., Bogotá — 04:50 | 2h10min |
+| Escala en Bogotá (BOG) | — | — | — | **2h25min** |
+| BOG → EZE | AV8395 | El Dorado Intl., Bogotá — 07:15 | Aer. Ministro Pistarini, Bs.As. — 15:40 (dom 28/3) | 6h25min |
+
+**Duración total: 11h00min.** Llega a EZE 15:40 el domingo 28/3 — mismo horario de llegada que la búsqueda de prueba con el 27/03, solo cambia levemente la duración (11h vs 10h50) y el número del primer vuelo (AV691 en vez de AV693; el segundo tramo, BOG→EZE, es el mismo AV8395 en ambas fechas). **Esta es la referencia definitiva para reservar la vuelta** — precio todavía sin confirmar en esta captura puntual, pendiente de cotizar antes de reservar.
+
+### Detalle tramo por tramo — combo #1 (Avianca, US$680) vs. combo #5 (Copa, US$861) — búsqueda de prueba, fecha 27/03
+
+*(Sección histórica: sirvió para comparar Avianca vs. Copa y confirmar el patrón antes de tener la fecha correcta. La cotización con fecha real está arriba.)*
 
 Confirmado con las capturas del desplegable (12/9/2026): entre estos dos puntuales, Avianca gana en todo — más barato, más rápido y llega casi 8h antes. **La opción #9 (Copa, US$953, llega 21:38) sigue sin desglose tramo por tramo — es una combinación distinta a la de acá abajo, no confundir.**
 
@@ -107,7 +120,7 @@ Confirmado con las capturas del desplegable (12/9/2026): entre estos dos puntual
 | Escala en Panamá (PTY) | — | — | — | **3h22min** |
 | PTY → EZE | CM167 | Tocumen Intl., Panamá — 14:12 | Aer. Ministro Pistarini, Bs.As. — 23:23 | 7h11min |
 
-**Conclusión de Daniel (12/9/2026):** llegar a EZE a las 15:40 (Avianca) permite estar en casa alrededor de las 17h del domingo, con margen real para acomodarse antes de trabajar el lunes 29 — el combo #1 queda como la elección para la vuelta, salvo que se prefiera explícitamente evitar el tramo nocturno Manuel Antonio→SJO (en cuyo caso la alternativa sigue siendo la #9, Copa US$953, pendiente de desglose).
+**Conclusión de Daniel (12/9/2026):** llegar a EZE a las 15:40 (Avianca) permite estar en casa alrededor de las 17h del domingo, con margen real para acomodarse antes de trabajar el lunes 29 — **Avianca vía Bogotá, con llegada 15:40, queda elegida para la vuelta**, ahora confirmada con la fecha real 28/03 (ver más arriba, AV691+AV8395). Única salvedad: si se prefiere explícitamente evitar el tramo nocturno Manuel Antonio→SJO, la alternativa sería algo como la Copa US$953 de la búsqueda de prueba (llega 21:38) — pero esa todavía no se rebuscó con la fecha real, quedaría pendiente si se quiere considerar en serio.
 
 ## Trámites, moneda y logística general
 
