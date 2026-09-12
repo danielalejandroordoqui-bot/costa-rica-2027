@@ -37,6 +37,24 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 
 Casi todas las opciones de ida salen de madrugada de EZE (00:52-02:08) y llegan a SJO a media mañana (08:16-10:00) — ese es el patrón dominante en esta ruta, no una excepción. Encaja bien con el horario laboral de Daniel/Melisa (salen del trabajo el viernes 19 a las 17h, viajan esa noche).
 
+**Detalle tramo por tramo de las 2 mejores opciones de ida** (capturas del desplegable de Turismocity, 12/9/2026):
+
+**Avianca (AV218 + AV696) — vía Bogotá:**
+| Tramo | Vuelo | Salida | Llegada | Duración |
+|---|---|---|---|---|
+| EZE → BOG | AV218 | Aer. Ministro Pistarini, Bs.As. — 01:40 (sáb 20/3) | Aer. El Dorado Intl., Bogotá — 06:15 | 6h35min |
+| Escala en Bogotá (BOG) | — | — | — | **1h10min** |
+| BOG → SJO | AV696 | El Dorado Intl., Bogotá — 07:25 | Aer. Juan Santamaría, San José — 08:50 | 2h25min |
+
+**Copa Airlines (CM168 + CM787) — vía Ciudad de Panamá:**
+| Tramo | Vuelo | Salida | Llegada | Duración |
+|---|---|---|---|---|
+| EZE → PTY | CM168 | Aer. Ministro Pistarini, Bs.As. — 00:52 (sáb 20/3) | Aer. Tocumen Intl., Ciudad de Panamá — 06:09 | 7h17min |
+| Escala en Panamá (PTY) | — | — | — | **1h47min** |
+| PTY → SJO | CM787 | Tocumen Intl., Panamá — 07:56 | Aer. Juan Santamaría, San José — 08:16 | 1h20min |
+
+**Confirmado:** la escala de Avianca en Bogotá (1h10min) es más corta que la de Copa en Panamá (1h47min) — Avianca vuela más tiempo en el aire (9h totales) pero espera menos en la conexión, y Copa vuela menos en el aire (8h37) pero espera más. El resultado neto es parecido (10h10 vs 10h24), con ventaja mínima para Avianca en duración total, y para Copa en hora de llegada (08:16 vs 08:50).
+
 ### Tramos de VUELTA (SJO → EZE) — todos con 1 escala
 
 | Aerolínea | Sale SJO | Llega EZE | Duración | Llega... |
