@@ -217,10 +217,42 @@ Ruta completamente distinta a las otras 4 — no pasa por Arenal, Monteverde, Ma
 
 ---
 
+## Itinerario A — loop propio por el oeste del país (12/9/2026)
+
+Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio combinando piezas de las variantes 1, 4 y 5 — en vez de elegir una sola zona, arma un **loop por el oeste del país**, entrando y saliendo por San José, subiendo primero al norte y bajando después por la costa Pacífico central. Descarta a propósito todo lo que queda al este (Tortuguero, Caribe) y el extremo sur (Corcovado/Bahía Drake) — quedan afuera de este itinerario, no del proyecto en general.
+
+**Mapa del loop:** Google My Maps público, creado el 12/9/2026 — [Costa Rica - Itinerario A](https://www.google.com/maps/d/edit?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg). Embebido en `index.html` de este proyecto. Marca las 8 paradas + el aeropuerto, unidas con una línea recta (no es ruta real por camino, sirve para ver la forma del loop de un vistazo — confirmado con Daniel que así se mantiene).
+
+**Las 8 paradas, en orden:**
+1. Aeropuerto Juan Santamaría (SJO) — llegada, retiro del auto
+2. Volcán Poás (PN Volcán Poás)
+3. La Paz Waterfall Gardens
+4. Hacienda Alsacia (Starbucks) — tour cafetero
+5. La Fortuna / Volcán Arenal
+6. Monteverde / Santa Elena — **acá es donde está el santuario de perezosos documentado** (variante 1, fuente Araya Vlogs), no cerca de Poás como se pensó en un primer momento
+7. Puntarenas / Golfo de Nicoya — punto de partida si se suma Isla Venado (variante 4)
+8. Quepos / Manuel Antonio
+— cierre: vuelta a SJO, devolución del auto, vuelo de regreso
+
+**Esqueleto de días** (9 días de calendario, ~8 netos descontando el tiempo de vuelos — ida y vuelta rondan las 10h cada tramo más horas de aeropuerto):
+
+- **Día 1:** llegada SJO, auto, Volcán Poás + La Paz Waterfall Gardens + Hacienda Alsacia (café) camino al norte. Noche en La Fortuna.
+- **Día 2-3:** La Fortuna (Arenal, termas, catarata, kayak Río Peñas Blancas, caminata nocturna).
+- **Día 4:** La Fortuna → Monteverde (ruta de montaña, ~2h30-3h).
+- **Día 5:** Monteverde (santuario de perezosos, bosque nuboso, Selvatura).
+- **Día 6:** Monteverde → golfo de Nicoya/Puntarenas.
+- **Día 7:** golfo → Quepos/Manuel Antonio (ruta costanera).
+- **Día 8:** Manuel Antonio (Playa Espadilla, Playa Biesanz, PN).
+- **Día 9:** Manuel Antonio → SJO, devolución del auto, vuelo de regreso.
+
+**Dos puntos sin resolver todavía, ambos ya charlados con Daniel:**
+1. **El santuario de perezosos no está cerca de Poás** — está en Monteverde (día 5 de este esqueleto), no en el día 1 como se planteó en la idea original. Si existe otro santuario más cerca de San José/Alajuela, queda pendiente identificarlo.
+2. **Puntarenas/golfo de Nicoya es el tramo menos resuelto:** si el plan es solo bordear la costa del golfo sin cruzar, el día 6-7 es liviano. Si se suma Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote), esa parada necesita 2-3 noches propias según la fuente original (Kike Arnaiz) — con el esqueleto de 9 días de arriba no entra sin sacrificar una noche de otro lado. Sigue sin datos de tiempo/precio del cruce (ver pendiente #5 más abajo).
+
 ## Pendiente / próximos pasos
 
-1. **Elegir variante final** (o combinación) entre las 5 — la más desarrollada y equilibrada sigue siendo la 1 (Monteverde+Arenal+Manuel Antonio), pero la 3 (Tortuguero) y la 5 (Zona de los Santos) están ganando peso con research reciente.
-2. **Verificar estacionalidad del Caribe** (lluvias invertidas) antes de confirmar cualquier tramo por Tortuguero/Cahuita/Puerto Viejo/Talamanca — condiciona directamente la variante 3.
+1. **Resolver el tramo del golfo de Nicoya del Itinerario A:** ¿solo costa (liviano) o Isla Venado completo (necesita 2-3 noches propias, hay que sacar días de otro lado)?
+2. **Verificar estacionalidad del Caribe** (lluvias invertidas) — ya no aplica al Itinerario A (que descarta el Caribe), pero sigue pendiente si en algún momento se retoma la variante 3 (Tortuguero) como alternativa.
 3. **Confirmar qué cubre el seguro del Adobe Rent a Car** (US$450/7 días) antes de reservar — alerta de que muchas tarjetas de crédito no cubren 4x4/pickup.
-4. **Armar itinerario día por día final** con la variante elegida, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
-5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — hoy es la variante con menos datos concretos de costo.
+4. **Cerrar el Itinerario A con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
+5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — hoy es la parada con menos datos concretos de costo del Itinerario A.
