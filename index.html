@@ -1,0 +1,539 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Costa Rica 2027 — Itinerario</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌴</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#12161f;
+    --panel:#1a2030;
+    --panel-2:#212739;
+    --hairline:#2c3346;
+    --ink:#eef1f6;
+    --ink-dim:#93a0b8;
+    --ink-faint:#5c6680;
+    --amber:#ffb020;
+    --amber-dim:#a97a1e;
+    --green:#5fd38d;
+    --alert:#ff8a5c;
+    --info:#57c8d6;
+    --danger:#ff5c5c;
+    --radius:2px;
+  }
+
+  *,*::before,*::after{ box-sizing:border-box; }
+  html{ background:var(--bg); }
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'IBM Plex Sans',system-ui,sans-serif;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  .mono{ font-family:'Space Mono',ui-monospace,monospace; }
+  a{ color:var(--amber); }
+
+  .wrap{ max-width:920px; margin:0 auto; padding:0 20px; }
+
+  /* ---------- HERO ---------- */
+  .board-case{
+    background:var(--panel);
+    border:1px solid var(--hairline);
+    border-top:6px solid var(--green);
+    margin-top:28px;
+    padding:28px 24px 22px;
+  }
+  .board-topline{
+    display:flex; justify-content:space-between; align-items:baseline;
+    font-family:'Space Mono',monospace; font-size:11px; letter-spacing:.14em;
+    color:var(--ink-faint); text-transform:uppercase; margin-bottom:18px;
+  }
+  .hero-title{
+    font-family:'Space Mono',monospace; font-weight:700;
+    font-size:clamp(2.2rem,8vw,3.8rem); letter-spacing:.02em;
+    color:var(--amber); margin:0; line-height:1; display:flex; flex-wrap:wrap;
+  }
+  .flap-char{ display:inline-block; min-width:.62em; }
+  .flap-char.space{ min-width:.32em; }
+
+  .hero-sub{
+    font-family:'Space Mono',monospace; font-size:clamp(.85rem,2.4vw,1.05rem);
+    color:var(--ink-dim); margin:10px 0 22px; letter-spacing:.03em;
+  }
+  .hero-sub b{ color:var(--ink); }
+
+  .daystrip{ display:grid; grid-template-columns:repeat(9,1fr); gap:5px; margin-bottom:18px; }
+  .day{ background:var(--panel-2); border:1px solid var(--hairline); padding:8px 2px 7px; text-align:center; font-family:'Space Mono',monospace; }
+  .day .dow{ display:block; font-size:9px; letter-spacing:.1em; color:var(--ink-faint); text-transform:uppercase; }
+  .day .num{ display:block; font-size:16px; font-weight:700; color:var(--ink-dim); margin:2px 0 3px; }
+  .day .tag{ display:block; font-size:7.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-faint); min-height:9px; }
+  .day.on{ background:var(--amber); border-color:var(--amber); }
+  .day.on .dow, .day.on .tag{ color:#2b1e04; opacity:.75; }
+  .day.on .num{ color:#241a03; }
+
+  .board-decided{
+    display:flex; gap:10px; align-items:flex-start;
+    background:rgba(95,211,141,.12);
+    border:1px solid rgba(95,211,141,.4);
+    padding:12px 14px; font-size:13.5px; color:#cdf3dd;
+  }
+  .board-decided .ico{ color:var(--green); font-family:'Space Mono',monospace; font-weight:700; }
+  .board-decided b{ color:#fff; }
+
+  .stat-row{
+    display:grid; grid-template-columns:repeat(4,1fr); gap:1px;
+    background:var(--hairline); border:1px solid var(--hairline);
+    margin-top:18px;
+  }
+  .stat{ background:var(--panel-2); padding:9px 10px; }
+  .stat .lbl{ display:block; font-family:'Space Mono',monospace; font-size:8.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:3px; }
+  .stat .val{ font-family:'Space Mono',monospace; font-size:13px; color:var(--ink); }
+
+  /* ---------- PHOTO STRIP ---------- */
+  .photo-strip{
+    display:grid; grid-template-columns:repeat(3,1fr); gap:2px;
+    margin-top:22px; border:1px solid var(--hairline);
+  }
+  .photo-strip figure{ margin:0; position:relative; aspect-ratio:4/3; overflow:hidden; background:var(--panel-2); }
+  .photo-strip img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .photo-strip figcaption{
+    position:absolute; left:0; right:0; bottom:0;
+    font-family:'Space Mono',monospace; font-size:9px; letter-spacing:.03em;
+    color:#fff; background:linear-gradient(transparent,rgba(0,0,0,.75)); padding:14px 6px 5px;
+  }
+
+  /* ---------- SECTION HEADERS ---------- */
+  .section{ margin-top:36px; }
+  .section-head{
+    display:flex; align-items:baseline; gap:10px; margin-bottom:14px;
+    border-bottom:1px solid var(--hairline); padding-bottom:8px;
+  }
+  .section-head .num{ font-family:'Space Mono',monospace; color:var(--amber-dim); font-size:13px; }
+  .section-head h2{ margin:0; font-size:16px; font-weight:600; }
+  .section-note{ font-size:13px; color:var(--ink-dim); margin:-4px 0 16px; }
+
+  /* ---------- VARIANT CARDS ---------- */
+  .variant{ background:var(--panel); border:1px solid var(--hairline); margin-bottom:20px; }
+  .variant-head{
+    display:flex; align-items:flex-start; gap:12px; padding:16px 18px 0;
+  }
+  .v-num{ font-family:'Space Mono',monospace; font-size:12px; color:var(--ink-faint); padding-top:3px; }
+  .variant-head .titles{ flex:1; min-width:0; }
+  .v-name{ font-weight:600; font-size:16px; margin:0; }
+  .v-tag{ font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:var(--ink-faint); margin-top:3px; display:block; }
+  .v-status{
+    font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.05em; text-transform:uppercase;
+    padding:4px 8px; border-radius:2px; white-space:nowrap; text-align:center; flex-shrink:0;
+  }
+  .v-status.top{ background:rgba(95,211,141,.14); color:var(--green); }
+  .v-status.mid{ background:rgba(87,200,214,.14); color:var(--info); }
+  .v-status.open{ background:rgba(255,138,92,.14); color:var(--alert); }
+
+  .variant-body{ padding:14px 18px 20px; }
+  .v-section{ margin-bottom:14px; }
+  .v-section h4{
+    margin:0 0 8px; font-family:'Space Mono',monospace; font-size:10px;
+    letter-spacing:.08em; text-transform:uppercase; color:var(--amber-dim);
+  }
+  .v-section ul{ margin:0; padding-left:16px; font-size:13.5px; color:var(--ink-dim); }
+  .v-section li{ margin-bottom:6px; }
+  .v-section li b{ color:var(--ink); font-weight:600; }
+  .v-note{ font-size:13px; color:var(--ink-dim); border-left:2px solid var(--amber-dim); padding:2px 0 2px 12px; }
+  .v-note b{ color:var(--ink); font-weight:600; }
+
+  /* ---------- INFO BLOCKS ---------- */
+  .info-grid{ display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+  .info-card{ background:var(--panel); border:1px solid var(--hairline); padding:16px 18px; }
+  .info-card h3{ margin:0 0 10px; font-family:'Space Mono',monospace; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--amber); }
+  .info-card ul{ margin:0; padding-left:16px; font-size:13.5px; color:var(--ink-dim); }
+  .info-card li{ margin-bottom:7px; }
+  .info-card li b{ color:var(--ink); font-weight:600; }
+  .info-card p{ margin:0; font-size:13.5px; color:var(--ink-dim); }
+
+  .loose-list{ background:var(--panel); border:1px solid var(--hairline); padding:16px 18px; }
+  .loose-list ul{ margin:0; padding-left:16px; font-size:13.5px; color:var(--ink-dim); columns:1; }
+  .loose-list li{ margin-bottom:9px; }
+  .loose-list li b{ color:var(--ink); font-weight:600; }
+
+  .pending{ background:rgba(255,138,92,.08); border:1px solid rgba(255,138,92,.3); padding:16px 18px; }
+  .pending h3{ margin:0 0 10px; font-family:'Space Mono',monospace; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--alert); }
+  .pending ol{ margin:0; padding-left:18px; font-size:13.5px; color:#ffd9c4; }
+  .pending li{ margin-bottom:8px; }
+
+  .back-to-top{
+    position:fixed; right:22px; bottom:22px; z-index:50;
+    width:44px; height:44px; border-radius:50%;
+    background:var(--amber); color:#241a03; border:none;
+    display:flex; align-items:center; justify-content:center;
+    font-size:20px; line-height:1; cursor:pointer;
+    box-shadow:0 4px 14px rgba(0,0,0,.45);
+    opacity:0; pointer-events:none; transform:translateY(10px);
+    transition:opacity .2s ease, transform .2s ease;
+  }
+  .back-to-top.show{ opacity:1; pointer-events:auto; transform:translateY(0); }
+  .back-to-top:hover{ background:#ffc457; }
+  .back-to-top:focus-visible{ outline:2px solid var(--info); outline-offset:2px; }
+
+  .foot{
+    margin:44px 0 60px; padding-top:18px; border-top:1px solid var(--hairline);
+    font-family:'Space Mono',monospace; font-size:11px; color:var(--ink-faint); line-height:1.7;
+  }
+
+  @media (max-width:640px){
+    .daystrip{ grid-template-columns:repeat(9,minmax(28px,1fr)); gap:3px; }
+    .day .num{ font-size:13px; }
+    .day .dow{ font-size:7.5px; }
+    .day .tag{ font-size:6px; }
+    .stat-row{ grid-template-columns:repeat(2,1fr); }
+    .photo-strip{ grid-template-columns:repeat(2,1fr); }
+    .info-grid{ grid-template-columns:1fr; }
+    .variant-body{ padding:12px 14px 16px; }
+    .variant-head{ padding:14px 14px 0; }
+  }
+
+  @media (prefers-reduced-motion:reduce){
+    .flap-char{ animation:none !important; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <div class="board-case">
+    <div class="board-topline mono">
+      <span>🌴 Destino elegido</span>
+      <span id="clock-stamp">Costa Rica · marzo 2027</span>
+    </div>
+
+    <h1 class="hero-title mono" id="hero-title" aria-label="COSTA RICA"></h1>
+
+    <p class="hero-sub">
+      <b>Sáb 20 → Dom 28 de marzo, 2027</b> · 9 días corridos (1 ida + 7 destino + 1 vuelta) · con <b>2 días de licencia</b> ya pedidos (lun 22 + mar 23)
+    </p>
+
+    <div class="daystrip" aria-hidden="false">
+      <div class="day"><span class="dow">Sáb</span><span class="num">20</span><span class="tag">Finde</span></div>
+      <div class="day"><span class="dow">Dom</span><span class="num">21</span><span class="tag">Finde</span></div>
+      <div class="day on"><span class="dow">Lun</span><span class="num">22</span><span class="tag">Licencia</span></div>
+      <div class="day on"><span class="dow">Mar</span><span class="num">23</span><span class="tag">Licencia</span></div>
+      <div class="day on"><span class="dow">Mié</span><span class="num">24</span><span class="tag">Feriado</span></div>
+      <div class="day on"><span class="dow">Jue</span><span class="num">25</span><span class="tag">No lab.</span></div>
+      <div class="day on"><span class="dow">Vie</span><span class="num">26</span><span class="tag">Feriado</span></div>
+      <div class="day"><span class="dow">Sáb</span><span class="num">27</span><span class="tag">Finde</span></div>
+      <div class="day"><span class="dow">Dom</span><span class="num">28</span><span class="tag">Finde</span></div>
+    </div>
+
+    <div class="board-decided">
+      <span class="ico">✓</span>
+      <span><b>Costa Rica fue el destino elegido</b> para esta ventana (12/9/2026), tras comparar 14 destinos en el proyecto <code>proyectos de viaje</code>. Ese comparador sigue vivo para otros destinos y otros viajes futuros — este proyecto es solo Costa Rica, de acá en más. Falta cerrar cuál de las 5 variantes/zonas de abajo (o combinación) arma el itinerario final.</span>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat"><span class="lbl">Vuelo RT</span><span class="val">~10h45-16h</span></div>
+      <div class="stat"><span class="lbl">USD/persona*</span><span class="val">658–830 + ~1.000/sem</span></div>
+      <div class="stat"><span class="lbl">Auto 4x4/7d</span><span class="val">~US$450</span></div>
+      <div class="stat"><span class="lbl">Días netos</span><span class="val">7-8 de 9</span></div>
+    </div>
+
+    <div class="photo-strip">
+      <figure><img src="img/costarica.jpg" alt="Volcán Arenal, Costa Rica" loading="lazy"><figcaption>Volcán Arenal</figcaption></figure>
+      <figure><img src="img/costarica-perezoso.jpg" alt="Perezoso de dos dedos en Costa Rica" loading="lazy"><figcaption>Perezoso</figcaption></figure>
+      <figure><img src="img/costarica-monteverde.jpg" alt="Bosque nuboso de Monteverde, Costa Rica" loading="lazy"><figcaption>Bosque nuboso, Monteverde</figcaption></figure>
+    </div>
+  </div>
+
+  <!-- ---------- VARIANTES ---------- -->
+  <div class="section">
+    <div class="section-head"><span class="num mono">01</span><h2>Variantes en evaluación</h2></div>
+    <p class="section-note">Documentadas primero, elegidas después — a propósito. Ninguna está descartada todavía; la 1 es la más desarrollada (itinerario real de referencia), pero la 3 y la 5 vienen ganando peso con research reciente.</p>
+
+    <div class="variant">
+      <div class="variant-head">
+        <span class="v-num mono">1</span>
+        <div class="titles">
+          <h3 class="v-name">Monteverde + La Fortuna/Arenal + Manuel Antonio</h3>
+          <span class="v-tag">La más equilibrada · con auto propio</span>
+        </div>
+        <span class="v-status top">Más desarrollada</span>
+      </div>
+      <div class="variant-body">
+        <div class="v-section">
+          <h4>Qué ofrece</h4>
+          <ul><li>Bosque nuboso, volcán, kayak con fauna, cataratas, termas, selva y algo de playa — la variedad de "un día ciudad/naturaleza, al otro fauna, al otro playa" que se busca.</li></ul>
+        </div>
+        <div class="v-section">
+          <h4>Itinerario de referencia — 7 días (video real de una pareja, "El Mundo en Pareja")</h4>
+          <ul>
+            <li><b>Día 1:</b> San José → Monteverde/Santa Elena (3h de ruta). Hotel Los Cipres (US$62/noche c/desayuno).</li>
+            <li><b>Día 2:</b> Reserva del Bosque Nuboso (cascada + puente Wilford), Selvatura Park (8 puentes colgantes), ruta bordeando Lago Arenal (2h40) hasta La Fortuna.</li>
+            <li><b>Día 3:</b> kayak safari Río Peñas Blancas (monos, iguanas, aves), caminata nocturna (ranas, serpientes, insectos).</li>
+            <li><b>Día 4:</b> Catarata La Fortuna (500 escalones), tour de perezosos y ranas dardo, termas.</li>
+            <li><b>Día 5:</b> La Fortuna → Manuel Antonio/Quepos.</li>
+            <li><b>Día 6:</b> caminata guiada en la reserva del hotel, Playa Espadilla (monos, perezosos), Playa Biesanz.</li>
+            <li><b>Día 7:</b> Manuel Antonio → San José, devolución del auto, vuelo de regreso.</li>
+          </ul>
+        </div>
+        <p class="v-note">Mejor repartir <b>Monteverde 2 noches → La Fortuna 3 noches → Manuel Antonio 2 noches</b> en vez de copiar el ritmo exacto del video. Posible excursión de día desde La Fortuna: <b>Río Celeste</b> (PN Volcán Tenorio, catarata y río turquesa). El Quetzal también se ve acá, no hace falta ir hasta Zona de los Santos solo por esa ave.</p>
+      </div>
+    </div>
+
+    <div class="variant">
+      <div class="variant-head">
+        <span class="v-num mono">2</span>
+        <div class="titles">
+          <h3 class="v-name">Corcovado / Bahía Drake</h3>
+          <span class="v-tag">Fauna pura · vuelo interno, sin auto</span>
+        </div>
+        <span class="v-status mid">Fauna máxima</span>
+      </div>
+      <div class="variant-body">
+        <div class="v-section">
+          <h4>Qué ofrece</h4>
+          <ul><li>Máxima concentración de fauna y fotografía (National Geographic lo llama el lugar de mayor biodiversidad del planeta) — sacrifica variedad de paisajes y suma logística interna (vuelo San José-Drake, no auto).</li></ul>
+        </div>
+        <div class="v-section">
+          <h4>Itinerario — 7 días (paquete comercial de fotógrafo especializado en fauna)</h4>
+          <ul>
+            <li><b>Día 1:</b> llegada a Bahía Drake, tour de aves por las playas de Drake y Cocalito. Lodge base para casi todo el viaje.</li>
+            <li><b>Día 2:</b> Parque Nacional Corcovado — navegación, playas vírgenes, caminatas. Noche en la estación biológica de La Sirena (literas, baño compartido, único alojamiento dentro del parque).</li>
+            <li><b>Día 3:</b> madrugón en Corcovado/La Sirena (mejor luz y fauna), avioneta abandonada como punto fotográfico. Regreso a Bahía Drake.</li>
+            <li><b>Día 4:</b> snorkel/buceo en Isla del Caño (coral, tortugas, posibles delfines/ballenas) + tour nocturno de fauna.</li>
+            <li><b>Día 5:</b> safari por los manglares del río Sierpe (aves, monos, cocodrilos).</li>
+            <li><b>Día 6:</b> zona de avistaje de puma en Corcovado (sin garantía) + selva nocturna para foto macro.</li>
+            <li><b>Día 7:</b> traslado de regreso al aeropuerto de Bahía Drake.</li>
+          </ul>
+        </div>
+        <p class="v-note">Si se vuela desde el exterior, conviene llegar un día antes a San José y volar a Drake al día siguiente. Sin precio propio todavía — pendiente cotizar.</p>
+      </div>
+    </div>
+
+    <div class="variant">
+      <div class="variant-head">
+        <span class="v-num mono">3</span>
+        <div class="titles">
+          <h3 class="v-name">Tortuguero + La Fortuna/Arenal + Monteverde</h3>
+          <span class="v-tag">Selva, canales y aves · sin playa</span>
+        </div>
+        <span class="v-status mid">Sin trip de playa</span>
+      </div>
+      <div class="variant-body">
+        <div class="v-section">
+          <h4>Tortuguero — Evergreen Lodge, 48hs</h4>
+          <ul>
+            <li><b>Acceso:</b> solo avión/lancha/barco — no hay ruta en auto propio hasta el lodge.</li>
+            <li><b>Día 1:</b> caminata de naturaleza (monos araña, aulladores) + tour nocturno de desove de tortugas marinas en la playa.</li>
+            <li><b>Día 2:</b> bote por los canales (anhingas, jacanas, iguanas, caimanes, tamandúa), cerro con vista panorámica, pueblo de Tortuguero.</li>
+            <li><b>Día 3:</b> instalaciones del lodge antes de volver a Guápiles.</li>
+          </ul>
+        </div>
+        <p class="v-note">⚠️ <b>Pendiente crítico:</b> verificar si la temporada de lluvias del Caribe es realmente inversa al resto del país (aprendizaje de otra fuente) — condiciona directamente esta variante y cualquier paso por Cahuita/Puerto Viejo/Talamanca en marzo.</p>
+      </div>
+    </div>
+
+    <div class="variant">
+      <div class="variant-head">
+        <span class="v-num mono">4</span>
+        <div class="titles">
+          <h3 class="v-name">Isla Venado, Golfo de Nicoya</h3>
+          <span class="v-tag">Escapada corta (2-3 noches) · poco turística</span>
+        </div>
+        <span class="v-status open">Complemento, no completa</span>
+      </div>
+      <div class="variant-body">
+        <div class="v-section">
+          <h4>Qué ofrece</h4>
+          <ul>
+            <li>Zona fuera de los circuitos turísticos convencionales (~1.000 habitantes, video de Kike Arnaiz). Acceso: auto hasta Lepanto, ferry, bote hasta la isla.</li>
+            <li>Tour en bote por manglares (águilas pescadoras, garzas, aningas), restaurante flotante comunitario, caminata por bosque tropical seco hasta Playa Sosoy (virgen, solitaria).</li>
+            <li>Gastronomía local: "la mamadita" (pianguas de manglar en su concha, limón y salsa Lizano).</li>
+          </ul>
+        </div>
+        <p class="v-note">No es itinerario completo de 7-8 días — podría sumarse como tramo inicial/final de otra variante (cerca de Monteverde/Nicoya) o quedar aparte. Sin precio todavía; pendiente ubicarla en el mapa respecto a las otras zonas.</p>
+      </div>
+    </div>
+
+    <div class="variant">
+      <div class="variant-head">
+        <span class="v-num mono">5</span>
+        <div class="titles">
+          <h3 class="v-name">Valle Central / Zona de los Santos / Pacífico Sur</h3>
+          <span class="v-tag">Café, vino, aves de altura</span>
+        </div>
+        <span class="v-status mid">Ruta distinta a las otras</span>
+      </div>
+      <div class="variant-body">
+        <div class="v-section">
+          <h4>Itinerario — 7 días</h4>
+          <ul>
+            <li><b>Día 1:</b> Volcán Poás (cráter activo) + La Paz Waterfall Gardens.</li>
+            <li><b>Día 2:</b> Cartago (primera capital), plaza mayor, ruinas de la parroquia; granja orgánica.</li>
+            <li><b>Día 3:</b> Orosi — aguas termales naturales, tour de café/cacao/vainilla con chocolate propio.</li>
+            <li><b>Día 4:</b> Pacífico Sur — rafting en el Río Savegre, alrededores de Playa Dominical.</li>
+            <li><b>Día 5:</b> Copey (Zona de los Santos) — vinícola de altura, cata de cafés premiados en Don Caito.</li>
+            <li><b>Día 6:</b> observación de aves en Zona de los Santos, buscando el Quetzal.</li>
+            <li><b>Día 7:</b> cierre en San José — artesanías, casado y cerveza Imperial.</li>
+          </ul>
+        </div>
+        <p class="v-note"><b>Bajos del Toro</b> (Blue Falls + catarata Toro, poca gente) podría sumarse como parada intermedia, cerca de Poás. Recomendación que originó esta variante: "en la Zona de los Santos se hace avistamiento de aves, en especial el Quetzal — aunque también se puede ver en Monteverde".</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ---------- LOGÍSTICA ---------- -->
+  <div class="section">
+    <div class="section-head"><span class="num mono">02</span><h2>Logística general</h2></div>
+
+    <div class="info-grid">
+      <div class="info-card">
+        <h3>Vuelo BUE-San José</h3>
+        <ul>
+          <li><b>Recomendado:</b> ~US$745, Avianca, 1 escala, ~10h45 por tramo.</li>
+          <li><b>Rango real:</b> US$658 (más barato, 16h/más escalas) a US$1.084 (más rápido, 10h directo de conexión).</li>
+          <li>Generalmente vía Panamá (Copa) o Bogotá/Lima (Avianca) — evitar 2 escalas (22h+).</li>
+          <li>Reservar 3-6 meses antes; Semana Santa sube la demanda.</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <h3>Auto de alquiler</h3>
+        <ul>
+          <li><b>Adobe Rent a Car, 4x4, 7 días:</b> ~US$450 total.</li>
+          <li>⚠️ Muchas tarjetas de crédito NO cubren 4x4/pickup — confirmar seguro antes de reservar.</li>
+          <li>Camino a Monteverde complicado (2 fuentes con percances). Evitar manejar de noche.</li>
+          <li>SJO → La Fortuna ~3h-3h30 · La Fortuna → Monteverde ~2h30-3h · Monteverde → Guanacaste ~2h-2h30.</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <h3>Alojamiento (referencia Monteverde, 20-27/3/2027)</h3>
+        <ul>
+          <li>167 opciones disponibles para esas fechas — oferta amplia.</li>
+          <li>Cattleya Family: ~US$242 la semana (2 personas, 8,8 puntaje).</li>
+          <li>Kiwi House: ~US$292 la semana (2 personas, 8,6 puntaje).</li>
+          <li>Combinar Airbnb (cocinar, más barato) con 1-2 noches de hotel/lodge de cierre.</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <h3>Presupuesto de referencia (gama media, sin vuelo)</h3>
+        <ul>
+          <li><b>~US$1.000/persona/semana</b></li>
+          <li>Alojamiento 35% · Comida 25% · Tours/actividades 20% · Transporte 15%</li>
+          <li>Plato de restaurante turístico ~US$30; comiendo en "sodas" o cocinando, bastante menos.</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <h3>Trámites, moneda y clima</h3>
+        <ul>
+          <li>Sin trámites especiales para argentinos.</li>
+          <li>Colón costarricense, dólares aceptados ampliamente. Tarjeta en casi todas partes.</li>
+          <li>Agua del grifo segura en la mayor parte del país. Fumar prohibido en espacios públicos.</li>
+          <li><b>Temporada seca dic-abril</b> (más cara/turística) — marzo NO es de los meses económicos (esos son may/jun/sep/oct).</li>
+          <li>Caribe con temporada de lluvias posiblemente <b>inversa</b> al resto del país — pendiente de confirmar.</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <h3>Equipaje y conectividad</h3>
+        <ul>
+          <li>Impermeable, calzado de senderismo o sandalias de agarre (Teva/Chaco), ropa abrigada para zonas altas, linterna frontal, bolsa seca, bloqueador biodegradable, repelente.</li>
+          <li>eSIM (Airalo) recomendada.</li>
+          <li>SJO sirve para Valle Central, La Fortuna, Monteverde, Pacífico Sur y Caribe — es el aeropuerto relevante para todas las variantes en juego (LIR solo si fuera Guanacaste puro).</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ---------- PARADAS SUELTAS ---------- -->
+  <div class="section">
+    <div class="section-head"><span class="num mono">03</span><h2>Paradas sueltas (no atadas a una variante)</h2></div>
+    <div class="loose-list">
+      <ul>
+        <li><b>Hacienda Alsacia:</b> finca de café de Starbucks cerca de Alajuela, de camino al norte.</li>
+        <li><b>Fraijanes y Varablanca:</b> ventas de fresas al costado de la ruta hacia La Fortuna.</li>
+        <li><b>Catarata La Paz:</b> parada natural sobre la carretera (distinta del complejo pago La Paz Waterfall Gardens).</li>
+        <li><b>Hotel Los Lagos Spa & Resort:</b> opción de hospedaje en La Fortuna con vista al Arenal.</li>
+        <li><b>Volcán Arenal:</b> en erupción continua 1968-2010, hoy inactivo/dormido.</li>
+        <li><b>Árbol de ceiba de 500 años:</b> parada de gran valor espiritual/cultural, en la ruta Caribe-Pacífico.</li>
+        <li><b>@talamancanatureserve (Instagram):</b> reserva natural en Talamanca (Caribe Sur) — sin detalle todavía.</li>
+        <li><b>San José capital:</b> Avenida Central, Mercado Central, Catedral Metropolitana, caldosas, plátanos tostados.</li>
+        <li><b>Cahuita (Caribe Sur):</b> mapaches, perezosos, serpientes, caimanes.</li>
+        <li><b>Manuel Antonio:</b> cuidado con las pertenencias — monos curiosos en las playas.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ---------- PENDIENTES ---------- -->
+  <div class="section">
+    <div class="section-head"><span class="num mono">04</span><h2>Pendiente / próximos pasos</h2></div>
+    <div class="pending">
+      <ol>
+        <li>Elegir variante final (o combinación) entre las 5 — la 1 sigue siendo la más desarrollada, pero la 3 y la 5 vienen ganando peso.</li>
+        <li>Verificar estacionalidad del Caribe (lluvias invertidas) antes de confirmar cualquier tramo por Tortuguero/Cahuita/Puerto Viejo/Talamanca.</li>
+        <li>Confirmar qué cubre el seguro del Adobe Rent a Car (US$450/7 días) antes de reservar.</li>
+        <li>Armar itinerario día por día final con la variante elegida, y presupuesto total real para decidir fecha de compra de pasajes.</li>
+        <li>Ubicar Isla Venado en el mapa respecto a las otras zonas y conseguir precio.</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="foot">
+    Proyecto dedicado a Costa Rica, separado del comparador de destinos (<code>viajes/proyectos de viaje/</code>). Detalle completo de fuentes, videos citados y research crudo en <code>investigacion.md</code>, en esta misma carpeta.
+  </div>
+
+</div>
+
+<button type="button" class="back-to-top" id="back-to-top" aria-label="Volver arriba" title="Volver arriba">↑</button>
+
+<script>
+(function(){
+  var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var title = document.getElementById('hero-title');
+  var text = 'COSTA RICA';
+  var glyphs = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+
+  text.split('').forEach(function(ch, i){
+    var span = document.createElement('span');
+    span.className = 'flap-char' + (ch === ' ' ? ' space' : '');
+    span.textContent = reduced ? ch : glyphs[Math.floor(Math.random()*glyphs.length)];
+    title.appendChild(span);
+
+    if(!reduced){
+      var ticks = 8 + Math.floor(Math.random()*6);
+      var delay = i * 55;
+      var count = 0;
+      setTimeout(function step(){
+        if(ch === ' '){ span.textContent = ' '; return; }
+        if(count < ticks){
+          span.textContent = glyphs[Math.floor(Math.random()*glyphs.length)];
+          count++;
+          setTimeout(step, 40 + count*4);
+        } else {
+          span.textContent = ch;
+        }
+      }, delay);
+    }
+  });
+
+  var topBtn = document.getElementById('back-to-top');
+  var SCROLL_THRESHOLD = 600;
+  window.addEventListener('scroll', function(){
+    topBtn.classList.toggle('show', window.scrollY > SCROLL_THRESHOLD);
+  }, { passive: true });
+  topBtn.addEventListener('click', function(){
+    var startY = window.scrollY || document.documentElement.scrollTop;
+    if(startY <= 0) return;
+    if(reduced){ window.scrollTo(0, 0); return; }
+    try{ window.scrollTo({ top: 0, behavior: 'smooth' }); } catch(e){ window.scrollTo(0, 0); }
+    setTimeout(function(){
+      if(window.scrollY >= startY) window.scrollTo(0, 0);
+    }, 150);
+  });
+})();
+</script>
+
+</body>
+</html>

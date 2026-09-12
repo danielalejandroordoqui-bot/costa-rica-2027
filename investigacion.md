@@ -1,0 +1,226 @@
+# Costa Rica — Marzo 2027 (destino elegido)
+
+Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viajes/proyectos de viaje/` (que sigue comparando los destinos NO elegidos para esta ventana). Acá va todo el detalle de research: videos, itinerarios reales, precios, logística — sin resumir de más, para que nada se pierda entre sesión y sesión.
+
+**Ventana del viaje:** sábado 20 a domingo 28 de marzo de 2027, 9 días corridos, con solo 2 días de licencia (lunes 22 y martes 23) ya pedidos y confirmados en el trabajo — el 24/3 (feriado Día de la Memoria), Jueves Santo (25) y Viernes Santo (26) caen pegados al fin de semana. Semana Santa 2027 cae 21-28/3, prácticamente toda la ventana.
+
+**Estado:** ✅ **Costa Rica es el destino elegido** para este viaje (decisión del 12/9/2026). El resto de los destinos que se venían comparando (Salta/Jujuy, Ecuador, Perú, Colombia, y los ya descartados) quedan documentados en `viajes/proyectos de viaje/` para retomar en otro viaje futuro — no se mezclan con este proyecto.
+
+**Sitio:** `index.html` en esta misma carpeta — itinerario resumido para consulta rápida (no es un comparador de destinos, es la ficha de viaje). Este archivo (`investigacion.md`) es el respaldo con el detalle completo.
+
+---
+
+## Lógica general del viaje
+
+- **Estructura de días:** 1 día ida + 7 días en destino + 1 día vuelta (no forzar a rellenar los 9 días completos — BUE-San José no tiene vuelo directo, conviene margen de conexión).
+- **San José (SJO) es solo la puerta de entrada/salida** (aeropuerto), no el destino en sí. El viaje real pasa en otras zonas del país según la variante elegida.
+- **Por qué Costa Rica:** favorito declarado de Daniel desde el principio de la investigación ("para mí es un destino fabuloso, creo que mi favorito") — biodiversidad excepcional (volcanes, selva, dos océanos), buena infraestructura turística y seguridad, excelente para road trip con auto propio. Ofrece la variedad de "un día ciudad/naturaleza, al otro fauna, al otro playa" que busca la pareja, a diferencia de destinos de un solo ecosistema (como Iberá).
+- **Semana Santa en Costa Rica** es la fecha de mayor demanda turística INTERNA del propio país del año — afecta precio y ocupación (hoteles y parques más llenos y más caros que cualquier otra semana), no la viabilidad del viaje.
+- **Salvedad reconocida desde el principio:** no se puede hacer todo el país en 7-8 días netos (Tortuguero + Corcovado + Manuel Antonio + playa + ruta no entran todos juntos) — hay que elegir.
+
+## Vuelo BUE-San José (relevado sept. 2026)
+
+Captura de motor de reserva aportada por Daniel:
+
+- **Más barato:** US$658 (16h5m promedio, ruta más lenta, más escalas).
+- **Recomendado:** US$745 (10h45m promedio) — Avianca, ida EZE 16:50 → SJO 00:30+1 (10h40min, 1 escala), vuelta SJO 01:50 → EZE 15:40 (10h50min, 1 escala).
+- **Más rápido:** US$1.084 (10h0m promedio).
+- Otras opciones en el mismo rango: US$760 (GotoGate, Avianca ida + LATAM vuelta vía AEP), US$783 (Copa Airlines ambos tramos), US$831 (Avianca ambos tramos).
+- Generalmente con 1 escala, vía Panamá (Copa Airlines) o Bogotá/Lima (Avianca) — evitar rutas con 2 escalas, llegan a 22h+.
+- **Rango real de referencia: US$658-830** (reemplaza la estimación vieja de US$550-750, un poco más caro de lo que se pensaba).
+
+## Trámites, moneda y logística general
+
+- **Sin trámites especiales para argentinos** (confirmado por Daniel).
+- **Moneda:** colón costarricense (1€ ≈ 568 colones, sept. 2026), dólares aceptados ampliamente. Tarjeta de crédito aceptada casi en todas partes; no hace falta llevar mucho efectivo, se puede retirar colones en cajeros.
+- **Costo de vida:** descripto por viajeros como caro en general (ej. cerveza Imperial ~€4-5).
+- **Agua del grifo:** segura para tomar en la mayor parte del país.
+- **Fumar prohibido** en casi todos los espacios públicos.
+- **Conectividad:** eSIM (Airalo) recomendada.
+- **Equipaje esencial:** impermeable, calzado de senderismo lavable o sandalias de agarre (Teva/Chaco), ropa abrigada para zonas altas (Monteverde, La Fortuna), linterna frontal, bolsa seca, bloqueador biodegradable, repelente.
+- **Compra de vuelos:** reservar 3-6 meses antes, mantener flexibilidad de ±2-3 días y volar mitad de semana. Herramientas: Google Flights, Skyscanner, boletín Next Departure.
+- **Evitar manejar de noche** (rutas oscuras y sinuosas).
+- **Aeropuertos:** Liberia (LIR) conviene para Guanacaste/playas del norte (no es el caso del plan actual); San José (SJO) sirve para Valle Central, La Fortuna, Monteverde, Pacífico Sur y Caribe — es el aeropuerto relevante para las variantes en juego.
+
+### Temporadas y clima
+
+- **Seca:** diciembre-abril (más sol, más turistas, más caro). **Verde/lluvias:** mayo-noviembre (lluvias por la tarde/mañana, más barato, menos gente).
+- **Meses más económicos:** mayo, junio, septiembre y octubre — marzo NO está entre ellos (coincide con que Semana Santa es el pico de precios del año).
+- **Costa Pacífica:** la costa del Pacífico Norte (Guanacaste) es la excepción más seca del país — seco jun-nov, más húmedo dic-may. La Península de Nicoya en particular es bosque tropical seco, a fines de marzo (cierre del verano) se ve árido.
+- **Caribe — lluvias invertidas:** aprendizaje de una fuente (Aline y Diego, 10 días): la temporada de lluvias del Caribe es inversa a la del resto del país. Mientras el Pacífico y el Valle Central están en temporada seca (buena) en marzo, el Caribe podría estar en su temporada más lluviosa. **Pendiente de verificar con una fuente dedicada antes de decidir cualquier tramo Caribe (Tortuguero, Cahuita, Puerto Viejo, Talamanca).**
+- **Duración ideal de un primer viaje:** 7-10 días (menos de 5 es muy ajustado por lo montañoso del país, +60 volcanes) — encaja con la ventana de 9 días (7-8 netos) ya definida.
+
+## Auto de alquiler
+
+- **Adobe Rent a Car, 4x4 por 7 días ≈ US$450 total** (dato directo de Daniel, no de video).
+- **Alerta de seguro (Emma Terra):** muchas coberturas de tarjeta de crédito NO cubren vehículos pickup, todoterreno o 4x4 — hay que revisar la letra chica, y si no queda claro, contratar el seguro directo con la agencia. No está confirmado qué cubre el Adobe Rent a Car ya cotizado — vale la pena revisarlo antes de reservar, aunque no cambia el análisis de fondo.
+- **Camino a Monteverde complicado:** dos fuentes independientes (Araya Vlogs con problema mecánico, y el "percance en camino de lodo" del itinerario de referencia) confirman que el acceso a Monteverde no es trivial.
+- **Consejos de manejo generales:** caminos rurales de tierra, puentes de un solo carril, tramos en obra.
+
+### Traslados y distancias de referencia
+
+- Aeropuerto SJO → San José: ~30 min.
+- San José → La Fortuna/Arenal: ~3h-3h30 en auto.
+- La Fortuna → Monteverde: ~2h30-3h (caminos de montaña, más lento de lo que parece en el mapa).
+- Monteverde → Guanacaste: ~2h-2h30.
+
+## Alojamiento — referencia real en Monteverde
+
+Búsqueda en Booking.com para las fechas exactas del viaje (20-27/3/2027, aportado por Daniel), como referencia de precio/oferta de la zona — no implica quedarse 7 noches en Monteverde, el itinerario real reparte esas noches entre Monteverde/La Fortuna/Manuel Antonio. 167 alojamientos encontrados — oferta amplia.
+
+- **Cattleya Family** (Santa Elena, Monteverde, 2,2km del centro): 8,8 "Fabuloso" (233 comentarios), Confort 9,0. Doble estándar, 2 camas dobles. 1 semana/2 adultos: US$214 (con descuento, antes US$238) + US$28 impuestos = **~US$242 total**.
+- **Kiwi House** (Santa Elena, Monteverde): 8,6 "Fabuloso" (62 comentarios), Confort 9,1. Apartamento 1 dormitorio, 55m². 1 semana/2 adultos: US$257 + US$35 impuestos = **~US$292 total**.
+- Piso de referencia: ~US$30-42/noche total (2 personas) en alojamientos bien puntuados — coincide con el Hotel Los Cipres del itinerario de referencia (US$62/noche, pero con desayuno incluido, categoría distinta).
+- **Sugerencia general (Emma Terra):** combinar Airbnb (más barato, cocinar) la mayoría de los días con 1-2 noches finales en hotel/lodge de categoría alta como cierre.
+
+## Presupuesto de referencia (Emma Terra, gama media)
+
+**~US$1.000/persona/semana, sin vuelo internacional:**
+- Alojamiento 35% (~US$350)
+- Comida y bebida 25% (~US$250) — comiendo en "sodas"/cocinando; un plato en restaurante turístico o frente al mar promedia US$30
+- Tours/actividades 20% (~US$200) — alcanza para 2-3 actividades de US$50-200 c/u
+- Transporte 15% (~US$150) — da un piso de comparación con los US$450/7 días del auto ya cotizado
+
+---
+
+## Las variantes/zonas en evaluación
+
+Daniel documentó primero todos los destinos y dejó la elección entre variantes para después, a propósito — no es falta de información, es orden de trabajo. Hoy hay **5 variantes/zonas** con distinto nivel de desarrollo:
+
+### Variante 1 — Monteverde + La Fortuna/Arenal + Manuel Antonio (la más equilibrada)
+
+La más desarrollada, con itinerario de referencia real. Bosque nuboso, volcán, kayak con fauna, cataratas, termas, selva y algo de playa.
+
+**Itinerario de referencia — 7 días, video real de una pareja** (canal "El Mundo en Pareja", viajaron en octubre bajo lluvia y aun así les rindió):
+
+- **Día 1:** San José → Monteverde/Santa Elena. Llegada aeropuerto, alquiler de vehículo, 3h de ruta. Hotel Los Cipres (US$62/noche c/desayuno). Cena tradicional en Sabor Tico.
+- **Día 2:** Monteverde → La Fortuna. Reserva del Bosque Nuboso Monteverde (cascada + puente colgante Wilford, estacionamiento US$5). Selvatura Park (8 puentes colgantes sobre la copa de los árboles). Almuerzo en Orquídeas Café. Ruta bordeando Lago Arenal (2h40) hasta La Fortuna. Hotel Miradas Arenal (vista al volcán) + termas.
+- **Día 3:** La Fortuna. Safari en kayak por Río Peñas Blancas (monos, iguanas, aves). Caminata nocturna en El Silencio (ranas, serpientes, insectos).
+- **Día 4:** La Fortuna. Catarata La Fortuna (descenso de 500 escalones) + baño en el río. Tour de avistamiento de perezosos y ranas dardo venenosas. Termas + cena de pizza.
+- **Día 5:** La Fortuna → Manuel Antonio/Quepos. (En el video, percance en camino alterno con lodo — tuvieron que ser rescatados.) Hotel Mountain Top Park Hotel.
+- **Día 6:** Manuel Antonio. Caminata guiada matutina en la reserva del hotel. Playa Espadilla (junto al PN Manuel Antonio, estacionamiento US$10/día) — monos cara blanca y perezosos. Playa Biesanz (cuidador de auto US$4, camastros US$15 consumiendo). Caminata nocturna por la selva.
+- **Día 7:** Manuel Antonio → San José. Recorrido rápido por la ciudad, devolución del vehículo, vuelo de regreso.
+
+Otros costos sueltos: coco fresco US$5.
+
+**Por qué NO se armaría igual "de un tirón":** mejor pensar Monteverde 2 noches → La Fortuna 3 noches → Manuel Antonio 2 noches (7 noches/8 días de viaje efectivo), sin copiar el ritmo exacto de la pareja del video.
+
+**Actividades adicionales en Monteverde** (video canal Araya Vlogs):
+- Tour nocturno: avistamiento de una bocaraca (serpiente venenosa con "pestañas" características) y una tarántula.
+- Santuario de perezosos: centro de rescate, vida solitaria, hábitos de sueño y de nacimiento.
+- Puentes colgantes (Selvatura) a gran altura sobre la copa del bosque nuboso.
+- Restaurante construido alrededor de un árbol, con variedad de precios.
+- Confirma que el camino de acceso a Monteverde no es trivial (problema mecánico del creador).
+
+**Excursión de día posible desde La Fortuna — Río Celeste (PN Volcán Tenorio):** senderismo hasta el Río Celeste (catarata y río de color turquesa) con baño incluido — parque distinto al Arenal pero relativamente cercano, no estaba en el itinerario de referencia original. Casado y pitahaya con tajín de comida.
+
+**El Quetzal también se ve en Monteverde** (no solo en Zona de los Santos, ver variante 5) — si se elige esta variante, podría no hacer falta un tramo aparte solo por esa ave.
+
+### Variante 2 — Corcovado / Bahía Drake (fauna pura, más logística)
+
+Maximiza fauna y fotografía, sacrifica variedad, suma más logística interna. Es la variante con el itinerario más detallado después de la 1, gracias a un paquete comercial de un fotógrafo profesional especializado en fauna (mismo perfil de fuente que se usó para Pantanal en el otro proyecto).
+
+**Itinerario — 7 días, Bahía Drake/Corcovado/Isla del Caño:**
+
+- **Día 1 — Llegada a Bahía Drake:** recogida en el aeropuerto de Bahía Drake, desayuno grupal, tour de avistamiento de aves por las playas de Drake y Cocalito, almuerzo en un mirador con vistas al mar. Alojamiento en lodge privado en plena selva, con piscina y restaurante — ahí duermen todas las noches del viaje excepto la que pasan dentro de Corcovado. **Dato logístico clave:** si se vuela desde el exterior, conviene llegar un día antes a San José y volar a Bahía Drake recién al día siguiente — hay vuelo interno San José-Drake, no es un destino al que se llegue directo desde fuera de Costa Rica (a diferencia de la lógica de "auto propio" de la variante 1).
+- **Día 2 — Inmersión en el Parque Nacional Corcovado:** citado por National Geographic como el lugar con mayor biodiversidad del planeta — tapires, osos hormigueros, pumas, tucanes y las 4 especies de monos del país. Día completo combinando navegación, playas vírgenes y caminatas por la selva. Noche en la **estación biológica de La Sirena**, el único alojamiento permitido dentro del parque — habitaciones tipo refugio, literas, baño compartido (a diferencia del resto del viaje, en lodges con habitación doble y baño privado).
+- **Día 3 — Corcovado y La Sirena:** madrugón para aprovechar la primera luz del día (mayor actividad de fauna), aves, playas remotas, y una avioneta abandonada en la selva como punto fotográfico. Por la tarde, regreso al pueblo de Bahía Drake.
+- **Día 4 — Snorkel/buceo en Isla del Caño + tour nocturno:** arrecifes de coral, peces tropicales, tortugas marinas, posibilidad de delfines y ballenas. Snorkel grupal desde la playa; con licencia de buceo se puede pedir inmersión aparte. De noche, tour de fauna nocturna (ranas de vidrio, ranas de ojos rojos).
+- **Día 5 — Safari por los manglares del río Sierpe:** navegación por canales entre manglares, aves exóticas, monos, cocodrilos.
+- **Día 6 — Regreso a Corcovado (zona de avistaje de puma) + selva nocturna:** zona remota y poco visitada del parque, reconocida por mayor probabilidad de avistar puma (sin garantía). De noche, nueva salida a la selva para fotografía macro (ranas, insectos).
+- **Día 7 — Vuelta a la realidad:** desayuno y traslado de regreso al aeropuerto de Bahía Drake — vuelo de salida o continuar explorando el país con el mismo operador.
+
+**Lectura:** 7 días enteros dedicados solo a Corcovado/Bahía Drake/Isla del Caño (sin sumar Arenal, Monteverde ni Manuel Antonio) — más profundo y "de fauna pura" que la variante 1, a cambio de sacrificar variedad de paisajes/actividades (playa de descanso, termas, kayak recreativo). Sin precio propio todavía.
+
+### Variante 3 — Tortuguero + La Fortuna/Arenal + Monteverde (selva y fauna, sin playa)
+
+Más selva/fauna/canales/aves, sin tramo de playa — podría encajar mejor con el rechazo explícito de Daniel/Melisa a "trip de solo playa".
+
+**Detalle de Tortuguero — Evergreen Lodge, 48 horas:**
+
+- **Acceso:** solo por combinación avión/lancha/barco hasta el lodge — no hay acceso en auto propio a Tortuguero.
+- **Día 1:** caminata de naturaleza (monos araña, monos aulladores, insectos) + de noche, tour de desove de tortugas marinas en la playa (tortuga verde poniendo huevos y nacimiento de crías, según temporada).
+- **Día 2:** tour en bote por los canales del parque (aves como anhingas y jacanas, iguanas, caimanes, y un oso hormiguero/tamandúa, especie poco común de ver); caminata a un cerro cercano con vista panorámica; visita al pueblo de Tortuguero.
+- **Día 3:** exploración de las instalaciones del lodge antes de volver hacia Guápiles.
+- **Evergreen Lodge:** cabañas independientes + habitaciones tipo hotel conectadas, varias áreas de bar con vista al río, muelle principal, piscina con forma de tortuga.
+
+**Otro dato de Tortuguero** (video en español, San José/Tortuguero/Río Celeste/Monteverde): acceso solo por lanchas por los canales; avistamiento de fauna + playa de anidación de tortuga verde; subida al Cerro Tortuguero.
+
+**⚠️ Pendiente crítico de esta variante:** verificar si la temporada de lluvias del Caribe realmente es inversa al resto del país y qué tan mojado estaría en marzo — condiciona directamente esta variante y cualquier paso por Cahuita/Puerto Viejo/Talamanca (ver sección de clima arriba).
+
+### Variante 4 — Isla Venado, Golfo de Nicoya (escapada corta, poco turística)
+
+No es un itinerario completo de 7-8 días como las otras 3 — es el dato de una **escapada corta (2-3 noches)** a una zona nueva y remota, que podría sumarse como tramo final o inicial de alguna de las otras variantes (relativamente cerca de Monteverde/Nicoya), o quedar como quinta opción aparte si pesa el perfil "poco turístico/comunitario".
+
+**Fuente:** video de Kike Arnaiz, "La Costa Rica que pocos turistas ven" — creador/fotógrafo que vive en Costa Rica, escapada de jueves a domingo con dos amigos.
+
+- **Isla Venado**, Golfo de Nicoya (Península de Nicoya): ~1.000 habitantes censados, muy tranquila, fuera de los circuitos turísticos convencionales — a diferencia de las 3 variantes principales.
+- **Acceso:** auto hasta Lepanto, cruce en ferry, navegación en bote hasta la isla — no es una ruta de auto de punta a punta.
+- **Alojamiento:** *Neotropical Cormoran*, emprendimiento familiar chico con vistas, recién abierto al público.
+- **Actividades:** tour en bote por los manglares (águilas pescadoras, garzas, aningas, un cocodrilo atrapado en una estructura de pesca de sardinas); restaurante comunitario flotante de una cooperativa local (mariscos frescos, sujeto a vedas de pesca); caminata matutina por bosque tropical seco (cactus, pitayas silvestres, termiteros gigantes, monos congo/aulladores en las copas) hasta **Playa Sosoy**, playa virgen prácticamente solitaria.
+- **Gastronomía local:** "la mamadita" — pianguas (molusco de manglar) servidas en su concha con limón y salsa Lizano, se comen succionando directamente de la concha.
+- **Clima marzo:** confirma bosque tropical seco en la Península de Nicoya — a fines de marzo (cierre del verano, antes de las lluvias) el paisaje se ve árido.
+- Pendiente de ubicar en el mapa respecto a las otras zonas y de precio (no lo da el video).
+
+### Variante 5 — Valle Central / Zona de los Santos / Pacífico Sur (café, vino, aves)
+
+Ruta completamente distinta a las otras 4 — no pasa por Arenal, Monteverde, Manuel Antonio (como destino principal) ni Corcovado/Tortuguero. Centrada en café/vino/aves de altura en vez de fauna tropical de tierras bajas o bosque nuboso.
+
+**Itinerario — 7 días (canal sin identificar):**
+
+- **Día 1 — Volcanes:** Volcán Poás (cráter activo) + La Paz Waterfall Gardens (jardín de mariposas + complejo de cascadas).
+- **Día 2 — Cartago e historia:** Cartago (primera capital del país), plaza mayor, ruinas de la parroquia; visita a una granja orgánica.
+- **Día 3 — Orosi, termas y café/cacao:** aguas termales naturales en Orosi; tour de café, cacao y vainilla con elaboración de chocolate propio.
+- **Día 4 — Pacífico Sur, aventura:** rafting en el Río Savegre; tiempo en los alrededores de Playa Dominical.
+- **Día 5 — Enoturismo y café en Copey (Zona de los Santos):** vinícola de altura en Copey (uvas cultivadas en altitud); cata de cafés premiados en **Don Caito**.
+- **Día 6 — Aves y Quetzal:** tour guiado de observación de aves en la Zona de los Santos, buscando específicamente el **Quetzal** (Costa Rica es destino mundial de birdwatching).
+- **Día 7 — Cierre en San José:** compras de artesanías, almuerzo de despedida con casado y cerveza Imperial.
+
+**Comentario suelto que originó esta variante:** alguien con conocimiento del país le recomendó a Daniel: *"la próxima vez que vengan, visiten el pacífico sur, y también la zona de los Santos, ahí se hace avistamiento de aves, y en especial el Quetzal, una de las aves más hermosas del mundo, aunque también se puede ver en la zona de Monteverde."*
+
+**Bajos del Toro** (hallazgo de la fuente Aline y Diego, 10 días): "joya escondida" cerca de Poás/Valle Central — Blue Falls + catarata Toro, poca gente, ideal para dron y caminatas. Podría encajar como parada intermedia de esta variante, dado que también arranca en Poás.
+
+---
+
+## Paradas y datos sueltos (no atados a una variante específica)
+
+- **Hacienda Alsacia:** finca de café de Starbucks, en la zona montañosa cerca de Alajuela — parada de camino desde San José/Alajuela hacia el norte (confirmada por 2 fuentes independientes de ruta Valle Central → La Fortuna).
+- **Fraijanes y Varablanca:** localidades de paso hacia el norte, conocidas por sus ventas de fresas al costado de la ruta.
+- **Catarata La Paz:** parada natural sobre la misma carretera, de camino a La Fortuna (además del complejo pago La Paz Waterfall Gardens de la variante 5).
+- **Hotel Los Lagos Spa & Resort:** opción de hospedaje en La Fortuna con vista al Arenal (alternativa a Miradas Arenal, ya usado en el itinerario de referencia).
+- **Volcán Arenal — dato histórico:** en erupción continua desde 1968 hasta 2010, hoy inactivo/dormido.
+- **Árbol de ceiba de 500 años:** parada en un ceibo gigante de gran valor espiritual/cultural, en la ruta Caribe-Pacífico.
+- **Ruta Caribe → Pacífico en 24-48h** (Geoff y Alexa): Puerto Viejo (Caribe Sur) → noche en La Fortuna con vista al Arenal → Playa del Coco (Pacífico Norte, Guanacaste). ~9h totales, partido en 2 días — confirma el contraste visual/geográfico marcado entre ambas costas.
+- **Bajos del Toro:** ver variante 5.
+- **@talamancanatureserve (Instagram):** reserva natural en la zona de Talamanca (Caribe Sur, cerca de Puerto Viejo/Cahuita) — sin detalle todavía, pendiente si se termina de perfilar una variante Caribe.
+- **Starbucks con vistas a cascadas:** ubicación no confirmada — posiblemente el Starbucks de La Paz Waterfall Gardens o alguno en las afueras de San José camino a Poás/Sarapiquí.
+- **San José capital:** paseo por Avenida Central, Mercado Central, Catedral Metropolitana. Caldosas (ceviche con tostadas de maíz), plátanos tostados, empanada de carne desmechada.
+- **Cahuita (Caribe Sur):** mapaches, perezosos, serpientes, caimanes (visitado con lluvia por la fuente Aline y Diego).
+- **Manuel Antonio — cuidado con las pertenencias:** playas con monos curiosos, aprendizaje de una fuente.
+- **Catarata La Fortuna — más concurrida de lo esperado** respecto a lo que muestran redes sociales (aprendizaje de Aline y Diego).
+
+---
+
+## Fuentes citadas (videos/canales)
+
+- **"El Mundo en Pareja"** — itinerario real de 7 días, Monteverde+Arenal+Manuel Antonio (base de la variante 1).
+- **Kike Arnaiz, "La Costa Rica que pocos turistas ven"** — Isla Venado, Golfo de Nicoya (variante 4).
+- **Fotógrafo profesional especializado en fauna** (paquete comercial) — Bahía Drake/Corcovado, 7 días (variante 2).
+- **Emma Terra, "Ultimate Costa Rica Travel Guide: Budget, Itinerary & Mistakes to Avoid"** — guía general de planificación, viajera con ~15 años yendo al país.
+- **Araya Vlogs** — Monteverde en detalle (fauna nocturna, santuario de perezosos, Selvatura).
+- **Canal sin identificar** — Valle Central, Orosi, Pacífico Sur, Zona de los Santos, 7 días (variante 5).
+- **Geoff y Alexa** — road trip Caribe → Pacífico en 24-48h.
+- **Evergreen Lodge** — Tortuguero en 48 horas (parte de la variante 3).
+- **Video en español** (canal sin identificar) — San José, Tortuguero, Río Celeste, Monteverde, datos de moneda y costo de vida.
+- **Aline y Diego** — 10 días sin planificación rígida (Cahuita, La Fortuna, Bajos del Toro, Manuel Antonio).
+- **Video de road trip Centro → Zona Norte, con timestamps** (canal sin identificar) — Alajuela, Hacienda Alsacia, Fraijanes/Varablanca, Catarata La Paz, La Fortuna.
+
+---
+
+## Pendiente / próximos pasos
+
+1. **Elegir variante final** (o combinación) entre las 5 — la más desarrollada y equilibrada sigue siendo la 1 (Monteverde+Arenal+Manuel Antonio), pero la 3 (Tortuguero) y la 5 (Zona de los Santos) están ganando peso con research reciente.
+2. **Verificar estacionalidad del Caribe** (lluvias invertidas) antes de confirmar cualquier tramo por Tortuguero/Cahuita/Puerto Viejo/Talamanca — condiciona directamente la variante 3.
+3. **Confirmar qué cubre el seguro del Adobe Rent a Car** (US$450/7 días) antes de reservar — alerta de que muchas tarjetas de crédito no cubren 4x4/pickup.
+4. **Armar itinerario día por día final** con la variante elegida, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
+5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — hoy es la variante con menos datos concretos de costo.
