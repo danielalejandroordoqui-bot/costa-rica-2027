@@ -89,6 +89,26 @@ Casi todas las opciones de ida salen de madrugada de EZE (00:52-02:08) y llegan 
 
 **Pendiente:** rebuscar con fecha de vuelta 28/03 (no 27/03) para ver si el patrón de horarios/precios se mantiene.
 
+### Detalle tramo por tramo — combo #1 (Avianca, US$680) vs. combo #5 (Copa, US$861)
+
+Confirmado con las capturas del desplegable (12/9/2026): entre estos dos puntuales, Avianca gana en todo — más barato, más rápido y llega casi 8h antes. **La opción #9 (Copa, US$953, llega 21:38) sigue sin desglose tramo por tramo — es una combinación distinta a la de acá abajo, no confundir.**
+
+**Avianca (AV693 + AV8395) — vía Bogotá — combo #1, US$680:**
+| Tramo | Vuelo | Salida | Llegada | Duración |
+|---|---|---|---|---|
+| SJO → BOG | AV693 | Aer. Juan Santamaría, San José — 01:50 | Aer. El Dorado Intl., Bogotá — 05:05 | 2h15min |
+| Escala en Bogotá (BOG) | — | — | — | **2h05min** |
+| BOG → EZE | AV8395 | El Dorado Intl., Bogotá — 07:10 | Aer. Ministro Pistarini, Bs.As. — 15:40 | 6h30min |
+
+**Copa Airlines (CM392 + CM167) — vía Ciudad de Panamá — combo #5, US$861:**
+| Tramo | Vuelo | Salida | Llegada | Duración |
+|---|---|---|---|---|
+| SJO → PTY | CM392 | Aer. Juan Santamaría, San José — 08:25 | Aer. Tocumen Intl., Panamá — 10:50 | 1h25min |
+| Escala en Panamá (PTY) | — | — | — | **3h22min** |
+| PTY → EZE | CM167 | Tocumen Intl., Panamá — 14:12 | Aer. Ministro Pistarini, Bs.As. — 23:23 | 7h11min |
+
+**Conclusión de Daniel (12/9/2026):** llegar a EZE a las 15:40 (Avianca) permite estar en casa alrededor de las 17h del domingo, con margen real para acomodarse antes de trabajar el lunes 29 — el combo #1 queda como la elección para la vuelta, salvo que se prefiera explícitamente evitar el tramo nocturno Manuel Antonio→SJO (en cuyo caso la alternativa sigue siendo la #9, Copa US$953, pendiente de desglose).
+
 ## Trámites, moneda y logística general
 
 - **Sin trámites especiales para argentinos** (confirmado por Daniel).
