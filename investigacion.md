@@ -223,27 +223,42 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 
 **Mapa del loop:** Google My Maps público, creado el 12/9/2026 — [Costa Rica - Itinerario A](https://www.google.com/maps/d/edit?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg). Embebido en `index.html` de este proyecto. Marca las 8 paradas + el aeropuerto, unidas con una línea recta (no es ruta real por camino, sirve para ver la forma del loop de un vistazo — confirmado con Daniel que así se mantiene).
 
-**Las 8 paradas, en orden:**
+**Las 8 paradas, en orden** *(orden corregido 12/9/2026 — ver nota de distancias más abajo: Hacienda Alsacia va ANTES de Poás, no después de La Paz Waterfall Gardens como se había puesto en un primer momento)*:
 1. Aeropuerto Juan Santamaría (SJO) — llegada, retiro del auto
-2. Volcán Poás (PN Volcán Poás)
-3. La Paz Waterfall Gardens
-4. Hacienda Alsacia (Starbucks) — tour cafetero
+2. Hacienda Alsacia (Starbucks) — tour cafetero, está en las faldas del propio Poás
+3. Volcán Poás (PN Volcán Poás)
+4. La Paz Waterfall Gardens
 5. La Fortuna / Volcán Arenal
 6. Monteverde / Santa Elena — **acá es donde está el santuario de perezosos documentado** (variante 1, fuente Araya Vlogs), no cerca de Poás como se pensó en un primer momento
 7. Puntarenas / Golfo de Nicoya — punto de partida si se suma Isla Venado (variante 4)
 8. Quepos / Manuel Antonio
 — cierre: vuelta a SJO, devolución del auto, vuelo de regreso
 
+**Distancias y tiempos de manejo entre paradas** (WebSearch 12/9/2026 — todos son tiempos sin tráfico ni paradas, referencia para armar días/hospedajes):
+
+| Tramo | Distancia | Tiempo estimado |
+|---|---|---|
+| Aeropuerto SJO → Hacienda Alsacia | ~15 km | ~45 min |
+| Hacienda Alsacia → Volcán Poás | están en la misma ladera | ~15-20 min |
+| Volcán Poás → La Paz Waterfall Gardens | — | ~20-30 min |
+| La Paz Waterfall Gardens → La Fortuna | — | ~2h (es el punto medio SJO-La Fortuna) |
+| La Fortuna → Monteverde | — | ~2h30-3h (caminos de montaña) |
+| Monteverde → Puntarenas | ~61-68 km | ~1h30 |
+| Puntarenas → Quepos/Manuel Antonio (Costanera Sur) | ~140 km | ~2h-2h45 (pasa por Jacó y Carara, ver sección "Qué le falta") |
+| Manuel Antonio → Aeropuerto SJO | ~156-177 km | ~3h-4h (hasta 6h con tráfico) |
+
+**Total de manejo puro del loop:** ~11h30-13h repartidas en 8-9 días — cómodo, ningún tramo individual supera las 3-4h.
+
 **Esqueleto de días** (9 días de calendario, ~8 netos descontando el tiempo de vuelos — ida y vuelta rondan las 10h cada tramo más horas de aeropuerto):
 
-- **Día 1:** llegada SJO, auto, Volcán Poás + La Paz Waterfall Gardens + Hacienda Alsacia (café) camino al norte. Noche en La Fortuna.
+- **Día 1:** llegada SJO, auto, Hacienda Alsacia (café) → Volcán Poás → La Paz Waterfall Gardens camino al norte. Noche en La Fortuna.
 - **Día 2-3:** La Fortuna (Arenal, termas, catarata, kayak Río Peñas Blancas, caminata nocturna).
 - **Día 4:** La Fortuna → Monteverde (ruta de montaña, ~2h30-3h).
 - **Día 5:** Monteverde (santuario de perezosos, bosque nuboso, Selvatura).
-- **Día 6:** Monteverde → golfo de Nicoya/Puntarenas.
-- **Día 7:** golfo → Quepos/Manuel Antonio (ruta costanera).
+- **Día 6:** Monteverde → golfo de Nicoya/Puntarenas (~1h30 de manejo, día liviano).
+- **Día 7:** golfo → Quepos/Manuel Antonio (ruta costanera, ~2h-2h45, con margen para parar en Jacó/Carara de camino).
 - **Día 8:** Manuel Antonio (Playa Espadilla, Playa Biesanz, PN).
-- **Día 9:** Manuel Antonio → SJO, devolución del auto, vuelo de regreso.
+- **Día 9:** Manuel Antonio → SJO (~3h-4h), devolución del auto, vuelo de regreso.
 
 **Dos puntos sin resolver todavía, ambos ya charlados con Daniel:**
 1. **El santuario de perezosos no está cerca de Poás** — está en Monteverde (día 5 de este esqueleto), no en el día 1 como se planteó en la idea original. Si existe otro santuario más cerca de San José/Alajuela, queda pendiente identificarlo.
