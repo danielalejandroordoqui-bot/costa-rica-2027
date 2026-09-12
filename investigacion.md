@@ -18,16 +18,58 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 - **Semana Santa en Costa Rica** es la fecha de mayor demanda turística INTERNA del propio país del año — afecta precio y ocupación (hoteles y parques más llenos y más caros que cualquier otra semana), no la viabilidad del viaje.
 - **Salvedad reconocida desde el principio:** no se puede hacer todo el país en 7-8 días netos (Tortuguero + Corcovado + Manuel Antonio + playa + ruta no entran todos juntos) — hay que elegir.
 
-## Vuelo BUE-San José (relevado sept. 2026)
+## Vuelo BUE-San José (capturas reales, Turismocity, 12/9/2026)
 
-Captura de motor de reserva aportada por Daniel:
+**⚠️ Nota sobre las fechas de búsqueda:** todas las capturas de abajo fueron buscadas para **sábado 20/03 → sábado 27/03/2027** (7 noches) — la ventana real del viaje es 20/03 → **domingo 28/03** (8 noches). Falta rebuscar con la fecha de vuelta correcta antes de reservar; los precios y horarios de acá sirven como referencia de rango, no como cotización final. Motor: Turismocity. 1 pasajero, clase económica, USD.
 
-- **Más barato:** US$658 (16h5m promedio, ruta más lenta, más escalas).
-- **Recomendado:** US$745 (10h45m promedio) — Avianca, ida EZE 16:50 → SJO 00:30+1 (10h40min, 1 escala), vuelta SJO 01:50 → EZE 15:40 (10h50min, 1 escala).
-- **Más rápido:** US$1.084 (10h0m promedio).
-- Otras opciones en el mismo rango: US$760 (GotoGate, Avianca ida + LATAM vuelta vía AEP), US$783 (Copa Airlines ambos tramos), US$831 (Avianca ambos tramos).
-- Generalmente con 1 escala, vía Panamá (Copa Airlines) o Bogotá/Lima (Avianca) — evitar rutas con 2 escalas, llegan a 22h+.
-- **Rango real de referencia: US$658-830** (reemplaza la estimación vieja de US$550-750, un poco más caro de lo que se pensaba).
+**Diferencia horaria:** Costa Rica está 3 horas detrás de Argentina (Argentina UTC-3, Costa Rica UTC-6). Por eso los vuelos de ida "ganan" horas de luz al llegar, y los de vuelta que salen después del mediodía costarricense terminan llegando recién al día siguiente en Argentina — ver el análisis de margen más abajo.
+
+**Equipaje:** según los íconos que muestra Turismocity en estas tarifas, todas incluyen personal item (mochila/bolso) + equipaje de mano (carry-on) — sin valija despachada. Coincide con cómo viajan habitualmente Daniel y Melisa. A confirmar el detalle exacto (peso/medidas permitidas) al momento de reservar — puede variar según la tarifa específica dentro de cada aerolínea.
+
+### Tramos de IDA (EZE → SJO) — todos con 1 escala
+
+| Aerolínea | Sale EZE | Llega SJO | Duración |
+|---|---|---|---|
+| Avianca | 01:40 | 08:50 | 10h10min |
+| Copa Airlines | 00:52 | 08:16 | 10h24min |
+| Copa Airlines | 02:08 | 10:00 | 10h52min |
+| Copa Airlines | 00:52 | 10:00 | 12h08min |
+
+Casi todas las opciones de ida salen de madrugada de EZE (00:52-02:08) y llegan a SJO a media mañana (08:16-10:00) — ese es el patrón dominante en esta ruta, no una excepción. Encaja bien con el horario laboral de Daniel/Melisa (salen del trabajo el viernes 19 a las 17h, viajan esa noche).
+
+### Tramos de VUELTA (SJO → EZE) — todos con 1 escala
+
+| Aerolínea | Sale SJO | Llega EZE | Duración | Llega... |
+|---|---|---|---|---|
+| Avianca | 01:50 | 15:40 | 10h50min | mismo día |
+| Copa Airlines | 08:25 | 21:38 | 10h13min | mismo día |
+| Copa Airlines | 08:25 | 23:23 | 11h58min | mismo día (tarde) |
+| Avianca | 17:15 | 06:05 (+1) | 9h50min | día siguiente |
+| LATAM | 13:40 | 03:00 (+1) | 10h20min | día siguiente |
+| Avianca | 09:30 | 00:30 (+1) | 12h00min | día siguiente (recién pasada la medianoche) |
+| Copa Airlines | 08:25 | 00:28 (+1) | 13h03min | día siguiente |
+| Copa Airlines | 19:15 | 07:40 (+1) | 9h25min | día siguiente |
+
+**Por qué importa el "+1":** Daniel y Melisa trabajan el lunes 29/3 a la mañana. Un regreso que llega "día siguiente" en Argentina significa aterrizar la madrugada del lunes, sin margen de descanso antes de ir a trabajar. Los que llegan "mismo día" (domingo 28) dejan la noche libre para descansar.
+
+### Combos completos con precio, tal como los arma el buscador
+
+| # | Ida | Vuelta | Aerolínea | Precio total | Nota |
+|---|---|---|---|---|---|
+| 1 | Avianca 01:40→08:50 | Avianca 01:50→15:40 | Avianca | **US$680** | 🟢 Mejor margen antes del lunes — llega domingo 15:40 |
+| 2 | Avianca 01:40→08:50 | Avianca 09:30→00:30+1 | Avianca | US$680 | Mismo precio que #1 pero llega lunes — sin ventaja sobre #1 |
+| 3 | Avianca 01:40→08:50 | Avianca 17:15→06:05+1 | Avianca | US$731 | Llega lunes 06:05, casi sin margen |
+| 4 | Avianca 01:40→08:50 | LATAM 13:40→03:00+1 | Avianca + LATAM | US$818 | Llega lunes 03:00 |
+| 5 | Copa 00:52→08:16 | Copa 08:25→23:23 | Copa | US$861 | 🟡 Mismo día (domingo) pero tarde |
+| 6 | Copa 02:08→10:00 | Copa 08:25→23:23 | Copa | US$861 | Igual que #5, ida más tarde |
+| 7 | Copa 00:52→08:16 | Copa 08:25→00:28+1 | Copa | US$861 | 🔴 Evitar — mismo precio que #5 pero llega peor (lunes) |
+| 8 | Copa 02:08→10:00 | Copa 08:25→00:28+1 | Copa | US$861 | 🔴 Evitar, mismo motivo que #7 |
+| 9 | Copa 00:52→08:16 | Copa 08:25→21:38 | Copa | US$953 | 🟡 Mismo día, llega más temprano que #5/#6 |
+| 10 | Copa 00:52→08:16 | Copa 19:15→07:40+1 | Copa | US$953 | Quedan 2 asientos — llega lunes 07:40, prácticamente sin margen |
+
+**Lectura rápida:** para maximizar el margen de descanso antes del lunes 29, la opción **#1 (US$680, Avianca ambos tramos)** es la más barata Y la que mejor llega — no hay que pagar de más para tener mejor horario en este caso puntual. Si se prefiere no salir de Costa Rica de madrugada (evitar el tramo nocturno Manuel Antonio→SJO), la opción **#9 (US$953, Copa)** es la alternativa que mejor concilia ambas cosas, a mayor precio. Las opciones #2, #7 y #8 no tienen sentido frente a sus alternativas al mismo precio — quedan documentadas para no repetir el análisis, no para elegirlas.
+
+**Pendiente:** rebuscar con fecha de vuelta 28/03 (no 27/03) para ver si el patrón de horarios/precios se mantiene.
 
 ## Trámites, moneda y logística general
 
