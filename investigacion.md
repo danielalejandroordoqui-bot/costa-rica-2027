@@ -20,20 +20,24 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 
 ## Vuelo BUE-San José (capturas reales, Turismocity, 12/9/2026)
 
-## ✅ COMBO FINAL ELEGIDO — Avianca, ida y vuelta, US$680
+## ✅ VUELO CERRADO — Avianca, ida y vuelta (12/9/2026)
 
-Confirmado con las fechas reales del viaje (ida sábado 20/03, vuelta domingo 28/03) y precio verificado en una sola búsqueda — este es el que se reserva:
+Confirmado con las fechas reales del viaje (ida sábado 20/03, vuelta domingo 28/03), precio verificado en dos motores distintos — este es el que se reserva:
 
 | Tramo | Vuelos | Horario | Vía | Duración total |
 |---|---|---|---|---|
 | **Ida** (sáb 20/3) | AV218 + AV696 | EZE 01:40 → SJO 08:50 | Bogotá (escala 1h10min) | 10h10min |
 | **Vuelta** (dom 28/3) | AV691 + AV8395 | SJO 01:40 → EZE 15:40 | Bogotá (escala 2h25min) | 11h00min |
 
-**Precio total: US$680**, Avianca ambos tramos, 1 pasajero, económica. Equipaje: personal item + carry-on incluidos, sin valija despachada.
+**Precio:**
+- Turismocity (agregador): US$680 total.
+- **Directo en avianca.com (ensayo real sin compra, 12/9/2026): US$658,16 total** — US$377,23 ida + US$280,93 vuelta, todos los impuestos incluidos. Más barato que el agregador — conviene reservar directo.
+- Tarifa: **Light**. Incluye el servicio estándar de Economy (mismo asiento, cabina y servicio a bordo que cualquier tarifa superior — Avianca es aerolínea de línea completa, no low-cost, fundada en 1919, aerolínea de bandera de Colombia). Lo que NO incluye la Light: selección de asiento con anticipación (se asigna en el check-in) y cambios de itinerario sin cargo — la tarifa no admite reembolsos y los cambios tienen costo adicional. Upsell a Classic (más equipaje + selección de asiento) cotizado en +US$62,10 (ida) y +US$64,20 (vuelta) por pasajero, por si se quiere evaluar antes de reservar en firme, sobre todo tratándose de una fecha fija en Semana Santa.
+- **Equipaje:** personal item + carry-on incluidos, sin valija despachada — coincide con cómo viajan Daniel y Melisa.
 
-**Por qué se eligió esta y no las alternativas de salida sábado 27 (Copa/Avianca/LATAM con llegada domingo temprano):** con la restricción de no manejar de noche, la AV691 no depende de un horario límite el sábado — se puede salir de Manuel Antonio en cualquier momento de luz del día, manejar tranquilos hasta San José, devolver el auto y esperar sin presión hasta el vuelo de la 01:40. Las alternativas que salen el sábado a la tarde/noche si exigen cumplir un horario de check-in puntual ese mismo día, un riesgo innecesario. Ver el desarrollo completo de esta discusión más abajo, en la sección de detalle tramo por tramo.
+**Por qué se eligió esta y no las alternativas de salida sábado 27 (Copa/Avianca/LATAM con llegada domingo temprano):** con la restricción de no manejar de noche, la AV691 no depende de un horario límite el sábado — se puede salir de Manuel Antonio en cualquier momento de luz del día, manejar tranquilos hasta San José, devolver el auto y esperar sin presión hasta el vuelo de la 01:40. Las alternativas que salen el sábado a la tarde/noche sí exigen cumplir un horario de check-in puntual ese mismo día, un riesgo innecesario. Ver el desarrollo completo de esta discusión más abajo, en la sección de detalle tramo por tramo.
 
-**Nota histórica sobre las fechas de búsqueda:** buena parte del research de abajo (tablas de tramos sueltos, comparación Avianca vs. Copa, alternativas de salida sábado) se hizo primero con una fecha de prueba (vuelta 27/03 en vez de 28/03) para entender el patrón de la ruta antes de tener la fecha exacta — quedó documentado igual porque el patrón se mantuvo al rebuscar con la fecha real. Motor: Turismocity. 1 pasajero, clase económica, USD.
+**Nota histórica sobre las fechas de búsqueda:** buena parte del research de abajo (tablas de tramos sueltos, comparación Avianca vs. Copa, alternativas de salida sábado) se hizo primero con una fecha de prueba (vuelta 27/03 en vez de 28/03) para entender el patrón de la ruta antes de tener la fecha exacta — quedó documentado igual porque el patrón se mantuvo al rebuscar con la fecha real. Motor: Turismocity + sitio directo de Avianca. 1 pasajero, clase económica, USD.
 
 **Diferencia horaria:** Costa Rica está 3 horas detrás de Argentina (Argentina UTC-3, Costa Rica UTC-6). Por eso los vuelos de ida "ganan" horas de luz al llegar, y los de vuelta que salen después del mediodía costarricense terminan llegando recién al día siguiente en Argentina — ver el análisis de margen más abajo.
 
