@@ -350,6 +350,51 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 Las 4 zonas con noche ya tienen cotización real (La Fortuna, Monteverde, Puntarenas, Manuel Antonio) — falta decidir entre las opciones de cada zona, no buscar más referencias.
 
+## Entradas y actividades — precios reales (cotización WebSearch, 13/9/2026)
+
+Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya confirmados (Poás y Manuel Antonio). Precios por adulto extranjero, en USD, salvo que se aclare lo contrario — **no incluyen comida**.
+
+| Zona | Atracción | Precio adulto | Nota |
+|---|---|---|---|
+| Ruta día 1 | Hacienda Alsacia (tour cafetero Starbucks) | **US$35** | Turista (residente US$25). Incluye vivero, beneficio húmedo, patio de secado y tostadora. |
+| Ruta día 1 | Volcán Poás (PN, SINAC) | **US$15,00** | ✅ Ya confirmado (ver sección Auto/Logística arriba). |
+| Ruta día 1 | La Paz Waterfall Gardens | **US$56** | Día completo 8am-2pm, 5 cascadas + mariposario + sendero de bosque nuboso/lluvioso. |
+| La Fortuna | Catarata La Fortuna | **US$18** | Extranjero (residente US$9, niños <8 gratis). No incluye entrada al PN Volcán Arenal, es independiente. |
+| La Fortuna | Termas — Eco Termales Fortuna (solo entrada) | **~US$48,60** | US$43 + 13% impuesto. Con comida: US$67+imp ≈ US$75,71. Pase día (10am-4pm) o noche (5-10pm). |
+| La Fortuna | Kayak Río Peñas Blancas (Safari Float) | **~US$65** | Tour completo: transporte, guía naturalista, kayak, salvavidas, snack. 3-5hs. |
+| La Fortuna | Caminata nocturna (night walk) | **~US$40-50** | 2hs guiadas, guía certificado ICT, fauna nocturna (ranas, insectos, reptiles). |
+| Monteverde | Reserva Bosque Nuboso Monteverde (la original, con puente Wilford — la que ya estaba en el itinerario) | **US$25** | Es la reserva histórica/más famosa, distinta de Santa Elena. |
+| Monteverde | Reserva Santa Elena (alternativa más barata) | US$21 | Menos concurrida que la de Monteverde, misma idea de bosque nuboso. |
+| Monteverde | Selvatura Park — puentes colgantes (self-guided) | **US$49** | 8 puentes, 3km, 1,5-2hs. Guiado sale US$61. |
+| Monteverde | Selvatura Park — santuario de perezosos | **US$40** | ⚠️ Ojo: hay combos (Gold Pack US$116,10 con canopy, Platinum US$152,10 con todo) — este es el precio standalone, sin canopy/zip-line. |
+| Manuel Antonio | PN Manuel Antonio (SINAC) | **US$16,00** | ✅ Ya confirmado (ver sección 02/Auto arriba). |
+| Golfo de Nicoya | Isla Venado — panga colectiva Puntarenas↔Isla Venado | **~US$11** (₡5.000, dólar a ₡450, 13/9/2026) | Solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am — sin horario flexible. Sigue sin resolver si entra en el Itinerario A (necesita 2-3 noches propias, no 1 sola noche en Puntarenas). Tarifa "de referencia", confirmar antes de viajar — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados. |
+
+**Total si se hacen TODAS las actividades opcionales de la tabla** (sin Isla Venado, que no entra en el esqueleto actual): US$35+15+56+18+48,60+65+45(punto medio 40-50)+25+49+40+16 = **~US$412,60 por persona**. Es un techo poco realista de hacer todo junto (sobre todo el combo catarata+termas+kayak+noct. en 2 días de La Fortuna) — sirve como referencia máxima, no como plan cerrado.
+
+**Piso (solo lo que ya está confirmado y forma parte fija de la ruta — los 2 parques SINAC):** Poás US$15 + Manuel Antonio US$16 = **US$31 por persona**.
+
+Fuentes: [GetYourGuide — Hacienda Alsacia](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/) · [GetYourGuide — La Paz Waterfall Gardens](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/) · [Viajeros Callejeros — Catarata La Fortuna](https://www.viajeroscallejeros.com/catarata-la-fortuna-precios-horarios-como-ir/) · [Eco Termales Fortuna — sitio oficial](https://ecotermalesfortuna.cr/en/home/) · [Viator — Kayak Río Peñas Blancas](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11) · [MyTanFeet — La Fortuna Night Walk](https://mytanfeet.com/activities/la-fortuna-night-walk-arenal/) · [Reserva Santa Elena — sitio oficial](https://reservasantaelena.org/index.php/reservaciones/) · [Selvatura — Hanging Bridges](https://www.twoweeksincostarica.com/product/selvatura-hanging-bridges-self-guided/) · [Selvatura — Sloth Habitat](https://www.selvatura.com/tours/the-sloth-sanctuary/) · [Isla Venado — Transportes](https://www.isla-venado.com/) · [dineroeneltiempo.com — USD/CRC histórico](https://www.dineroeneltiempo.com/divisas/usd-crc/historico/2026)
+
+## Presupuesto real calculado por persona (13/9/2026)
+
+Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por persona, **mitad** del auto y **mitad** de todos los hospedajes (se dividen 50/50 con Melisa), más entradas (esas sí, completas por persona, no se dividen). **No incluye comida ni souvenirs**, tal como pidió Daniel.
+
+Como el auto (2WD vs. 4x4), el hospedaje (varias referencias por zona) y cuántas actividades pagas se hacen siguen sin decisión cerrada, se arma un **piso** (todo lo más barato + solo entradas obligatorias) y un **techo** (todo lo más caro + todas las actividades opcionales de la tabla de arriba):
+
+| Ítem | Piso (mínimo) | Techo (máximo) |
+|---|---|---|
+| Vuelo BUE-SJO ida y vuelta (por persona, ✅ cerrado) | US$658,16 | US$658,16 |
+| Auto de alquiler, mitad (2WD US$598,64 ÷2 / 4x4 US$806,40 ÷2) | US$299,32 | US$403,20 |
+| Hospedaje, mitad de las 4 zonas (opción más barata / más cara de cada una) | US$272,50 | US$339,00 |
+| Entradas y actividades (solo Poás+MA / todas las de la tabla) | US$31,00 | US$412,60 |
+| **TOTAL por persona** | **≈ US$1.261** | **≈ US$1.813** |
+
+**Detalle del piso de hospedaje** (mitad de: Tucan Container US$183 + ECO RIVER DOME US$230 + VALU Puntarenas US$67 + Pura Natura Lodge US$65 = US$545 ÷2).
+**Detalle del techo de hospedaje** (mitad de: Arenal Sweet Bee Cabins US$275 + Camino Verde B&B US$240 + Hotel Mar y Mar US$88 + Deluxe Suite Quepos US$75 = US$678 ÷2).
+
+**Lectura:** el vuelo y el auto ya están bastante acotados (el auto no varía más de ~US$104/persona entre 2WD y 4x4). Lo que más mueve el número final es cuántas actividades pagas se sumen en La Fortuna y Monteverde — ahí es donde conviene decidir un recorte real en vez de "hacer todo". Un número intermedio razonable (auto 2WD, hospedaje mitad de camino, 3-4 actividades elegidas en vez de todas) rondaría los **US$1.400-1.500 por persona**.
+
 ## Presupuesto de referencia (Emma Terra, gama media)
 
 **~US$1.000/persona/semana, sin vuelo internacional:**
