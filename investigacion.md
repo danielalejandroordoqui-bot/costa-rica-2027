@@ -393,6 +393,22 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 
 Fuentes: [SINAC — Parque Nacional Manuel Antonio](https://www.sinac.go.cr/es/ac/acopac/pnma/paginas/default.aspx) · [SINAC — ficha oficial del parque (PDF)](https://www.sinac.go.cr/ES/turismo/Brochure%20ICT/Parque%20Nacional%20Manuel%20Antonio.pdf)
 
+**Cómo funciona la reserva — entrada por franjas horarias (captura real del calendario de disponibilidad de SINAC, fecha 27/03/2027, 12/9/2026):**
+
+| Grupo | Franja de entrada | Disponibles |
+|---|---|---|
+| **Grupo 01** | **07:00am - 07:40am** | 450 |
+| Grupo 02 | 08:00am - 08:40am | 450 |
+| Grupo 03 | 09:00am - 09:40am | 450 |
+| Grupo 04 | 10:00am - 10:40am | 450 |
+| Grupo 05 | 11:00am - 11:40am | 400 |
+| Grupo 06 | 12:00pm - 12:40pm | 200 |
+| Grupo 07 | 01:00pm - 02:30pm | 101 |
+
+*(El sitio también mostraba una fila "Grupo 01: 07:00am-02:30pm, 2500 disponibles" — no queda claro si es una categoría de entrada distinta (tour guiado, residente, etc.) o un total agregado del día; a confirmar al momento de reservar.)*
+
+**Recomendación: reservar el Grupo 01 (07:00-07:40am).** No es solo por llegar temprano en sí — al entrar con la primera franja se aprovecha el día completo hasta la hora límite de salida (3pm), que es el máximo posible. Además la fauna suele estar más activa antes del calor del mediodía, hay menos gente, y se evitan mejor las lluvias de tarde típicas de la costa Pacífica en esta época del año. Las franjas más tardías (Grupo 06 y 07) además tienen mucha menos disponibilidad (200 y 101 contra 450 de las primeras) — otra razón para no dejarlo para último momento al reservar.
+
 **Un punto sin resolver todavía:**
 1. **Puntarenas/golfo de Nicoya es el tramo menos resuelto:** si el plan es solo bordear la costa del golfo sin cruzar, el día 6-7 es liviano. Si se suma Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote), esa parada necesita 2-3 noches propias según la fuente original (Kike Arnaiz) — con el esqueleto de 9 días de arriba no entra sin sacrificar una noche de otro lado. Sigue sin datos de tiempo/precio del cruce (ver pendiente #5 más abajo).
 
