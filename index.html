@@ -213,6 +213,33 @@
   .info-card li b{ color:var(--ink); font-weight:600; }
   .info-card p{ margin:0; font-size:13.5px; color:var(--ink-dim); }
 
+  /* ---------- FLIGHT CARD ---------- */
+  .flight-card{ background:var(--panel); border:1px solid var(--hairline); padding:18px 20px; margin-bottom:16px; }
+  .flight-card-head{ display:flex; align-items:center; gap:10px; margin-bottom:16px; }
+  .flight-badge{ font-family:'Space Mono',monospace; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--green); border:1px solid rgba(95,211,141,.35); background:rgba(95,211,141,.08); padding:4px 9px; }
+  .flight-card-head b{ font-size:14px; color:var(--ink); }
+  .flight-leg{ margin-bottom:18px; }
+  .flight-leg:last-of-type{ margin-bottom:0; }
+  .flight-leg-label{ font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:10px; }
+  .flight-route{ display:flex; align-items:center; gap:4px; }
+  .flight-point{ text-align:center; flex-shrink:0; }
+  .flight-code{ display:block; font-family:'Space Mono',monospace; font-size:20px; font-weight:700; color:var(--ink); }
+  .flight-time{ display:block; font-family:'Space Mono',monospace; font-size:12.5px; color:var(--ink-dim); margin-top:2px; }
+  .flight-path{ flex:1; position:relative; height:1px; background:var(--hairline); margin:0 8px; min-width:40px; }
+  .flight-path .flight-stop{ position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:var(--panel); padding:0 10px; font-family:'Space Mono',monospace; font-size:10px; color:var(--ink-faint); white-space:nowrap; }
+  .flight-meta{ font-size:12px; color:var(--ink-faint); margin-top:10px; font-family:'Space Mono',monospace; }
+  .flight-footer{ border-top:1px solid var(--hairline); margin-top:18px; padding-top:16px; }
+  .flight-price{ font-family:'Space Mono',monospace; font-size:22px; font-weight:700; color:var(--amber); }
+  .flight-note{ font-size:12.5px; color:var(--ink-dim); }
+  .chip-row{ display:flex; flex-wrap:wrap; gap:6px; margin-top:12px; }
+  .chip{ font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.03em; color:var(--ink-dim); border:1px solid var(--hairline); padding:3px 9px; background:var(--panel-2); }
+
+  .compare-table{ width:100%; border-collapse:collapse; font-size:13px; }
+  .compare-table th{ text-align:left; padding:6px 10px 8px 0; font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.05em; text-transform:uppercase; color:var(--ink-faint); border-bottom:1px solid var(--hairline); }
+  .compare-table td{ padding:8px 10px 8px 0; border-bottom:1px solid var(--hairline); color:var(--ink-dim); vertical-align:top; }
+  .compare-table td:first-child{ color:var(--ink); font-weight:600; white-space:nowrap; }
+  .compare-table tr:last-child td{ border-bottom:none; }
+
   .loose-list{ background:var(--panel); border:1px solid var(--hairline); padding:16px 18px; }
   .loose-list ul{ margin:0; padding-left:16px; font-size:13.5px; color:var(--ink-dim); columns:1; }
   .loose-list li{ margin-bottom:9px; }
@@ -324,12 +351,6 @@
       <div class="day"><span class="dow">Dom</span><span class="num">28</span><span class="tag">Finde</span></div>
     </div>
 
-    <div class="board-decided">
-      <span class="ico">✓</span>
-      <span><b>Costa Rica fue el destino elegido</b> para esta ventana (12/9/2026), tras comparar 14 destinos en el proyecto <code>proyectos de viaje</code>. Ese comparador sigue vivo para otros destinos y otros viajes futuros — este proyecto es solo Costa Rica, de acá en más. Falta cerrar cuál de las 5 variantes/zonas de abajo (o combinación) arma el itinerario final.</span>
-    </div>
-
-
     <div class="photo-strip">
       <figure><img src="img/costarica.jpg" alt="Volcán Arenal, Costa Rica" loading="lazy"><figcaption>Volcán Arenal</figcaption></figure>
       <figure><img src="img/costarica-perezoso.jpg" alt="Perezoso de dos dedos en Costa Rica" loading="lazy"><figcaption>Perezoso</figcaption></figure>
@@ -407,24 +428,14 @@
           <a class="cta-btn" href="https://serviciosenlinea.sinac.go.cr/" target="_blank" rel="noopener">🎟 Comprar entradas — serviciosenlinea.sinac.go.cr</a>
           <p style="font-size:11px; color:var(--ink-faint); margin:10px 0 16px;">Fuentes: <a href="https://www.sinac.go.cr/es/ac/acopac/pnma/paginas/default.aspx" target="_blank" rel="noopener">SINAC — Parque Nacional Manuel Antonio</a> · <a href="https://www.sinac.go.cr/ES/turismo/Brochure%20ICT/Parque%20Nacional%20Manuel%20Antonio.pdf" target="_blank" rel="noopener">Ficha oficial (PDF)</a></p>
 
-          <p style="margin:0 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Franjas de entrada — captura real, fecha 27/03/2027</p>
-          <div style="overflow-x:auto;">
-          <table style="width:100%; border-collapse:collapse; font-size:13px;">
-            <tr style="border-bottom:1px solid var(--hairline);"><th style="text-align:left; padding:6px 8px 6px 0; color:var(--ink-faint); font-weight:600;">Grupo</th><th style="text-align:left; padding:6px 8px; color:var(--ink-faint); font-weight:600;">Franja de entrada</th><th style="text-align:left; padding:6px 8px; color:var(--ink-faint); font-weight:600;">Disponibles</th></tr>
-            <tr style="border-bottom:1px solid var(--hairline); background:rgba(95,211,141,.08);"><td style="padding:6px 8px 6px 0; color:var(--ink); font-weight:600;">Grupo 01 ✓</td><td style="padding:6px 8px; color:var(--ink); font-weight:600;">07:00am - 07:40am</td><td style="padding:6px 8px; color:var(--green);">450</td></tr>
-            <tr style="border-bottom:1px solid var(--hairline);"><td style="padding:6px 8px 6px 0; color:var(--ink-dim);">Grupo 02</td><td style="padding:6px 8px; color:var(--ink-dim);">08:00am - 08:40am</td><td style="padding:6px 8px; color:var(--ink-dim);">450</td></tr>
-            <tr style="border-bottom:1px solid var(--hairline);"><td style="padding:6px 8px 6px 0; color:var(--ink-dim);">Grupo 03</td><td style="padding:6px 8px; color:var(--ink-dim);">09:00am - 09:40am</td><td style="padding:6px 8px; color:var(--ink-dim);">450</td></tr>
-            <tr style="border-bottom:1px solid var(--hairline);"><td style="padding:6px 8px 6px 0; color:var(--ink-dim);">Grupo 04</td><td style="padding:6px 8px; color:var(--ink-dim);">10:00am - 10:40am</td><td style="padding:6px 8px; color:var(--ink-dim);">450</td></tr>
-            <tr style="border-bottom:1px solid var(--hairline);"><td style="padding:6px 8px 6px 0; color:var(--ink-dim);">Grupo 05</td><td style="padding:6px 8px; color:var(--ink-dim);">11:00am - 11:40am</td><td style="padding:6px 8px; color:var(--ink-dim);">400</td></tr>
-            <tr style="border-bottom:1px solid var(--hairline);"><td style="padding:6px 8px 6px 0; color:var(--ink-dim);">Grupo 06</td><td style="padding:6px 8px; color:var(--ink-dim);">12:00pm - 12:40pm</td><td style="padding:6px 8px; color:var(--amber);">200</td></tr>
-            <tr><td style="padding:6px 8px 6px 0; color:var(--ink-dim);">Grupo 07</td><td style="padding:6px 8px; color:var(--ink-dim);">01:00pm - 02:30pm</td><td style="padding:6px 8px; color:var(--danger);">101</td></tr>
-          </table>
-          </div>
-          <p style="margin:10px 0 0; font-size:13px; color:var(--ink-dim);"><b>Recomendación: reservar el Grupo 01 (07:00-07:40am).</b> Entrando con la primera franja se aprovecha el día completo hasta la hora límite (3pm) — el máximo posible. La fauna suele estar más activa antes del calor del mediodía, hay menos gente, y se evitan mejor las lluvias de tarde típicas de la costa Pacífica en esta época. Las franjas tardías (Grupo 06 y 07) además tienen mucha menos disponibilidad — otra razón para reservar temprano.</p>
+          <p style="margin:0 0 8px; font-size:13.5px; color:var(--ink-dim);"><b>Qué significa la franja horaria:</b> es la ventana de <i>entrada</i>, no de salida — marca cuándo presentarte (tolerancia ~15min antes / ~30min después), pero una vez adentro te quedás hasta el cierre del parque, no hasta que termine la franja. Sirve para escalonar el ingreso, no para limitar la visita.</p>
+          <p style="margin:0 0 8px; font-size:13.5px; color:var(--ink-dim);"><b>Reservar la primera franja (07:00-07:40am).</b> Así se aprovecha el día completo hasta el cierre (3pm) y la fauna está más activa antes del calor del mediodía (perezosos y monos se activan al amanecer y bajan actividad al mediodía) — además hay menos gente y menos lluvia de tarde. Las franjas tardías del día tienen mucha menos disponibilidad, otra razón para no dejar la reserva para último momento.</p>
+          <p style="margin:0; font-size:13.5px; color:var(--ink-dim);"><b>Con cuánta anticipación reservar:</b> el sistema de SINAC habilita las fechas ~30-60 días antes del viaje. En temporada seca (dic-abril) y Semana Santa — superpuesta con este viaje — los cupos de fin de semana se agotan 2-3 semanas antes de esa ventana. <b>Plan: empezar a intentar reservar a partir de mediados/fines de enero 2027.</b></p>
         </div>
         <div class="v-section">
           <h4>⏳ Otros parques del itinerario también cobran entrada (SINAC)</h4>
-          <p style="font-size:13.5px; color:var(--ink-dim); margin:0;">Daniel se registró en <code>serviciosenlinea.sinac.go.cr</code> y confirmó que <b>Volcán Poás también es de pago</b> — Admisión Extranjeros, Adulto(a) No Residente: <b>US$15,00</b>. Todavía no se puede reservar esa fecha (marzo 2027) — el sistema devuelve "período no disponible", esperable a ~6 meses de anticipación. <b>Pendiente: volver a entrar más cerca de la fecha del viaje</b> para reservar Poás y confirmar el resto de las entradas. Los sitios privados del itinerario (La Paz Waterfall Gardens, Selvatura, Catarata La Fortuna, Hacienda Alsacia) NO pasan por SINAC — venta aparte, por su cuenta.</p>
+          <p style="font-size:13.5px; color:var(--ink-dim); margin:0 0 8px;">Daniel se registró en <code>serviciosenlinea.sinac.go.cr</code> y confirmó que <b>Volcán Poás también es de pago</b> — Admisión Extranjeros, Adulto(a) No Residente: <b>US$15,00</b>. Todavía no se puede reservar esa fecha (marzo 2027) — el sistema devuelve "período no disponible", esperable a ~6 meses de anticipación. <b>Pendiente: volver a entrar más cerca de la fecha del viaje</b> (mediados/fines de enero 2027) para reservar Poás y confirmar el resto de las entradas. Los sitios privados del itinerario (La Paz Waterfall Gardens, Selvatura, Catarata La Fortuna, Hacienda Alsacia) NO pasan por SINAC — venta aparte, por su cuenta.</p>
+          <p style="font-size:13.5px; color:var(--ink-dim); margin:0;"><b>En Poás también conviene la primera franja, pero por otro motivo:</b> no es la fauna sino el clima — el cráter se tapa de nubes después de ~10:30am, así que cuanto más temprano, más chance de verlo despejado.</p>
         </div>
         <p class="v-note"><b>Un punto sin resolver:</b> el tramo del golfo de Nicoya es el menos resuelto — si es solo costa, el día 6-7 es liviano; si se suma Isla Venado en sí (auto a Lepanto + ferry + bote), esa parada necesita 2-3 noches propias y no entra sin sacar días de otro lado. Sin datos de tiempo/precio del cruce todavía.</p>
       </div>
@@ -496,24 +507,57 @@
   <div class="section" id="vuelos" style="--accent:var(--info);">
     <div class="section-head"><span class="num mono">02</span><h2>Vuelos BUE-San José</h2></div>
 
-    <div class="board-decided" style="margin-bottom:16px;">
-      <span class="ico">✓</span>
-      <span><b>VUELO CERRADO — Avianca ida y vuelta.</b> Ida sáb 20/3: AV218+AV696, EZE 01:40→SJO 08:50 vía Bogotá (escala 1h10, duración total 10h10). Vuelta dom 28/3: AV691+AV8395, SJO 01:40→EZE 15:40 vía Bogotá (escala 2h25, duración total 11h00).<br><b>Precio: US$658,16 directo en avianca.com</b> (ensayo real 12/9/2026, sin compra) — más barato que Turismocity (US$680). Tarifa <b>Light</b> (Economy sin selección de asiento ni cambios/reembolsos gratis). Equipaje: personal item + carry-on, sin valija despachada.</span>
+    <div class="flight-card">
+      <div class="flight-card-head">
+        <span class="flight-badge">✓ Cerrado</span>
+        <b>Avianca, ida y vuelta — US$658,16</b>
+      </div>
+
+      <div class="flight-leg">
+        <p class="flight-leg-label">Ida · sáb 20/3 · AV218 + AV696</p>
+        <div class="flight-route">
+          <div class="flight-point"><span class="flight-code">EZE</span><span class="flight-time">01:40</span></div>
+          <div class="flight-path"><span class="flight-stop">✈ BOG · escala 1h10</span></div>
+          <div class="flight-point"><span class="flight-code">SJO</span><span class="flight-time">08:50</span></div>
+        </div>
+        <p class="flight-meta">Duración total 10h10</p>
+      </div>
+
+      <div class="flight-leg">
+        <p class="flight-leg-label">Vuelta · dom 28/3 · AV691 + AV8395</p>
+        <div class="flight-route">
+          <div class="flight-point"><span class="flight-code">SJO</span><span class="flight-time">01:40</span></div>
+          <div class="flight-path"><span class="flight-stop">✈ BOG · escala 2h25</span></div>
+          <div class="flight-point"><span class="flight-code">EZE</span><span class="flight-time">15:40</span></div>
+        </div>
+        <p class="flight-meta">Duración total 11h00</p>
+      </div>
+
+      <div class="flight-footer">
+        <span class="flight-price">US$658,16</span> <span class="flight-note">directo en avianca.com (ensayo real 12/9/2026, sin compra) — más barato que Turismocity (US$680)</span>
+        <div class="chip-row">
+          <span class="chip">Tarifa Light</span>
+          <span class="chip">Economy</span>
+          <span class="chip">Sin selección de asiento</span>
+          <span class="chip">Sin cambios/reembolsos gratis</span>
+          <span class="chip">Personal item + carry-on</span>
+          <span class="chip">Sin valija despachada</span>
+        </div>
+      </div>
     </div>
 
     <div class="info-card">
       <h3>Otras opciones consideradas (descartadas)</h3>
-      <p style="font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace; margin:0 0 8px;">Ida (EZE→SJO)</p>
-      <ul style="margin:0 0 14px;">
-        <li>Copa Airlines 00:52→08:16 (10h24, escala Panamá 1h47)</li>
-        <li>Copa Airlines 02:08→10:00 (10h52, escala Panamá)</li>
-      </ul>
-      <p style="font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace; margin:0 0 8px;">Vuelta (SJO→EZE)</p>
-      <ul style="margin:0;">
-        <li>Copa Airlines 08:25→21:38 (US$953 en combo) — llega mismo día pero de noche</li>
-        <li>Avianca 17:15→06:05+1 (US$731 en combo) — llega al día siguiente, choca con la regla de no manejar de noche el día del check-in</li>
-        <li>LATAM 13:40→03:00+1 (US$818 en combo) — llega al día siguiente, peor horario</li>
-      </ul>
+      <div style="overflow-x:auto;">
+      <table class="compare-table">
+        <tr><th>Tramo</th><th>Horario</th><th>Precio combo</th><th>Motivo del descarte</th></tr>
+        <tr><td>Ida EZE→SJO</td><td>Copa Airlines 00:52→08:16</td><td>—</td><td>10h24, escala Panamá 1h47</td></tr>
+        <tr><td>Ida EZE→SJO</td><td>Copa Airlines 02:08→10:00</td><td>—</td><td>10h52, escala Panamá</td></tr>
+        <tr><td>Vuelta SJO→EZE</td><td>Copa Airlines 08:25→21:38</td><td>US$953</td><td>Llega mismo día pero de noche</td></tr>
+        <tr><td>Vuelta SJO→EZE</td><td>Avianca 17:15→06:05+1</td><td>US$731</td><td>Llega al día siguiente, choca con la regla de no manejar de noche el día del check-in</td></tr>
+        <tr><td>Vuelta SJO→EZE</td><td>LATAM 13:40→03:00+1</td><td>US$818</td><td>Llega al día siguiente, peor horario</td></tr>
+      </table>
+      </div>
       <p style="margin:12px 0 0; font-size:13px; color:var(--ink-dim);">La Avianca RT (US$658,16-680) es la más barata y la que mejor llega — el resto sale más caro y/o llega peor, sin ninguna ventaja real sobre la elegida.</p>
     </div>
   </div>
