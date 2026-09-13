@@ -20,7 +20,20 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 
 ## Vuelo BUE-San José (capturas reales, Turismocity, 12/9/2026)
 
-**⚠️ Nota sobre las fechas de búsqueda:** todas las capturas de abajo fueron buscadas para **sábado 20/03 → sábado 27/03/2027** (7 noches) — la ventana real del viaje es 20/03 → **domingo 28/03** (8 noches). Falta rebuscar con la fecha de vuelta correcta antes de reservar; los precios y horarios de acá sirven como referencia de rango, no como cotización final. Motor: Turismocity. 1 pasajero, clase económica, USD.
+## ✅ COMBO FINAL ELEGIDO — Avianca, ida y vuelta, US$680
+
+Confirmado con las fechas reales del viaje (ida sábado 20/03, vuelta domingo 28/03) y precio verificado en una sola búsqueda — este es el que se reserva:
+
+| Tramo | Vuelos | Horario | Vía | Duración total |
+|---|---|---|---|---|
+| **Ida** (sáb 20/3) | AV218 + AV696 | EZE 01:40 → SJO 08:50 | Bogotá (escala 1h10min) | 10h10min |
+| **Vuelta** (dom 28/3) | AV691 + AV8395 | SJO 01:40 → EZE 15:40 | Bogotá (escala 2h25min) | 11h00min |
+
+**Precio total: US$680**, Avianca ambos tramos, 1 pasajero, económica. Equipaje: personal item + carry-on incluidos, sin valija despachada.
+
+**Por qué se eligió esta y no las alternativas de salida sábado 27 (Copa/Avianca/LATAM con llegada domingo temprano):** con la restricción de no manejar de noche, la AV691 no depende de un horario límite el sábado — se puede salir de Manuel Antonio en cualquier momento de luz del día, manejar tranquilos hasta San José, devolver el auto y esperar sin presión hasta el vuelo de la 01:40. Las alternativas que salen el sábado a la tarde/noche si exigen cumplir un horario de check-in puntual ese mismo día, un riesgo innecesario. Ver el desarrollo completo de esta discusión más abajo, en la sección de detalle tramo por tramo.
+
+**Nota histórica sobre las fechas de búsqueda:** buena parte del research de abajo (tablas de tramos sueltos, comparación Avianca vs. Copa, alternativas de salida sábado) se hizo primero con una fecha de prueba (vuelta 27/03 en vez de 28/03) para entender el patrón de la ruta antes de tener la fecha exacta — quedó documentado igual porque el patrón se mantuvo al rebuscar con la fecha real. Motor: Turismocity. 1 pasajero, clase económica, USD.
 
 **Diferencia horaria:** Costa Rica está 3 horas detrás de Argentina (Argentina UTC-3, Costa Rica UTC-6). Por eso los vuelos de ida "ganan" horas de luz al llegar, y los de vuelta que salen después del mediodía costarricense terminan llegando recién al día siguiente en Argentina — ver el análisis de margen más abajo.
 
@@ -98,7 +111,7 @@ Todo lo de arriba (#1 a #10) se buscó con fecha de vuelta 27/03 — Daniel volv
 | Escala en Bogotá (BOG) | — | — | — | **2h25min** |
 | BOG → EZE | AV8395 | El Dorado Intl., Bogotá — 07:15 | Aer. Ministro Pistarini, Bs.As. — 15:40 (dom 28/3) | 6h25min |
 
-**Duración total: 11h00min.** Llega a EZE 15:40 el domingo 28/3 — mismo horario de llegada que la búsqueda de prueba con el 27/03, solo cambia levemente la duración (11h vs 10h50) y el número del primer vuelo (AV691 en vez de AV693; el segundo tramo, BOG→EZE, es el mismo AV8395 en ambas fechas). **Esta es la referencia definitiva para reservar la vuelta** — precio todavía sin confirmar en esta captura puntual, pendiente de cotizar antes de reservar.
+**Duración total: 11h00min.** Llega a EZE 15:40 el domingo 28/3 — mismo horario de llegada que la búsqueda de prueba con el 27/03, solo cambia levemente la duración (11h vs 10h50) y el número del primer vuelo (AV691 en vez de AV693; el segundo tramo, BOG→EZE, es el mismo AV8395 en ambas fechas). **✅ Precio confirmado: US$680** (ver el combo final al principio de esta sección, con ida+vuelta juntas en la misma búsqueda).
 
 ### Detalle tramo por tramo — combo #1 (Avianca, US$680) vs. combo #5 (Copa, US$861) — búsqueda de prueba, fecha 27/03
 
@@ -120,7 +133,24 @@ Confirmado con las capturas del desplegable (12/9/2026): entre estos dos puntual
 | Escala en Panamá (PTY) | — | — | — | **3h22min** |
 | PTY → EZE | CM167 | Tocumen Intl., Panamá — 14:12 | Aer. Ministro Pistarini, Bs.As. — 23:23 | 7h11min |
 
-**Conclusión de Daniel (12/9/2026):** llegar a EZE a las 15:40 (Avianca) permite estar en casa alrededor de las 17h del domingo, con margen real para acomodarse antes de trabajar el lunes 29 — **Avianca vía Bogotá, con llegada 15:40, queda elegida para la vuelta**, ahora confirmada con la fecha real 28/03 (ver más arriba, AV691+AV8395). Única salvedad: si se prefiere explícitamente evitar el tramo nocturno Manuel Antonio→SJO, la alternativa sería algo como la Copa US$953 de la búsqueda de prueba (llega 21:38) — pero esa todavía no se rebuscó con la fecha real, quedaría pendiente si se quiere considerar en serio.
+### Alternativas de salida sábado 27 (evaluadas y descartadas, 12/9/2026)
+
+Antes de cerrar en la AV691, Daniel buscó específicamente vuelos que salieran de SJO el **sábado 27** a última hora, para ver si llegar más temprano a Buenos Aires convenía. Cuatro opciones encontradas:
+
+| Aerolínea | Sale SJO (sáb 27) | Llega EZE | Duración | Escala |
+|---|---|---|---|---|
+| Avianca (AV699+AV87) | 17:15 | 06:05 (dom) | 9h50min | Bogotá, 1h05min |
+| Copa (CM839+CM367) | 19:15 | 07:40 (dom) | 9h25min | Panamá, 45min |
+| Copa (CM115+CM367) | 17:20 | 07:40 (dom) | 11h20min | Panamá, 2h39min |
+| LATAM (LA2409+LA2465) | 16:55 | 07:40 (dom, **a AEP, no EZE**) | 11h45min | Lima, 3h40min |
+
+Las dos últimas quedan descartadas de entrada (peor duración sin ninguna ventaja sobre las otras dos). Entre las dos primeras, la Copa 19:15→07:40 es mejor que la Avianca 17:15→06:05: sale 2h más tarde de SJO (2h más en Manuel Antonio) a cambio de llegar solo 1h35 después — buen cambio.
+
+**Por qué ninguna de las dos le gana a la AV691, aplicando la regla de no manejar de noche:** cualquier vuelo que salga de SJO el sábado a la tarde/noche exige completar el traslado Manuel Antonio→SJO (3-4h de auto) a tiempo para un check-in puntual ese mismo día — un horario límite fijo, sin margen, en lo que ya iba a ser un día ajustado. La AV691, en cambio, sale recién a la 01:40 del domingo: el traslado se puede hacer en cualquier momento de luz del sábado, sin apuro, y después hay horas de sobra esperando en la zona del aeropuerto antes de embarcar. Ninguna de las alternativas de salida sábado ofrece ese colchón.
+
+### ✅ Conclusión final (12/9/2026)
+
+**Avianca vía Bogotá queda elegida para la vuelta — AV691+AV8395, sale SJO 01:40 (dom 28/3), llega EZE 15:40, US$680** (combo completo con la ida, ver el resumen al principio de esta sección). Llegar a las 15:40 permite estar en casa ~17h del domingo, con margen real antes de trabajar el lunes 29 — y al no depender de un horario límite el sábado, es también la opción más segura respecto a la regla de no manejar de noche.
 
 ## Trámites, moneda y logística general
 
