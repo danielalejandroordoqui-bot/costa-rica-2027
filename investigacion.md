@@ -261,21 +261,30 @@ Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adob
 - Check-in 14:00-22:00 (encaja con el plan: llegan a La Fortuna al atardecer del Día 1).
 - Cumple los 5 puntos del criterio de Daniel — buen benchmark de precio/calidad para la zona.
 
-**Boutique Hotel Containers** (hotel boutique, Florencia/Platanar, Alajuela — cerca de La Fortuna) — [Hoteles.com](https://ar.hoteles.com/ho3315641824/hotel-contenedores-corporativos-florencia-costa-rica/), mismas fechas, 2 personas:
+**Boutique Hotel Containers** (hotel boutique, Florencia/Platanar, Alajuela) — [Hoteles.com](https://ar.hoteles.com/ho3315641824/hotel-contenedores-corporativos-florencia-costa-rica/), mismas fechas, 2 personas:
 - 10/10 "Excepcional" (11 opiniones) — 100% de las parejas le dieron 10/10. Categoría 2.5.
 - Habitaciones tipo contenedor de 20 pies, bien equipadas, buena cama, baño lindo (según reseñas). Sin recepción — check-in con código de acceso, entrada privada.
 - **Habitación empresarial** (18m², 1 cama Queen, sin cocina): **AR$254.057 total** las 3 noches, impuestos incluidos.
 - **Estudio ejecutivo** (36m², vista a la laguna, kitchenette, microondas, A/C confirmado): **AR$332.070 total** las 3 noches, impuestos incluidos.
-- **⚠️ Ojo con este precio en ARS:** convertido al dólar blue de referencia (~$1.535, dato de otro proyecto de sept. 2026) daría ~US$165-216, pero reservar en un sitio argentino y pagar en pesos con tarjeta probablemente suma impuestos por compra en moneda extranjera (PAIS, percepciones) que no aparecen en este precio — hay que cotizarlo también en USD directo (Booking/Airbnb) antes de asumir que es más barato que las otras dos opciones.
+- **Conversión a USD (cotización real, 12/9/2026):** dólar blue $1.545 venta, dólar tarjeta ~$1.996 (blue/oficial + Impuesto PAIS + percepción Ganancias, ~60% más caro que el oficial). Como Hoteles.com Argentina cobra directo en pesos (no es una compra en moneda extranjera desde la óptica del pago), lo más razonable es usar el blue como referencia — no debería activarse el recargo de tarjeta, aunque no está 100% confirmado sin ver el resumen real. Habitación empresarial ≈ **US$164** · Estudio ejecutivo ≈ **US$215**. Fuentes: [LA NACION — Dólar hoy](https://www.lanacion.com.ar/dolar-hoy/) · [Indicadores AR — Dólar Tarjeta](https://indicadores.ar/indicadores-economicos/dolar-tarjeta) · [Impucálculo — cómo se compone](https://impucalculo.com/blog/ar/dolar-tarjeta-argentina.html)
+- **⚠️ Ubicación — esto pesa más que el precio:** Florencia/Platanar queda cerca de Ciudad Quesada (San Carlos), **NO en La Fortuna** — son 35-37 minutos en auto hasta La Fortuna/las termas/el volcán. Es un pueblo distinto, bastante más lejos de todo lo que van a hacer en la zona que las otras dos opciones.
 
 **Arenal Sweet Bee Cabins** ("Un Chalet de Madera rodeado de Naturaleza") — [Airbnb](https://www.airbnb.com.ar/rooms/1183455758384501529), mismas fechas, 2 viajeros:
 - Cabaña entera, 4 huéspedes, 2 dormitorios (1 cama doble + 2 individuales), 1,5 baños. 4,94/5 (84 evaluaciones) — "Favorito entre huéspedes", top 10% mundial de Airbnb.
 - Cocina totalmente equipada, **A/C**, WiFi rápido, estacionamiento privado, check-in autónomo (caja de seguridad).
-- A 5 min del centro de La Fortuna, 20 min del Volcán Arenal. Anfitrión (Christian) es guía naturalista profesional — reseñas mencionan avistaje de tucanes, monos e iguanas directo desde la propiedad, a veces con telescopio del anfitrión.
+- **Ubicación: la mejor de las tres** — a 5 min del centro de La Fortuna, 20 min del Volcán Arenal, prácticamente en el pueblo. Anfitrión (Christian) es guía naturalista profesional — reseñas mencionan avistaje de tucanes, monos e iguanas directo desde la propiedad, a veces con telescopio del anfitrión.
 - **Precio 3 noches/2 viajeros: US$275 total**, todas las tarifas incluidas. Cancelación gratis antes del 15/3/2027.
 - Más caro que Tucan Container, pero más espacio (2 dormitorios) y una experiencia de fauna ya validada por decenas de reseñas.
 
-**Resumen La Fortuna (referencia, no decisión cerrada):** Tucan Container US$183-203 (mejor precio) · Boutique Hotel Containers ARS$254.057-332.070 (~US$165-216 al blue, pendiente confirmar impuesto tarjeta) · Arenal Sweet Bee Cabins US$275 (más completo/espacioso). Las tres cumplen A/C + baño privado + agua caliente.
+**Resumen La Fortuna (referencia, no decisión cerrada):**
+
+| Opción | Precio (USD) | Ubicación |
+|---|---|---|
+| Tucan Container | US$183-203 | Corredor termas/volcán, cerca de La Fortuna |
+| Arenal Sweet Bee Cabins | US$275 | 5 min del centro de La Fortuna — la mejor |
+| Boutique Hotel Containers | ~US$164-215 | Florencia, 35-37 min de La Fortuna — lejos |
+
+El más barato (Boutique Hotel Containers) es el que peor ubicación tiene — el precio no compensa perder ~40min de auto cada vez que se mueven. Entre Tucan Container y Arenal Sweet Bee Cabins la ubicación es similar y buena; ahí sí la decisión pasa por precio/espacio.
 
 ### Monteverde — referencia de mercado (búsqueda vieja, 7 noches genéricas, no fechas reales de la zona)
 
