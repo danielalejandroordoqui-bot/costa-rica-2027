@@ -249,7 +249,7 @@ Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adob
 
 ## Alojamiento — referencias reales por zona
 
-**Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Puntarenas/golfo, Manuel Antonio) — **excepto Monteverde, donde el A/C no aplica** (clima fresco de bosque nuboso, ~1.400m de altura, muchos alojamientos ni lo ofrecen porque no hace falta).
+**Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Puntarenas/golfo, Manuel Antonio).
 
 ### La Fortuna — 3 noches, 20-23/3/2027 (cotización real, 12/9/2026)
 
@@ -288,7 +288,7 @@ El más barato (Boutique Hotel Containers) es el que peor ubicación tiene — e
 
 ### Monteverde — 2 noches, 23-25/3/2027 (cotización real, 12/9/2026)
 
-Sin filtrar por A/C, tal como corresponde a esta zona (clima fresco de bosque nuboso). 2 referencias reales, no decisión cerrada:
+2 referencias reales, no decisión cerrada:
 
 **ECO RIVER DOME** (habitación privada en domo) — [Airbnb](https://www.airbnb.com.ar/rooms/53621802), mismas fechas, 2 huéspedes:
 - 4,97/5 (300 evaluaciones) — "Favorito entre huéspedes", top 5% mundial de Airbnb. Anfitrión Harry, Superanfitrión, 7 años de experiencia, guía naturalista de profesión (30 años en el rubro).
