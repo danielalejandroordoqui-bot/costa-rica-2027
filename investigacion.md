@@ -384,6 +384,43 @@ Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya 
 
 Fuentes: [GetYourGuide — Hacienda Alsacia](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/) · [GetYourGuide — La Paz Waterfall Gardens](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/) · [Viajeros Callejeros — Catarata La Fortuna](https://www.viajeroscallejeros.com/catarata-la-fortuna-precios-horarios-como-ir/) · [Eco Termales Fortuna — sitio oficial](https://ecotermalesfortuna.cr/en/home/) · [Viator — Kayak Río Peñas Blancas](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11) · [MyTanFeet — La Fortuna Night Walk](https://mytanfeet.com/activities/la-fortuna-night-walk-arenal/) · [Reserva Santa Elena — sitio oficial](https://reservasantaelena.org/index.php/reservaciones/) · [Selvatura — Hanging Bridges](https://www.twoweeksincostarica.com/product/selvatura-hanging-bridges-self-guided/) · [Selvatura — Sloth Habitat](https://www.selvatura.com/tours/the-sloth-sanctuary/) · [Isla Venado — Transportes](https://www.isla-venado.com/) · [dineroeneltiempo.com — USD/CRC histórico](https://www.dineroeneltiempo.com/divisas/usd-crc/historico/2026)
 
+### Hacienda Alsacia — el tour en detalle, y qué se ve en marzo sin cosecha (research 13/9/2026)
+
+**Daniel es muy fanático del café — quedó con la duda de si el tour vale la pena en marzo, que es fuera de temporada de cosecha (la cosecha real es oct-feb).**
+
+**Qué incluye el tour (90 min guiados, 1,5-2hs en total):** recorrido por el **vivero** (tree nursery), el **beneficio húmedo** (wet mill), el **patio de secado** y la **planta de tostado** — el guía explica cada etapa del proceso, de la planta a la taza. Termina en el **Hacienda Alsacia Café**, un pabellón al aire libre con vista a la plantación, una cascada y las montañas — ahí se ve el tostado en vivo (el tueste NO depende de la cosecha, se tuesta grano ya almacenado todo el año) y se hace una **cata guiada** ("cupping"): el guía explica aromas, notas de sabor y cómo catar en el paladar, cerrando con una degustación del producto final.
+
+**Qué SÍ y qué NO se ve en marzo (fuera de cosecha):** no se ve la recolección de los granos maduros en la plantación ni el beneficio húmedo procesando cereza fresca en vivo — parte de esa maquinaria está parada porque no hay cosecha para procesar. En su lugar, el tour se vuelve más explicativo/demostrativo en esas paradas específicas (te muestran cómo funciona, no lo ven funcionando con producto real). El vivero, el patio de secado (vacío pero explicado), el tostado (si funciona igual, todo el año) y sobre todo la **cata final** — la parte más disfrutable para alguien que le gusta el café — se mantienen intactos.
+
+**Conclusión: vale la pena igual.** Las reseñas de visitantes en fuera de temporada siguen siendo positivas — se valora el recorrido educativo completo, el paisaje (cascada + montañas + cafetales) y sobre todo la sesión de cata guiada, que es experiencial y no depende de la cosecha. Lo que se pierde es ver la recolección en vivo, no la esencia del tour.
+
+**Un detalle a confirmar al reservar:** una fuente menciona que los tours gratuitos corren de miércoles a domingo — el sábado 20/3 cae en ese rango, así que no debería haber problema, pero conviene confirmarlo al reservar (no se encontró el dato oficial de la propia Hacienda, solo de agregadores).
+
+Fuentes: [Two Weeks in Costa Rica — Starbucks Coffee Tour](https://www.twoweeksincostarica.com/starbucks-coffee-tour/) · [TripAdvisor — reseñas Hacienda Alsacia](https://www.tripadvisor.com/Attraction_Review-g3361169-d13801358-Reviews-Hacienda_Alsacia_Starbucks_Coffee_Farm-Sabanilla_Province_of_Alajuela.html) · [The Abroad Guide — Hacienda Alsacia tour](https://theabroadguide.com/hacienda-alsacia-starbucks-coffe-tour/)
+
+## Auditoría de días y horarios de apertura — cruzados contra el itinerario real (13/9/2026)
+
+Repaso de cada parada de Itinerario A contra los días de calendario exactos que le tocan (sáb 20/3 a dom 28/3), para no reservar algo un día que esté cerrado.
+
+| Día | Fecha | Parada | Estado |
+|---|---|---|---|
+| 1 | Sáb 20/3 | Hacienda Alsacia | ✅ Abierta todos los días 8am-6pm. Ver detalle arriba sobre temporada. |
+| 1 | Sáb 20/3 | Volcán Poás | ✅ Abierto los 7 días, sin cierre semanal (puede cerrar sin aviso por actividad volcánica, riesgo bajo e impredecible). |
+| 1 | Sáb 20/3 | La Paz Waterfall Gardens | ✅ Abierto todos los días 8am-5pm, última entrada 3pm, sin reserva previa. |
+| 2-3 | Dom 21 y lun 22/3 | Catarata La Fortuna | ✅ Abierta todos los días 7am-5pm, última entrada 4pm. |
+| 2-3 | Dom 21 y lun 22/3 | Eco Termales Fortuna | ✅ Sin cierre semanal, pero ⚠️ **cupo limitado a 100 personas por franja y reserva obligatoria con anticipación** — puede agotarse, sobre todo en Semana Santa (superpuesta con este viaje). |
+| 2-3 | Dom 21 y lun 22/3 | Kayak Río Peñas Blancas | ✅ Tour de mañana (pickup ~7:30-8am, vuelta ~11-11:15am), sin cierre semanal encontrado. |
+| 2-3 | Dom 21 y lun 22/3 | Caminata nocturna | ✅ Todos los días, salidas 6pm y 8pm. |
+| 5 | Mié 24/3 | Reserva Santa Elena | ✅ Abierta todos los días 7am-4pm, sin reserva previa necesaria. |
+| 5 | Mié 24/3 | Selvatura Park (puentes + santuario de perezosos) | ✅ Parque abierto todos los días 7am-4pm, tours del santuario cada hora entre 8:15am y 3:15pm. |
+| 8 | Sáb 27/3 | PN Manuel Antonio | ✅ Ya confirmado — cerrado los martes, el sábado no tiene conflicto. |
+| — | — | Isla Venado (panga, si se llega a sumar) | ⚠️ Solo corre lunes/miércoles/viernes, horario fijo (sale isla 6:30am, vuelve de Puntarenas ~11:30am) — no decidido si entra en el itinerario. |
+
+**Ningún lugar del itinerario actual tiene un cierre semanal que choque con el día asignado.** Dos puntos a tener en cuenta, no cierres sino riesgos de organización:
+
+1. **⚠️ Día 1 (sáb 20/3) es el más ajustado de todo el viaje:** llegada a SJO 08:50am tras un vuelo nocturno, y ese mismo día hay que encadenar Hacienda Alsacia + Volcán Poás (con franja horaria ya reservada, hora fija) + La Paz Waterfall Gardens (mínimo 2h de recorrido, hay que entrar antes de las 3pm) + 2h de manejo hasta La Fortuna. Si el vuelo se atrasa o el trámite migratorio en SJO tarda, se corre toda la cadena y se puede perder la franja de Poás o llegar tarde a La Paz Waterfall Gardens. Es el día con menos margen de todo el itinerario.
+2. **⚠️ Eco Termales necesita reserva anticipada** por el cupo limitado (100 personas) — conviene reservarla junto con Poás y Manuel Antonio, no dejarla para último momento, más todavía con Semana Santa superpuesta al viaje.
+
 ## Presupuesto real calculado por persona (13/9/2026)
 
 Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por persona, **mitad** del auto y **mitad** de todos los hospedajes (se dividen 50/50 con Melisa), más entradas (esas sí, completas por persona, no se dividen). **No incluye comida ni souvenirs**, tal como pidió Daniel.
@@ -663,3 +700,5 @@ Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 1
 3. **Confirmar qué cubre el seguro del Adobe Rent a Car** (US$450/7 días) antes de reservar — alerta de que muchas tarjetas de crédito no cubren 4x4/pickup.
 4. **Cerrar el Itinerario A con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
 5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — hoy es la parada con menos datos concretos de costo del Itinerario A.
+6. **Repensar el ritmo del día 1** (13/9/2026): es el día con menos margen de todo el itinerario — llegada 08:50am + Hacienda Alsacia + Poás (franja fija) + La Paz Waterfall Gardens (entrar antes de 3pm) + 2h de manejo, todo el mismo día del vuelo nocturno. Evaluar si conviene sacar una actividad de ese día o tener un plan B si el vuelo se atrasa.
+7. **Reservar Eco Termales con anticipación** (13/9/2026) junto con Poás y Manuel Antonio — cupo limitado a 100 personas por franja, riesgo de agotarse en Semana Santa.
