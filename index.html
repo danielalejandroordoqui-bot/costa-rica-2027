@@ -213,6 +213,21 @@
   .info-card li b{ color:var(--ink); font-weight:600; }
   .info-card p{ margin:0; font-size:13.5px; color:var(--ink-dim); }
 
+  /* ---------- DAY TIMELINE ---------- */
+  .day-timeline{ display:flex; flex-direction:column; gap:8px; }
+  .day-card{ display:flex; gap:16px; background:var(--panel); border:1px solid var(--hairline); border-left:3px solid var(--hairline); padding:14px 16px; }
+  .day-card.tight{ border-left-color:var(--danger); }
+  .day-card.light{ border-left-color:var(--green); }
+  .day-card .day-badge{ flex-shrink:0; width:58px; text-align:center; }
+  .day-card .day-badge .dn{ display:block; font-family:'Space Mono',monospace; font-size:20px; font-weight:700; color:var(--ink); line-height:1.1; }
+  .day-card .day-badge .dd{ display:block; font-family:'Space Mono',monospace; font-size:10px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.04em; margin-top:3px; }
+  .day-card .day-body{ flex:1; min-width:0; }
+  .day-card .day-body h5{ margin:0 0 4px; font-size:14.5px; font-weight:600; color:var(--ink); }
+  .day-card .day-body p{ margin:0; font-size:13px; color:var(--ink-dim); }
+  .day-card .day-tag{ display:inline-block; margin-top:8px; font-family:'Space Mono',monospace; font-size:9.5px; letter-spacing:.05em; text-transform:uppercase; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-faint); }
+  .day-card.tight .day-tag{ color:var(--danger); border-color:rgba(255,92,92,.4); background:rgba(255,92,92,.08); }
+  .day-card.light .day-tag{ color:var(--green); border-color:rgba(95,211,141,.35); background:rgba(95,211,141,.08); }
+
   /* ---------- FLIGHT CARD ---------- */
   .flight-card{ background:var(--panel); border:1px solid var(--hairline); padding:18px 20px; margin-bottom:16px; }
   .flight-card-head{ display:flex; align-items:center; gap:10px; margin-bottom:16px; }
@@ -411,16 +426,67 @@
         </div>
         <div class="v-section">
           <h4>Esqueleto de días</h4>
-          <ul>
-            <li><b>Día 1:</b> llegada SJO, auto, Hacienda Alsacia (café) → Volcán Poás → La Paz Waterfall Gardens camino al norte. Noche en La Fortuna.</li>
-            <li><b>Día 2-3:</b> La Fortuna (Arenal, termas, catarata, kayak, caminata nocturna).</li>
-            <li><b>Día 4:</b> La Fortuna → Monteverde (ruta de montaña, ~2h30-3h).</li>
-            <li><b>Día 5:</b> Monteverde (santuario de perezosos, bosque nuboso, Selvatura).</li>
-            <li><b>Día 6:</b> Monteverde → golfo de Nicoya/Puntarenas (~1h30, día liviano).</li>
-            <li><b>Día 7 (vie 26):</b> golfo → Quepos/Manuel Antonio (ruta costanera, ~2h-2h45, margen para Jacó/Carara).</li>
-            <li><b>Día 8 (sáb 27):</b> Manuel Antonio día completo — entrada bien temprano (abre 7am) hasta la hora límite (3pm), después playa/pueblo si da el tiempo. Salida hacia SJO a media tarde con luz de día (~3-4h), llegada ~18-19h, devolución del auto, cena y traslado tranquilo. Noche de espera cerca del aeropuerto.</li>
-            <li><b>Día 9 (dom 28):</b> sin actividades en Costa Rica — es el día del vuelo. Sale SJO 01:40, llega a Buenos Aires 15:40.</li>
-          </ul>
+          <div class="day-timeline">
+            <div class="day-card tight">
+              <div class="day-badge"><span class="dn">1</span><span class="dd">Sáb 20/3</span></div>
+              <div class="day-body">
+                <h5>Llegada + Alsacia + Poás + La Paz</h5>
+                <p>Llegada a SJO, retiro del auto, Hacienda Alsacia (café) → Volcán Poás → La Paz Waterfall Gardens camino al norte. Noche en La Fortuna.</p>
+                <span class="day-tag">⚠ Día más ajustado</span>
+              </div>
+            </div>
+            <div class="day-card">
+              <div class="day-badge"><span class="dn">2-3</span><span class="dd">Dom 21 – Lun 22</span></div>
+              <div class="day-body">
+                <h5>La Fortuna / Arenal</h5>
+                <p>Termas, catarata, kayak en el Río Peñas Blancas, caminata nocturna. Dos días completos en la zona, con margen.</p>
+              </div>
+            </div>
+            <div class="day-card light">
+              <div class="day-badge"><span class="dn">4</span><span class="dd">Mar 23/3</span></div>
+              <div class="day-body">
+                <h5>La Fortuna → Monteverde</h5>
+                <p>Ruta de montaña, ~2h30-3h de manejo.</p>
+                <span class="day-tag">Día liviano</span>
+              </div>
+            </div>
+            <div class="day-card">
+              <div class="day-badge"><span class="dn">5</span><span class="dd">Mié 24/3</span></div>
+              <div class="day-body">
+                <h5>Monteverde</h5>
+                <p>Santuario de perezosos, bosque nuboso, Selvatura (puentes colgantes).</p>
+              </div>
+            </div>
+            <div class="day-card light">
+              <div class="day-badge"><span class="dn">6</span><span class="dd">Jue 25/3</span></div>
+              <div class="day-body">
+                <h5>Monteverde → Puntarenas</h5>
+                <p>Golfo de Nicoya, ~1h30 de manejo.</p>
+                <span class="day-tag">Día liviano</span>
+              </div>
+            </div>
+            <div class="day-card">
+              <div class="day-badge"><span class="dn">7</span><span class="dd">Vie 26/3</span></div>
+              <div class="day-body">
+                <h5>Puntarenas → Manuel Antonio</h5>
+                <p>Ruta costanera, ~2h-2h45, con margen para parar en Jacó/Carara de camino.</p>
+              </div>
+            </div>
+            <div class="day-card">
+              <div class="day-badge"><span class="dn">8</span><span class="dd">Sáb 27/3</span></div>
+              <div class="day-body">
+                <h5>Manuel Antonio + regreso a SJO</h5>
+                <p>Parque nacional día completo, desde la apertura (7am) hasta la hora límite (3pm) — después playa/pueblo si da el tiempo. Salida hacia SJO a media tarde con luz de día (~3-4h), llegada ~18-19h, devolución del auto, cena y traslado tranquilo. Noche de espera cerca del aeropuerto.</p>
+              </div>
+            </div>
+            <div class="day-card">
+              <div class="day-badge"><span class="dn">9</span><span class="dd">Dom 28/3</span></div>
+              <div class="day-body">
+                <h5>Vuelo de regreso</h5>
+                <p>Sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40.</p>
+              </div>
+            </div>
+          </div>
           <p class="v-note">⚠️ <b>Auditoría de horarios (13/9/2026):</b> se revisaron días/horarios reales de cada parada contra el calendario del viaje — ningún lugar tiene un cierre semanal que choque con el día asignado. Dos puntos igual a tener en cuenta: <b>el Día 1 es el más ajustado de todo el itinerario</b> (llegada 08:50am tras vuelo nocturno + Alsacia + Poás con franja fija + La Paz Waterfall Gardens con entrada antes de las 3pm + 2h de manejo, todo el mismo día — si el vuelo se atrasa se corre toda la cadena), y <b>Eco Termales tiene cupo limitado a 100 personas por franja</b>, conviene reservarla con anticipación junto con Poás y Manuel Antonio.</p>
         </div>
         <div class="v-section">
@@ -545,21 +611,6 @@
           <span class="chip">Sin valija despachada</span>
         </div>
       </div>
-    </div>
-
-    <div class="info-card">
-      <h3>Otras opciones consideradas (descartadas)</h3>
-      <div style="overflow-x:auto;">
-      <table class="compare-table">
-        <tr><th>Tramo</th><th>Horario</th><th>Precio combo</th><th>Motivo del descarte</th></tr>
-        <tr><td>Ida EZE→SJO</td><td>Copa Airlines 00:52→08:16</td><td>—</td><td>10h24, escala Panamá 1h47</td></tr>
-        <tr><td>Ida EZE→SJO</td><td>Copa Airlines 02:08→10:00</td><td>—</td><td>10h52, escala Panamá</td></tr>
-        <tr><td>Vuelta SJO→EZE</td><td>Copa Airlines 08:25→21:38</td><td>US$953</td><td>Llega mismo día pero de noche</td></tr>
-        <tr><td>Vuelta SJO→EZE</td><td>Avianca 17:15→06:05+1</td><td>US$731</td><td>Llega al día siguiente, choca con la regla de no manejar de noche el día del check-in</td></tr>
-        <tr><td>Vuelta SJO→EZE</td><td>LATAM 13:40→03:00+1</td><td>US$818</td><td>Llega al día siguiente, peor horario</td></tr>
-      </table>
-      </div>
-      <p style="margin:12px 0 0; font-size:13px; color:var(--ink-dim);">La Avianca RT (US$658,16-680) es la más barata y la que mejor llega — el resto sale más caro y/o llega peor, sin ninguna ventaja real sobre la elegida.</p>
     </div>
   </div>
 
