@@ -312,9 +312,42 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 - **Kiwi House** (Santa Elena, Monteverde): 8,6 "Fabuloso" (62 comentarios), Confort 9,1. Apartamento 1 dormitorio, 55m². 1 semana/2 adultos: US$257 + US$35 impuestos = **~US$292 total**.
 - **Sugerencia general (Emma Terra):** combinar Airbnb (más barato, cocinar) la mayoría de los días con 1-2 noches finales en hotel/lodge de categoría alta como cierre.
 
+### Puntarenas — 1 noche, 25-26/3/2027 (cotización real, 12/9/2026)
+
+2 referencias reales, no decisión cerrada:
+
+**VALU Puntarenas, Apartamento Equipado** — [Airbnb](https://www.airbnb.com.ar/rooms/1161894201627519092), mismas fechas, 2 huéspedes:
+- 4,88/5 (104 evaluaciones) — "Favorito entre huéspedes". Anfitriona Vanessa, Superanfitriona, 4 años de experiencia.
+- Apartamento entero, 1 dormitorio, cocina completamente equipada, A/C, ventilador de techo, lavarropas/secarropas, wifi, parqueo techado. A 100m de la playa y restaurantes, en el centro de Puntarenas.
+- **Precio 1 noche/2 huéspedes: US$67 total.** Cancelación gratis antes del 24/3/2027.
+
+**Hotel Mar y Mar** — [Booking.com](https://www.booking.com/hotel/cr/cabinas-mar-y-mar.es.html), mismas fechas, 2 adultos:
+- 8,2 "Muy bien" (758 comentarios) — Personal 8,9/10. Frente a la playa, con piscina al aire libre y jardín. A 150m de una plaza de fútbol.
+- Habitación con cama grande (15m²): A/C, baño privado, TV, cafetera, minibar, wifi, vistas a la piscina. Desayuno incluido ("Fabuloso" según reseñas).
+- Precio con descuento Genius: US$78 (antes US$87) + US$10 de impuestos = **US$88 total** la noche. Cancelación gratis antes del 20/3/2027.
+
+**Resumen Puntarenas (referencia, no decisión cerrada):** VALU Puntarenas US$67 (más barato, a pasos de la playa) · Hotel Mar y Mar US$88 (frente al mar, con piscina y desayuno incluido). Ambos con A/C y buena puntuación.
+
+### Manuel Antonio / Quepos — 1 noche, 26-27/3/2027 (cotización real, 12/9/2026)
+
+2 referencias reales, no decisión cerrada:
+
+**Deluxe Suite • King Bed • Quepos Centro** (Apartahotel Puerta del Cielo) — [Airbnb](https://www.airbnb.com.ar/rooms/1629244010200348893), mismas fechas, 2 huéspedes:
+- 5,0/5 (6 evaluaciones, pocas pero todas perfectas) — "Favorito entre huéspedes". Anfitriona Carolina, check-in autónomo con cerradura inteligente.
+- Estudio con cama king, cocina, wifi, TV, ascensor, lavarropas, estacionamiento. En el centro de Quepos, cerca de supermercados/restaurantes/Marina Pez Vela. A 20 min en auto del Parque Nacional Manuel Antonio.
+- ⚠️ A/C no aparece en la vista previa de comodidades (lista truncada a 8 de 29 ítems) — **confirmar antes de reservar**, dado que es un requisito de Daniel para esta zona.
+- **Precio 1 noche/2 huéspedes: US$75 total.** Cancelación gratis antes del 25/3/2027.
+
+**Pura Natura Lodge** (antes "Hostel Vista Serena", nombre desactualizado en el link) — [Booking.com](https://www.booking.com/hotel/cr/hostel-vista-serena.es.html), mismas fechas, 2 adultos:
+- 8,6 "Fabuloso" (1.147 comentarios) — Ubicación 9,0/10 ("a las parejas les encanta", 9,2 para viajes de a dos). A 4km del Parque Nacional Manuel Antonio, 1,7km de playa La Macha.
+- Apartamento de 1 dormitorio (35-40m²): cocina privada, baño privado, A/C, TV, patio. Vistas al océano Pacífico, piscina, restaurante/bar en el lodge.
+- Precio con descuento Genius (-15%): antes US$77, **US$65 total** la noche (impuestos incluidos). ⚠️ Tarifa no reembolsable, pago online — sin cancelación gratuita como las otras opciones.
+
+**Resumen Manuel Antonio/Quepos (referencia, no decisión cerrada):** Pura Natura Lodge US$65 (mejor puntuado, A/C confirmado, más cerca del parque, pero no reembolsable) · Deluxe Suite Quepos Centro US$75 (más al centro del pueblo, pero A/C sin confirmar y solo 6 reseñas).
+
 ### Pendiente
 
-Buscar cotizaciones reales con fechas exactas para: **Puntarenas/golfo de Nicoya (1 noche, 25-26/3)**, **Manuel Antonio (1 noche, 26-27/3)** — mismo criterio de Daniel (baño privado, agua caliente, ropa de cama/toallas, A/C, cama cómoda).
+Las 4 zonas con noche ya tienen cotización real (La Fortuna, Monteverde, Puntarenas, Manuel Antonio) — falta decidir entre las opciones de cada zona, no buscar más referencias.
 
 ## Presupuesto de referencia (Emma Terra, gama media)
 
