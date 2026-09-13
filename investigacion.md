@@ -227,6 +227,8 @@ Daniel buscó en `economybookings.com` (la misma plataforma que usó para alquil
 
 **Rango enorme (US$268 a US$1.115) para categorías similares** — confirma que en Costa Rica conviene comparar mucho más que en otros países, la variación entre empresas es grande. Pendiente: rebuscar filtrando específicamente por 4x4/doble tracción (no solo "SUV") para tener una comparación real contra los US$806,40 de Adobe.
 
+**⚠️ Corrección (13/9/2026):** Daniel marcó que Adobe está notablemente por encima del mercado — el Kia Picanto 2WD de Adobe (US$598,64) es más del doble del sedán más barato de EconomyBookings (Nissan Versa, US$267,42) para fechas casi idénticas. Adobe queda documentado como una cotización real y verificada (útil como dato puntual de una empresa concreta), pero **no se usa como base del presupuesto por persona** — para eso se usa el piso y el techo reales de EconomyBookings (ver sección de Presupuesto más abajo).
+
 ### Rent a cars locales de Costa Rica — directorio de contacto (WebSearch, 12/9/2026)
 
 Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adobe (ya cotizado, US$450/7 días) conviene comparar contra empresas costarricenses más chicas, que en varios videos/foros aparecen como más baratas que las cadenas internacionales (Hertz, Avis, Budget, Sixt). Ninguna publica precio fijo cerrado online — hay que escribirles directo para cotizar 4x4 7 días, fechas del viaje, y confirmar qué cubre el seguro.
@@ -370,9 +372,15 @@ Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya 
 | Manuel Antonio | PN Manuel Antonio (SINAC) | **US$16,00** | ✅ Ya confirmado (ver sección 02/Auto arriba). |
 | Golfo de Nicoya | Isla Venado — panga colectiva Puntarenas↔Isla Venado | **~US$11** (₡5.000, dólar a ₡450, 13/9/2026) | Solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am — sin horario flexible. Sigue sin resolver si entra en el Itinerario A (necesita 2-3 noches propias, no 1 sola noche en Puntarenas). Tarifa "de referencia", confirmar antes de viajar — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados. |
 
-**Total si se hacen TODAS las actividades opcionales de la tabla** (sin Isla Venado, que no entra en el esqueleto actual): US$35+15+56+18+48,60+65+45(punto medio 40-50)+25+49+40+16 = **~US$412,60 por persona**. Es un techo poco realista de hacer todo junto (sobre todo el combo catarata+termas+kayak+noct. en 2 días de La Fortuna) — sirve como referencia máxima, no como plan cerrado.
-
 **Piso (solo lo que ya está confirmado y forma parte fija de la ruta — los 2 parques SINAC):** Poás US$15 + Manuel Antonio US$16 = **US$31 por persona**.
+
+**⚠️ Corrección (13/9/2026):** sumar literalmente TODAS las actividades opcionales de la tabla daba US$412,60/persona — Daniel marcó (con razón) que ese número es un techo poco realista ("un bolazo"), porque asume hacer catarata+termas+kayak+caminata nocturna en los ~2 días efectivos de La Fortuna, más los dos componentes de Selvatura en Monteverde, todo junto. Un **techo realista** asume 1-2 actividades por zona, no todas:
+- Ruta día 1: 1 actividad — Hacienda Alsacia (US$35, más barata que La Paz Waterfall Gardens).
+- La Fortuna (3 noches, más tiempo): 2 actividades — catarata US$18 + termas US$48,60 = US$66,60.
+- Monteverde (2 noches, menos tiempo): 1 actividad — la reserva del puente Wilford, US$25.
+- Más el piso fijo (Poás US$15 + MA US$16 = US$31).
+
+**Techo realista: 31 + 35 + 66,60 + 25 = ~US$157,60 por persona.** (El US$412,60 de "hacer todo" queda como dato de contexto, no como el techo usado en el presupuesto.)
 
 Fuentes: [GetYourGuide — Hacienda Alsacia](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/) · [GetYourGuide — La Paz Waterfall Gardens](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/) · [Viajeros Callejeros — Catarata La Fortuna](https://www.viajeroscallejeros.com/catarata-la-fortuna-precios-horarios-como-ir/) · [Eco Termales Fortuna — sitio oficial](https://ecotermalesfortuna.cr/en/home/) · [Viator — Kayak Río Peñas Blancas](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11) · [MyTanFeet — La Fortuna Night Walk](https://mytanfeet.com/activities/la-fortuna-night-walk-arenal/) · [Reserva Santa Elena — sitio oficial](https://reservasantaelena.org/index.php/reservaciones/) · [Selvatura — Hanging Bridges](https://www.twoweeksincostarica.com/product/selvatura-hanging-bridges-self-guided/) · [Selvatura — Sloth Habitat](https://www.selvatura.com/tours/the-sloth-sanctuary/) · [Isla Venado — Transportes](https://www.isla-venado.com/) · [dineroeneltiempo.com — USD/CRC histórico](https://www.dineroeneltiempo.com/divisas/usd-crc/historico/2026)
 
@@ -380,20 +388,22 @@ Fuentes: [GetYourGuide — Hacienda Alsacia](https://www.getyourguide.com/hacien
 
 Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por persona, **mitad** del auto y **mitad** de todos los hospedajes (se dividen 50/50 con Melisa), más entradas (esas sí, completas por persona, no se dividen). **No incluye comida ni souvenirs**, tal como pidió Daniel.
 
-Como el auto (2WD vs. 4x4), el hospedaje (varias referencias por zona) y cuántas actividades pagas se hacen siguen sin decisión cerrada, se arma un **piso** (todo lo más barato + solo entradas obligatorias) y un **techo** (todo lo más caro + todas las actividades opcionales de la tabla de arriba):
+**Revisado 13/9/2026** (dos correcciones sobre la primera versión, a pedido de Daniel):
+1. **El auto ya NO usa el precio de Adobe** — Adobe cotiza notablemente por encima del mercado (más del doble del sedán más barato de EconomyBookings), así que lo usa como piso/techo distorsionaba el número real. Ahora el auto usa EconomyBookings: piso = Nissan Versa/Avis (sedán económico) US$267,42; techo = Nissan Kicks/Avis (SUV 2WD de altura, no 4x4 pleno — coincide con la conclusión de que no hace falta 4x4 para el recorrido) US$338.
+2. **El techo de entradas ya NO suma "hacer todo"** — pasa de US$412,60 (irreal) a un techo realista de US$157,60 (1-2 actividades por zona, ver sección de Entradas arriba).
 
 | Ítem | Piso (mínimo) | Techo (máximo) |
 |---|---|---|
 | Vuelo BUE-SJO ida y vuelta (por persona, ✅ cerrado) | US$658,16 | US$658,16 |
-| Auto de alquiler, mitad (2WD US$598,64 ÷2 / 4x4 US$806,40 ÷2) | US$299,32 | US$403,20 |
+| Auto de alquiler, mitad (EconomyBookings: sedán US$267,42 ÷2 / SUV 2WD US$338 ÷2) | US$133,71 | US$169,00 |
 | Hospedaje, mitad de las 4 zonas (opción más barata / más cara de cada una) | US$272,50 | US$339,00 |
-| Entradas y actividades (solo Poás+MA / todas las de la tabla) | US$31,00 | US$412,60 |
-| **TOTAL por persona** | **≈ US$1.261** | **≈ US$1.813** |
+| Entradas y actividades (solo Poás+MA / techo realista, 1-2 activ. por zona) | US$31,00 | US$157,60 |
+| **TOTAL por persona** | **≈ US$1.095** | **≈ US$1.324** |
 
-**Detalle del piso de hospedaje** (mitad de: Tucan Container US$183 + ECO RIVER DOME US$230 + VALU Puntarenas US$67 + Pura Natura Lodge US$65 = US$545 ÷2).
-**Detalle del techo de hospedaje** (mitad de: Arenal Sweet Bee Cabins US$275 + Camino Verde B&B US$240 + Hotel Mar y Mar US$88 + Deluxe Suite Quepos US$75 = US$678 ÷2).
+**Detalle del piso de hospedaje** (mitad de: Tucan Container US$183 + ECO RIVER DOME US$230 + VALU Puntarenas US$67 + Pura Natura Lodge US$65 = US$545 ÷2 = US$272,50 — verificado con cálculo, correcto).
+**Detalle del techo de hospedaje** (mitad de: Arenal Sweet Bee Cabins US$275 + Camino Verde B&B US$240 + Hotel Mar y Mar US$88 + Deluxe Suite Quepos US$75 = US$678 ÷2 = US$339,00 — verificado con cálculo, correcto).
 
-**Lectura:** el vuelo y el auto ya están bastante acotados (el auto no varía más de ~US$104/persona entre 2WD y 4x4). Lo que más mueve el número final es cuántas actividades pagas se sumen en La Fortuna y Monteverde — ahí es donde conviene decidir un recorte real en vez de "hacer todo". Un número intermedio razonable (auto 2WD, hospedaje mitad de camino, 3-4 actividades elegidas en vez de todas) rondaría los **US$1.400-1.500 por persona**.
+**Lectura:** con el auto corregido a precios de mercado real (EconomyBookings) y un techo de entradas realista, el rango baja de US$1.261-1.813 a **US$1.095-1.324 por persona** — una diferencia de ~US$165-490 respecto al cálculo anterior, que efectivamente estaba inflado por usar Adobe (outlier) y "hacer todas las actividades" como techo. Sigue siendo un piso-techo porque el auto (sedán vs. SUV), el hospedaje (varias referencias por zona) y cuántas actividades se hagan siguen sin decisión cerrada.
 
 ## Presupuesto de referencia (Emma Terra, gama media)
 
