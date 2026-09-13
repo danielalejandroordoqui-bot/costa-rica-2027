@@ -143,14 +143,37 @@
   }
 
   /* ---------- SECTION HEADERS ---------- */
-  .section{ margin-top:36px; }
-  .section-head{
-    display:flex; align-items:baseline; gap:10px; margin-bottom:14px;
-    border-bottom:1px solid var(--hairline); padding-bottom:8px;
+  .section{
+    margin-top:52px; padding-top:22px;
+    border-top:3px solid var(--accent, var(--hairline));
   }
-  .section-head .num{ font-family:'Space Mono',monospace; color:var(--amber-dim); font-size:13px; }
-  .section-head h2{ margin:0; font-size:16px; font-weight:600; }
+  .section-head{
+    display:flex; align-items:center; gap:12px; margin-bottom:18px;
+    border-bottom:1px solid var(--hairline); padding-bottom:10px;
+  }
+  .section-head .num{
+    display:inline-flex; align-items:center; justify-content:center;
+    min-width:34px; height:30px; padding:0 8px; flex-shrink:0;
+    background:var(--accent, var(--amber-dim)); color:#12161f;
+    font-family:'Space Mono',monospace; font-weight:700; font-size:13px;
+    border-radius:2px;
+  }
+  .section-head h2{ margin:0; font-size:19px; font-weight:700; letter-spacing:.005em; }
   .section-note{ font-size:13px; color:var(--ink-dim); margin:-4px 0 16px; }
+
+  /* ---------- SUBSECTION HEADERS (dentro de una sección grande) ---------- */
+  .subsection-head{
+    display:flex; align-items:center; gap:10px;
+    margin:32px 0 14px; padding:9px 12px;
+    border-left:4px solid var(--sub-accent, var(--amber));
+    background:rgba(255,255,255,.035);
+  }
+  .subsection-head:first-child{ margin-top:4px; }
+  .subsection-head .sub-ico{ font-size:17px; line-height:1; }
+  .subsection-head h3{
+    margin:0; font-size:15px; font-weight:700; color:var(--ink);
+    font-family:'IBM Plex Sans',sans-serif; letter-spacing:0; text-transform:none;
+  }
 
   /* ---------- VARIANT CARDS ---------- */
   .variant{ background:var(--panel); border:1px solid var(--hairline); margin-bottom:20px; }
@@ -324,7 +347,7 @@
   </div>
 
   <!-- ---------- ITINERARIO A ---------- -->
-  <div class="section" id="itinerario">
+  <div class="section" id="itinerario" style="--accent:var(--green);">
     <div class="section-head"><span class="num mono">00</span><h2>Itinerario A — loop propio</h2></div>
     <p class="section-note">Recorrido concreto armado por Daniel mirando el mapa en vivo (12/9/2026), combinando piezas de las variantes 1, 4 y 5 en un solo loop por el oeste del país — entra y sale por San José, sube primero al norte y baja después por la costa Pacífico central. Descarta a propósito el Caribe (Tortuguero) y el extremo sur (Corcovado/Bahía Drake). Mapa en vivo arriba, con las 8 paradas marcadas.</p>
 
@@ -413,7 +436,7 @@
   </div>
 
   <!-- ---------- QUE LE FALTA A ITINERARIO A ---------- -->
-  <div class="section">
+  <div class="section" style="--accent:var(--alert);">
     <div class="section-head"><span class="num mono">01</span><h2>Qué le falta a Itinerario A</h2></div>
     <p class="section-note">Surgió al evaluar una extensión hacia Tamarindo (12/9/2026): en vez de armar un Itinerario B alternativo, se decidió dejar A como está y documentar todo lo que NO cubre, ordenado por cuán fácil sería sumarlo sin romper los 9 días. Combina research ya documentado + búsquedas nuevas (12/9/2026).</p>
 
@@ -474,7 +497,7 @@
   </div>
 
   <!-- ---------- VUELOS ---------- -->
-  <div class="section" id="vuelos">
+  <div class="section" id="vuelos" style="--accent:var(--info);">
     <div class="section-head"><span class="num mono">02</span><h2>Vuelos BUE-San José</h2></div>
     <p class="section-note">Capturas reales de Turismocity (12/9/2026). 1 pasajero, económica, USD. Costa Rica está 3h detrás de Argentina — por eso las vueltas que salen después del mediodía costarricense llegan recién al día siguiente en Argentina.</p>
 
@@ -595,7 +618,7 @@
   </div>
 
   <!-- ---------- VARIANTES ---------- -->
-  <div class="section" id="variantes">
+  <div class="section" id="variantes" style="--accent:var(--amber);">
     <div class="section-head"><span class="num mono">03</span><h2>Variantes en evaluación</h2></div>
     <p class="section-note">Documentadas primero, elegidas después — a propósito. Ninguna está descartada todavía; la 1 es la más desarrollada (itinerario real de referencia), pero la 3 y la 5 vienen ganando peso con research reciente.</p>
 
@@ -732,7 +755,7 @@
   </div>
 
   <!-- ---------- LOGÍSTICA ---------- -->
-  <div class="section">
+  <div class="section" id="logistica" style="--accent:var(--amber-dim);">
     <div class="section-head"><span class="num mono">04</span><h2>Logística general</h2></div>
 
     <div class="info-grid">
@@ -745,7 +768,7 @@
           <li>Reservar con anticipación; Semana Santa sube la demanda.</li>
         </ul>
       </div>
-      <div class="info-card" id="auto">
+      <div class="info-card">
         <h3>Auto de alquiler</h3>
         <ul>
           <li><s>Adobe Rent a Car, 4x4, 7 días: ~US$450 total</s> — <b>dato viejo, ver cotización real más abajo (casi el doble).</b></li>
@@ -756,7 +779,9 @@
       </div>
     </div>
 
-    <div class="info-card" style="margin-top:16px;">
+    <div class="subsection-head" id="auto" style="--sub-accent:var(--amber);"><span class="sub-ico">🚗</span><h3>Auto de alquiler — detalle completo</h3></div>
+
+    <div class="info-card">
       <h3>Cotización real de Adobe (simulación en adobecar.com, 12/9/2026)</h3>
       <p style="font-size:13px; color:var(--ink-dim); margin:0 0 12px;">Simulación real (sin comprar) con las fechas y horarios exactos del viaje: retiro 20/3 10am, devolución 27/3 10pm, 7 días.</p>
       <div style="overflow-x:auto;">
@@ -807,7 +832,9 @@
       <p style="margin:10px 0 0; font-size:13px; color:var(--ink-dim);"><b>Pendiente:</b> escribir por WhatsApp a Pilot, Wild Rider y FACTO (número ya confirmado) pidiendo cotización — ahora que la necesidad de 4x4 quedó en duda, cotizar tanto 4x4 como 2WD de buena altura, y comparar contra Adobe (US$806,40 el 4x4, US$598,64 el 2WD) y EconomyBookings.</p>
     </div>
 
-    <div class="info-card" style="margin-top:16px;" id="hospedaje">
+    <div class="subsection-head" id="hospedaje" style="--sub-accent:var(--green);"><span class="sub-ico">🛏️</span><h3>Alojamiento — detalle completo</h3></div>
+
+    <div class="info-card">
       <h3>Alojamiento — criterio y referencias reales</h3>
       <p style="font-size:13px; color:var(--ink-dim); margin:0 0 12px;"><b>Criterio de Daniel:</b> no pasan mucho tiempo en el hospedaje, no buscan lujo — piden baño privado, agua caliente, ropa de cama y toallas, A/C y cama cómoda. <b>Excepto en Monteverde</b>, donde el A/C no aplica (clima fresco de bosque nuboso).</p>
       <p style="margin:0 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">La Fortuna (3 noches, 20-23/3) — 3 referencias, no decisión cerrada</p>
@@ -883,7 +910,7 @@
   </div>
 
   <!-- ---------- PARADAS SUELTAS ---------- -->
-  <div class="section">
+  <div class="section" style="--accent:var(--info);">
     <div class="section-head"><span class="num mono">05</span><h2>Paradas sueltas (no atadas a una variante)</h2></div>
     <div class="loose-list">
       <ul>
@@ -902,7 +929,7 @@
   </div>
 
   <!-- ---------- PENDIENTES ---------- -->
-  <div class="section" id="pendientes">
+  <div class="section" id="pendientes" style="--accent:var(--alert);">
     <div class="section-head"><span class="num mono">06</span><h2>Pendiente / próximos pasos</h2></div>
     <div class="pending">
       <ol>
