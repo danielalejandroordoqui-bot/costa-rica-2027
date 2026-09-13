@@ -286,18 +286,35 @@ Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adob
 
 El más barato (Boutique Hotel Containers) es el que peor ubicación tiene — el precio no compensa perder ~40min de auto cada vez que se mueven. Entre Tucan Container y Arenal Sweet Bee Cabins la ubicación es similar y buena; ahí sí la decisión pasa por precio/espacio.
 
-### Monteverde — referencia de mercado (búsqueda vieja, 7 noches genéricas, no fechas reales de la zona)
+### Monteverde — 2 noches, 23-25/3/2027 (cotización real, 12/9/2026)
 
-Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 noches genéricas, no las 2 reales de Monteverde) — sirve como referencia de precio/oferta de la zona, no como cotización de las fechas exactas (23-25/3). 167 alojamientos encontrados — oferta amplia. **Pendiente: rebuscar con las fechas reales (2 noches, 23-25/3) y sin filtrar por A/C acá.**
+Sin filtrar por A/C, tal como corresponde a esta zona (clima fresco de bosque nuboso). 2 referencias reales, no decisión cerrada:
+
+**ECO RIVER DOME** (habitación privada en domo) — [Airbnb](https://www.airbnb.com.ar/rooms/53621802), mismas fechas, 2 huéspedes:
+- 4,97/5 (300 evaluaciones) — "Favorito entre huéspedes", top 5% mundial de Airbnb. Anfitrión Harry, Superanfitrión, 7 años de experiencia, guía naturalista de profesión (30 años en el rubro).
+- 1 dormitorio, 1 cama doble, 1 baño privado, A/C portátil, cocina, wifi, ventana panorámica con vista a las montañas/valle, estacionamiento gratis.
+- A 1h en auto del Volcán Arenal. Reseñas destacan la vista, la tranquilidad y la calidez del anfitrión.
+- **Precio 2 noches/2 huéspedes: US$230 total.** Cancelación gratis antes del 18/3/2027.
+
+**Camino Verde B&B Monteverde** — [Booking.com](https://www.booking.com/hotel/cr/camino-verde-bed-amp-brekfast-monteverde.es.html), mismas fechas, 2 adultos:
+- 9,0 "Fantástico" (1.476 comentarios) — Ubicación 9,3/10, Personal 9,7/10. A 350m de la Iglesia de Santa Elena, en pleno centro del pueblo (muy caminable a restaurantes/actividades).
+- Habitación Doble Estándar (15m², 1 cama doble grande): A/C, baño privado, TV, wifi, desayuno incluido ("Fantástico" según reseñas). Terraza compartida con vista al Bosque Nuboso.
+- Precio con descuento Genius: US$212 (antes US$235) + US$28 de impuestos = **US$240 total** las 2 noches. Cancelación gratis antes del 18/3/2027.
+- A 3h en auto del lago/Volcán Arenal (dato propio del hotel, más conservador que el de otras fuentes de la zona).
+
+**Resumen Monteverde (referencia, no decisión cerrada):** ECO RIVER DOME US$230 (domo con vista, más aislado/naturaleza) · Camino Verde B&B US$240 (mejor ubicación — centro de Santa Elena, caminable, con desayuno incluido). Precios muy parejos; la decisión pasa por preferencia de experiencia (domo en la naturaleza vs. B&B céntrico con desayuno) más que por precio.
+
+### Monteverde — referencia de mercado vieja (7 noches genéricas, no fechas reales — dato histórico, superado por la cotización real de arriba)
+
+Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 noches genéricas, no las 2 reales de Monteverde) — se deja como referencia de precio/oferta general de la zona.
 
 - **Cattleya Family** (Santa Elena, Monteverde, 2,2km del centro): 8,8 "Fabuloso" (233 comentarios), Confort 9,0. Doble estándar, 2 camas dobles. 1 semana/2 adultos: US$214 (con descuento, antes US$238) + US$28 impuestos = **~US$242 total**.
 - **Kiwi House** (Santa Elena, Monteverde): 8,6 "Fabuloso" (62 comentarios), Confort 9,1. Apartamento 1 dormitorio, 55m². 1 semana/2 adultos: US$257 + US$35 impuestos = **~US$292 total**.
-- Piso de referencia: ~US$30-42/noche total (2 personas) en alojamientos bien puntuados — coincide con el Hotel Los Cipres del itinerario de referencia (US$62/noche, pero con desayuno incluido, categoría distinta).
 - **Sugerencia general (Emma Terra):** combinar Airbnb (más barato, cocinar) la mayoría de los días con 1-2 noches finales en hotel/lodge de categoría alta como cierre.
 
 ### Pendiente
 
-Buscar cotizaciones reales con fechas exactas para: **Monteverde (2 noches, 23-25/3)**, **Puntarenas/golfo de Nicoya (1 noche, 25-26/3)**, **Manuel Antonio (1 noche, 26-27/3)** — mismo criterio de Daniel (baño privado, agua caliente, ropa de cama/toallas, A/C salvo Monteverde, cama cómoda).
+Buscar cotizaciones reales con fechas exactas para: **Puntarenas/golfo de Nicoya (1 noche, 25-26/3)**, **Manuel Antonio (1 noche, 26-27/3)** — mismo criterio de Daniel (baño privado, agua caliente, ropa de cama/toallas, A/C, cama cómoda).
 
 ## Presupuesto de referencia (Emma Terra, gama media)
 
