@@ -184,6 +184,20 @@ Las dos últimas quedan descartadas de entrada (peor duración sin ninguna venta
 - **Camino a Monteverde complicado:** dos fuentes independientes (Araya Vlogs con problema mecánico, y el "percance en camino de lodo" del itinerario de referencia) confirman que el acceso a Monteverde no es trivial.
 - **Consejos de manejo generales:** caminos rurales de tierra, puentes de un solo carril, tramos en obra.
 
+### Rent a cars locales de Costa Rica — directorio de contacto (WebSearch, 12/9/2026)
+
+Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adobe (ya cotizado, US$450/7 días) conviene comparar contra empresas costarricenses más chicas, que en varios videos/foros aparecen como más baratas que las cadenas internacionales (Hertz, Avis, Budget, Sixt). Ninguna publica precio fijo cerrado online — hay que escribirles directo para cotizar 4x4 7 días, fechas del viaje, y confirmar qué cubre el seguro.
+
+| Empresa | Web | WhatsApp/Tel | Ubicación | Nota |
+|---|---|---|---|---|
+| **Pilot Car Rental** | [carrentalincostarica.com](https://carrentalincostarica.com/) | +506 8513-1104 | La Garita, Alajuela (cerca de SJO) | Precio ejemplo relevado: US$216 por 3,5 días (depósito US$750). Reserva por WhatsApp mandando foto de pasaporte. |
+| **Wild Rider** | [wild-rider.com](https://wild-rider.com/) | +506 8973-2759 | San José, retiro en SJO | Especializados en 4x4 y camper/motorhome — perfil más "aventura/mochilero". |
+| **FACTO Rent a Car** | [app.factorentacar.com](https://app.factorentacar.com/) | 8367-0937 | Costa Rica | Reserva directo por WhatsApp, número publicado en su propia web. |
+| **4x4 Rental Costa Rica** | [4x4rentacar.com](https://4x4rentacar.com/) | — (WhatsApp desde la web) | +15 oficinas en el país, retiro/entrega gratis en SJO | Desde ~US$35/día all-inclusive (otra fuente menciona rango US$12-25 según vehículo — verificar al cotizar, dato contradictorio entre fuentes). Operan desde 2004. |
+| **FAST Rent A Car Costa Rica** | [fastcr.com](https://www.fastcr.com/) | — (WhatsApp desde la web) | Alajuela, cerca de SJO | Empresa familiar costarricense desde 2008, sin cargo por conductor adicional. Número de WhatsApp no confirmado en esta búsqueda, sacarlo del sitio. |
+
+**Pendiente:** escribir por WhatsApp a Pilot, Wild Rider y FACTO (los que ya tienen número confirmado) pidiendo cotización 4x4 7 días para las fechas del viaje (20-28/3/2027), y comparar contra los US$450 de Adobe.
+
 ### Traslados y distancias de referencia
 
 - Aeropuerto SJO → San José: ~30 min.
