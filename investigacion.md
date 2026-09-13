@@ -383,13 +383,18 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 - **Día 4:** La Fortuna → Monteverde (ruta de montaña, ~2h30-3h).
 - **Día 5:** Monteverde (santuario de perezosos, bosque nuboso, Selvatura).
 - **Día 6:** Monteverde → golfo de Nicoya/Puntarenas (~1h30 de manejo, día liviano).
-- **Día 7:** golfo → Quepos/Manuel Antonio (ruta costanera, ~2h-2h45, con margen para parar en Jacó/Carara de camino).
-- **Día 8:** Manuel Antonio (Playa Espadilla, Playa Biesanz, PN).
-- **Día 9:** Manuel Antonio → SJO (~3h-4h), devolución del auto, vuelo de regreso.
+- **Día 7 (vie 26):** golfo → Quepos/Manuel Antonio (ruta costanera, ~2h-2h45, con margen para parar en Jacó/Carara de camino).
+- **Día 8 (sáb 27):** Manuel Antonio día completo — entrada al parque bien temprano (abre 7am) hasta la hora límite de salida (3pm), después playa/pueblo si da el tiempo. Salida hacia SJO a media tarde con luz de día (~3-4h de manejo), llegada a SJO ~18-19h, devolución del auto, cena y traslado tranquilo hacia el aeropuerto. Noche de espera/descanso en la zona del aeropuerto.
+- **Día 9 (dom 28):** sin actividades en Costa Rica — es el día del vuelo. Sale SJO 01:40, llega a Buenos Aires 15:40.
 
-**Dos puntos sin resolver todavía, ambos ya charlados con Daniel:**
-1. **El santuario de perezosos no está cerca de Poás** — está en Monteverde (día 5 de este esqueleto), no en el día 1 como se planteó en la idea original. Si existe otro santuario más cerca de San José/Alajuela, queda pendiente identificarlo.
-2. **Puntarenas/golfo de Nicoya es el tramo menos resuelto:** si el plan es solo bordear la costa del golfo sin cruzar, el día 6-7 es liviano. Si se suma Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote), esa parada necesita 2-3 noches propias según la fuente original (Kike Arnaiz) — con el esqueleto de 9 días de arriba no entra sin sacrificar una noche de otro lado. Sigue sin datos de tiempo/precio del cruce (ver pendiente #5 más abajo).
+**✅ Resuelto (12/9/2026) — horario oficial del Parque Nacional Manuel Antonio:** según SINAC, el parque abre **7:00am y cierra a las 3:00pm** (no 4pm como se pensaba por un video) — cerrado los martes, miércoles a lunes el resto de la semana. El sábado 27 no es martes, así que no hay conflicto de día cerrado. **Las entradas se compran únicamente online**, por el sitio oficial de SINAC — no hay venta en puerta, hay que sacarlas con anticipación.
+
+👉 **Comprar entradas acá:** [serviciosenlinea.sinac.go.cr](https://serviciosenlinea.sinac.go.cr/)
+
+Fuentes: [SINAC — Parque Nacional Manuel Antonio](https://www.sinac.go.cr/es/ac/acopac/pnma/paginas/default.aspx) · [SINAC — ficha oficial del parque (PDF)](https://www.sinac.go.cr/ES/turismo/Brochure%20ICT/Parque%20Nacional%20Manuel%20Antonio.pdf)
+
+**Un punto sin resolver todavía:**
+1. **Puntarenas/golfo de Nicoya es el tramo menos resuelto:** si el plan es solo bordear la costa del golfo sin cruzar, el día 6-7 es liviano. Si se suma Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote), esa parada necesita 2-3 noches propias según la fuente original (Kike Arnaiz) — con el esqueleto de 9 días de arriba no entra sin sacrificar una noche de otro lado. Sigue sin datos de tiempo/precio del cruce (ver pendiente #5 más abajo).
 
 ## Qué le falta a Itinerario A (12/9/2026) — ordenado de más fácil a más difícil de sumar
 
