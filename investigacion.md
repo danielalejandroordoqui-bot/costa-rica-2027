@@ -229,6 +229,29 @@ Daniel buscó en `economybookings.com` (la misma plataforma que usó para alquil
 
 **⚠️ Corrección (13/9/2026):** Daniel marcó que Adobe está notablemente por encima del mercado — el Kia Picanto 2WD de Adobe (US$598,64) es más del doble del sedán más barato de EconomyBookings (Nissan Versa, US$267,42) para fechas casi idénticas. Adobe queda documentado como una cotización real y verificada (útil como dato puntual de una empresa concreta), pero **no se usa como base del presupuesto por persona** — para eso se usa el piso y el techo reales de EconomyBookings (ver sección de Presupuesto más abajo).
 
+### ⚠️ Sospecha: el precio de EconomyBookings puede no incluir el seguro obligatorio (SLI) — en verificación (13/9/2026)
+
+Daniel notó que el Nissan Kicks (SUV) de Avis vía EconomyBookings (US$317,42/8 días) sale casi la mitad que el SUV de Pilot (US$623/7 días) — llamativo, ameritaba revisar si es una comparación justa.
+
+**Se entró a la oferta real (Avis, Nissan Kicks, 20-27/3/2027) en economybookings.com y se revisaron las condiciones completas:**
+- Lo que figura como "incluido" — **Cobertura Total** — es el **CDW** (exención de responsabilidad por daños al auto, protege el depósito), **no es el seguro obligatorio de terceros (SLI)** que exige la ley costarricense para circular.
+- Las condiciones dicen textual: *"Todas las tasas locales por servicios no incluidos en el alquiler serán facturadas por la Compañía de alquiler... y se facturarán en moneda local"* — es decir, hay cargos que se definen recién en el mostrador, en colones, sin monto visible de antemano.
+- El SLI en Costa Rica ronda **US$15-35/día** — sumado a los US$317,42, el precio final probablemente quede entre **US$437 y US$597**, mucho más cerca de los US$623 de Pilot (que ya lo incluye) que de "la mitad".
+
+**No es 100% seguro sin confirmación directa** — es una inferencia fuerte (patrón muy documentado en la industria de Costa Rica), no una garantía para esta reserva puntual.
+
+**✅ Consultas enviadas para confirmar (13/9/2026):**
+- **Avis Costa Rica**, por WhatsApp (+506 6244-9247): se preguntó si el SLI está incluido en los US$317,42 o se paga aparte, y cuánto.
+- **EconomyBookings**, por mail (support@bookinggroup.com, con el número de referencia de la cotización 21-107189): misma pregunta.
+
+**Respuesta de Avis por WhatsApp (13/9/2026, mismo día):** no contestó la pregunta puntual — recomendó cotizar directo en su propia web para elegir el seguro ahí, aclarando que no pueden confirmar cómo trabajan "empresas externas" (o sea, no van a hablar de la cotización de EconomyBookings). Al entrar a avis.cr a cotizar directo para el 20/3 en el Aeropuerto Juan Santamaría con la búsqueda rápida (sin fecha de devolución cargada), la web devolvió **"Los autos están agotados para la localidad y/o ciudad requerida"** — error de búsqueda incompleta, no falta real de disponibilidad.
+
+**✅ Cotización directa en avis.cr con el rango completo (13/9/2026):** se volvió a intentar cargando bien el circuito completo — "Alajuela" en el buscador de ubicación autocompleta a "(SJO) Aeropuerto Internacional Juan Santamaría", fechas 20/3/2027 10:00 (ajustado a mediodía por el sistema) al 27/3/2027. Con eso sí devolvió resultados reales: **SUV Económico (Nissan Kicks o similar, automática) — Tarifa base US$252,00 por 7 días**, y entrando al detalle completo (Paso 2, sin llegar a pagar): + Cargo de registración US$25,48 + Cargo de Aeropuerto US$30,24 + IVA US$40,00 = **Total estimado US$347,72**.
+
+**No aparece ninguna línea de "seguro obligatorio (SLI)" en el desglose** — el listado de "Equipamiento opcional" solo tiene Toll Payment Pass, Asistencia en carretera, Silla de bebé, Conductor adicional, Windshield and Tire Coverage, GPS y Mobile Internet — nada llamado SLI o similar. Sigue sin poder confirmarse al 100% si está incluido en la tarifa base o si se agrega recién en el mostrador.
+
+**⚠️ Esto le baja el peso a la teoría del seguro como única explicación:** aun así, US$347,72 (con impuestos y cargos reales incluidos, del sitio oficial de Avis) sigue bastante por debajo de los US$623-665 de Pilot. Parece haber una brecha real de precio entre cadena internacional y rentadora chica local, no explicada solo por el seguro. **Pendiente: seguir esperando la respuesta de EconomyBookings por mail** para intentar cerrar esto del todo.
+
 ### Rent a cars locales de Costa Rica — directorio de contacto (WebSearch, 12/9/2026)
 
 Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adobe (ya cotizado, US$450/7 días) conviene comparar contra empresas costarricenses más chicas, que en varios videos/foros aparecen como más baratas que las cadenas internacionales (Hertz, Avis, Budget, Sixt). Ninguna publica precio fijo cerrado online — hay que escribirles directo para cotizar 4x4 7 días, fechas del viaje, y confirmar qué cubre el seguro.
@@ -307,15 +330,53 @@ Mandaron fotos de referencia de los autos (una Suzuki Vitara gris y una SsangYon
 - **Precio 3 noches/2 viajeros: US$275 total**, todas las tarifas incluidas. Cancelación gratis antes del 15/3/2027.
 - Más caro que Tucan Container, pero más espacio (2 dormitorios) y una experiencia de fauna ya validada por decenas de reseñas.
 
-**Resumen La Fortuna (referencia, no decisión cerrada):**
+**Opciones adicionales relevadas por Melisa (13/9/2026), mismas fechas exactas, 2 huéspedes:**
 
-| Opción | Precio (USD) | Ubicación |
-|---|---|---|
-| Tucan Container | US$183-203 | Corredor termas/volcán, cerca de La Fortuna |
-| Arenal Sweet Bee Cabins | US$275 | 5 min del centro de La Fortuna — la mejor |
-| Boutique Hotel Containers | ~US$164-215 | Florencia, 35-37 min de La Fortuna — lejos |
+**Vistas Volcán Arenal 4** (Airbnb, anfitrión William Villegas Pérez) — [airbnb.com.ar/rooms/944867743484932589](https://www.airbnb.com.ar/rooms/944867743484932589):
+- 4,8/5 (241 evaluaciones) — Favorito entre huéspedes, Superanfitrión 9 años. 2 dormitorios, A/C confirmado, 1 baño. A 1,5km del centro de La Fortuna (la ficha de Airbnb la clasifica bajo "San Carlos", el cantón que incluye La Fortuna, no es un error de zona).
+- **Precio 3 noches/2 huéspedes: US$122 total.** El más barato de todas las opciones de La Fortuna relevadas hasta ahora, con buen respaldo de reseñas.
 
-El más barato (Boutique Hotel Containers) es el que peor ubicación tiene — el precio no compensa perder ~40min de auto cada vez que se mueven. Entre Tucan Container y Arenal Sweet Bee Cabins la ubicación es similar y buena; ahí sí la decisión pasa por precio/espacio.
+**Arenal Home** (Airbnb, anfitrión Jose Daniel) — [airbnb.com.ar/rooms/42512399](https://www.airbnb.com.ar/rooms/42512399):
+- 4,93/5 (339 evaluaciones) — Favorito entre huéspedes, top 10% mundial. Superanfitrión 7 años. A/C, cocina equipada, lavadora, a 2 cuadras del centro de La Fortuna.
+- **Precio 3 noches: US$203 total.**
+
+**Precioso apartamento en el centro** (Airbnb) — [airbnb.com.ar/rooms/599334628847008463](https://www.airbnb.com.ar/rooms/599334628847008463):
+- 4,89/5 (188 evaluaciones) — Favorito entre huéspedes. A/C confirmado por reseñas ("funcionaba bien... necesario durante el clima húmedo"), en el centro de La Fortuna.
+- **Precio 3 noches: US$158 total.**
+
+**Alojamiento en La Fortuna** (Airbnb, mismo anfitrión que Vistas Volcán Arenal 4) — [airbnb.com.ar/rooms/1315910174315064642](https://www.airbnb.com.ar/rooms/1315910174315064642):
+- 4,85/5 (112 evaluaciones) — Favorito entre huéspedes, A/C confirmado. **Precio 3 noches: US$187 total.**
+
+**Lightroom #2, vista al Volcán Arenal** (Airbnb) — [airbnb.com.ar/rooms/597838169944537686](https://www.airbnb.com.ar/rooms/597838169944537686):
+- 4,84/5 (446 evaluaciones, el mayor volumen de reseñas de toda la zona) — Favorito entre huéspedes, A/C confirmado, baño privado. **Precio 3 noches: US$195 total.**
+
+**Loft increíble en el centro de Fortuna** (Airbnb, Central Park Fortuna Lofts) — [airbnb.com.ar/rooms/1492797218221874903](https://www.airbnb.com.ar/rooms/1492797218221874903):
+- 5,0/5 (85 evaluaciones) — Favorito entre huéspedes, Superanfitrión. A/C + ventilador de techo, en el centro. **Precio 3 noches: US$269 total** — el más caro de todos.
+
+**Chalet La Fortuna** (Airbnb) — [airbnb.com.ar/rooms/1415549910925570857](https://www.airbnb.com.ar/rooms/1415549910925570857):
+- 4,86/5 (129 evaluaciones) — Favorito entre huéspedes, A/C confirmado. ⚠️ La ficha lo ubica en "San Ramón" (cantón bien alejado de La Fortuna en la realidad), pero la descripción del propio anfitrión dice "a solo 10 minutos de La Fortuna" — dato contradictorio, **confirmar ubicación real antes de considerarla**. Precio mostrado ambiguo (aparecen $268 y $209 en la misma página) — **confirmar precio final al momento de reservar.**
+
+**Almendros Eco-Villas** (Hoteles.com/Expedia) — [ar.hoteles.com/ho3090573824](https://ar.hoteles.com/ho3090573824/almendros-eco-villas-la-fortuna-costa-rica/):
+- 8,6/10 (28 opiniones). Casa entera en Los Ángeles de La Fortuna, 2 piscinas al aire libre, A/C a nivel propiedad — pero una reseña de 6/10 advierte que el A/C real solo estaba en 1 cuarto y la sala en su experiencia, con obras/ruido durante la estadía. A 15-20min en auto de las atracciones principales (catarata, termas, parque). No reembolsable.
+- **Precio 3 noches: AR$256.512 ≈ US$166** (convertido a dólar blue $1.545, misma metodología usada para Boutique Hotel Containers).
+
+**Resumen La Fortuna, todas las opciones (13/9/2026):**
+
+| Opción | Precio (USD) | A/C | Ubicación |
+|---|---|---|---|
+| **Vistas Volcán Arenal 4** | **US$122** | ✅ | 1,5km del centro — la más barata con buen respaldo |
+| Almendros Eco-Villas | ~US$166 | ⚠️ parcial según reseña | 15-20min de las atracciones |
+| Precioso apartamento centro | US$158 | ✅ | En el centro |
+| Boutique Hotel Containers | ~US$164-215 | ✅ | Florencia, 35-37 min — lejos |
+| Alojamiento en La Fortuna | US$187 | ✅ | La Fortuna |
+| Tucan Container | US$183-203 | ✅ | Corredor termas/volcán |
+| Lightroom #2 | US$195 | ✅ | 446 reseñas, el mayor respaldo |
+| Chalet La Fortuna | US$209-268 (confirmar) | ✅ | ⚠️ ubicación a confirmar |
+| Arenal Home | US$203 | ✅ | 2 cuadras del centro |
+| Arenal Sweet Bee Cabins | US$275 | ✅ | 5 min del centro — mejor ubicación |
+| Loft increíble centro Fortuna | US$269 | ✅ | En el centro — la más cara |
+
+El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación — el precio no compensa perder ~40min de auto cada vez que se mueven. **Vistas Volcán Arenal 4 (US$122) es el nuevo mejor precio de la zona con respaldo real (241 reseñas, 4,8/5, Favorito entre huéspedes)** — vale la pena priorizarla en la decisión final.
 
 ### Monteverde — 2 noches, 23-25/3/2027 (cotización real, 12/9/2026)
 
@@ -333,7 +394,43 @@ El más barato (Boutique Hotel Containers) es el que peor ubicación tiene — e
 - Precio con descuento Genius: US$212 (antes US$235) + US$28 de impuestos = **US$240 total** las 2 noches. Cancelación gratis antes del 18/3/2027.
 - A 3h en auto del lago/Volcán Arenal (dato propio del hotel, más conservador que el de otras fuentes de la zona).
 
-**Resumen Monteverde (referencia, no decisión cerrada):** ECO RIVER DOME US$230 (domo con vista, más aislado/naturaleza) · Camino Verde B&B US$240 (mejor ubicación — centro de Santa Elena, caminable, con desayuno incluido). Precios muy parejos; la decisión pasa por preferencia de experiencia (domo en la naturaleza vs. B&B céntrico con desayuno) más que por precio.
+**Opciones adicionales relevadas por Melisa (13/9/2026), mismas fechas exactas, 2 huéspedes:**
+
+**⚠️ Descartada — error de zona:** uno de los links que pasó Melisa ("Solar La Fortuna Hotel & Lounge", vía Hoteles.com) resultó estar **en La Fortuna, no en Santa Elena/Monteverde** (a 2 min a pie del Parque de La Fortuna, 6 min del aeropuerto FON) — probablemente un resultado de búsqueda que se filtró mal. No aplica a esta zona.
+
+**⚠️ Hallazgo importante — los hostels de Monteverde no tienen A/C:** se revisaron 3 hostels de Booking.com para esta zona (Hostel Cattleya, Casa Bonanza, Cowboy Hostel) y **ninguno de los tres ofrece aire acondicionado** — ni mencionado en amenities ni en reseñas. Consistente con el clima fresco de bosque nuboso de Monteverde, donde el A/C no es estándar. Quedan documentados por precio, pero no cumplen el criterio no negociable de Daniel:
+- **Hostel Cattleya** — [booking.com/hotel/cr/hostel-cattleya](https://www.booking.com/hotel/cr/hostel-cattleya.es.html): 8,6 "Fabuloso" (1.883 comentarios, mucho respaldo). Habitación Doble Superior, baño privado, **US$66 total 2 noches** — sin A/C.
+- **Cowboy Hostel** — [booking.com/hotel/cr/cowboy-hostel-habitaciones-con-bano-privado](https://www.booking.com/hotel/cr/cowboy-hostel-habitaciones-con-bano-privado.es.html): 8,7 "Fabuloso" (480 comentarios). Habitación doble con baño privado, **US$58 total 2 noches** — sin A/C.
+- **Casa Bonanza** — [booking.com/hotel/cr/bonanza](https://www.booking.com/hotel/cr/bonanza.es.html): 8,1 "Muy bien" (solo 13 comentarios, poco respaldo). Apartamento de 3 dormitorios (sobredimensionado para 2 personas), ~US$95 total 2 noches — sin A/C.
+
+**Las 3 opciones de Airbnb sí tienen A/C** (probablemente instalado específicamente para huéspedes, algo común en alojamientos turísticos de la zona aunque el clima no lo pida):
+
+**Loft colibrí** (Airbnb) — [airbnb.com.ar/rooms/46486245](https://www.airbnb.com.ar/rooms/46486245):
+- 4,78/5 (201 evaluaciones) — no tiene insignia de Superanfitrión pero buen puntaje. **A/C central confirmado en el propio título del anuncio.** Cocina totalmente equipada, TV 55", balcón privado con comederos de colibríes, 1 baño.
+- **Precio 2 noches: US$130 total** — el más barato de Monteverde con A/C confirmado, casi la mitad de ECO RIVER DOME/Camino Verde B&B.
+
+**Casa Torremar en Monteverde** (Airbnb) — [airbnb.com.ar/rooms/53661962](https://www.airbnb.com.ar/rooms/53661962):
+- 4,83/5 (510 evaluaciones, el mayor volumen de reseñas de toda la zona) — Favorito entre huéspedes, Superanfitrión. A/C de ventana confirmado explícitamente por una reseña, 2 dormitorios, 1,5 baños.
+- **Precio 2 noches: US$213 total.**
+
+**Bello Horizonte, vista increíble cerca de Monteverde** (Airbnb) — [airbnb.com.ar/rooms/754275571837272770](https://www.airbnb.com.ar/rooms/754275571837272770):
+- 4,98/5 (116 evaluaciones) — Favorito entre huéspedes. A/C + ventilador portátil confirmado. 1 dormitorio, 1 baño. ⚠️ El nombre dice "cerca de Monteverde", no en el pueblo mismo — confirmar distancia real antes de decidir.
+- **Precio 2 noches: US$184 total** (con descuento por reserva anticipada, antes US$203).
+
+**Resumen Monteverde, todas las opciones (13/9/2026):**
+
+| Opción | Precio (USD) | A/C | Nota |
+|---|---|---|---|
+| **Loft colibrí** | **US$130** | ✅ | El más barato con A/C confirmado |
+| ECO RIVER DOME | US$230 | ✅ portátil | Domo con vista, más aislado |
+| Camino Verde B&B | US$240 | ✅ | Centro de Santa Elena, desayuno incluido |
+| Casa Torremar | US$213 | ✅ ventana | 510 reseñas — el mayor respaldo de la zona |
+| Bello Horizonte | US$184 | ✅ portátil | "Cerca de" Monteverde, confirmar distancia |
+| Cowboy Hostel | US$58 | ❌ | Sin A/C, no cumple criterio |
+| Hostel Cattleya | US$66 | ❌ | Sin A/C, no cumple criterio |
+| Casa Bonanza | ~US$95 | ❌ | Sin A/C, sobredimensionado, poco respaldo |
+
+**Loft colibrí (US$130) es el nuevo mejor precio de la zona que sí cumple el criterio de A/C** — bate a ECO RIVER DOME y Camino Verde B&B por casi la mitad. Los hostels son más baratos todavía, pero quedan descartados por no tener A/C, salvo que Daniel decida relajar ese criterio puntualmente para Monteverde dado el clima fresco de la zona.
 
 ### Monteverde — referencia de mercado vieja (7 noches genéricas, no fechas reales — dato histórico, superado por la cotización real de arriba)
 
@@ -359,6 +456,14 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 **Resumen Puntarenas (referencia, no decisión cerrada):** VALU Puntarenas US$67 (más barato, a pasos de la playa) · Hotel Mar y Mar US$88 (frente al mar, con piscina y desayuno incluido). Ambos con A/C y buena puntuación.
 
+**⚠️ Los 2 links que pasó Melisa para "Puntarenas" (13/9/2026) NO son de esta zona — quedan descartados:**
+- **Chalet Jardín Tropical** ([booking.com/hotel/cr/chalet-jardin-tropical](https://www.booking.com/hotel/cr/chalet-jardin-tropical.es.html)) está en **Ojochal**, en el Pacífico Sur, a horas de distancia de Puntarenas ciudad — zona totalmente distinta, ni siquiera cerca del resto del itinerario.
+- **Casa Susen** ([booking.com/hotel/cr/casa-susen](https://www.booking.com/hotel/cr/casa-susen.es.html)) está en **Montezuma**, en el sur de la Península de Nicoya — se llega solo cruzando en el ferry Puntarenas-Paquera, no es la ciudad de Puntarenas del itinerario.
+
+**Causa probable del error:** la búsqueda de Booking.com se hizo con `dest_type=region` sobre "Puntarenas" — pero en Costa Rica **"Puntarenas" es el nombre de una provincia enorme** que va desde el golfo de Nicoya hasta todo el Pacífico Sur (incluye Jacó, Quepos, Ojochal, Montezuma, y la propia ciudad de Puntarenas), no solo la ciudad donde el itinerario tiene la noche. Al buscar por provincia en vez de por ciudad, el sitio devolvió alojamientos de cualquier punto de esa provincia — hay que rebuscar filtrando específicamente por la ciudad/distrito de Puntarenas, no por la provincia, para tener opciones reales de esta zona. Las 2 referencias ya documentadas (VALU, Hotel Mar y Mar) siguen siendo las únicas válidas hasta que se haga esa nueva búsqueda.
+
+**✅ Solución verificada en vivo (13/9/2026), para no repetir el error — aplica a Booking, Airbnb y Hoteles.com por igual:** al escribir "Puntarenas" en el buscador de Booking.com aparecen dos sugerencias casi idénticas — **"Puntarenas — Puntarenas, Costa Rica"** (repite el nombre, es la ciudad puntual, `dest_type=city`) y **"Puntarenas — Costa Rica"** (sin repetir, es la provincia entera, `dest_type=region`). Se probó eligiendo la primera: devolvió 22 alojamientos, todos genuinamente en la ciudad — el primer resultado fue directamente **VALU**, ya documentado arriba. Regla práctica: **elegir siempre la sugerencia que repite el nombre de la ciudad en el subtítulo**, y como doble chequeo, tocar "Ver en el mapa" después de buscar — si los resultados aparecen agrupados en la costa de la ciudad puntual (no desparramados por decenas de km), la búsqueda es correcta. Mismo criterio vale para Airbnb y Hoteles.com, aunque no se probó en vivo en esos dos.
+
 ### Manuel Antonio / Quepos — 1 noche, 26-27/3/2027 (cotización real, 12/9/2026)
 
 2 referencias reales, no decisión cerrada:
@@ -375,6 +480,53 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 - Precio con descuento Genius (-15%): antes US$77, **US$65 total** la noche (impuestos incluidos). ⚠️ Tarifa no reembolsable, pago online — sin cancelación gratuita como las otras opciones.
 
 **Resumen Manuel Antonio/Quepos (referencia, no decisión cerrada):** Pura Natura Lodge US$65 (mejor puntuado, A/C confirmado, más cerca del parque, pero no reembolsable) · Deluxe Suite Quepos Centro US$75 (más al centro del pueblo, pero A/C sin confirmar y solo 6 reseñas).
+
+**Opciones adicionales relevadas por Melisa (13/9/2026), mismas fechas exactas, 2 adultos:**
+
+**Dos de los 6 links resultaron ser propiedades ya documentadas, no opciones nuevas:**
+- El link de Hoteles.com a "Pura Natura Lodge" ([ar.hoteles.com/ho3217052576](https://ar.hoteles.com/ho3217052576/pura-natura-lodge-quepos-costa-rica/)) es la **misma propiedad** ya cotizada arriba (antes "Hostel Vista Serena") — confirma 9,2/10 en esta plataforma, y da un precio de **AR$88.154 ≈ US$57** por esta vía (un poco más barato que los US$65 de Booking.com — canal alternativo a considerar al reservar).
+- El link llamado "Quepos" ([ar.hoteles.com/ho3072733856](https://ar.hoteles.com/ho3072733856/quepos-quepos-costa-rica/)) resultó ser el **mismo hotel** que "Vista del Pacífico Boutique Hotel" de abajo — AR$123.249 ≈ US$80, confirma el precio de Booking.com. Duplicado, no es una opción distinta.
+
+**Las 4 opciones realmente nuevas (todas con A/C confirmado, todas más caras que Pura Natura Lodge):**
+
+**Hotel Tres Banderas** — [booking.com/hotel/cr/tres-banderas](https://www.booking.com/hotel/cr/tres-banderas.es.html):
+- 8,0 "Muy bien" (1.402 comentarios, el mayor volumen de la zona). A/C confirmado, balcón, TV cable, caja fuerte. **US$73,43 la noche.**
+
+**Vista del Pacífico Boutique Hotel** — [booking.com/hotel/cr/vista-del-pacifico-quepos2](https://www.booking.com/hotel/cr/vista-del-pacifico-quepos2.es.html):
+- 8,1 "Muy bien" (261 comentarios). A/C confirmado por reseñas, ubicado en la cima con vista. **US$81,70 la noche.**
+
+**Senda Adults Only Hostel** — [booking.com/hotel/cr/senda-hostel](https://www.booking.com/hotel/cr/senda-hostel.es.html):
+- 9,1 "Fantástico" (57 comentarios, el mejor puntaje de la zona aunque con menos volumen). A/C confirmado. Solo adultos. **US$89,25 la noche** — el más caro de los nuevos.
+
+**Hotel Verde Mar Direct Beach Access** — [booking.com/hotel/cr/verde-mar](https://www.booking.com/hotel/cr/verde-mar.es.html):
+- 7,8 "Bien" (1.492 comentarios). Acceso directo a la playa, A/C confirmado. Tiene una **Backpackers Room (literas) a US$68** que técnicamente entra 2 personas pero no es cama doble — para una cama doble real, la **Habitación Doble Económica sale US$147 la noche**, la más cara de toda la comparación.
+
+**3 links adicionales de Daniel (13/9/2026, hoteles.com, mismas fechas):**
+
+**Tico Tico Villas Adult Only** — [ar.hoteles.com/ho3393367360](https://ar.hoteles.com/ho3393367360/tico-tico-villas/):
+- 9,6/10 (el mejor puntaje de toda la comparación de Manuel Antonio). A/C confirmado, solo adultos. A 6-14 min en auto de los puntos de interés — buena ubicación.
+- **Precio 1 noche: AR$150.022 ≈ US$97** (dólar blue $1.545, misma metodología usada en el resto del proyecto).
+
+**Hotel Manuel Antonio Beracha** (el link decía "Manuel Antonio Inn", pero la ficha real de la propiedad es esta) — [ar.hoteles.com/ho3946835104](https://ar.hoteles.com/ho3946835104/manuel-antonio-inn/):
+- 9,0/10 (18 opiniones). A/C confirmado, ventilador de techo también. A 5-19 min en auto según el punto de referencia.
+- **Precio 1 noche: AR$179.514 ≈ US$116.**
+
+**⚠️ Raya — descartada, no es de esta zona:** [ar.hoteles.com/ho4317791424](https://ar.hoteles.com/ho4317791424/raya/) está en **Matapalo**, un pueblo de playa bastante más al sur de Quepos/Manuel Antonio (17-48 min de distancia a los puntos de referencia según la propia ficha) — mismo patrón que Ojochal/Montezuma en Puntarenas: la búsqueda por la provincia completa de Puntarenas devuelve resultados de pueblos lejanos. Sin A/C confirmado y sin reseñas todavía (listing nuevo). No aplica al itinerario.
+
+**Resumen Manuel Antonio, todas las opciones (13/9/2026):**
+
+| Opción | Precio/noche (USD) | A/C | Reseñas |
+|---|---|---|---|
+| **Pura Natura Lodge** | **US$57-65** | ✅ | 8,6-9,2, 1.147 comentarios — sigue siendo la mejor opción |
+| Hotel Tres Banderas | US$73,43 | ✅ | 8,0 (1.402) |
+| Deluxe Suite Quepos Centro | US$75 | ⚠️ sin confirmar | 5,0 (solo 6) |
+| Vista del Pacífico Boutique Hotel | US$81,70 | ✅ | 8,1 (261) |
+| Senda Adults Only Hostel | US$89,25 | ✅ | 9,1 (57) |
+| Tico Tico Villas Adult Only | ~US$97 | ✅ | 9,6 — el mejor puntaje |
+| Hotel Manuel Antonio Beracha | ~US$116 | ✅ | 9,0 (18) |
+| Verde Mar (doble económica) | US$147 | ✅ | 7,8 (1.492) |
+
+**Ninguna de las opciones nuevas le gana en precio a Pura Natura Lodge** — sigue siendo la mejor relación precio/comodidad de la zona, ahora con un canal alternativo (hoteles.com) que la deja incluso un poco más barata (US$57 vs. US$65 de Booking.com). Tico Tico Villas (9,6/10) es la de mejor puntaje si el criterio pasa a ser calidad antes que precio.
 
 ### Pendiente
 
