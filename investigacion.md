@@ -179,10 +179,52 @@ Las dos últimas quedan descartadas de entrada (peor duración sin ninguna venta
 
 ## Auto de alquiler
 
-- **Adobe Rent a Car, 4x4 por 7 días ≈ US$450 total** (dato directo de Daniel, no de video).
-- **Alerta de seguro (Emma Terra):** muchas coberturas de tarjeta de crédito NO cubren vehículos pickup, todoterreno o 4x4 — hay que revisar la letra chica, y si no queda claro, contratar el seguro directo con la agencia. No está confirmado qué cubre el Adobe Rent a Car ya cotizado — vale la pena revisarlo antes de reservar, aunque no cambia el análisis de fondo.
+- ~~Adobe Rent a Car, 4x4 por 7 días ≈ US$450 total~~ **dato viejo y desactualizado** (era estimación de Daniel, no cotización real) — ver cotización real de Adobe más abajo, casi el doble.
+- **Alerta de seguro (Emma Terra):** muchas coberturas de tarjeta de crédito NO cubren vehículos pickup, todoterreno o 4x4 — hay que revisar la letra chica, y si no queda claro, contratar el seguro directo con la agencia. **Además, en Costa Rica hay un seguro básico obligatorio por ley** (ver cotización real de Adobe abajo, "Protección a terceros") que se cobra sí o sí, lo cubra o no la tarjeta — la tarjeta como mucho reemplaza el CDW/robo, no ese cargo obligatorio.
 - **Camino a Monteverde complicado:** dos fuentes independientes (Araya Vlogs con problema mecánico, y el "percance en camino de lodo" del itinerario de referencia) confirman que el acceso a Monteverde no es trivial.
 - **Consejos de manejo generales:** caminos rurales de tierra, puentes de un solo carril, tramos en obra.
+
+### Cotización real de Adobe (simulación en avianca.com [sic, adobecar.com], 12/9/2026) — fechas reales 20-27/3/2027, 10am-10pm
+
+Daniel hizo una simulación real (sin comprar) en `adobecar.com` con las fechas y horarios exactos del viaje. Dos categorías, con y sin el cargo obligatorio:
+
+| Categoría | Tarifa base (7 días) | + Protección a terceros (obligatoria) | **Total** |
+|---|---|---|---|
+| Kia Picanto AT (4X2, no 4x4) | US$490,16 | US$108,48 | **US$598,64** |
+| Suzuki Vitara 4WD AT (4x4) | US$697,92 | US$108,48 | **US$806,40** |
+
+**Diferencia real 4x4 vs. no: ~US$208 por los 7 días (~US$30/día).** La "Protección a terceros" es fija, US$108,48 en ambos casos, independiente de la tarjeta de crédito — confirma que es el seguro obligatorio por ley, no algo que se pueda evitar.
+
+### ¿Hace falta 4x4 de verdad? — investigado a fondo (WebSearch, 12/9/2026)
+
+Daniel cuestionó si el 4x4 es realmente necesario para este itinerario, o si es un gasto de más. Se buscó específicamente opiniones reales de viajeros (no solo la intuición general) — **respuesta matizada, no es "sí obligatorio" ni "no hace falta para nada":**
+
+- **Para casi todo el recorrido (SJO-La Fortuna, Puntarenas-Manuel Antonio por Costanera Sur, SJO-Alsacia/Poás) son rutas 100% pavimentadas — un 2WD anda perfecto**, y el consenso general es que en temporada seca (dic-abril, incluye marzo) un 2WD alcanza para la mayoría de los destinos turísticos del país.
+- **La única excepción real que se repite en fuentes independientes es el tramo La Fortuna → Monteverde** (ruta 145, vía Tilarán): un foro de Tripadvisor dice que "4WD no es obligatorio, los propios ticos manejan autos normales ahí", pero matiza que con más altura no hay que esquivar piedras en los tramos sin asfaltar. Otra fuente (Paradise Catchers) es más cautelosa: en seco se hace en sedán, pero no se recomienda si no estás cómodo con caminos angostos y con pozos — y aclara que las cuadrillas emparejan el camino sin calendario fijo, así que ni en temporada seca hay garantía total de buen estado.
+- **Dato concreto a favor del punto medio:** una Hyundai Tucson 2WD (no 4x4, pero SUV con más altura, no un sedán bajo) resultó suficiente para ese tramo según un viajero real.
+- **Conclusión:** no hace falta un 4x4 pleno "porque sí" para todo el viaje — el punto medio más respaldado es **2WD con buena altura (SUV/crossover), no necesariamente 4x4**, y manejar el tramo La Fortuna-Monteverde despacio y con cuidado. Un sedán bajo sí sería arriesgado específicamente en ese tramo.
+
+**Importante para no confundirse:** "SUV" no es lo mismo que "4x4/4WD" — varios de los SUV más baratos que aparecen en comparadores (Toyota Raize, Nissan Kicks) son de tracción simple (2WD) en la mayoría de los mercados, pese a la carrocería tipo SUV. Antes de reservar hay que confirmar la tracción real del vehículo, no guiarse solo por si "parece" SUV.
+
+Fuentes: [Budget.co.cr — ¿Realmente necesita un 4x4 en Costa Rica?](https://budget.co.cr/blog/realmente-necesita-un-4x4-en-costa-rica/) · [Tripadvisor — 4WD a must for Monteverde and Manuel Antonio?](https://www.tripadvisor.com/ShowTopic-g291982-i813-k7029351-4WD_a_must_for_Monteverde_and_Manuel_Antonio-Costa_Rica.html) · [Paradise Catchers — Driving from La Fortuna to Monteverde](https://www.paradisecatchers.com/driving-from-la-fortuna-to-monteverde/) · [MyTanFeet — Monteverde Road Conditions](https://mytanfeet.com/costa-rica-travel-tips/monteverde-road-conditions/) · [Jumbo Car — ¿Necesitás 4x4 en San José/Costa Rica?](https://en.jumbocar-costarica.com/discover-costa-rica/prepare-your-trip/san-jose-costa-rica-do-you-need-a-4x4-or-suv)
+
+**⚠️ Nota para no repetir el error:** no dar por sentado que hace falta pagar el extra de un 4x4 pleno como si fuera obligatorio — con lo investigado, un 2WD de buena altura es una opción real y validada, más barata. Queda pendiente decidir, no cerrado.
+
+### EconomyBookings — comparación de precios, misma fecha/hora (12/9/2026)
+
+Daniel buscó en `economybookings.com` (la misma plataforma que usó para alquilar en Yellowstone/Jackson) con las mismas fechas/horarios (20/3 10am - 27/3 10pm). Filtro "Automática" activo, 225 de 314 vehículos.
+
+**Precios de arranque por categoría:** Pequeño US$308 · Compacto US$386 · Tamaño mediano US$268 · Económico US$472 · Familiar US$527 · Especial US$468.
+
+**Ejemplos puntuales (8 días — el sitio cuenta un día más que Adobe por la devolución a las 22h):**
+- Nissan Versa (midsize, Avis, 7,2 "Muy bien") — **US$267,42**
+- Geely GX3 (pequeño, Sixt, 8,0 "Excelente") — **US$307,57**
+- Nissan Kicks (SUV, Avis) — US$317,42 a US$338,42 según oferta
+- Toyota Raize (SUV, comparado con Hertz/Thrifty/Dollar) — **US$802,45** — este si ronda el precio del 4x4 real de Adobe, y hay que confirmar su tracción antes de asumir que es equivalente
+
+**Todas las empresas disponibles para esta búsqueda, de menor a mayor precio:** Avis US$268 · Sixt US$308 · Secret Deal US$386 · Amigo Rent A Car US$474 · Costa Rent US$460 · Flexways US$428 · Green Motion US$504 · U-save US$514 · Jumbocar US$515 · Ace Rent A Car US$658 · Budget US$752 · Autounion US$886 · Dollar US$822 · Thrifty US$822 · National US$873 · Easycar US$865 · Alamo US$1.115 · Hertz US$1.041.
+
+**Rango enorme (US$268 a US$1.115) para categorías similares** — confirma que en Costa Rica conviene comparar mucho más que en otros países, la variación entre empresas es grande. Pendiente: rebuscar filtrando específicamente por 4x4/doble tracción (no solo "SUV") para tener una comparación real contra los US$806,40 de Adobe.
 
 ### Rent a cars locales de Costa Rica — directorio de contacto (WebSearch, 12/9/2026)
 
@@ -196,7 +238,7 @@ Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adob
 | **4x4 Rental Costa Rica** | [4x4rentacar.com](https://4x4rentacar.com/) | — (WhatsApp desde la web) | +15 oficinas en el país, retiro/entrega gratis en SJO | Desde ~US$35/día all-inclusive (otra fuente menciona rango US$12-25 según vehículo — verificar al cotizar, dato contradictorio entre fuentes). Operan desde 2004. |
 | **FAST Rent A Car Costa Rica** | [fastcr.com](https://www.fastcr.com/) | — (WhatsApp desde la web) | Alajuela, cerca de SJO | Empresa familiar costarricense desde 2008, sin cargo por conductor adicional. Número de WhatsApp no confirmado en esta búsqueda, sacarlo del sitio. |
 
-**Pendiente:** escribir por WhatsApp a Pilot, Wild Rider y FACTO (los que ya tienen número confirmado) pidiendo cotización 4x4 7 días para las fechas del viaje (20-28/3/2027), y comparar contra los US$450 de Adobe.
+**Pendiente:** escribir por WhatsApp a Pilot, Wild Rider y FACTO (los que ya tienen número confirmado) pidiendo cotización — ahora que la necesidad de 4x4 quedó en duda, cotizar tanto 4x4 como 2WD de buena altura, y comparar contra Adobe (US$806,40 el 4x4, US$598,64 el 2WD) y EconomyBookings.
 
 ### Traslados y distancias de referencia
 
