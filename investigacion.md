@@ -247,14 +247,32 @@ Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adob
 - La Fortuna → Monteverde: ~2h30-3h (caminos de montaña, más lento de lo que parece en el mapa).
 - Monteverde → Guanacaste: ~2h-2h30.
 
-## Alojamiento — referencia real en Monteverde
+## Alojamiento — referencias reales por zona
 
-Búsqueda en Booking.com para las fechas exactas del viaje (20-27/3/2027, aportado por Daniel), como referencia de precio/oferta de la zona — no implica quedarse 7 noches en Monteverde, el itinerario real reparte esas noches entre Monteverde/La Fortuna/Manuel Antonio. 167 alojamientos encontrados — oferta amplia.
+**Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Puntarenas/golfo, Manuel Antonio) — **excepto Monteverde, donde el A/C no aplica** (clima fresco de bosque nuboso, ~1.400m de altura, muchos alojamientos ni lo ofrecen porque no hace falta).
+
+### La Fortuna — 3 noches, 20-23/3/2027 (cotización real, 12/9/2026)
+
+**Tucan container** (apartamento, Fortuna) — [Booking.com](https://www.booking.com/hotel/cr/tucan-container.es.html), fechas exactas del viaje, 2 adultos:
+- 9,6 "Excepcional" (14 comentarios) — Personal 9,5, Instalaciones 9,7, Limpieza 9,6, Confort 9,5, Ubicación 9,5.
+- Apartamento 30m², cocina privada, baño con agua caliente, **A/C en todo el alojamiento**, toallas y ropa de cama incluidas, balcón con **jacuzzi privado y vista al Volcán Arenal**, WiFi y parking gratis.
+- Ubicación: pegado al Parque Nacional Volcán Arenal (0m), Catarata La Fortuna a 2km, Ecotermales Fortuna a 4,4km.
+- **Precio 3 noches/2 adultos: US$162 + US$21 impuestos = US$183 total** (no reembolsable, se paga al llegar) — o **US$180 + US$23 = US$203 total** con cancelación gratis hasta 19/3/2027.
+- Check-in 14:00-22:00 (encaja con el plan: llegan a La Fortuna al atardecer del Día 1).
+- Cumple los 5 puntos del criterio de Daniel — buen benchmark de precio/calidad para la zona.
+
+### Monteverde — referencia de mercado (búsqueda vieja, 7 noches genéricas, no fechas reales de la zona)
+
+Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 noches genéricas, no las 2 reales de Monteverde) — sirve como referencia de precio/oferta de la zona, no como cotización de las fechas exactas (23-25/3). 167 alojamientos encontrados — oferta amplia. **Pendiente: rebuscar con las fechas reales (2 noches, 23-25/3) y sin filtrar por A/C acá.**
 
 - **Cattleya Family** (Santa Elena, Monteverde, 2,2km del centro): 8,8 "Fabuloso" (233 comentarios), Confort 9,0. Doble estándar, 2 camas dobles. 1 semana/2 adultos: US$214 (con descuento, antes US$238) + US$28 impuestos = **~US$242 total**.
 - **Kiwi House** (Santa Elena, Monteverde): 8,6 "Fabuloso" (62 comentarios), Confort 9,1. Apartamento 1 dormitorio, 55m². 1 semana/2 adultos: US$257 + US$35 impuestos = **~US$292 total**.
 - Piso de referencia: ~US$30-42/noche total (2 personas) en alojamientos bien puntuados — coincide con el Hotel Los Cipres del itinerario de referencia (US$62/noche, pero con desayuno incluido, categoría distinta).
 - **Sugerencia general (Emma Terra):** combinar Airbnb (más barato, cocinar) la mayoría de los días con 1-2 noches finales en hotel/lodge de categoría alta como cierre.
+
+### Pendiente
+
+Buscar cotizaciones reales con fechas exactas para: **Monteverde (2 noches, 23-25/3)**, **Puntarenas/golfo de Nicoya (1 noche, 25-26/3)**, **Manuel Antonio (1 noche, 26-27/3)** — mismo criterio de Daniel (baño privado, agua caliente, ropa de cama/toallas, A/C salvo Monteverde, cama cómoda).
 
 ## Presupuesto de referencia (Emma Terra, gama media)
 
