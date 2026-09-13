@@ -179,6 +179,7 @@ Las dos últimas quedan descartadas de entrada (peor duración sin ninguna venta
 
 ## Auto de alquiler
 
+- **✅ Resuelto — Permiso Internacional de Conducir (PID):** Daniel ya lo sacó en el ACA en julio 2026, válido por 1 año (cubre marzo 2027 sin problema) y válido para todo el mundo **excepto Brasil** — por lo tanto sirve para Costa Rica. No queda pendiente nada de trámite de licencia para el viaje.
 - ~~Adobe Rent a Car, 4x4 por 7 días ≈ US$450 total~~ **dato viejo y desactualizado** (era estimación de Daniel, no cotización real) — ver cotización real de Adobe más abajo, casi el doble.
 - **Alerta de seguro (Emma Terra):** muchas coberturas de tarjeta de crédito NO cubren vehículos pickup, todoterreno o 4x4 — hay que revisar la letra chica, y si no queda claro, contratar el seguro directo con la agencia. **Además, en Costa Rica hay un seguro básico obligatorio por ley** (ver cotización real de Adobe abajo, "Protección a terceros") que se cobra sí o sí, lo cubra o no la tarjeta — la tarjeta como mucho reemplaza el CDW/robo, no ese cargo obligatorio.
 - **Camino a Monteverde complicado:** dos fuentes independientes (Araya Vlogs con problema mecánico, y el "percance en camino de lodo" del itinerario de referencia) confirman que el acceso a Monteverde no es trivial.
