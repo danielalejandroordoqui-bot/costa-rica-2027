@@ -241,7 +241,35 @@ Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adob
 | **4x4 Rental Costa Rica** | [4x4rentacar.com](https://4x4rentacar.com/) | — (WhatsApp desde la web) | +15 oficinas en el país, retiro/entrega gratis en SJO | Desde ~US$35/día all-inclusive (otra fuente menciona rango US$12-25 según vehículo — verificar al cotizar, dato contradictorio entre fuentes). Operan desde 2004. |
 | **FAST Rent A Car Costa Rica** | [fastcr.com](https://www.fastcr.com/) | — (WhatsApp desde la web) | Alajuela, cerca de SJO | Empresa familiar costarricense desde 2008, sin cargo por conductor adicional. Número de WhatsApp no confirmado en esta búsqueda, sacarlo del sitio. |
 
-**Pendiente:** escribir por WhatsApp a Pilot, Wild Rider y FACTO (los que ya tienen número confirmado) pidiendo cotización — ahora que la necesidad de 4x4 quedó en duda, cotizar tanto 4x4 como 2WD de buena altura, y comparar contra Adobe (US$806,40 el 4x4, US$598,64 el 2WD) y EconomyBookings.
+**✅ Cotización enviada por WhatsApp (13/9/2026):** se mandó el mismo mensaje a Pilot, Wild Rider y FACTO pidiendo precio de 7 días (20-27/3/2027, retiro/entrega SJO) de SUV automática y 4x4 automática, seguro obligatorio incluido. **Pendiente: esperar respuesta de los tres y comparar contra Adobe** (US$806,40 el 4x4, US$598,64 el 2WD) **y EconomyBookings**. Si hace falta un cuarto/quinto presupuesto, quedan sin cotizar todavía **4x4 Rental Costa Rica** y **FAST Rent A Car** (tabla arriba) — sacar el WhatsApp de sus webs si se decide sumarlos.
+
+**Wild Rider — cotización formal enviada por formulario web (13/9/2026), no por WhatsApp directo:** Wild Rider redirige a un formulario en [wild-rider.com/es/nuestros-carros-y-reservacion](https://wild-rider.com/es/nuestros-carros-y-reservacion/) con un dropdown de todos los modelos de la flota (incluye variantes camper y de renta mínima 14 días, que no aplican). Daniel completó y envió el formulario con estos datos, confirmación recibida:
+- Vehículo elegido: **Toyota RAV4 4th Generación, Transmisión Automática** (SUV automática — todavía falta cotizar también la opción 4x4, ver abajo).
+- Retiro: 20/3/2027, 10:00am, directo en el Aeropuerto Juan Santamaría.
+- Entrega: 27/3/2027, 20:00, en la oficina de Alajuela, con traslado al aeropuerto incluido.
+- Total: 7 días, 10 horas.
+- Pasajeros: 2. Contacto usado: daordoqui@gmail.com.
+
+**Pendiente:** falta completar el mismo formulario una segunda vez para cotizar la opción 4x4 (recomendado: **Suzuki Jimny 5 puertas, Transmisión Automática** — no la de 3 puertas, tiene mucho menos baúl) y así tener el mismo par SUV/4x4 que se pidió a Pilot y FACTO.
+
+**✅ Pilot Car Rental — cotización recibida por WhatsApp (13/9/2026, 15:24hs):**
+
+| | |
+|---|---|
+| Período cotizado | 20/3/2027 13:30 → 27/3/2027 13:30 (7 días) |
+| Retiro | Aeropuerto Juan Santamaría (SJO) |
+| Entrega | Oficina de Pilot en el Aeropuerto |
+| **Categoría 1 — SUV Económico 4x2 Automático** | **US$623** |
+| **Categoría 2 — SUV Económico 4x4 Automático** | **US$665** |
+| Depósito reembolsable | US$750 (efectivo o PayPal si es con tarjeta) |
+| Incluye | Seguro básico obligatorio con deducible, asistencia en carretera, kilometraje libre, 1 conductor adicional gratis |
+| Pago con tarjeta | +15% de impuestos locales vía PayPal (el pago en efectivo no paga ese recargo) |
+| Anticipo | No piden pago anticipado — todo se paga el día del alquiler |
+| Vigencia de la cotización | 7 días desde el 13/9/2026 |
+
+Mandaron fotos de referencia de los autos (una Suzuki Vitara gris y una SsangYong/similar con parrilla de techo) como ejemplo de las categorías.
+
+**⚠️ A confirmar:** la cotización asume retiro y entrega a las 13:30hs, pero el horario real esperado es retiro ~10am del día 1 (aterrizaje 08:50 + trámites) y entrega recién a la noche del día 8 (20-23hs aprox., no hay apuro por el horario del vuelo 01:40). Eso son más de 7 días completos desde un retiro a las 10am — conviene reconfirmar con Pilot si eso entra en el mismo precio o si suma un día adicional antes de comparar en firme contra Wild Rider y FACTO.
 
 ### Traslados y distancias de referencia
 
@@ -419,6 +447,10 @@ Repaso de cada parada de Itinerario A contra los días de calendario exactos que
 **Ningún lugar del itinerario actual tiene un cierre semanal que choque con el día asignado.** Dos puntos a tener en cuenta, no cierres sino riesgos de organización:
 
 1. **⚠️ Día 1 (sáb 20/3) es el más ajustado de todo el viaje:** llegada a SJO 08:50am tras un vuelo nocturno, y ese mismo día hay que encadenar Hacienda Alsacia + Volcán Poás (con franja horaria ya reservada, hora fija) + La Paz Waterfall Gardens (mínimo 2h de recorrido, hay que entrar antes de las 3pm) + 2h de manejo hasta La Fortuna. Si el vuelo se atrasa o el trámite migratorio en SJO tarda, se corre toda la cadena y se puede perder la franja de Poás o llegar tarde a La Paz Waterfall Gardens. Es el día con menos margen de todo el itinerario.
+
+   **Cronología detallada (13/9/2026):** aterrizaje 08:50 + inmigración (15-60min, mejor por llegar antes de las 9am) + retiro del auto (45-60min con traslado al lote) → recién se empieza a manejar entre las 10:05 y 10:35am. Con ese punto de partida, la franja de Poás realmente alcanzable es la de 11am-12pm (no la de 8am, ideal para cráter despejado — a esa hora ya suele estar nublado, sea cual sea el orden de las paradas). Siguiendo con Alsacia y después La Paz Waterfall Gardens, la llegada a La Paz cae entre las 14:35 y las 15:50 — la última entrada es a las 15:00, así que en el escenario más realista **no se llega a entrar**.
+
+   **✅ Decisión de Daniel (13/9/2026): se deja el Día 1 tal como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens.** Esto no tiene riesgo de plata perdida: La Paz Waterfall Gardens **no pide reserva anticipada** (se paga en el momento, sin costo hundido si no se llega). El único costo ya comprometido es la entrada a Poás, pero ahí el "riesgo" no es perder la entrada (se usa la franja que toque) sino simplemente no ver el cráter bien despejado — algo ya esperable dado el horario del vuelo, no una falla de planificación.
 2. **⚠️ Eco Termales necesita reserva anticipada** por el cupo limitado (100 personas) — conviene reservarla junto con Poás y Manuel Antonio, no dejarla para último momento, más todavía con Semana Santa superpuesta al viaje.
 
 ## Presupuesto real calculado por persona (13/9/2026)
@@ -677,7 +709,10 @@ Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 1
 - **Parque Nacional Carara + cocodrilos de Tárcoles:** sobre la Costanera Sur, el mismo camino que ya recorre A entre el golfo de Nicoya y Manuel Antonio (~1h30 desde Quepos). Mayor concentración de cocodrilos de Centroamérica (+2.000 en la desembocadura del río Tárcoles) y santuario de la lapa roja/guacamaya escarlata. Sendero Laguna Meándrica, 2-4h. Es una parada de camino, no un desvío. *(WebSearch 12/9/2026)*
 - **Jacó / Playa Herradura / Playa Hermosa:** también sobre la Costanera Sur, mismo tramo que Carara — "4km pasando Jacó a Quepos, menos de 2 horas" según una fuente. Jacó es la más desarrollada turísticamente de la zona (surf, vida nocturna); Hermosa es de las mejores olas del país. Encaja como parada de almuerzo o noche extra en el mismo día 7. *(WebSearch 12/9/2026)*
 - **Río Celeste (PN Volcán Tenorio):** ~1h20-1h30 en auto desde La Fortuna, ruta pavimentada. Catarata y río de color turquesa, caminata de 6km/~3h. Ya estaba anotado como excursión de día posible desde La Fortuna (ver variante 1) — encajaría en el día 2 o 3 del esqueleto de A sin sumar noches. *(dato ya documentado + WebSearch 12/9/2026 confirma tiempos)*
-- **Bajos del Toro:** cerca de Poasito/Volcán Poás (Alajuela), cordillera volcánica central. Se puede combinar con la ruta del día 1 de A (San José → Poás → La Fortuna) desviando por San Miguel en vez del camino directo por Varablanca — mismo día, sin sumar noche, aunque sí más horas de ruta de montaña. Blue Falls + Catarata del Toro, poca gente. *(dato ya documentado + WebSearch 12/9/2026 confirma ubicación)*
+- **Bajos del Toro / Blue Falls of Costa Rica:** cerca de Poasito/Volcán Poás (Alajuela), cordillera volcánica central. **Decisión 13/9/2026: el Día 1 se deja como está** (ya muy ajustado con Alsacia+Poás+La Paz, ver auditoría de horarios más arriba — "si llegamos, llegamos"), así que combinar Bajos del Toro con la ruta del día 1 queda descartado. **Alternativa real: excursión de día desde La Fortuna**, igual que Río Celeste — la fuente original decía "1,5h de La Fortuna" (otra fuente da 3h a "Arenal", posible confusión entre La Fortuna pueblo y la zona del volcán/lago; tomar 1,5-2h como referencia y confirmar al planificar). Compite directamente con Río Celeste por el mismo día de excursión — no entran los dos sin sacrificar una de las actividades ya fijas de La Fortuna (catarata/kayak/termas/caminata nocturna).
+  - **Precio (oficial, blue-falls-of-costa-rica.com, 13/9/2026):** US$20 adulto (solo Blue Falls, 6 cascadas azules + piscinas de baño con guía + senderos) — US$10 niños 4-12 años. Combo con Catarata del Toro (cascada de 90m en un cráter volcánico, atracción separada): US$25, recorrido de ~4h en total.
+  - **Sin reserva anticipada** — se paga al llegar, en efectivo (USD/euros/colones) o tarjeta.
+  - **⚠️ Horario clave: abre lunes a sábado 7am-5pm (última entrada 4pm), CERRADO LOS DOMINGOS.** El Día 2 del itinerario es domingo 21/3 — ese día queda descartado para Bajos del Toro. **El único día viable es el Día 3 (lunes 22/3).**
 
 ### 🟡 Medio — exigen una noche propia o un desvío deliberado, pero siguen siendo en auto/ferry corto
 
@@ -700,5 +735,7 @@ Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 1
 3. **Confirmar qué cubre el seguro del Adobe Rent a Car** (US$450/7 días) antes de reservar — alerta de que muchas tarjetas de crédito no cubren 4x4/pickup.
 4. **Cerrar el Itinerario A con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
 5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — hoy es la parada con menos datos concretos de costo del Itinerario A.
-6. **Repensar el ritmo del día 1** (13/9/2026): es el día con menos margen de todo el itinerario — llegada 08:50am + Hacienda Alsacia + Poás (franja fija) + La Paz Waterfall Gardens (entrar antes de 3pm) + 2h de manejo, todo el mismo día del vuelo nocturno. Evaluar si conviene sacar una actividad de ese día o tener un plan B si el vuelo se atrasa.
+6. ✅ **Ritmo del día 1 — CERRADO (13/9/2026):** analizado en detalle (ver auditoría de horarios más arriba) y decidido dejarlo como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens — sin riesgo de plata perdida porque no pide reserva anticipada.
 7. **Reservar Eco Termales con anticipación** (13/9/2026) junto con Poás y Manuel Antonio — cupo limitado a 100 personas por franja, riesgo de agotarse en Semana Santa.
+8. **Decidir si sumar Bajos del Toro/Blue Falls of Costa Rica y en qué momento** (13/9/2026): único día viable es el Día 3 (lunes 22/3, ya que cierra domingos) como excursión desde La Fortuna — compite por ese mismo día con Río Celeste y con las actividades ya fijas de La Fortuna (catarata/kayak/termas/caminata nocturna). Ver detalle de precio y horario en "Qué le falta a Itinerario A" más abajo.
+9. **Comparar las cotizaciones de auto** una vez respondan Wild Rider (falta el 4x4) y FACTO, contra Pilot (SUV US$623 / 4x4 US$665) y Adobe/EconomyBookings — y reconfirmar con Pilot si el horario real de retiro/entrega (10am día 1 a 20-23h día 8, más de 7 días exactos) entra en el mismo precio.
