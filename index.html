@@ -28,6 +28,8 @@
 
   *,*::before,*::after{ box-sizing:border-box; }
   html{ background:var(--bg); }
+  @media (prefers-reduced-motion:no-preference){ html{ scroll-behavior:smooth; } }
+  :where([id]){ scroll-margin-top:64px; }
   body{
     margin:0;
     background:var(--bg);
@@ -40,6 +42,28 @@
   a{ color:var(--amber); }
 
   .wrap{ max-width:920px; margin:0 auto; padding:0 20px; }
+
+  /* ---------- TOP NAV ---------- */
+  .top-nav{
+    position:sticky; top:0; z-index:40;
+    background:rgba(18,22,31,.92); backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--hairline);
+  }
+  .top-nav-inner{
+    max-width:920px; margin:0 auto; padding:0 12px;
+    display:flex; gap:2px; overflow-x:auto;
+    scrollbar-width:none;
+  }
+  .top-nav-inner::-webkit-scrollbar{ display:none; }
+  .top-nav a{
+    flex:0 0 auto; font-family:'Space Mono',monospace; font-size:11px;
+    letter-spacing:.06em; text-transform:uppercase; color:var(--ink-dim);
+    text-decoration:none; padding:13px 10px; border-bottom:2px solid transparent;
+    white-space:nowrap; transition:color .15s ease, border-color .15s ease;
+  }
+  .top-nav a:hover{ color:var(--ink); }
+  .top-nav a.active{ color:var(--amber); border-bottom-color:var(--amber); }
+  .top-nav a:focus-visible{ outline:2px solid var(--info); outline-offset:-2px; }
 
   /* ---------- HERO ---------- */
   .board-case{
@@ -237,9 +261,21 @@
 </head>
 <body>
 
+<nav class="top-nav" aria-label="Navegación de secciones">
+  <div class="top-nav-inner">
+    <a href="#top" class="nav-link">Destino</a>
+    <a href="#itinerario" class="nav-link">Itinerario</a>
+    <a href="#vuelos" class="nav-link">Vuelos</a>
+    <a href="#auto" class="nav-link">Auto</a>
+    <a href="#hospedaje" class="nav-link">Hospedaje</a>
+    <a href="#variantes" class="nav-link">Variantes</a>
+    <a href="#pendientes" class="nav-link">Pendientes</a>
+  </div>
+</nav>
+
 <div class="wrap">
 
-  <div class="board-case">
+  <div class="board-case" id="top">
     <div class="board-topline mono">
       <span>🌴 Destino elegido</span>
       <span id="clock-stamp">Costa Rica · marzo 2027</span>
@@ -288,7 +324,7 @@
   </div>
 
   <!-- ---------- ITINERARIO A ---------- -->
-  <div class="section">
+  <div class="section" id="itinerario">
     <div class="section-head"><span class="num mono">00</span><h2>Itinerario A — loop propio</h2></div>
     <p class="section-note">Recorrido concreto armado por Daniel mirando el mapa en vivo (12/9/2026), combinando piezas de las variantes 1, 4 y 5 en un solo loop por el oeste del país — entra y sale por San José, sube primero al norte y baja después por la costa Pacífico central. Descarta a propósito el Caribe (Tortuguero) y el extremo sur (Corcovado/Bahía Drake). Mapa en vivo arriba, con las 8 paradas marcadas.</p>
 
@@ -438,7 +474,7 @@
   </div>
 
   <!-- ---------- VUELOS ---------- -->
-  <div class="section">
+  <div class="section" id="vuelos">
     <div class="section-head"><span class="num mono">02</span><h2>Vuelos BUE-San José</h2></div>
     <p class="section-note">Capturas reales de Turismocity (12/9/2026). 1 pasajero, económica, USD. Costa Rica está 3h detrás de Argentina — por eso las vueltas que salen después del mediodía costarricense llegan recién al día siguiente en Argentina.</p>
 
@@ -559,7 +595,7 @@
   </div>
 
   <!-- ---------- VARIANTES ---------- -->
-  <div class="section">
+  <div class="section" id="variantes">
     <div class="section-head"><span class="num mono">03</span><h2>Variantes en evaluación</h2></div>
     <p class="section-note">Documentadas primero, elegidas después — a propósito. Ninguna está descartada todavía; la 1 es la más desarrollada (itinerario real de referencia), pero la 3 y la 5 vienen ganando peso con research reciente.</p>
 
@@ -709,7 +745,7 @@
           <li>Reservar con anticipación; Semana Santa sube la demanda.</li>
         </ul>
       </div>
-      <div class="info-card">
+      <div class="info-card" id="auto">
         <h3>Auto de alquiler</h3>
         <ul>
           <li><s>Adobe Rent a Car, 4x4, 7 días: ~US$450 total</s> — <b>dato viejo, ver cotización real más abajo (casi el doble).</b></li>
@@ -771,7 +807,7 @@
       <p style="margin:10px 0 0; font-size:13px; color:var(--ink-dim);"><b>Pendiente:</b> escribir por WhatsApp a Pilot, Wild Rider y FACTO (número ya confirmado) pidiendo cotización — ahora que la necesidad de 4x4 quedó en duda, cotizar tanto 4x4 como 2WD de buena altura, y comparar contra Adobe (US$806,40 el 4x4, US$598,64 el 2WD) y EconomyBookings.</p>
     </div>
 
-    <div class="info-card" style="margin-top:16px;">
+    <div class="info-card" style="margin-top:16px;" id="hospedaje">
       <h3>Alojamiento — criterio y referencias reales</h3>
       <p style="font-size:13px; color:var(--ink-dim); margin:0 0 12px;"><b>Criterio de Daniel:</b> no pasan mucho tiempo en el hospedaje, no buscan lujo — piden baño privado, agua caliente, ropa de cama y toallas, A/C y cama cómoda. <b>Excepto en Monteverde</b>, donde el A/C no aplica (clima fresco de bosque nuboso).</p>
       <p style="margin:0 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">La Fortuna (3 noches, 20-23/3) — 3 referencias, no decisión cerrada</p>
@@ -852,7 +888,7 @@
   </div>
 
   <!-- ---------- PENDIENTES ---------- -->
-  <div class="section">
+  <div class="section" id="pendientes">
     <div class="section-head"><span class="num mono">06</span><h2>Pendiente / próximos pasos</h2></div>
     <div class="pending">
       <ol>
@@ -902,6 +938,20 @@
       }, delay);
     }
   });
+
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll('.top-nav a.nav-link'));
+  var navTargets = navLinks.map(function(a){ return document.getElementById(a.getAttribute('href').slice(1)); }).filter(Boolean);
+  if(navTargets.length && 'IntersectionObserver' in window){
+    var observer = new IntersectionObserver(function(entries){
+      entries.forEach(function(entry){
+        if(!entry.isIntersecting) return;
+        var link = navLinks[navTargets.indexOf(entry.target)];
+        navLinks.forEach(function(a){ a.classList.remove('active'); });
+        if(link) link.classList.add('active');
+      });
+    }, { rootMargin: '-64px 0px -70% 0px', threshold: 0 });
+    navTargets.forEach(function(el){ observer.observe(el); });
+  }
 
   var topBtn = document.getElementById('back-to-top');
   var SCROLL_THRESHOLD = 600;
