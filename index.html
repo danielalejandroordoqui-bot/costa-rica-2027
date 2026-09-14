@@ -249,6 +249,25 @@
   .chip-row{ display:flex; flex-wrap:wrap; gap:6px; margin-top:12px; }
   .chip{ font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.03em; color:var(--ink-dim); border:1px solid var(--hairline); padding:3px 9px; background:var(--panel-2); }
 
+  /* ---------- LODGING GRID ---------- */
+  .lodging-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:12px; margin-bottom:18px; }
+  .lodging-card{ background:var(--panel); border:1px solid var(--hairline); border-top:3px solid var(--hairline); padding:14px 16px; display:flex; flex-direction:column; gap:8px; }
+  .lodging-card.best{ border-top-color:var(--green); }
+  .lodging-card.warn{ border-top-color:var(--danger); }
+  .lodging-card .lc-head{ display:flex; justify-content:space-between; align-items:flex-start; gap:8px; }
+  .lodging-card .lc-name{ font-size:14px; font-weight:700; color:var(--ink); line-height:1.3; }
+  .lodging-card .lc-badge{ flex-shrink:0; font-family:'Space Mono',monospace; font-size:9px; letter-spacing:.04em; text-transform:uppercase; padding:2px 6px; white-space:nowrap; color:var(--green); border:1px solid rgba(95,211,141,.4); background:rgba(95,211,141,.08); }
+  .lodging-card .lc-rating{ font-family:'Space Mono',monospace; font-size:11px; color:var(--ink-faint); }
+  .lodging-card .lc-price{ font-family:'Space Mono',monospace; font-size:19px; font-weight:700; color:var(--amber); }
+  .lodging-card .lc-price span{ font-size:11px; font-weight:400; color:var(--ink-faint); }
+  .lodging-card .lc-tags{ display:flex; flex-wrap:wrap; gap:5px; }
+  .lodging-card .lc-tag{ font-family:'Space Mono',monospace; font-size:9.5px; letter-spacing:.03em; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-dim); }
+  .lodging-card .lc-tag.yes{ color:var(--green); border-color:rgba(95,211,141,.3); }
+  .lodging-card .lc-tag.no{ color:var(--danger); border-color:rgba(255,92,92,.3); }
+  .lodging-card .lc-note{ font-size:12px; color:var(--ink-dim); line-height:1.45; flex:1; margin:0; }
+  .lodging-card .lc-link{ font-family:'Space Mono',monospace; font-size:11px; color:var(--info); text-decoration:none; margin-top:2px; }
+  .lodging-card .lc-link:hover{ text-decoration:underline; }
+
   .compare-table{ width:100%; border-collapse:collapse; font-size:13px; }
   .compare-table th{ text-align:left; padding:6px 10px 8px 0; font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.05em; text-transform:uppercase; color:var(--ink-faint); border-bottom:1px solid var(--hairline); }
   .compare-table td{ padding:8px 10px 8px 0; border-bottom:1px solid var(--hairline); color:var(--ink-dim); vertical-align:top; }
@@ -857,94 +876,258 @@
     <div class="info-card">
       <h3>Alojamiento — criterio y referencias reales</h3>
       <p style="font-size:13px; color:var(--ink-dim); margin:0 0 12px;"><b>Criterio de Daniel:</b> no pasan mucho tiempo en el hospedaje, no buscan lujo — piden baño privado, agua caliente, ropa de cama y toallas, A/C y cama cómoda.</p>
-      <p style="margin:0 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">La Fortuna (3 noches, 20-23/3) — 8 referencias, no decisión cerrada</p>
-      <div class="v-note" style="margin-bottom:12px; border-left-color:var(--green);">
-        <b>⭐ Vistas Volcán Arenal 4</b> (Airbnb) — 4,8/5 (241 evaluaciones), Favorito entre huéspedes, Superanfitrión. 2 dormitorios, A/C, a 1,5km del centro. <b>US$122 total</b> — el más barato de la zona con buen respaldo. <a href="https://www.airbnb.com.ar/rooms/944867743484932589" target="_blank" rel="noopener">Ver en Airbnb</a>
+
+      <p style="margin:0 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">La Fortuna (3 noches, 20-23/3) — 11 referencias, no decisión cerrada</p>
+      <div class="lodging-grid">
+        <div class="lodging-card best">
+          <div class="lc-head"><span class="lc-name">Vistas Volcán Arenal 4</span><span class="lc-badge">⭐ Mejor precio</span></div>
+          <span class="lc-rating">4,8★ (241 reseñas) · Favorito entre huéspedes</span>
+          <div class="lc-price">US$122 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">2 dormitorios</span></div>
+          <p class="lc-note">A 1,5km del centro — el más barato de la zona con buen respaldo.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/944867743484932589" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Tucan Container</span></div>
+          <span class="lc-rating">9,6 "Excepcional" (14 comentarios)</span>
+          <div class="lc-price">US$183-203 <span>3 noches, según cancelación</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Jacuzzi privado</span></div>
+          <p class="lc-note">Baño con agua caliente, balcón con jacuzzi y vista al Arenal, pegado al parque nacional.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/tucan-container.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Arenal Home</span></div>
+          <span class="lc-rating">4,93★ (339 reseñas) · Favorito top 10% · Superanfitrión</span>
+          <div class="lc-price">US$203 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span></div>
+          <p class="lc-note">Cocina, lavadora, a 2 cuadras del centro.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/42512399" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Precioso apartamento en el centro</span></div>
+          <span class="lc-rating">4,89★ (188 reseñas) · Favorito entre huéspedes</span>
+          <div class="lc-price">US$158 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span></div>
+          <p class="lc-note">A/C confirmado por reseñas, en el centro.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/599334628847008463" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Alojamiento en La Fortuna</span></div>
+          <span class="lc-rating">4,85★ (112 reseñas) · Favorito entre huéspedes</span>
+          <div class="lc-price">US$187 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span></div>
+          <p class="lc-note">Mismo anfitrión que Vistas Volcán Arenal 4.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/1315910174315064642" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Lightroom #2, vista al Arenal</span></div>
+          <span class="lc-rating">4,84★ (446 reseñas, el mayor respaldo) · Favorito</span>
+          <div class="lc-price">US$195 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Baño privado</span></div>
+          <p class="lc-note">—</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/597838169944537686" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card warn">
+          <div class="lc-head"><span class="lc-name">Chalet La Fortuna</span></div>
+          <span class="lc-rating">4,86★ (129 reseñas) · Favorito entre huéspedes</span>
+          <div class="lc-price">US$209-268 <span>3 noches, confirmar</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span></div>
+          <p class="lc-note">⚠️ Ubicación contradictoria ("San Ramón" en la ficha vs. "10 min de La Fortuna" según el anfitrión) — confirmar antes de considerarla.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/1415549910925570857" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card warn">
+          <div class="lc-head"><span class="lc-name">Boutique Hotel Containers</span></div>
+          <span class="lc-rating">10/10 "Excepcional" (11 opiniones)</span>
+          <div class="lc-price">≈US$164-215 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Kitchenette</span></div>
+          <p class="lc-note">⚠️ NO es La Fortuna — 35-37 min en auto, la peor ubicación de la zona.</p>
+          <a class="lc-link" href="https://ar.hoteles.com/ho3315641824/hotel-contenedores-corporativos-florencia-costa-rica/" target="_blank" rel="noopener">Ver en Hoteles.com →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Almendros Eco-Villas</span></div>
+          <span class="lc-rating">8,6/10 (28 opiniones)</span>
+          <div class="lc-price">≈US$166 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag">A/C ⚠️ parcial</span></div>
+          <p class="lc-note">Casa entera, 2 piscinas. Una reseña advierte A/C solo en 1 cuarto. A 15-20min de las atracciones.</p>
+          <a class="lc-link" href="https://ar.hoteles.com/ho3090573824/almendros-eco-villas-la-fortuna-costa-rica/" target="_blank" rel="noopener">Ver en Hoteles.com →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Arenal Sweet Bee Cabins</span></div>
+          <span class="lc-rating">4,94★ (84 reseñas) · Favorito top 10%</span>
+          <div class="lc-price">US$275 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">2 dormitorios</span></div>
+          <p class="lc-note">A 5min del centro — la mejor ubicación, pero la más cara de la zona.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/1183455758384501529" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Loft increíble en el centro de Fortuna</span></div>
+          <span class="lc-rating">5,0★ (85 reseñas) · Favorito · Superanfitrión</span>
+          <div class="lc-price">US$269 <span>3 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Ventilador</span></div>
+          <p class="lc-note">En el centro — la más cara de todas.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/1492797218221874903" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
       </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Tucan container</b> (apartamento) — 9,6 "Excepcional" (14 comentarios). A/C en todo el alojamiento, baño con agua caliente, balcón con jacuzzi privado y vista al Arenal, pegado al parque nacional. <b>US$183-203 total</b> según cancelación. <a href="https://www.booking.com/hotel/cr/tucan-container.es.html" target="_blank" rel="noopener">Ver en Booking.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Arenal Home</b> (Airbnb) — 4,93/5 (339 evaluaciones), Favorito top 10% mundial, Superanfitrión. A/C, cocina, lavadora, a 2 cuadras del centro. <b>US$203 total.</b> <a href="https://www.airbnb.com.ar/rooms/42512399" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Precioso apartamento en el centro</b> (Airbnb) — 4,89/5 (188 evaluaciones), Favorito entre huéspedes, A/C confirmado por reseñas, en el centro. <b>US$158 total.</b> <a href="https://www.airbnb.com.ar/rooms/599334628847008463" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Alojamiento en La Fortuna</b> (Airbnb, mismo anfitrión que Vistas Volcán Arenal 4) — 4,85/5 (112 evaluaciones), Favorito, A/C. <b>US$187 total.</b> <a href="https://www.airbnb.com.ar/rooms/1315910174315064642" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Lightroom #2, vista al Arenal</b> (Airbnb) — 4,84/5 (446 evaluaciones, el mayor respaldo de la zona), Favorito, A/C, baño privado. <b>US$195 total.</b> <a href="https://www.airbnb.com.ar/rooms/597838169944537686" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Chalet La Fortuna</b> (Airbnb) — 4,86/5 (129 evaluaciones), Favorito, A/C. ⚠️ Ubicación contradictoria ("San Ramón" en la ficha vs. "10 min de La Fortuna" según el anfitrión) y precio ambiguo ($209-268) — confirmar antes de considerarla. <a href="https://www.airbnb.com.ar/rooms/1415549910925570857" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Boutique Hotel Containers</b> (Florencia/Platanar) — 10/10 "Excepcional" (11 opiniones). A/C+kitchenette. ≈US$164-215. ⚠️ NO es La Fortuna — 35-37 min en auto, la peor ubicación de la zona. <a href="https://ar.hoteles.com/ho3315641824/hotel-contenedores-corporativos-florencia-costa-rica/" target="_blank" rel="noopener">Ver en Hoteles.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Almendros Eco-Villas</b> (Hoteles.com) — 8,6/10 (28 opiniones). Casa entera, 2 piscinas, A/C a nivel propiedad. ⚠️ Una reseña advierte A/C solo en 1 cuarto en su experiencia. A 15-20min de las atracciones. ≈US$166. <a href="https://ar.hoteles.com/ho3090573824/almendros-eco-villas-la-fortuna-costa-rica/" target="_blank" rel="noopener">Ver en Hoteles.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Arenal Sweet Bee Cabins</b> (Airbnb) — 4,94/5 (84 evaluaciones), Favorito top 10%. 2 dormitorios, A/C, a 5min del centro — la mejor ubicación. <b>US$275 total</b> — la más cara de la zona. <a href="https://www.airbnb.com.ar/rooms/1183455758384501529" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:0;">
-        <b>Loft increíble en el centro de Fortuna</b> (Airbnb) — 5,0/5 (85 evaluaciones), Favorito, Superanfitrión, A/C+ventilador, en el centro. <b>US$269 total</b> — la más cara de todas. <a href="https://www.airbnb.com.ar/rooms/1492797218221874903" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Monteverde (2 noches, 23-25/3) — 6 referencias válidas (1 descartada por error de zona)</p>
+
+      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Monteverde (2 noches, 23-25/3) — 8 referencias válidas (1 descartada por error de zona)</p>
       <p style="font-size:12.5px; color:var(--ink-faint); margin:0 0 10px;">⚠️ Los 3 hostels de Booking.com de esta zona <b>no tienen A/C</b> (clima fresco de bosque nuboso, no es estándar acá) — quedan documentados pero no cumplen el criterio de Daniel.</p>
-      <div class="v-note" style="margin-bottom:12px; border-left-color:var(--green);">
-        <b>⭐ Loft colibrí</b> (Airbnb) — 4,78/5 (201 evaluaciones). A/C central confirmado en el título del anuncio, cocina equipada, balcón con colibríes. <b>US$130 total</b> — el más barato con A/C confirmado, casi la mitad de las 2 opciones ya cotizadas. <a href="https://www.airbnb.com.ar/rooms/46486245" target="_blank" rel="noopener">Ver en Airbnb</a>
+      <div class="lodging-grid">
+        <div class="lodging-card best">
+          <div class="lc-head"><span class="lc-name">Loft colibrí</span><span class="lc-badge">⭐ Mejor precio</span></div>
+          <span class="lc-rating">4,78★ (201 reseñas)</span>
+          <div class="lc-price">US$130 <span>2 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C central</span></div>
+          <p class="lc-note">Cocina equipada, balcón con colibríes — el más barato con A/C confirmado, casi la mitad de las otras opciones cotizadas.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/46486245" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">ECO RIVER DOME</span></div>
+          <span class="lc-rating">4,97★ (300 reseñas) · Favorito top 5% mundial</span>
+          <div class="lc-price">US$230 <span>2 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C portátil</span></div>
+          <p class="lc-note">Cocina, vista panorámica.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/53621802" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Camino Verde B&amp;B Monteverde</span></div>
+          <span class="lc-rating">9,0 "Fantástico" (1.476 comentarios)</span>
+          <div class="lc-price">US$240 <span>2 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Desayuno incluido</span></div>
+          <p class="lc-note">A 350m del centro de Santa Elena.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/camino-verde-bed-amp-brekfast-monteverde.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Casa Torremar en Monteverde</span></div>
+          <span class="lc-rating">4,83★ (510 reseñas, el mayor respaldo) · Favorito</span>
+          <div class="lc-price">US$213 <span>2 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C ventana</span><span class="lc-tag">2 dormitorios</span></div>
+          <p class="lc-note">—</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/53661962" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Bello Horizonte, cerca de Monteverde</span></div>
+          <span class="lc-rating">4,98★ (116 reseñas) · Favorito</span>
+          <div class="lc-price">US$184 <span>2 noches, reserva anticipada</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C + ventilador</span></div>
+          <p class="lc-note">⚠️ "Cerca de" Monteverde, no en el pueblo — confirmar distancia.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/754275571837272770" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card warn">
+          <div class="lc-head"><span class="lc-name">Hostel Cattleya</span></div>
+          <span class="lc-rating">8,6 "Fabuloso" (1.883 comentarios)</span>
+          <div class="lc-price">US$66 <span>2 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag no">Sin A/C</span><span class="lc-tag">Baño privado</span></div>
+          <p class="lc-note">Muy barato, pero no cumple el criterio de A/C.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/hostel-cattleya.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card warn">
+          <div class="lc-head"><span class="lc-name">Cowboy Hostel</span></div>
+          <span class="lc-rating">8,7 "Fabuloso" (480 comentarios)</span>
+          <div class="lc-price">US$58 <span>2 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag no">Sin A/C</span><span class="lc-tag">Baño privado</span></div>
+          <p class="lc-note">Muy barato, pero no cumple el criterio de A/C.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/cowboy-hostel-habitaciones-con-bano-privado.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card warn">
+          <div class="lc-head"><span class="lc-name">Casa Bonanza</span></div>
+          <span class="lc-rating">8,1 "Muy bien" (13 comentarios, poco respaldo)</span>
+          <div class="lc-price">~US$95 <span>2 noches</span></div>
+          <div class="lc-tags"><span class="lc-tag no">Sin A/C</span></div>
+          <p class="lc-note">Apartamento de 3 dormitorios, sobredimensionado para 2 personas.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/bonanza.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
       </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>ECO RIVER DOME</b> (Airbnb) — 4,97/5 (300 evaluaciones), Favorito top 5% mundial. A/C portátil, cocina, vista panorámica. <b>US$230 total.</b> <a href="https://www.airbnb.com.ar/rooms/53621802" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Camino Verde B&B Monteverde</b> — 9,0 "Fantástico" (1.476 comentarios). A 350m del centro de Santa Elena, A/C, desayuno incluido. <b>US$240 total.</b> <a href="https://www.booking.com/hotel/cr/camino-verde-bed-amp-brekfast-monteverde.es.html" target="_blank" rel="noopener">Ver en Booking.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Casa Torremar en Monteverde</b> (Airbnb) — 4,83/5 (510 evaluaciones, el mayor respaldo de la zona), Favorito, A/C de ventana confirmado, 2 dormitorios. <b>US$213 total.</b> <a href="https://www.airbnb.com.ar/rooms/53661962" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Bello Horizonte, cerca de Monteverde</b> (Airbnb) — 4,98/5 (116 evaluaciones), Favorito, A/C+ventilador. ⚠️ "Cerca de" Monteverde, no en el pueblo — confirmar distancia. <b>US$184 total</b> (con reserva anticipada). <a href="https://www.airbnb.com.ar/rooms/754275571837272770" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:0; border-left-color:var(--danger);">
-        <b>Cowboy Hostel / Hostel Cattleya</b> (Booking.com) — 8,7 y 8,6 "Fabuloso" (480 y 1.883 comentarios), baño privado. <b>US$58 y US$66 total</b> — muy baratos, pero <b style="color:var(--danger);">sin A/C</b>, no cumplen el criterio. <a href="https://www.booking.com/hotel/cr/cowboy-hostel-habitaciones-con-bano-privado.es.html" target="_blank" rel="noopener">Cowboy</a> · <a href="https://www.booking.com/hotel/cr/hostel-cattleya.es.html" target="_blank" rel="noopener">Cattleya</a>
-      </div>
+
       <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Puntarenas (1 noche, 25-26/3) — 2 referencias, no decisión cerrada</p>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>VALU Puntarenas</b> (apartamento, Airbnb) — 4,88/5 (104 evaluaciones), "Favorito entre huéspedes". Cocina equipada, A/C, ventilador de techo, a 100m de la playa. <b>US$67 total</b> (2 huéspedes). <a href="https://www.airbnb.com.ar/rooms/1161894201627519092" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:0;">
-        <b>Hotel Mar y Mar</b> — 8,2 "Muy bien" (758 comentarios). Frente a la playa, piscina, A/C, baño privado, desayuno incluido. <b>US$88 total</b> (2 adultos, con descuento Genius + impuestos). <a href="https://www.booking.com/hotel/cr/cabinas-mar-y-mar.es.html" target="_blank" rel="noopener">Ver en Booking.com</a>
+      <div class="lodging-grid">
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">VALU Puntarenas</span></div>
+          <span class="lc-rating">4,88★ (104 reseñas) · Favorito entre huéspedes</span>
+          <div class="lc-price">US$67 <span>1 noche</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Cocina equipada</span></div>
+          <p class="lc-note">A 100m de la playa, ventilador de techo.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/1161894201627519092" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Hotel Mar y Mar</span></div>
+          <span class="lc-rating">8,2 "Muy bien" (758 comentarios)</span>
+          <div class="lc-price">US$88 <span>1 noche, descuento Genius</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Baño privado</span><span class="lc-tag">Desayuno incluido</span></div>
+          <p class="lc-note">Frente a la playa, piscina.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/cabinas-mar-y-mar.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
       </div>
       <p style="font-size:12.5px; color:var(--ink-faint); margin:10px 0 0;">⚠️ Los 2 links nuevos que se relevaron para esta zona (Chalet Jardín Tropical y Casa Susen) resultaron estar en <b>Ojochal</b> y <b>Montezuma</b> respectivamente — pueblos distintos dentro de la enorme provincia de Puntarenas, no la ciudad del itinerario. Descartados, no suman opciones reales todavía.</p>
       <p style="font-size:12.5px; color:var(--ink-faint); margin:8px 0 0;">✅ <b>Solución verificada:</b> al buscar "Puntarenas" en Booking/Airbnb/Hoteles.com aparecen dos sugerencias casi iguales — elegir la que <b>repite el nombre de la ciudad en el subtítulo</b> ("Puntarenas, Puntarenas, Costa Rica"), no la que dice solo "Puntarenas, Costa Rica" (esa es la provincia entera). Como doble chequeo, tocar "Ver en el mapa" y confirmar que los resultados están agrupados en la costa de la ciudad, no desparramados.</p>
-      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Manuel Antonio / Quepos (1 noche, 26-27/3) — 9 referencias (2 duplicadas de Pura Natura Lodge, 1 descartada por error de zona)</p>
-      <div class="v-note" style="margin-bottom:12px; border-left-color:var(--green);">
-        <b>⭐ Pura Natura Lodge</b> (antes Hostel Vista Serena) — 8,6-9,2 según plataforma (1.147 comentarios), Ubicación 9,0/10. A 4km del PN Manuel Antonio, vistas al mar, piscina, A/C confirmado. <b>US$57-65 total</b> según canal de reserva — sigue siendo la mejor opción de la zona. <a href="https://www.booking.com/hotel/cr/hostel-vista-serena.es.html" target="_blank" rel="noopener">Ver en Booking.com</a>
+
+      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Manuel Antonio / Quepos (1 noche, 26-27/3) — 8 referencias válidas (2 links duplicados de Pura Natura Lodge/Vista del Pacífico, 1 descartada por error de zona)</p>
+      <div class="lodging-grid">
+        <div class="lodging-card best">
+          <div class="lc-head"><span class="lc-name">Pura Natura Lodge</span><span class="lc-badge">⭐ Mejor opción</span></div>
+          <span class="lc-rating">8,6-9,2 según plataforma (1.147 comentarios)</span>
+          <div class="lc-price">US$57-65 <span>1 noche, según canal</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span></div>
+          <p class="lc-note">A 4km del PN Manuel Antonio, vistas al mar, piscina — sigue siendo la mejor opción de la zona.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/hostel-vista-serena.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Hotel Tres Banderas</span></div>
+          <span class="lc-rating">8,0 "Muy bien" (1.402 comentarios, el mayor respaldo)</span>
+          <div class="lc-price">US$73,43 <span>por noche</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span></div>
+          <p class="lc-note">Balcón, TV cable.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/tres-banderas.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card warn">
+          <div class="lc-head"><span class="lc-name">Deluxe Suite Quepos Centro</span></div>
+          <span class="lc-rating">5,0★ (6 evaluaciones) · Favorito</span>
+          <div class="lc-price">US$75 <span>1 noche</span></div>
+          <div class="lc-tags"><span class="lc-tag no">A/C sin confirmar</span></div>
+          <p class="lc-note">Centro de Quepos, 20 min del parque.</p>
+          <a class="lc-link" href="https://www.airbnb.com.ar/rooms/1629244010200348893" target="_blank" rel="noopener">Ver en Airbnb →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Vista del Pacífico Boutique Hotel</span></div>
+          <span class="lc-rating">8,1 "Muy bien" (261 comentarios)</span>
+          <div class="lc-price">US$81,70 <span>por noche</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span></div>
+          <p class="lc-note">Vista desde la cima.</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/vista-del-pacifico-quepos2.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Senda Adults Only Hostel</span></div>
+          <span class="lc-rating">9,1 "Fantástico" (57 comentarios)</span>
+          <div class="lc-price">US$89,25 <span>por noche</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Solo adultos</span></div>
+          <p class="lc-note">—</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/senda-hostel.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Hotel Verde Mar Direct Beach Access</span></div>
+          <span class="lc-rating">7,8 "Bien" (1.492 comentarios)</span>
+          <div class="lc-price">US$147 <span>doble económica, por noche</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Acceso directo a la playa</span></div>
+          <p class="lc-note">La más cara de la comparación (hay literas más baratas, US$68, pero no cama doble).</p>
+          <a class="lc-link" href="https://www.booking.com/hotel/cr/verde-mar.es.html" target="_blank" rel="noopener">Ver en Booking.com →</a>
+        </div>
+        <div class="lodging-card best">
+          <div class="lc-head"><span class="lc-name">Tico Tico Villas Adult Only</span><span class="lc-badge">⭐ Mejor puntaje</span></div>
+          <span class="lc-rating">9,6/10 — el mejor puntaje de la zona</span>
+          <div class="lc-price">≈US$97 <span>por noche</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Solo adultos</span></div>
+          <p class="lc-note">A 6-14min de los puntos de interés.</p>
+          <a class="lc-link" href="https://ar.hoteles.com/ho3393367360/tico-tico-villas/" target="_blank" rel="noopener">Ver en Hoteles.com →</a>
+        </div>
+        <div class="lodging-card">
+          <div class="lc-head"><span class="lc-name">Hotel Manuel Antonio Beracha</span></div>
+          <span class="lc-rating">9,0/10 (18 opiniones)</span>
+          <div class="lc-price">≈US$116 <span>por noche</span></div>
+          <div class="lc-tags"><span class="lc-tag yes">A/C</span><span class="lc-tag">Ventilador de techo</span></div>
+          <p class="lc-note">—</p>
+          <a class="lc-link" href="https://ar.hoteles.com/ho3946835104/manuel-antonio-inn/" target="_blank" rel="noopener">Ver en Hoteles.com →</a>
+        </div>
       </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Hotel Tres Banderas</b> — 8,0 "Muy bien" (1.402 comentarios, el mayor respaldo). A/C, balcón, TV cable. <b>US$73,43/noche.</b> <a href="https://www.booking.com/hotel/cr/tres-banderas.es.html" target="_blank" rel="noopener">Ver en Booking.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Deluxe Suite Quepos Centro</b> (Airbnb) — 5,0/5 (6 evaluaciones), Favorito. Centro de Quepos, 20 min del parque. ⚠️ A/C sin confirmar. <b>US$75 total.</b> <a href="https://www.airbnb.com.ar/rooms/1629244010200348893" target="_blank" rel="noopener">Ver en Airbnb</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Vista del Pacífico Boutique Hotel</b> — 8,1 "Muy bien" (261 comentarios). A/C confirmado, vista desde la cima. <b>US$81,70/noche.</b> <a href="https://www.booking.com/hotel/cr/vista-del-pacifico-quepos2.es.html" target="_blank" rel="noopener">Ver en Booking.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Senda Adults Only Hostel</b> — 9,1 "Fantástico" (57 comentarios), el mejor puntaje de la zona. A/C, solo adultos. <b>US$89,25/noche.</b> <a href="https://www.booking.com/hotel/cr/senda-hostel.es.html" target="_blank" rel="noopener">Ver en Booking.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Hotel Verde Mar Direct Beach Access</b> — 7,8 "Bien" (1.492 comentarios). Acceso directo a la playa, A/C. Doble económica <b>US$147/noche</b> — la más cara de la comparación (hay literas más baratas, US$68, pero no cama doble). <a href="https://www.booking.com/hotel/cr/verde-mar.es.html" target="_blank" rel="noopener">Ver en Booking.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:12px;">
-        <b>Tico Tico Villas Adult Only</b> — 9,6/10, el mejor puntaje de la zona. A/C, solo adultos, 6-14min de los puntos de interés. <b>≈US$97/noche.</b> <a href="https://ar.hoteles.com/ho3393367360/tico-tico-villas/" target="_blank" rel="noopener">Ver en Hoteles.com</a>
-      </div>
-      <div class="v-note" style="margin-bottom:0;">
-        <b>Hotel Manuel Antonio Beracha</b> — 9,0/10 (18 opiniones). A/C + ventilador de techo. <b>≈US$116/noche.</b> ⚠️ Un tercer link ("Raya") quedó descartado — está en Matapalo, lejos de esta zona, mismo error de búsqueda por provincia que Puntarenas. <a href="https://ar.hoteles.com/ho3946835104/manuel-antonio-inn/" target="_blank" rel="noopener">Ver en Hoteles.com</a>
-      </div>
+      <p style="font-size:12.5px; color:var(--ink-faint); margin:10px 0 0;">⚠️ Un tercer link ("Raya") quedó descartado — está en Matapalo, lejos de esta zona, mismo error de búsqueda por provincia que Puntarenas.</p>
     </div>
 
     <div class="subsection-head" id="entradas" style="--sub-accent:var(--info);"><span class="sub-ico">🎟️</span><h3>Entradas y actividades — precios reales</h3></div>
