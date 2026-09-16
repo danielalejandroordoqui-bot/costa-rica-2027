@@ -301,6 +301,36 @@ Mandaron fotos de referencia de los autos (una Suzuki Vitara gris y una SsangYon
 - La Fortuna → Monteverde: ~2h30-3h (caminos de montaña, más lento de lo que parece en el mapa).
 - Monteverde → Guanacaste: ~2h-2h30.
 
+### Comparativa de SUVs automáticas — 13 opciones cotizadas en vivo (16/9/2026)
+
+Daniel pidió específicamente una comparativa amplia de SUVs (mezcla de 4x4 y 4x2, **todas automáticas**) de distintas rentadoras, con link directo a cada cotización, para poder comparar precio y calidad de auto a golpe de vista antes de decidir. Se cotizó en vivo en los sitios oficiales de 9 rentadoras distintas, todas con las mismas fechas y ubicación: **retiro sábado 20/3/2027, devolución sábado 27/3/2027 (7 días), SJO (Juan Santamaría).** No es una reserva, es solo para comparar — sigue sin decisión cerrada.
+
+**Nota de la metodología:** cuando el sitio permitía guardar un link con las fechas y la ubicación ya cargadas, se documentó ese link directo (funciona al reabrirlo, vuelve a mostrar el buscador con esos datos o resultados similares). Cuando el sitio arma la cotización en una sesión temporal sin URL persistente (Hertz, Budget, National, Alamo, Payless), se documentó el link a la home del sitio — hay que volver a cargar las fechas ahí.
+
+| Rentadora | Auto | Categoría | Tracción | Total 7 días | Por día | ¿SLI incluido? | Link |
+|---|---|---|---|---|---|---|---|
+| **Sixt** | Mitsubishi ASX 4WD | Compact SUV | 4x4 | **US$388,87** | US$55,55 | ✅ Sí — desglosado: Third Party Liability US$79,10 dentro del total | [sixt.com](https://www.sixt.com/car-rental/costa-rica/san-jose/) |
+| **Vamos Rent-A-Car** | Compact Elite SUV 4x4 | Compact SUV | 4x4 | **US$482,65** | US$68,95 | ⏳ No verificado (precio "desde", falta ver paso de seguros) | [reservations.vamosrentacar.com](https://reservations.vamosrentacar.com/Search/StepSearch/VAMOS%7CEN%7C20270320%7C1%7C0600AM%7C20270327%7C1%7C0600AM%7CVamosSite%7CH) |
+| **Vamos Rent-A-Car** | Intermediate SUV IFAR 4x4 | Intermediate SUV | 4x4 | **US$496,65** | US$70,95 | ⏳ No verificado | [reservations.vamosrentacar.com](https://reservations.vamosrentacar.com/Search/StepSearch/VAMOS%7CEN%7C20270320%7C1%7C0600AM%7C20270327%7C1%7C0600AM%7CVamosSite%7CH) |
+| **Payless** | Suzuki Jimny o similar | Compact SUV | 4x4 | **US$559,35** | US$79,91 | ⏳ No verificado | [paylesscar.com](https://www.paylesscar.com/en/home) (recargar fechas 20-27/3/2027, SJO) |
+| **Dollar Costa Rica** | Toyota Raize 2WD | Compact SUV | 4x2 | **US$609,00** | US$87,00 | ⏳ No verificado | [dollar.cr](https://dollar.cr/reserva/?pickup_location=SJO+AIRPORT+DT&pickup_code=6&pickup_date=03%2F20%2F2027&pickup_time=06%3A00&dropoff_location=SJO+AIRPORT+DT&dropoff_code=6&dropoff_date=03%2F27%2F2027&dropoff_time=06%3A00) |
+| **Payless** | Suzuki Vitara o similar | Intermediate SUV | 4x4 | **US$609,35** | US$87,05 | ⏳ No verificado | [paylesscar.com](https://www.paylesscar.com/en/home) (recargar fechas) |
+| **Dollar Costa Rica** | Mitsubishi ASX 4WD | Compact SUV | 4x4 | **US$630,00** | US$90,00 | ⏳ No verificado | [dollar.cr](https://dollar.cr/reserva/?pickup_location=SJO+AIRPORT+DT&pickup_code=6&pickup_date=03%2F20%2F2027&pickup_time=06%3A00&dropoff_location=SJO+AIRPORT+DT&dropoff_code=6&dropoff_date=03%2F27%2F2027&dropoff_time=06%3A00) |
+| **Avis** | Nissan Kicks o similar | SUV Económico | 4x2 | **US$347,72** | US$49,67 | ⚠️ No confirmado (ver investigación arriba — no aparece línea de SLI en el desglose) | [avis.cr](https://avis.cr/step1?fleetParams%5Bpickup_location%5D=SJO&fleetParams%5Bpickup_brand_id%5D=1&fleetParams%5Bpickup_country_id%5D=53&fleetParams%5Bpickup_date%5D=2027-03-20&fleetParams%5Bpickup_time%5D=12%3A00&fleetParams%5Bdropoff_location%5D=SJO&fleetParams%5Bdropoff_brand_id%5D=1&fleetParams%5Bdropoff_country_id%5D=53&fleetParams%5Bdropoff_date%5D=2027-03-27&fleetParams%5Bdropoff_time%5D=12%3A00&fleetParams%5Bpassenger_country_code%5D=CR&fleetParams%5Bpassenger_age%5D=25&fleetParams%5Blanguage%5D=es) |
+| **Budget** | Toyota Raize o similar | Compact Elite | 4x2 | **US$265,23** | US$37,89 | ⏳ No verificado | [budget.com](https://www.budget.com/en/home) (recargar fechas) |
+| **Budget** | Subaru Crosstrek o similar | Intermediate Elite SUV | AWD | **US$272,23** | US$38,89 | ⏳ No verificado | [budget.com](https://www.budget.com/en/home) (recargar fechas) |
+| **Alamo** | Toyota Corolla Cross o similar | Compact SUV | 4x2 | **US$745,42** | US$106,49 | ⏳ No verificado | [alamo.com](https://www.alamo.com/en/home.html) (recargar fechas) |
+| **National** | Suzuki Vitara o similar | Intermediate SUV | No especificado | **US$845,01** | US$120,72 | ⏳ No verificado | [nationalcar.com](https://www.nationalcar.com/en/home.html) (recargar fechas) |
+| **Hertz** | Toyota Raize | Intermediate Elite SUV | 2WD | **US$1.143,10** | US$163,30 | ✅ Sí — obligatorio por ley, incluido en tarifa (deducible US$500-20% de daños, eliminable con Super TPL opcional a US$10/día) | [hertz.com](https://www.hertz.com/rentacar/reservation/) (recargar fechas) |
+
+**Lectura rápida:**
+- **Sixt sale más barato por lejos** entre las opciones con SLI confirmado y desglosado — US$388,87 con seguro obligatorio incluido, sin sorpresas.
+- **Vamos Rent-A-Car** es la opción más barata en general (US$482,65-496,65) y ofrece 4x4 real confirmado en varias categorías — vale la pena escribirles para confirmar si el seguro obligatorio va incluido en ese precio "desde".
+- **Avis** (US$347,72) es la más barata de todas en dólares totales, pero sigue siendo la que tiene la duda de siempre sobre el SLI (ver investigación arriba) — no se recomienda tomarla como definitiva sin confirmar antes de reservar.
+- **Hertz queda descartada por precio** (casi 3x el resto para una categoría equivalente), no por el seguro — el suyo es el más transparente de todos en términos de letra chica.
+- Los 2WD (Toyota Raize, Nissan Kicks) resultan bastante más baratos que las opciones 4x4 confirmadas — coherente con la investigación de más arriba de que un 2WD de buena altura alcanza para casi todo el recorrido, salvo el tramo puntual La Fortuna-Monteverde.
+- **Pendiente:** para las filas marcadas ⏳, falta llegar al paso de "seguros/protecciones" de cada sitio para confirmar si el SLI obligatorio va incluido en el precio mostrado o se suma aparte — mismo patrón de duda que ya se investigó a fondo con Avis/EconomyBookings más arriba.
+
 ## Alojamiento — referencias reales por zona
 
 **Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Puntarenas/golfo, Manuel Antonio).
