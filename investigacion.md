@@ -427,11 +427,13 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 | Hotel | Precio 3 noches/2 pers. (aprox. USD) | Rating | Categoría/nota |
 |---|---|---|---|
 | Rio Danta Hostel/Cabinas | ~US$23 | 4,2★ (332) | 1★ — precio sospechosamente bajo, verificar antes de confiar |
-| Nice Place Hostel | ~US$36 | 4,6★ (89) | 3★, desayuno, A/C, traslado aeropuerto |
-| **Hotel Alicia** | **~US$62** | **4,6★ (199)** | 3★, desayuno, A/C, cocina en algunas habitaciones — mitad del precio de Vistas Volcán Arenal 4 con rating similar |
-| Casona Rústica & Bungalows - Tangara | ~US$79 (29% off) | 4,6★ (331) | 3★, A/C |
+| [Nice Place Hostel](https://www.booking.com/searchresults.es.html?ss=Nice+Place+Hostel+La+Fortuna) | ~US$36 | 4,6★ (89) | 3★, desayuno, A/C, traslado aeropuerto |
+| **[Hotel Alicia](https://www.booking.com/searchresults.es.html?ss=Hotel+Alicia+La+Fortuna+Costa+Rica)** | **~US$62** | **4,6★ (199)** | 3★, desayuno, A/C, cocina en algunas habitaciones — mitad del precio de Vistas Volcán Arenal 4 con rating similar |
+| [Casona Rústica & Bungalows - Tangara](https://www.booking.com/searchresults.es.html?ss=Casona+Rustica+Bungalows+Tangara+La+Fortuna) | ~US$79 (29% off) | 4,6★ (331) | 3★, A/C |
 | Le Petit Hôtel Costa Rica | ~US$79 | 4,6★ (41) | 2★, A/C |
-| Hotel Villa Fortuna | ~US$81 (32% off) | 4,5★ (165) | A/C, pileta, desayuno |
+| [Hotel Villa Fortuna](https://www.booking.com/searchresults.es.html?ss=Hotel+Villa+Fortuna+Costa+Rica) | ~US$81 (32% off) | 4,5★ (165) | A/C, pileta, desayuno |
+| [Hotel Arenal Xilopalo](https://www.booking.com/searchresults.es.html?ss=Hotel+Arenal+Xilopalo+La+Fortuna) | ~US$72 | 4,7★ (854) | El mayor volumen de reseñas de toda la zona |
+| [La Fortuna Lodge by Treebu Hotels](https://www.booking.com/searchresults.es.html?ss=La+Fortuna+Lodge+by+Treebu+Hotels) | ~US$114 | 4,8★ (279) | Mismo puntaje que Vistas Volcán Arenal 4, con desayuno gratis y spa incluidos |
 
 **Ojo — precios aproximados, no verificados a nivel de reserva:** Google mostró todo en ARS (pese a pedir USD) y el desglose por proveedor (Booking/hotel directo) dio error de carga repetido — probablemente porque la fecha está muy lejos para el inventario en vivo de esas propiedades chicas. Conversión hecha a mano con el tipo de cambio de mercado del día (~1.506 ARS/USD). **Antes de reemplazar a Vistas Volcán Arenal 4, confirmar estos precios directo en Booking.com o en el sitio del hotel** — son pistas, no cotizaciones confirmadas como las de la tabla de arriba.
 
