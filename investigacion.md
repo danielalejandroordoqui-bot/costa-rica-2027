@@ -35,6 +35,11 @@ Confirmado con las fechas reales del viaje (ida sábado 20/03, vuelta domingo 28
 - Tarifa: **Light**. Incluye el servicio estándar de Economy (mismo asiento, cabina y servicio a bordo que cualquier tarifa superior — Avianca es aerolínea de línea completa, no low-cost, fundada en 1919, aerolínea de bandera de Colombia). Lo que NO incluye la Light: selección de asiento con anticipación (se asigna en el check-in) y cambios de itinerario sin cargo — la tarifa no admite reembolsos y los cambios tienen costo adicional. Upsell a Classic (más equipaje + selección de asiento) cotizado en +US$62,10 (ida) y +US$64,20 (vuelta) por pasajero, por si se quiere evaluar antes de reservar en firme, sobre todo tratándose de una fecha fija en Semana Santa.
 - **Equipaje:** personal item + carry-on incluidos, sin valija despachada — coincide con cómo viajan Daniel y Melisa.
 
+**⚠️ ALERTA — el precio de US$658,16 ya no está vigente (verificado 17/9/2026):** Daniel pidió chequear Google Flights/Google Hotels por si aportaban algo — Google Flights mostró este mismo itinerario exacto (Avianca, EZE 01:40→SJO 08:50 vía BOG / SJO 01:40→EZE 15:40 vía BOG) a **US$1.451 ida y vuelta**, más del doble. Para descartar que fuera un artefacto de Google, se re-cotizó en vivo directo en avianca.com, sin comprar, con el mismo itinerario exacto y tarifa equivalente (Classic ida + Light/Basic vuelta):
+- **Punto de venta Colombia (COP):** COP 3.582.900 total ≈ **US$1.148** (tipo de cambio de mercado del día).
+- **Punto de venta Argentina (ARS, el mismo que se usó para la cotización original de US$658,16):** ARS 2.187.743,60 total ≈ **US$1.448,83** (tipo de cambio de mercado del día) — prácticamente idéntico a lo que mostraba Google Flights.
+- **Conclusión:** el aumento es real, confirmado en la fuente oficial, no es un problema de cómo arma la búsqueda Google Flights. El plan original era esperar a comprar en octubre/noviembre 2026 "porque no había apuro pese a la sobretasa de Semana Santa" — ese supuesto queda invalidado, el precio ya subió ~2,2x desde que se cotizó (12/9/2026). **Pendiente: decidir si conviene comprar antes de lo planeado en vez de esperar a oct/nov, y recalcular el presupuesto por persona con el precio real actual en vez de US$658,16.**
+
 **Por qué se eligió esta y no las alternativas de salida sábado 27 (Copa/Avianca/LATAM con llegada domingo temprano):** con la restricción de no manejar de noche, la AV691 no depende de un horario límite el sábado — se puede salir de Manuel Antonio en cualquier momento de luz del día, manejar tranquilos hasta San José, devolver el auto y esperar sin presión hasta el vuelo de la 01:40. Las alternativas que salen el sábado a la tarde/noche sí exigen cumplir un horario de check-in puntual ese mismo día, un riesgo innecesario. Ver el desarrollo completo de esta discusión más abajo, en la sección de detalle tramo por tramo.
 
 **Nota histórica sobre las fechas de búsqueda:** buena parte del research de abajo (tablas de tramos sueltos, comparación Avianca vs. Copa, alternativas de salida sábado) se hizo primero con una fecha de prueba (vuelta 27/03 en vez de 28/03) para entender el patrón de la ruta antes de tener la fecha exacta — quedó documentado igual porque el patrón se mantuvo al rebuscar con la fecha real. Motor: Turismocity + sitio directo de Avianca. 1 pasajero, clase económica, USD.
@@ -416,6 +421,19 @@ Daniel pidió específicamente una comparativa amplia de SUVs (mezcla de 4x4 y 4
 | Loft increíble centro Fortuna | US$269 | ✅ | En el centro — la más cara |
 
 El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación — el precio no compensa perder ~40min de auto cada vez que se mueven. **Vistas Volcán Arenal 4 (US$122) es el nuevo mejor precio de la zona con respaldo real (241 reseñas, 4,8/5, Favorito entre huéspedes)** — vale la pena priorizarla en la decisión final.
+
+**Google Hotels — hoteles con A/C, mismas fechas 20-23/3/2027, 2 huéspedes (17/9/2026, sin verificar en profundidad):** a pedido de Daniel se chequeó Google Hotels como fuente no usada hasta ahora. Filtrando por A/C y ordenando por precio aparecieron varios hoteles (no Airbnb) más baratos que Vistas Volcán Arenal 4, con buena calificación:
+
+| Hotel | Precio 3 noches/2 pers. (aprox. USD) | Rating | Categoría/nota |
+|---|---|---|---|
+| Rio Danta Hostel/Cabinas | ~US$23 | 4,2★ (332) | 1★ — precio sospechosamente bajo, verificar antes de confiar |
+| Nice Place Hostel | ~US$36 | 4,6★ (89) | 3★, desayuno, A/C, traslado aeropuerto |
+| **Hotel Alicia** | **~US$62** | **4,6★ (199)** | 3★, desayuno, A/C, cocina en algunas habitaciones — mitad del precio de Vistas Volcán Arenal 4 con rating similar |
+| Casona Rústica & Bungalows - Tangara | ~US$79 (29% off) | 4,6★ (331) | 3★, A/C |
+| Le Petit Hôtel Costa Rica | ~US$79 | 4,6★ (41) | 2★, A/C |
+| Hotel Villa Fortuna | ~US$81 (32% off) | 4,5★ (165) | A/C, pileta, desayuno |
+
+**Ojo — precios aproximados, no verificados a nivel de reserva:** Google mostró todo en ARS (pese a pedir USD) y el desglose por proveedor (Booking/hotel directo) dio error de carga repetido — probablemente porque la fecha está muy lejos para el inventario en vivo de esas propiedades chicas. Conversión hecha a mano con el tipo de cambio de mercado del día (~1.506 ARS/USD). **Antes de reemplazar a Vistas Volcán Arenal 4, confirmar estos precios directo en Booking.com o en el sitio del hotel** — son pistas, no cotizaciones confirmadas como las de la tabla de arriba.
 
 ### Monteverde — 2 noches, 23-25/3/2027 (cotización real, 12/9/2026)
 
