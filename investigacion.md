@@ -584,24 +584,24 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 **Esqueleto de días** (9 días de calendario, ~8 netos descontando el tiempo de vuelos — ida y vuelta rondan las 10h cada tramo más horas de aeropuerto):
 
 - **Día 1 (sáb 20/3):** Llegada + Alsacia + Poás + La Paz
-  - Aterrizaje SJO 08:50 (AV218+AV696 vía Bogotá) + inmigración (15-60 min) + retiro del auto en Avis (45-60 min) — recién se arranca a manejar entre las 10:05 y 10:35am.
-  - **Hacienda Alsacia** — tour cafetero, US$35 turista extranjero. [Comprar →](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/)
-  - **Volcán Poás** — franja real alcanzable 11am-12pm, entrada US$15. [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
-  - **La Paz Waterfall Gardens** — entrar antes de las 15:00 (última hora), US$56, sin reserva anticipada. Postura: "si llegamos, llegamos". [Comprar →](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/)
-  - Noche en La Fortuna. 📍 Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · La Paz Waterfall Gardens · La Fortuna
+  - Aterrizaje SJO 08:50 (AV218+AV696 vía Bogotá) + inmigración (15-60 min) + retiro del auto en Avis (45-60 min) — recién se arranca a manejar entre las **10:05 y 10:35am**.
+  - SJO → Hacienda Alsacia (~45 min). **Hacienda Alsacia** — tour cafetero guiado, 90 min + cata, 1,5-2h en total. US$35 turista extranjero. [Comprar →](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/)
+  - Alsacia → Volcán Poás (~15-20 min). **Volcán Poás** — franja real alcanzable **11am-12pm** (la de 8am con cráter despejado no entra en los horarios), entrada US$15. [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
+  - Poás → La Paz Waterfall Gardens (~20-30 min). **La Paz Waterfall Gardens** — abierto 8am-5pm, última entrada **15:00**, mínimo 2h de recorrido. Llegada estimada entre las **14:35 y 15:50** — en el escenario más realista no se llega a entrar. US$56, sin reserva anticipada. Postura de Daniel: "si llegamos, llegamos" (sin riesgo de plata perdida). [Comprar →](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/)
+  - La Paz → La Fortuna (~2h). Noche en La Fortuna. 📍 Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · La Paz Waterfall Gardens · La Fortuna
   - ⚠️ El día más ajustado de todo el viaje — [reserva del auto](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=) se retira acá.
 - **Día 2-3 (dom 21 – lun 22/3):** La Fortuna / Arenal
-  - **Eco Termales** — cupo limitado a 100 personas por franja, reservar con anticipación (~ene/2027). Solo entrada ~US$48,60. [Comprar →](https://ecotermalesfortuna.cr/en/home/)
-  - **Catarata La Fortuna** — US$18, independiente del PN Arenal.
+  - **Eco Termales** — pase día **10am-4pm** o noche **5-10pm**, cupo limitado a 100 personas por franja, reservar con anticipación (~ene/2027). Solo entrada ~US$48,60. [Comprar →](https://ecotermalesfortuna.cr/en/home/)
+  - **Catarata La Fortuna** — abierta **7am-5pm**, última entrada 4pm, US$18, independiente del PN Arenal.
   - **Kayak Río Peñas Blancas** — tour completo con transporte + guía, ~US$65. [Comprar →](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11)
   - **Caminata nocturna** — 2hs guiadas, ~US$40-50.
   - 📍 Volcán Arenal · Eco Termales · Catarata La Fortuna · Río Peñas Blancas
   - Pendiente: decidir si Bajos del Toro/Blue Falls entra como excursión del Día 3 (compite con Río Celeste).
 - **Día 4 (mar 23/3):** La Fortuna → Monteverde — ruta de montaña, ~2h30-3h de manejo. ⚠️ Camino con fama de complicado (2 fuentes con percances), salir con tiempo.
 - **Día 5 (mié 24/3):** Monteverde
-  - **Santuario de perezosos** (Selvatura, standalone) — US$40.
-  - **Bosque nuboso** — Reserva Santa Elena US$21 o la del puente Wilford US$25. [Reservar →](https://reservasantaelena.org/index.php/reservaciones/)
-  - **Selvatura — puentes colgantes** — US$49, self-guided, 8 puentes. [Comprar →](https://www.selvatura.com/tours/the-sloth-sanctuary/)
+  - **Santuario de perezosos** (Selvatura, standalone) — parque abierto 7am-4pm, tours guiados cada hora entre **8:15am y 3:15pm**. US$40.
+  - **Bosque nuboso** — Reserva Santa Elena (abierta **7am-4pm**, sin reserva previa) US$21, o la del puente Wilford US$25. [Reservar →](https://reservasantaelena.org/index.php/reservaciones/)
+  - **Selvatura — puentes colgantes** — parque abierto 7am-4pm, US$49, self-guided, 8 puentes. [Comprar →](https://www.selvatura.com/tours/the-sloth-sanctuary/)
   - 📍 Selvatura · Reserva Santa Elena · Bosque Nuboso Monteverde
 - **Día 6 (jue 25/3):** Monteverde → Puntarenas — golfo de Nicoya, ~1h30 de manejo, día liviano. Pendiente: decidir si se suma [Isla Venado](https://www.isla-venado.com/) completo (2-3 noches propias, panga solo lun/mié/vie) o si el golfo queda solo de paso.
 - **Día 7 (vie 26/3):** Puntarenas → Manuel Antonio — ruta costanera, ~2h-2h45, con margen para parar en Jacó/Carara de camino (cocodrilos, santuario de lapa roja). 📍 Carara · Jacó · Quepos / Manuel Antonio
