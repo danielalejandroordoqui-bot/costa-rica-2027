@@ -186,6 +186,10 @@ Las dos últimas quedan descartadas de entrada (peor duración sin ninguna venta
 
 **✅ RESERVADO (19/9/2026).** Nissan Kicks o similar (SUV automática), EconomyBookings/Avis. **US$317,42** pagado en su totalidad ("Pagar ahora"). Retiro mar. 20/3/2027 10:00 AM → devolución mar. 27/3/2027 09:00 PM, Aeropuerto de San José (SJO). **Número de reserva: B29401782.**
 
+- **Kilometraje ilimitado** — incluido en el precio, sin recargo por distancia recorrida.
+- **Período de gracia en la recogida:** 2 horas de tolerancia sobre las 10:00 AM (hasta las 12:00 PM) antes de arriesgar que se considere "no-show".
+- **Período de gracia en la devolución:** 29 minutos de tolerancia sobre las 09:00 PM (hasta las 09:29 PM) antes de que cobren un día de alquiler adicional completo.
+
 Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=
 
 ## Alojamiento — referencias reales por zona
