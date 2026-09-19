@@ -227,6 +227,23 @@
   .day-card .day-tag{ display:inline-block; margin-top:8px; font-family:'Space Mono',monospace; font-size:9.5px; letter-spacing:.05em; text-transform:uppercase; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-faint); }
   .day-card.tight .day-tag{ color:var(--danger); border-color:rgba(255,92,92,.4); background:rgba(255,92,92,.08); }
   .day-card.light .day-tag{ color:var(--green); border-color:rgba(95,211,141,.35); background:rgba(95,211,141,.08); }
+  .day-card .day-items{ list-style:none; margin:8px 0 0; padding:0; display:flex; flex-direction:column; gap:5px; }
+  .day-card .day-items li{ font-size:12.5px; color:var(--ink-dim); line-height:1.5; padding-left:15px; position:relative; }
+  .day-card .day-items li::before{ content:'→'; position:absolute; left:0; top:0; color:var(--amber); font-size:11px; }
+  .day-card .day-items li b{ color:var(--ink); font-weight:600; }
+  .day-card .day-spots{ font-size:11.5px; color:var(--ink-faint); margin-top:8px; line-height:1.7; }
+  .day-card .day-spots b{ color:var(--ink-dim); }
+  .day-card .alert-inline{ display:flex; gap:7px; align-items:flex-start; padding:8px 10px; margin-top:8px; font-size:12px; line-height:1.5; border:1px solid; color:var(--ink-dim); }
+  .day-card .alert-inline .icon{ flex-shrink:0; font-size:13px; }
+  .day-card .alert-inline.red{ border-color:rgba(255,92,92,.35); background:rgba(255,92,92,.07); }
+  .day-card .alert-inline.amber{ border-color:rgba(255,176,32,.3); background:rgba(255,176,32,.06); }
+  .day-card .alert-inline b{ color:var(--ink); }
+  .day-card .cta-row{ display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; }
+  .day-card .cta-pill{ display:inline-flex; align-items:center; gap:5px; font-family:'Space Mono',monospace; font-size:10.5px; font-weight:600; letter-spacing:.02em; padding:5px 10px; border-radius:2px; text-decoration:none; border:1px solid var(--hairline); color:var(--ink-dim); background:var(--bg); transition:opacity .15s,border-color .15s; }
+  .day-card .cta-pill:hover{ opacity:.72; }
+  .day-card .cta-pill.ticket{ color:var(--amber); border-color:rgba(255,176,32,.35); }
+  .day-card .cta-pill.car{ color:var(--info); border-color:rgba(87,200,214,.35); }
+  .day-card .cta-pill.map{ color:var(--green); border-color:rgba(95,211,141,.35); }
 
   /* ---------- FLIGHT CARD ---------- */
   .flight-card{ background:var(--panel); border:1px solid var(--hairline); padding:18px 20px; margin-bottom:16px; }
@@ -450,7 +467,22 @@
               <div class="day-badge"><span class="dn">1</span><span class="dd">Sáb 20/3</span></div>
               <div class="day-body">
                 <h5>Llegada + Alsacia + Poás + La Paz</h5>
-                <p>Llegada a SJO, retiro del auto, Hacienda Alsacia (café) → Volcán Poás → La Paz Waterfall Gardens camino al norte. Noche en La Fortuna.</p>
+                <ul class="day-items">
+                  <li>Aterrizaje SJO <b>08:50</b> (AV218+AV696 vía Bogotá) + inmigración (15-60 min) + retiro del auto en Avis (45-60 min) — recién se arranca a manejar entre las 10:05 y 10:35am.</li>
+                  <li><b>Hacienda Alsacia</b> — tour cafetero, US$35 turista extranjero.</li>
+                  <li><b>Volcán Poás</b> — franja real alcanzable 11am-12pm (la de 8am con cráter despejado no entra en los horarios), entrada US$15.</li>
+                  <li><b>La Paz Waterfall Gardens</b> — entrar antes de las 15:00 (última hora), US$56, sin reserva anticipada. Postura: "si llegamos, llegamos".</li>
+                  <li>Noche en <b>La Fortuna</b>.</li>
+                </ul>
+                <div class="day-spots"><b>📍</b> Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · La Paz Waterfall Gardens · La Fortuna</div>
+                <div class="alert-inline red"><span class="icon">⚠️</span><span><b>El día más ajustado de todo el viaje:</b> si el vuelo se atrasa o migraciones tarda, se corre toda la cadena y se puede perder la franja de Poás o llegar tarde a La Paz.</span></div>
+                <div class="cta-row">
+                  <a class="cta-pill car" href="https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=" target="_blank" rel="noopener">🚗 Retiro del auto</a>
+                  <a class="cta-pill ticket" href="https://serviciosenlinea.sinac.go.cr/" target="_blank" rel="noopener">🎟 Entrada Poás — SINAC</a>
+                  <a class="cta-pill" href="https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/" target="_blank" rel="noopener">☕ Hacienda Alsacia</a>
+                  <a class="cta-pill" href="https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/" target="_blank" rel="noopener">💧 La Paz Waterfall Gardens</a>
+                  <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
+                </div>
                 <span class="day-tag">⚠ Día más ajustado</span>
               </div>
             </div>
@@ -458,14 +490,33 @@
               <div class="day-badge"><span class="dn">2-3</span><span class="dd">Dom 21 – Lun 22</span></div>
               <div class="day-body">
                 <h5>La Fortuna / Arenal</h5>
-                <p>Termas, catarata, kayak en el Río Peñas Blancas, caminata nocturna. Dos días completos en la zona, con margen.</p>
+                <ul class="day-items">
+                  <li><b>Eco Termales</b> — cupo limitado a 100 personas por franja, reservar con anticipación (~ene/2027). Solo entrada ~US$48,60.</li>
+                  <li><b>Catarata La Fortuna</b> — US$18, independiente del PN Arenal.</li>
+                  <li><b>Kayak Río Peñas Blancas</b> — tour completo con transporte + guía, ~US$65.</li>
+                  <li><b>Caminata nocturna</b> — 2hs guiadas, ~US$40-50.</li>
+                </ul>
+                <div class="day-spots"><b>📍</b> Volcán Arenal · Eco Termales · Catarata La Fortuna · Río Peñas Blancas</div>
+                <div class="alert-inline amber"><span class="icon">⏳</span><span>Eco Termales tiene cupo limitado — reservar junto con Poás y Manuel Antonio, no dejarlo para último momento.</span></div>
+                <p style="font-size:11.5px; color:var(--ink-faint); margin:6px 0 0;">Pendiente: decidir si <b>Bajos del Toro/Blue Falls</b> entra como excursión del Día 3 (compite con Río Celeste por ese mismo día) — ver sección "Qué se le podría anexar" más abajo.</p>
+                <div class="cta-row">
+                  <a class="cta-pill ticket" href="https://ecotermalesfortuna.cr/en/home/" target="_blank" rel="noopener">🎟 Eco Termales</a>
+                  <a class="cta-pill" href="https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11" target="_blank" rel="noopener">🛶 Kayak Peñas Blancas</a>
+                  <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
+                </div>
               </div>
             </div>
             <div class="day-card light">
               <div class="day-badge"><span class="dn">4</span><span class="dd">Mar 23/3</span></div>
               <div class="day-body">
                 <h5>La Fortuna → Monteverde</h5>
-                <p>Ruta de montaña, ~2h30-3h de manejo.</p>
+                <ul class="day-items">
+                  <li>Ruta de montaña, <b>~2h30-3h</b> de manejo.</li>
+                </ul>
+                <div class="alert-inline amber"><span class="icon">🛣️</span><span>Camino con fama de complicado — 2 fuentes independientes reportan percances. Salir con tiempo, sin apuro.</span></div>
+                <div class="cta-row">
+                  <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
+                </div>
                 <span class="day-tag">Día liviano</span>
               </div>
             </div>
@@ -473,14 +524,31 @@
               <div class="day-badge"><span class="dn">5</span><span class="dd">Mié 24/3</span></div>
               <div class="day-body">
                 <h5>Monteverde</h5>
-                <p>Santuario de perezosos, bosque nuboso, Selvatura (puentes colgantes).</p>
+                <ul class="day-items">
+                  <li><b>Santuario de perezosos</b> (Selvatura, standalone) — US$40.</li>
+                  <li><b>Bosque nuboso</b> — Reserva Santa Elena US$21 (alternativa más barata) o la del puente Wilford US$25.</li>
+                  <li><b>Selvatura — puentes colgantes</b> — US$49, self-guided, 8 puentes.</li>
+                </ul>
+                <div class="day-spots"><b>📍</b> Selvatura · Reserva Santa Elena · Bosque Nuboso Monteverde</div>
+                <div class="cta-row">
+                  <a class="cta-pill ticket" href="https://www.selvatura.com/tours/the-sloth-sanctuary/" target="_blank" rel="noopener">🎟 Selvatura</a>
+                  <a class="cta-pill ticket" href="https://reservasantaelena.org/index.php/reservaciones/" target="_blank" rel="noopener">🎟 Reserva Santa Elena</a>
+                  <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
+                </div>
               </div>
             </div>
             <div class="day-card light">
               <div class="day-badge"><span class="dn">6</span><span class="dd">Jue 25/3</span></div>
               <div class="day-body">
                 <h5>Monteverde → Puntarenas</h5>
-                <p>Golfo de Nicoya, ~1h30 de manejo.</p>
+                <ul class="day-items">
+                  <li>Golfo de Nicoya, <b>~1h30</b> de manejo — día liviano.</li>
+                </ul>
+                <p style="font-size:11.5px; color:var(--ink-faint); margin:6px 0 0;">Pendiente: decidir si se suma <b>Isla Venado</b> completo (necesita 2-3 noches propias, panga solo lun/mié/vie) o si el golfo queda solo de paso.</p>
+                <div class="cta-row">
+                  <a class="cta-pill" href="https://www.isla-venado.com/" target="_blank" rel="noopener">🏝️ Isla Venado</a>
+                  <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
+                </div>
                 <span class="day-tag">Día liviano</span>
               </div>
             </div>
@@ -488,21 +556,46 @@
               <div class="day-badge"><span class="dn">7</span><span class="dd">Vie 26/3</span></div>
               <div class="day-body">
                 <h5>Puntarenas → Manuel Antonio</h5>
-                <p>Ruta costanera, ~2h-2h45, con margen para parar en Jacó/Carara de camino.</p>
+                <ul class="day-items">
+                  <li>Ruta costanera, <b>~2h-2h45</b> de manejo.</li>
+                  <li>Margen para parar en <b>Jacó</b> o <b>Carara</b> de camino — mayor concentración de cocodrilos de Centroamérica y santuario de la lapa roja.</li>
+                </ul>
+                <div class="day-spots"><b>📍</b> Carara · Jacó · Quepos / Manuel Antonio</div>
+                <div class="cta-row">
+                  <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
+                </div>
               </div>
             </div>
             <div class="day-card">
               <div class="day-badge"><span class="dn">8</span><span class="dd">Sáb 27/3</span></div>
               <div class="day-body">
                 <h5>Manuel Antonio + regreso a SJO</h5>
-                <p>Parque nacional día completo, desde la apertura (7am) hasta la hora límite (3pm) — después playa/pueblo si da el tiempo. Salida hacia SJO a media tarde con luz de día (~3-4h), llegada ~18-19h, devolución del auto, cena y traslado tranquilo. Noche de espera cerca del aeropuerto. <b>Confirmado con Daniel (19/9/2026): sale de Manuel Antonio a las 15:00 o antes, sin apuro</b> — margen real contra la devolución del auto a las 21:00. El día de tráfico más pesado de retorno de Semana Santa en Costa Rica es el <b>domingo</b>, no el sábado (fuente: cobertura de prensa sobre el carril reversible de la Ruta 27), así que este tramo puntual del sábado 27 tiene menos riesgo del que se había estimado.</p>
+                <ul class="day-items">
+                  <li><b>Parque Nacional Manuel Antonio</b> — abre 7:00am, cierra 15:00, entrada US$16, solo compra online. Franja recomendada: <b>Grupo 01 (07:00-07:40)</b> — fauna más activa temprano, menos gente, más disponibilidad.</li>
+                  <li>Salida hacia SJO a las <b>15:00 o antes</b>, sin apuro — con luz de día, ~3-4h de manejo.</li>
+                  <li>Llegada a SJO ~18-19h, devolución del auto a las <b>21:00</b> (reserva B29401782) — presentar la Visa Signature en el mostrador.</li>
+                  <li>Noche de espera/descanso cerca del aeropuerto.</li>
+                </ul>
+                <div class="day-spots"><b>📍</b> PN Manuel Antonio · Quepos · Aeropuerto SJO</div>
+                <div class="alert-inline amber"><span class="icon">🚦</span><span>El día de tráfico más pesado del retorno de Semana Santa es el <b>domingo</b>, no el sábado — este tramo puntual tiene menos riesgo del que se había estimado.</span></div>
+                <div class="cta-row">
+                  <a class="cta-pill ticket" href="https://serviciosenlinea.sinac.go.cr/" target="_blank" rel="noopener">🎟 Entrada Manuel Antonio — SINAC</a>
+                  <a class="cta-pill car" href="https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=" target="_blank" rel="noopener">🚗 Devolución del auto</a>
+                  <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
+                </div>
               </div>
             </div>
             <div class="day-card">
               <div class="day-badge"><span class="dn">9</span><span class="dd">Dom 28/3</span></div>
               <div class="day-body">
                 <h5>Vuelo de regreso</h5>
-                <p>Sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40.</p>
+                <ul class="day-items">
+                  <li>Sin actividades en Costa Rica.</li>
+                  <li>Vuelo <b>SJO 01:40 → EZE 15:40</b> (Avianca AV691+AV8395, vía Bogotá).</li>
+                </ul>
+                <div class="cta-row">
+                  <a class="cta-pill" href="https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&amp;tripType=round-trip&amp;platform=WEBB2C&amp;from=EZE&amp;to=SJO&amp;nbAdults=1&amp;nbYoungs=0&amp;nbChildren=0&amp;nbInfants=0&amp;language=ES&amp;pointOfSale=AR&amp;returnDate=2027-03-28" target="_blank" rel="noopener">✈️ Cotizar en avianca.com</a>
+                </div>
               </div>
             </div>
           </div>

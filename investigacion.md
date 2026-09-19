@@ -583,16 +583,36 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 
 **Esqueleto de días** (9 días de calendario, ~8 netos descontando el tiempo de vuelos — ida y vuelta rondan las 10h cada tramo más horas de aeropuerto):
 
-- **Día 1:** llegada SJO, auto, Hacienda Alsacia (café) → Volcán Poás → La Paz Waterfall Gardens camino al norte. Noche en La Fortuna.
-- **Día 2-3:** La Fortuna (Arenal, termas, catarata, kayak Río Peñas Blancas, caminata nocturna).
-- **Día 4:** La Fortuna → Monteverde (ruta de montaña, ~2h30-3h).
-- **Día 5:** Monteverde (santuario de perezosos, bosque nuboso, Selvatura).
-- **Día 6:** Monteverde → golfo de Nicoya/Puntarenas (~1h30 de manejo, día liviano).
-- **Día 7 (vie 26):** golfo → Quepos/Manuel Antonio (ruta costanera, ~2h-2h45, con margen para parar en Jacó/Carara de camino).
-- **Día 8 (sáb 27):** Manuel Antonio día completo — entrada al parque bien temprano (abre 7am) hasta la hora límite de salida (3pm), después playa/pueblo si da el tiempo. Salida hacia SJO a media tarde con luz de día (~3-4h de manejo), llegada a SJO ~18-19h, devolución del auto, cena y traslado tranquilo hacia el aeropuerto. Noche de espera/descanso en la zona del aeropuerto.
-  - **✅ Confirmado con Daniel (19/9/2026):** va a salir de Manuel Antonio a las 15:00 o antes, sin apuro ("no soy de hacer las cosas en la ruta a las apuradas"). Esto da margen real contra el horario de devolución del auto (21:00) y contra el período de gracia de devolución de solo 29 minutos que suelen usar las rentadoras (ver sección de auto de alquiler).
-  - **⚠️ Corrección sobre Semana Santa (19/9/2026):** el supuesto de que el sábado 27 (Sábado Santo) es el día de tráfico más pesado de retorno en la Costanera/Ruta 27 era incorrecto — según fuentes de prensa costarricense (Ruta 27, retorno de Semana Santa), **el domingo es el día de mayor congestión de regreso a San José** (carril reversible habilitado específicamente ese día), el sábado ya arranca cargado pero es el domingo el pico real. Como el tramo Manuel Antonio→SJO de este viaje se hace el sábado 27 (no el domingo 28, que es el día del vuelo), **el riesgo de tráfico pesado por Semana Santa en este tramo puntual es menor de lo que se había estimado.** Fuente: [Infobae — Ruta 27 carril reversible domingo retorno Semana Santa](https://www.infobae.com/costa-rica/2026/04/05/ruta-27-tendra-carril-reversible-este-domingo-para-agilizar-retorno-masivo-tras-la-semana-santa-en-costa-rica/).
-- **Día 9 (dom 28):** sin actividades en Costa Rica — es el día del vuelo. Sale SJO 01:40, llega a Buenos Aires 15:40.
+- **Día 1 (sáb 20/3):** Llegada + Alsacia + Poás + La Paz
+  - Aterrizaje SJO 08:50 (AV218+AV696 vía Bogotá) + inmigración (15-60 min) + retiro del auto en Avis (45-60 min) — recién se arranca a manejar entre las 10:05 y 10:35am.
+  - **Hacienda Alsacia** — tour cafetero, US$35 turista extranjero. [Comprar →](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/)
+  - **Volcán Poás** — franja real alcanzable 11am-12pm, entrada US$15. [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
+  - **La Paz Waterfall Gardens** — entrar antes de las 15:00 (última hora), US$56, sin reserva anticipada. Postura: "si llegamos, llegamos". [Comprar →](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/)
+  - Noche en La Fortuna. 📍 Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · La Paz Waterfall Gardens · La Fortuna
+  - ⚠️ El día más ajustado de todo el viaje — [reserva del auto](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=) se retira acá.
+- **Día 2-3 (dom 21 – lun 22/3):** La Fortuna / Arenal
+  - **Eco Termales** — cupo limitado a 100 personas por franja, reservar con anticipación (~ene/2027). Solo entrada ~US$48,60. [Comprar →](https://ecotermalesfortuna.cr/en/home/)
+  - **Catarata La Fortuna** — US$18, independiente del PN Arenal.
+  - **Kayak Río Peñas Blancas** — tour completo con transporte + guía, ~US$65. [Comprar →](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11)
+  - **Caminata nocturna** — 2hs guiadas, ~US$40-50.
+  - 📍 Volcán Arenal · Eco Termales · Catarata La Fortuna · Río Peñas Blancas
+  - Pendiente: decidir si Bajos del Toro/Blue Falls entra como excursión del Día 3 (compite con Río Celeste).
+- **Día 4 (mar 23/3):** La Fortuna → Monteverde — ruta de montaña, ~2h30-3h de manejo. ⚠️ Camino con fama de complicado (2 fuentes con percances), salir con tiempo.
+- **Día 5 (mié 24/3):** Monteverde
+  - **Santuario de perezosos** (Selvatura, standalone) — US$40.
+  - **Bosque nuboso** — Reserva Santa Elena US$21 o la del puente Wilford US$25. [Reservar →](https://reservasantaelena.org/index.php/reservaciones/)
+  - **Selvatura — puentes colgantes** — US$49, self-guided, 8 puentes. [Comprar →](https://www.selvatura.com/tours/the-sloth-sanctuary/)
+  - 📍 Selvatura · Reserva Santa Elena · Bosque Nuboso Monteverde
+- **Día 6 (jue 25/3):** Monteverde → Puntarenas — golfo de Nicoya, ~1h30 de manejo, día liviano. Pendiente: decidir si se suma [Isla Venado](https://www.isla-venado.com/) completo (2-3 noches propias, panga solo lun/mié/vie) o si el golfo queda solo de paso.
+- **Día 7 (vie 26/3):** Puntarenas → Manuel Antonio — ruta costanera, ~2h-2h45, con margen para parar en Jacó/Carara de camino (cocodrilos, santuario de lapa roja). 📍 Carara · Jacó · Quepos / Manuel Antonio
+- **Día 8 (sáb 27/3):** Manuel Antonio + regreso a SJO
+  - **Parque Nacional Manuel Antonio** — abre 7:00am, cierra 15:00, entrada US$16, solo compra online. Franja recomendada: Grupo 01 (07:00-07:40). [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
+  - Salida hacia SJO a las 15:00 o antes, sin apuro — con luz de día, ~3-4h de manejo.
+  - Llegada a SJO ~18-19h, devolución del auto a las 21:00 ([reserva B29401782](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=)) — presentar la Visa Signature en el mostrador.
+  - Noche de espera/descanso cerca del aeropuerto. 📍 PN Manuel Antonio · Quepos · Aeropuerto SJO
+  - **✅ Confirmado con Daniel (19/9/2026):** sale de Manuel Antonio a las 15:00 o antes, sin apuro ("no soy de hacer las cosas en la ruta a las apuradas"). Margen real contra la devolución del auto (21:00) y el período de gracia de solo 29 minutos.
+  - **⚠️ Corrección sobre Semana Santa (19/9/2026):** el día de tráfico más pesado del retorno es el **domingo**, no el sábado (carril reversible de la Ruta 27 habilitado ese día) — este tramo puntual del sábado 27 tiene menos riesgo del que se había estimado. Fuente: [Infobae — Ruta 27 carril reversible domingo retorno Semana Santa](https://www.infobae.com/costa-rica/2026/04/05/ruta-27-tendra-carril-reversible-este-domingo-para-agilizar-retorno-masivo-tras-la-semana-santa-en-costa-rica/).
+- **Día 9 (dom 28/3):** Vuelo de regreso — sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40 (Avianca AV691+AV8395, vía Bogotá). [Cotizar →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28)
 
 **✅ Resuelto (12/9/2026) — horario oficial del Parque Nacional Manuel Antonio:** según SINAC, el parque abre **7:00am y cierra a las 3:00pm** (no 4pm como se pensaba por un video) — cerrado los martes, miércoles a lunes el resto de la semana. El sábado 27 no es martes, así que no hay conflicto de día cerrado. **Las entradas se compran únicamente online**, por el sitio oficial de SINAC — no hay venta en puerta, hay que sacarlas con anticipación.
 
