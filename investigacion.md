@@ -189,6 +189,7 @@ Las dos últimas quedan descartadas de entrada (peor duración sin ninguna venta
 - **Kilometraje ilimitado** — incluido en el precio, sin recargo por distancia recorrida.
 - **Período de gracia en la recogida:** 2 horas de tolerancia sobre las 10:00 AM (hasta las 12:00 PM) antes de arriesgar que se considere "no-show".
 - **Período de gracia en la devolución:** 29 minutos de tolerancia sobre las 09:00 PM (hasta las 09:29 PM) antes de que cobren un día de alquiler adicional completo.
+- **En el mostrador:** presentar la Visa Signature de Daniel como cobertura, en vez de comprar el seguro de Avis ahí.
 
 Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=
 
@@ -517,6 +518,8 @@ Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por
 
 **Revisado 19/9/2026:** el auto ya no es un rango piso/techo — está reservado a precio fijo (ver sección "Auto de alquiler"). El techo de entradas tampoco suma "hacer todo" — es un techo realista de US$157,60 (1-2 actividades por zona, ver sección de Entradas arriba).
 
+**⚠️ Desactualizado (17/9/2026):** la fila del vuelo usa el precio viejo (US$658,16), que ya no está vigente — el precio real hoy ronda US$1.148-1.449 (ver alerta en la sección "Vuelos"). El TOTAL de esta tabla queda subestimado hasta recalcular con el precio real del vuelo al momento de comprar.
+
 | Ítem | Piso (mínimo) | Techo (máximo) |
 |---|---|---|
 | Vuelo BUE-SJO ida y vuelta (por persona, ✅ cerrado) | US$658,16 | US$658,16 |
@@ -796,4 +799,3 @@ Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 1
 6. ✅ **Ritmo del día 1 — CERRADO (13/9/2026):** analizado en detalle (ver auditoría de horarios más arriba) y decidido dejarlo como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens — sin riesgo de plata perdida porque no pide reserva anticipada.
 7. **Reservar Eco Termales con anticipación** (13/9/2026) junto con Poás y Manuel Antonio — cupo limitado a 100 personas por franja, riesgo de agotarse en Semana Santa.
 8. **Decidir si sumar Bajos del Toro/Blue Falls of Costa Rica y en qué momento** (13/9/2026): único día viable es el Día 3 (lunes 22/3, ya que cierra domingos) como excursión desde La Fortuna — compite por ese mismo día con Río Celeste y con las actividades ya fijas de La Fortuna (catarata/kayak/termas/caminata nocturna). Ver detalle de precio y horario en "Qué le falta a Itinerario A" más abajo.
-9. ✅ **Auto de alquiler — RESERVADO (19/9/2026):** ver sección "Auto de alquiler" — reserva B29401782, US$317,42. Queda presentar la cobertura de la Visa Signature de Daniel en el mostrador de Avis al llegar.
