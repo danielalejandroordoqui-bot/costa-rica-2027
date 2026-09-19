@@ -184,205 +184,9 @@ Las dos últimas quedan descartadas de entrada (peor duración sin ninguna venta
 
 ## Auto de alquiler
 
-- **✅ Resuelto — Permiso Internacional de Conducir (PID):** Daniel ya lo sacó en el ACA en julio 2026, válido por 1 año (cubre marzo 2027 sin problema) y válido para todo el mundo **excepto Brasil** — por lo tanto sirve para Costa Rica. No queda pendiente nada de trámite de licencia para el viaje.
-- ~~Adobe Rent a Car, 4x4 por 7 días ≈ US$450 total~~ **dato viejo y desactualizado** (era estimación de Daniel, no cotización real) — ver cotización real de Adobe más abajo, casi el doble.
-- **Alerta de seguro (Emma Terra):** muchas coberturas de tarjeta de crédito NO cubren vehículos pickup, todoterreno o 4x4 — hay que revisar la letra chica, y si no queda claro, contratar el seguro directo con la agencia. **Además, en Costa Rica hay un seguro básico obligatorio por ley** (ver cotización real de Adobe abajo, "Protección a terceros") que se cobra sí o sí, lo cubra o no la tarjeta — la tarjeta como mucho reemplaza el CDW/robo, no ese cargo obligatorio.
-- **Camino a Monteverde complicado:** dos fuentes independientes (Araya Vlogs con problema mecánico, y el "percance en camino de lodo" del itinerario de referencia) confirman que el acceso a Monteverde no es trivial.
-- **Consejos de manejo generales:** caminos rurales de tierra, puentes de un solo carril, tramos en obra.
+**✅ RESERVADO (19/9/2026).** Nissan Kicks o similar (SUV automática), EconomyBookings/Avis. **US$317,42** pagado en su totalidad ("Pagar ahora"). Retiro mar. 20/3/2027 10:00 AM → devolución mar. 27/3/2027 09:00 PM, Aeropuerto de San José (SJO). **Número de reserva: B29401782.**
 
-### Cotización real de Adobe (simulación en avianca.com [sic, adobecar.com], 12/9/2026) — fechas reales 20-27/3/2027, 10am-10pm
-
-Daniel hizo una simulación real (sin comprar) en `adobecar.com` con las fechas y horarios exactos del viaje. Dos categorías, con y sin el cargo obligatorio:
-
-| Categoría | Tarifa base (7 días) | + Protección a terceros (obligatoria) | **Total** |
-|---|---|---|---|
-| Kia Picanto AT (4X2, no 4x4) | US$490,16 | US$108,48 | **US$598,64** |
-| Suzuki Vitara 4WD AT (4x4) | US$697,92 | US$108,48 | **US$806,40** |
-
-**Diferencia real 4x4 vs. no: ~US$208 por los 7 días (~US$30/día).** La "Protección a terceros" es fija, US$108,48 en ambos casos, independiente de la tarjeta de crédito — confirma que es el seguro obligatorio por ley, no algo que se pueda evitar.
-
-### ¿Hace falta 4x4 de verdad? — investigado a fondo (WebSearch, 12/9/2026)
-
-Daniel cuestionó si el 4x4 es realmente necesario para este itinerario, o si es un gasto de más. Se buscó específicamente opiniones reales de viajeros (no solo la intuición general) — **respuesta matizada, no es "sí obligatorio" ni "no hace falta para nada":**
-
-- **Para casi todo el recorrido (SJO-La Fortuna, Puntarenas-Manuel Antonio por Costanera Sur, SJO-Alsacia/Poás) son rutas 100% pavimentadas — un 2WD anda perfecto**, y el consenso general es que en temporada seca (dic-abril, incluye marzo) un 2WD alcanza para la mayoría de los destinos turísticos del país.
-- **La única excepción real que se repite en fuentes independientes es el tramo La Fortuna → Monteverde** (ruta 145, vía Tilarán): un foro de Tripadvisor dice que "4WD no es obligatorio, los propios ticos manejan autos normales ahí", pero matiza que con más altura no hay que esquivar piedras en los tramos sin asfaltar. Otra fuente (Paradise Catchers) es más cautelosa: en seco se hace en sedán, pero no se recomienda si no estás cómodo con caminos angostos y con pozos — y aclara que las cuadrillas emparejan el camino sin calendario fijo, así que ni en temporada seca hay garantía total de buen estado.
-- **Dato concreto a favor del punto medio:** una Hyundai Tucson 2WD (no 4x4, pero SUV con más altura, no un sedán bajo) resultó suficiente para ese tramo según un viajero real.
-- **Conclusión:** no hace falta un 4x4 pleno "porque sí" para todo el viaje — el punto medio más respaldado es **2WD con buena altura (SUV/crossover), no necesariamente 4x4**, y manejar el tramo La Fortuna-Monteverde despacio y con cuidado. Un sedán bajo sí sería arriesgado específicamente en ese tramo.
-
-**Importante para no confundirse:** "SUV" no es lo mismo que "4x4/4WD" — varios de los SUV más baratos que aparecen en comparadores (Toyota Raize, Nissan Kicks) son de tracción simple (2WD) en la mayoría de los mercados, pese a la carrocería tipo SUV. Antes de reservar hay que confirmar la tracción real del vehículo, no guiarse solo por si "parece" SUV.
-
-Fuentes: [Budget.co.cr — ¿Realmente necesita un 4x4 en Costa Rica?](https://budget.co.cr/blog/realmente-necesita-un-4x4-en-costa-rica/) · [Tripadvisor — 4WD a must for Monteverde and Manuel Antonio?](https://www.tripadvisor.com/ShowTopic-g291982-i813-k7029351-4WD_a_must_for_Monteverde_and_Manuel_Antonio-Costa_Rica.html) · [Paradise Catchers — Driving from La Fortuna to Monteverde](https://www.paradisecatchers.com/driving-from-la-fortuna-to-monteverde/) · [MyTanFeet — Monteverde Road Conditions](https://mytanfeet.com/costa-rica-travel-tips/monteverde-road-conditions/) · [Jumbo Car — ¿Necesitás 4x4 en San José/Costa Rica?](https://en.jumbocar-costarica.com/discover-costa-rica/prepare-your-trip/san-jose-costa-rica-do-you-need-a-4x4-or-suv)
-
-**⚠️ Nota para no repetir el error:** no dar por sentado que hace falta pagar el extra de un 4x4 pleno como si fuera obligatorio — con lo investigado, un 2WD de buena altura es una opción real y validada, más barata. Queda pendiente decidir, no cerrado.
-
-### EconomyBookings — comparación de precios, misma fecha/hora (12/9/2026)
-
-Daniel buscó en `economybookings.com` (la misma plataforma que usó para alquilar en Yellowstone/Jackson) con las mismas fechas/horarios (20/3 10am - 27/3 10pm). Filtro "Automática" activo, 225 de 314 vehículos.
-
-**Precios de arranque por categoría:** Pequeño US$308 · Compacto US$386 · Tamaño mediano US$268 · Económico US$472 · Familiar US$527 · Especial US$468.
-
-**Ejemplos puntuales (8 días — el sitio cuenta un día más que Adobe por la devolución a las 22h):**
-- Nissan Versa (midsize, Avis, 7,2 "Muy bien") — **US$267,42**
-- Geely GX3 (pequeño, Sixt, 8,0 "Excelente") — **US$307,57**
-- Nissan Kicks (SUV, Avis) — US$317,42 a US$338,42 según oferta
-- Toyota Raize (SUV, comparado con Hertz/Thrifty/Dollar) — **US$802,45** — este si ronda el precio del 4x4 real de Adobe, y hay que confirmar su tracción antes de asumir que es equivalente
-
-**Todas las empresas disponibles para esta búsqueda, de menor a mayor precio:** Avis US$268 · Sixt US$308 · Secret Deal US$386 · Amigo Rent A Car US$474 · Costa Rent US$460 · Flexways US$428 · Green Motion US$504 · U-save US$514 · Jumbocar US$515 · Ace Rent A Car US$658 · Budget US$752 · Autounion US$886 · Dollar US$822 · Thrifty US$822 · National US$873 · Easycar US$865 · Alamo US$1.115 · Hertz US$1.041.
-
-**Rango enorme (US$268 a US$1.115) para categorías similares** — confirma que en Costa Rica conviene comparar mucho más que en otros países, la variación entre empresas es grande. Pendiente: rebuscar filtrando específicamente por 4x4/doble tracción (no solo "SUV") para tener una comparación real contra los US$806,40 de Adobe.
-
-**⚠️ Corrección (13/9/2026):** Daniel marcó que Adobe está notablemente por encima del mercado — el Kia Picanto 2WD de Adobe (US$598,64) es más del doble del sedán más barato de EconomyBookings (Nissan Versa, US$267,42) para fechas casi idénticas. Adobe queda documentado como una cotización real y verificada (útil como dato puntual de una empresa concreta), pero **no se usa como base del presupuesto por persona** — para eso se usa el piso y el techo reales de EconomyBookings (ver sección de Presupuesto más abajo).
-
-### ⚠️ Sospecha: el precio de EconomyBookings puede no incluir el seguro obligatorio (SLI) — en verificación (13/9/2026)
-
-Daniel notó que el Nissan Kicks (SUV) de Avis vía EconomyBookings (US$317,42/8 días) sale casi la mitad que el SUV de Pilot (US$623/7 días) — llamativo, ameritaba revisar si es una comparación justa.
-
-**Se entró a la oferta real (Avis, Nissan Kicks, 20-27/3/2027) en economybookings.com y se revisaron las condiciones completas:**
-- Lo que figura como "incluido" — **Cobertura Total** — es el **CDW** (exención de responsabilidad por daños al auto, protege el depósito), **no es el seguro obligatorio de terceros (SLI)** que exige la ley costarricense para circular.
-- Las condiciones dicen textual: *"Todas las tasas locales por servicios no incluidos en el alquiler serán facturadas por la Compañía de alquiler... y se facturarán en moneda local"* — es decir, hay cargos que se definen recién en el mostrador, en colones, sin monto visible de antemano.
-- El SLI en Costa Rica ronda **US$15-35/día** — sumado a los US$317,42, el precio final probablemente quede entre **US$437 y US$597**, mucho más cerca de los US$623 de Pilot (que ya lo incluye) que de "la mitad".
-
-**No es 100% seguro sin confirmación directa** — es una inferencia fuerte (patrón muy documentado en la industria de Costa Rica), no una garantía para esta reserva puntual.
-
-**✅ Consultas enviadas para confirmar (13/9/2026):**
-- **Avis Costa Rica**, por WhatsApp (+506 6244-9247): se preguntó si el SLI está incluido en los US$317,42 o se paga aparte, y cuánto.
-- **EconomyBookings**, por mail (support@bookinggroup.com, con el número de referencia de la cotización 21-107189): misma pregunta.
-
-**Respuesta de Avis por WhatsApp (13/9/2026, mismo día):** no contestó la pregunta puntual — recomendó cotizar directo en su propia web para elegir el seguro ahí, aclarando que no pueden confirmar cómo trabajan "empresas externas" (o sea, no van a hablar de la cotización de EconomyBookings). Al entrar a avis.cr a cotizar directo para el 20/3 en el Aeropuerto Juan Santamaría con la búsqueda rápida (sin fecha de devolución cargada), la web devolvió **"Los autos están agotados para la localidad y/o ciudad requerida"** — error de búsqueda incompleta, no falta real de disponibilidad.
-
-**✅ Cotización directa en avis.cr con el rango completo (13/9/2026):** se volvió a intentar cargando bien el circuito completo — "Alajuela" en el buscador de ubicación autocompleta a "(SJO) Aeropuerto Internacional Juan Santamaría", fechas 20/3/2027 10:00 (ajustado a mediodía por el sistema) al 27/3/2027. Con eso sí devolvió resultados reales: **SUV Económico (Nissan Kicks o similar, automática) — Tarifa base US$252,00 por 7 días**, y entrando al detalle completo (Paso 2, sin llegar a pagar): + Cargo de registración US$25,48 + Cargo de Aeropuerto US$30,24 + IVA US$40,00 = **Total estimado US$347,72**.
-
-**No aparece ninguna línea de "seguro obligatorio (SLI)" en el desglose** — el listado de "Equipamiento opcional" solo tiene Toll Payment Pass, Asistencia en carretera, Silla de bebé, Conductor adicional, Windshield and Tire Coverage, GPS y Mobile Internet — nada llamado SLI o similar. Sigue sin poder confirmarse al 100% si está incluido en la tarifa base o si se agrega recién en el mostrador.
-
-**⚠️ Esto le baja el peso a la teoría del seguro como única explicación:** aun así, US$347,72 (con impuestos y cargos reales incluidos, del sitio oficial de Avis) sigue bastante por debajo de los US$623-665 de Pilot. Parece haber una brecha real de precio entre cadena internacional y rentadora chica local, no explicada solo por el seguro. **Pendiente: seguir esperando la respuesta de EconomyBookings por mail** para intentar cerrar esto del todo.
-
-### Rent a cars locales de Costa Rica — directorio de contacto (WebSearch, 12/9/2026)
-
-Mismo criterio que se usó para Salta/Jujuy en el otro proyecto: además de Adobe (ya cotizado, US$450/7 días) conviene comparar contra empresas costarricenses más chicas, que en varios videos/foros aparecen como más baratas que las cadenas internacionales (Hertz, Avis, Budget, Sixt). Ninguna publica precio fijo cerrado online — hay que escribirles directo para cotizar 4x4 7 días, fechas del viaje, y confirmar qué cubre el seguro.
-
-| Empresa | Web | WhatsApp/Tel | Ubicación | Nota |
-|---|---|---|---|---|
-| **Pilot Car Rental** | [carrentalincostarica.com](https://carrentalincostarica.com/) | +506 8513-1104 | La Garita, Alajuela (cerca de SJO) | Precio ejemplo relevado: US$216 por 3,5 días (depósito US$750). Reserva por WhatsApp mandando foto de pasaporte. |
-| **Wild Rider** | [wild-rider.com](https://wild-rider.com/) | +506 8973-2759 | San José, retiro en SJO | Especializados en 4x4 y camper/motorhome — perfil más "aventura/mochilero". |
-| **FACTO Rent a Car** | [app.factorentacar.com](https://app.factorentacar.com/) | 8367-0937 | Costa Rica | Reserva directo por WhatsApp, número publicado en su propia web. |
-| **4x4 Rental Costa Rica** | [4x4rentacar.com](https://4x4rentacar.com/) | — (WhatsApp desde la web) | +15 oficinas en el país, retiro/entrega gratis en SJO | Desde ~US$35/día all-inclusive (otra fuente menciona rango US$12-25 según vehículo — verificar al cotizar, dato contradictorio entre fuentes). Operan desde 2004. |
-| **FAST Rent A Car Costa Rica** | [fastcr.com](https://www.fastcr.com/) | — (WhatsApp desde la web) | Alajuela, cerca de SJO | Empresa familiar costarricense desde 2008, sin cargo por conductor adicional. Número de WhatsApp no confirmado en esta búsqueda, sacarlo del sitio. |
-
-**✅ Cotización enviada por WhatsApp (13/9/2026):** se mandó el mismo mensaje a Pilot, Wild Rider y FACTO pidiendo precio de 7 días (20-27/3/2027, retiro/entrega SJO) de SUV automática y 4x4 automática, seguro obligatorio incluido. **Pendiente: esperar respuesta de los tres y comparar contra Adobe** (US$806,40 el 4x4, US$598,64 el 2WD) **y EconomyBookings**. Si hace falta un cuarto/quinto presupuesto, quedan sin cotizar todavía **4x4 Rental Costa Rica** y **FAST Rent A Car** (tabla arriba) — sacar el WhatsApp de sus webs si se decide sumarlos.
-
-**Wild Rider — cotización formal enviada por formulario web (13/9/2026), no por WhatsApp directo:** Wild Rider redirige a un formulario en [wild-rider.com/es/nuestros-carros-y-reservacion](https://wild-rider.com/es/nuestros-carros-y-reservacion/) con un dropdown de todos los modelos de la flota (incluye variantes camper y de renta mínima 14 días, que no aplican). Daniel completó y envió el formulario con estos datos, confirmación recibida:
-- Vehículo elegido: **Toyota RAV4 4th Generación, Transmisión Automática** (SUV automática — todavía falta cotizar también la opción 4x4, ver abajo).
-- Retiro: 20/3/2027, 10:00am, directo en el Aeropuerto Juan Santamaría.
-- Entrega: 27/3/2027, 20:00, en la oficina de Alajuela, con traslado al aeropuerto incluido.
-- Total: 7 días, 10 horas.
-- Pasajeros: 2. Contacto usado: daordoqui@gmail.com.
-
-**Pendiente:** falta completar el mismo formulario una segunda vez para cotizar la opción 4x4 (recomendado: **Suzuki Jimny 5 puertas, Transmisión Automática** — no la de 3 puertas, tiene mucho menos baúl) y así tener el mismo par SUV/4x4 que se pidió a Pilot y FACTO.
-
-**✅ Pilot Car Rental — cotización recibida por WhatsApp (13/9/2026, 15:24hs):**
-
-| | |
-|---|---|
-| Período cotizado | 20/3/2027 13:30 → 27/3/2027 13:30 (7 días) |
-| Retiro | Aeropuerto Juan Santamaría (SJO) |
-| Entrega | Oficina de Pilot en el Aeropuerto |
-| **Categoría 1 — SUV Económico 4x2 Automático** | **US$623** |
-| **Categoría 2 — SUV Económico 4x4 Automático** | **US$665** |
-| Depósito reembolsable | US$750 (efectivo o PayPal si es con tarjeta) |
-| Incluye | Seguro básico obligatorio con deducible, asistencia en carretera, kilometraje libre, 1 conductor adicional gratis |
-| Pago con tarjeta | +15% de impuestos locales vía PayPal (el pago en efectivo no paga ese recargo) |
-| Anticipo | No piden pago anticipado — todo se paga el día del alquiler |
-| Vigencia de la cotización | 7 días desde el 13/9/2026 |
-
-Mandaron fotos de referencia de los autos (una Suzuki Vitara gris y una SsangYong/similar con parrilla de techo) como ejemplo de las categorías.
-
-**⚠️ A confirmar:** la cotización asume retiro y entrega a las 13:30hs, pero el horario real esperado es retiro ~10am del día 1 (aterrizaje 08:50 + trámites) y entrega recién a la noche del día 8 (20-23hs aprox., no hay apuro por el horario del vuelo 01:40). Eso son más de 7 días completos desde un retiro a las 10am — conviene reconfirmar con Pilot si eso entra en el mismo precio o si suma un día adicional antes de comparar en firme contra Wild Rider y FACTO.
-
-### Traslados y distancias de referencia
-
-- Aeropuerto SJO → San José: ~30 min.
-- San José → La Fortuna/Arenal: ~3h-3h30 en auto.
-- La Fortuna → Monteverde: ~2h30-3h (caminos de montaña, más lento de lo que parece en el mapa).
-- Monteverde → Guanacaste: ~2h-2h30.
-
-### Comparativa de SUVs automáticas — 16 opciones cotizadas en vivo (16/9/2026, horario corregido)
-
-Daniel pidió específicamente una comparativa amplia de SUVs (mezcla de 4x4 y 4x2, **todas automáticas**) de distintas rentadoras, con link directo a cada cotización, para poder comparar precio y calidad de auto a golpe de vista antes de decidir.
-
-**⚠️ Corrección de horario (16/9/2026):** la primera pasada de esta comparativa usó como devolución "sábado 27/3/2027, 10:00 AM" (o 17:00 en algunos casos) — un error, porque el 27/3 es justo el día que manejan de vuelta desde Manuel Antonio hasta SJO para tomar el vuelo de regreso de las 01:40 del 28/3 (ver [[feedback_cr2027_horarios_alquiler_auto]]). Necesitan el auto **todo el día 27/3**, no devolverlo a la mañana. Se rehizo la cotización completa con **retiro sábado 20/3/2027, 10:00 AM** (sin cambios) y **devolución sábado 27/3/2027 lo más tarde que cada sitio permitiera** — la mayoría de los sitios sí llegan a 22:00-23:00, pero no todos: se anota la hora real usada en cada fila porque varía. Varias tarifas subieron al recalcular (varios sitios facturan un día extra al cruzar la medianoche o sumar horas), y en un caso (Payless) el sistema directamente rechazó las 23:00 y hubo que retroceder a las 21:00.
-
-**Nota de la metodología:** cuando el sitio permitía guardar un link con las fechas y la ubicación ya cargadas, se documentó ese link directo. Cuando el sitio arma la cotización en una sesión temporal sin URL persistente (Hertz, Budget, National, Alamo, Payless), se documentó el link a la home del sitio — hay que volver a cargar las fechas ahí.
-
-| Rentadora | Auto | Categoría | Tracción | Devolución 27/3 usada | Total | Por día | ¿SLI incluido? | Link |
-|---|---|---|---|---|---|---|---|---|
-| **Sixt** | Mitsubishi ASX 4WD | Compact SUV | 4x4 | 23:00 (8 días facturados) | **US$431,43** | US$53,93 | ✅ Sí — desglosado: Third Party Liability US$79,10 dentro del total | [sixt.com](https://www.sixt.com/car-rental/costa-rica/san-jose/) |
-| **Vamos Rent-A-Car** | Compact Elite SUV 4x4 | Compact SUV | 4x4 | 22:00 (8 días) | **US$767,50** | US$95,94 | ✅ Sí — desglosado como "Third Party Waiver-SLI" US$127,60 dentro del total, explicado como "mandatory coverage in Costa Rica" | [reservations.vamosrentacar.com](https://reservations.vamosrentacar.com/Search/StepSearch/VAMOS%7CEN%7C20270320%7C1%7C1000AM%7C20270327%7C1%7C1000PM%7CVamosSite%7CH) |
-| **Vamos Rent-A-Car** | Intermediate SUV IFAR 4x4 | Intermediate SUV | 4x4 | 22:00 (8 días) | **US$785,58** | US$98,20 | ✅ Sí — mismo desglose de Third Party Waiver-SLI | [reservations.vamosrentacar.com](https://reservations.vamosrentacar.com/Search/StepSearch/VAMOS%7CEN%7C20270320%7C1%7C1000AM%7C20270327%7C1%7C1000PM%7CVamosSite%7CH) |
-| **Dollar Costa Rica** | Toyota Raize 2WD | Compact SUV | 4x2 | 22:00 (8 días) | **US$911,41** | US$113,93 | ✅ Sí — el propio checkout aclara "Tu precio ya incluye la protección de Daños a Terceros (TPL)"; desglose Renta Base US$696 + Impuestos US$215,41 | [dollar.cr](https://dollar.cr/reserva/?pickup_location=SJO+AIRPORT+DT&pickup_code=6&pickup_date=03%2F20%2F2027&pickup_time=10%3A00&dropoff_location=SJO+AIRPORT+DT&dropoff_code=6&dropoff_date=03%2F27%2F2027&dropoff_time=22%3A00) |
-| **Dollar Costa Rica** | Mitsubishi ASX 4WD | Compact SUV | 4x4 | 22:00 (8 días) | **US$942,06** | US$117,76 | ✅ Sí — mismo TPL incluido confirmado; Renta Base US$720 + Impuestos US$222,06 | [dollar.cr](https://dollar.cr/reserva/?pickup_location=SJO+AIRPORT+DT&pickup_code=6&pickup_date=03%2F20%2F2027&pickup_time=10%3A00&dropoff_location=SJO+AIRPORT+DT&dropoff_code=6&dropoff_date=03%2F27%2F2027&dropoff_time=22%3A00) |
-| **Avis (directo, avis.cr)** | Nissan Kicks o similar | SUV Económico | 4x2 | 21:00 (23:00 fue rechazado: "oficina cerrada a la hora de devolución"; 8 días) | **US$404,99** | US$50,62 | ⚠️ **Confirmado NO incluido (17/9/2026):** desglose exacto: Tarifa base US$294,00 + Cargo de registración US$29,12 + Cargo de Aeropuerto US$35,28 + IVA US$46,59 = US$404,99. En "Protecciones y Coberturas" NO hay ninguna opción de responsabilidad civil ante terceros — solo ALI US$18,99/día, PDW US$24,99/día (descrita como "Protección Mínima Obligatoria" pero se presenta como casilla opcional sin marcar, texto confuso) y LDW US$38,99/día, las 3 sobre daños al propio vehículo, ninguna es SLI/TPL | [avis.cr](https://avis.cr/) (recargar: SJO, 20/3 10:00 → 27/3 21:00) |
-| **EconomyBookings (Avis)** | Nissan Kicks o similar | SUV Económico | 4x2 | 21:00 (8 días — reconfirmado 19/9/2026, mismo precio que a las 22:00) | **US$317,42** | US$39,68 | ❌ NO incluido — **misma contradicción confirmada con el horario corregido:** el resumen muestra "✓ Cobertura Total" y "✓ Protección antirrobo", pero "Condiciones de Alquiler" dice *"(NOT included) CDW"* y *"(NOT included) TP"*, con depósito estimado de **US$2.000** | [economybookings.com](https://www.economybookings.com/cars/results?cr=11&crcy=USD&lang=es&age=35&py=2027&pm=03&pd=20&dy=2027&dm=03&dd=27&pt=1000&dt=2100&plc=103865&dlc=103865&pcntry=CR&reload=1&filters=carType%3ASUV%3BcarSpecificationsTransmission%3AautoTransmissionSpec%3B&pfilters=carSpecificationsTransmission%3AautoTransmissionSpec) |
-| **Payless** | Suzuki Jimny o similar | Compact SUV | 4x4 | 21:00 (23:00 y 22:00 rechazados por cierre de oficina; 7 días 11 horas) | **US$652,57** | ~US$87,50 | ❌ **Confirmado NO incluido (17/9/2026):** Base Rate US$769,24 (el de la fila del ASX, mismo patrón), Taxes & Fees US$0,00. En "Protection Products": Loss Damage Waiver (LDW) US$49,98/día y **Additional Liability Insurance (ALI) US$25,00/día — "Supplemental liability provides you up to 1 to 2 million dollars of primary 3rd party coverage"**, ambas sin marcar por defecto | [paylesscar.com](https://www.paylesscar.com/en/home) (recargar fechas) |
-| **Payless** | Suzuki Vitara o similar | Intermediate SUV | 4x4 | 21:00 (mismo horario) | **US$710,90** | ~US$95,32 | ❌ Mismo patrón confirmado que el Jimny — ALI US$25,00/día no incluido | [paylesscar.com](https://www.paylesscar.com/en/home) (recargar fechas) |
-| **Payless** | Mitsubishi ASX o similar | Standard SUV | 4x4 | 21:00 (mismo horario) | **US$769,24** | ~US$103,15 | ❌ Confirmado NO incluido — ver desglose completo arriba (Base Rate US$769,24 sin ninguna protección, ALI US$25,00/día aparte) | [paylesscar.com](https://www.paylesscar.com/en/home) (recargar fechas) |
-| **Budget** | Toyota Raize o similar | Compact Elite | 4x2 | 23:00 (7 días 13 horas) | **US$410,07** (total con impuestos, tarifa "Pay Later") | ~US$54,37 | ❌ NO incluido — Supplemental Liability Insurance (SLI) aparece como extra opcional sin marcar, US$19,99/día aparte | [budget.com](https://www.budget.com/en/home) (recargar fechas) |
-| **Budget** | Subaru Crosstrek o similar | Intermediate Elite SUV | AWD | 23:00 (mismo horario) | US$311,12 (tarifa base, **sin impuestos** — no se llegó a confirmar el total final) | — | ❌ Mismo patrón que Raize — SLI no incluido | [budget.com](https://www.budget.com/en/home) (recargar fechas) |
-| **Alamo** | Toyota Corolla Cross o similar | Compact SUV | 4x2 | 23:00 (7 días 13 horas) | **US$850,43** (con impuestos incluidos) | ~US$112,75 | ❌ **Confirmado NO incluido (17/9/2026):** el sitio aclara en "Region Recommended Coverage" que Third Party Liability (TPL) *"will be required unless you show proof of coverage or purchase the Alamo Protection Package"*. Precio exacto: **Third Party Liability (TPL) US$17,88/día, US$143,01 total** — no está en el precio base de US$850,43. Alternativa: Alamo Protection Package (incluye TPL) US$63,85/día, US$510,76 total | [alamo.com](https://www.alamo.com/en/home.html) (recargar fechas) |
-| **Alamo** | Suzuki Vitara o similar | Intermediate SUV | 4x4 | 23:00 (mismo horario) | **US$869,37** | ~US$115,26 | ❌ Mismo patrón confirmado — TPL US$17,88/día aparte | [alamo.com](https://www.alamo.com/en/home.html) (recargar fechas) |
-| **National** | Suzuki Vitara o similar | Intermediate SUV | No especificado | 23:00 (7 días 13 horas) | **US$964,06** | ~US$127,83 | ❌ **Confirmado NO incluido (17/9/2026):** misma casa matriz que Alamo (Enterprise Holdings), idéntica estructura y mismo precio — **Third Party Liability US$17,88/día**, no incluido en el total. Alternativa: National Protection Package US$63,85/día (incluye TPL) | [nationalcar.com](https://www.nationalcar.com/en/home.html) (recargar fechas) |
-| **Hertz** | Toyota Raize | Intermediate Elite SUV | 2WD | 23:00 (facturado igual que antes — Hertz cobra por día calendario, no cambió al sumar horas) | **US$1.143,10** | US$163,30 | ✅ Sí — obligatorio por ley, incluido en tarifa (deducible US$500-20% de daños, eliminable con Super TPL opcional a US$10/día) | [hertz.com](https://www.hertz.com/rentacar/reservation/) (recargar fechas) |
-
-**Lectura rápida (actualizada con horario corregido):**
-- **El horario correcto encareció casi todas las opciones** — la mayoría de los sitios facturan un día extra (7→8 días) al sumar las ~12-13 horas que separan "devolver a la mañana" de "devolver a la noche". El salto más marcado: Dollar Raize pasó de US$609,00 (dato viejo con horario incorrecto) a **US$911,41** — una diferencia de más de US$300, no un detalle menor. Hertz fue la única que no cambió, porque cobra por día calendario completo, no por franja de 24 horas.
-- **Con el seguro obligatorio (SLI) confirmado y desglosado, las opciones más baratas ahora son Sixt (US$431,43) y Vamos Rent-A-Car (US$767,50-785,58)** — Sixt sigue siendo, por lejos, la más barata con el seguro 100% transparente.
-- **Dollar Costa Rica también confirma el TPL/SLI incluido** (aclaración explícita en el checkout), pero a un precio bastante más alto (US$911-942) que Sixt o Vamos para categorías similares.
-- **El hallazgo de la letra chica de EconomyBookings se mantiene igual con el horario corregido:** la oferta más barata (Nissan Kicks/Avis, ahora US$317,42 en vez de US$279,02) sigue sin incluir CDW ni TP pese a los checks verdes del resumen — la contradicción no era un artefacto del horario viejo, es consistente.
-- **✅ Confirmado con desglose numérico exacto (17/9/2026): Avis, Payless, Alamo y National NO incluyen el SLI/TPL en el precio mostrado**, ya no queda ninguna en estado "no verificado":
-  - **Avis:** ninguna de sus 3 protecciones opcionales (ALI US$18,99/día, PDW US$24,99/día, LDW US$38,99/día) es responsabilidad civil ante terceros — las 3 cubren solo daños al propio auto de Avis.
-  - **Payless:** Additional Liability Insurance (ALI) US$25,00/día, aparte.
-  - **Alamo y National** (misma casa matriz, Enterprise Holdings): Third Party Liability US$17,88/día en ambas, idéntico precio — el sitio aclara que es obligatorio salvo que se muestre prueba de seguro propio o se compre el paquete completo (Alamo/National Protection Package, US$63,85/día).
-  - Sumando el TPL/ALI real a cada precio base, ninguna de estas 4 rentadoras queda más barata que Sixt (US$431,43, con el seguro ya incluido y desglosado) una vez que se cotiza en igualdad de condiciones.
-- **Hertz sigue siendo la más cara** (~US$1.143), pero es la más transparente en letra chica junto con Sixt/Vamos/Dollar.
-
-### EconomyBookings (Avis) — Nissan Kicks — condiciones completas revisadas (19/9/2026)
-
-Daniel dijo que confía en EconomyBookings por reunir rentadoras grandes y porque suele tener cancelación gratuita hasta 24hs antes — se verificó en vivo en la oferta real (SJO, 20/3/2027 10:00 AM → 27/3/2027 21:00 PM, US$317,42) leyendo **todas** las secciones de "Condiciones completas de alquiler" (Información Importante, Condiciones De Reserva, Cancellation, Condiciones De Alquiler). Resultado completo:
-
-**Cancelación — la cifra correcta es 48hs, no 24hs:**
-- Gratis hasta 48 horas antes de la recogida → reembolso completo. El monto va primero a un "E-Wallet" como BookingCredit, retirable gratis al medio de pago original o usable para otra reserva.
-- Menos de 48hs antes → sin reembolso, salvo que se haya comprado el add-on pago "Last Minute Cancellation".
-- Las cancelaciones deben iniciarse desde EconomyBookings (vía "Mis reservas"), nunca directo con Avis — si se cancela directo con el proveedor, EconomyBookings no garantiza el reembolso.
-- El reembolso se puede reclamar hasta 6 meses después de la cancelación. Bonos/créditos promocionales del sitio no son reembolsables ni retirables, sin valor en efectivo.
-- Cambios de reserva (fechas, extras) también deben pedirse con mínimo 48hs de anticipación, y no quedan confirmados hasta que EconomyBookings emite un nuevo bono — un cambio pedido y no confirmado deja vigente la reserva original.
-
-**No-Show (perder la reserva sin cancelar) — sin reembolso si:** no se retira el auto en la fecha/hora reservada; falta algún documento obligatorio (bono, licencia física, pasaporte/DNI); o no se presenta una tarjeta de crédito física a nombre del conductor principal con fondos suficientes para el depósito. El proveedor también puede negarse a entregar el auto si el cliente llega bajo efectos de alcohol o drogas — cuenta como no-show, sin reembolso.
-
-**Documentación exigida al retirar el auto** (todo a nombre del conductor principal): pasaporte o DNI, carné de conducir físico con antigüedad mínima de 1 año y sin anotaciones importantes (no se acepta formato digital), tarjeta de crédito física, y el bono de la reserva.
-
-**Depósito de seguridad — restricción de medio de pago a tener en cuenta:** se bloquea en la tarjeta del conductor principal (monto estimado US$2.000, ligado al punto del seguro no incluido, ver arriba). Se aceptan solo **MasterCard y Visa físicas**. NO se aceptan tarjetas de débito, tarjetas de terceros (ni de familiares), efectivo, pagos virtuales (Google Pay/Apple Pay) ni tarjetas prepagas. Además del depósito por daños puede bloquearse aparte un depósito de combustible y el monto de posibles multas de tránsito. Se recomienda una tarjeta con chip, PIN y números en relieve.
-
-**Política de combustible:** lleno-lleno (se entrega lleno y se devuelve lleno; si no, cobran el combustible más tasas).
-
-**Períodos de gracia:** 2 horas de gracia en la recogida antes de que puedan aplicar una tarifa de "no-show"; 29 minutos de gracia en la devolución antes de cobrar un día de alquiler adicional completo.
-
-**Otros datos del proveedor (Avis, sucursal Aeropuerto SJO):**
-- Ubicación real: Juan Santamaría International Airport, Alajuela Centro, tel. 506-2509-5950. Recogen a los clientes en la puerta de embarque y los trasladan a las instalaciones de Avis para completar el papeleo — no es mostrador dentro de la terminal misma.
-- Horario de atención: todos los días 05:00-22:30.
-- Conductor adicional: normalmente no incluido, se paga en el mostrador en colones (salvo que la oferta puntual lo aclare incluido).
-- Conductor joven (hasta 30 años): recargo obligatorio de €5-35/día, no incluido en el precio — no aplica a Daniel ni Melisa.
-- Cruce de fronteras: generalmente no permitido; si se llegara a necesitar, avisar con 48hs de anticipación.
-- El modelo de auto no está garantizado — "Nissan Kicks o similar de categoría SUV" puede sustituirse por otro similar o de categoría superior sin costo extra si no hay stock del modelo exacto.
-
-**Conclusión:** la confianza de Daniel en la cancelación gratuita de EconomyBookings es correcta en el fondo, pero el plazo real es **48hs antes de la recogida, no 24hs** — corregido en este archivo. El resto de las condiciones (documentación, depósito solo con Visa/Mastercard físicas a nombre del conductor, seguro CDW/TP no incluido con riesgo de depósito de US$2.000 en el mostrador) ya estaban mayormente detectadas y ahora quedan documentadas de forma completa para decidir con toda la información antes de reservar esta opción.
-
-### El depósito de US$2.000, el CDW/TP y la tarjeta de Daniel (19/9/2026)
-
-**✅ Dato clave: la tarjeta de Daniel es una Visa Signature internacional, con cobertura de alquiler de auto confirmada por él mismo.** Esto es justamente lo que la sección "Insurance" de las condiciones pide como alternativa a comprar el CDW/TP en el mostrador: presentar prueba de que la tarjeta cubre daños/robo del auto de alquiler.
-
-**Precio del CDW/TP si se paga en el mostrador — no lo publica EconomyBookings.** Se revisó completo el bloque "Opciones adicionales" de la oferta (Low Mileage Vehicle US$5,74, Asiento para niños US$46,77, GPS US$110,19, Asistencia en Carretera) y el CDW/TP no aparece ahí — el aviso de la plataforma dice explícitamente que esos seguros "se pagan en el mostrador del proveedor... los precios están sujetos a cambios", es decir, EconomyBookings no fija ni muestra ese precio. La única referencia numérica real que existe es la cotización directa en avis.cr (mismo Avis, canal distinto, ver fila de la tabla comparativa arriba): **ALI US$18,99/día, PDW US$24,99/día (etiquetado ahí mismo como "Protección Mínima Obligatoria" pero mostrado como casilla opcional sin marcar — texto confuso del propio sitio de Avis) y LDW US$38,99/día** — para 7 días, entre ~US$133 y ~US$273 según la combinación.
-
-**⚠️ Pendiente sin confirmar:** no hay dato documentado de si, al mostrar la cobertura de la Visa Signature en el mostrador, Avis baja el depósito de US$2.000 a un monto menor o lo mantiene igual como garantía adicional. Es específico de cada sucursal y no está publicado en ningún sitio — conviene preguntarlo directo a Avis Costa Rica (WhatsApp +506 6244-9247, ya usado antes en esta investigación) antes de reservar en firme, o confirmarlo recién en el mostrador al llegar.
+Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=
 
 ## Alojamiento — referencias reales por zona
 
@@ -707,22 +511,20 @@ Repaso de cada parada de Itinerario A contra los días de calendario exactos que
 
 Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por persona, **mitad** del auto y **mitad** de todos los hospedajes (se dividen 50/50 con Melisa), más entradas (esas sí, completas por persona, no se dividen). **No incluye comida ni souvenirs**, tal como pidió Daniel.
 
-**Revisado 13/9/2026** (dos correcciones sobre la primera versión, a pedido de Daniel):
-1. **El auto ya NO usa el precio de Adobe** — Adobe cotiza notablemente por encima del mercado (más del doble del sedán más barato de EconomyBookings), así que lo usa como piso/techo distorsionaba el número real. Ahora el auto usa EconomyBookings: piso = Nissan Versa/Avis (sedán económico) US$267,42; techo = Nissan Kicks/Avis (SUV 2WD de altura, no 4x4 pleno — coincide con la conclusión de que no hace falta 4x4 para el recorrido) US$338.
-2. **El techo de entradas ya NO suma "hacer todo"** — pasa de US$412,60 (irreal) a un techo realista de US$157,60 (1-2 actividades por zona, ver sección de Entradas arriba).
+**Revisado 19/9/2026:** el auto ya no es un rango piso/techo — está reservado a precio fijo (ver sección "Auto de alquiler"). El techo de entradas tampoco suma "hacer todo" — es un techo realista de US$157,60 (1-2 actividades por zona, ver sección de Entradas arriba).
 
 | Ítem | Piso (mínimo) | Techo (máximo) |
 |---|---|---|
 | Vuelo BUE-SJO ida y vuelta (por persona, ✅ cerrado) | US$658,16 | US$658,16 |
-| Auto de alquiler, mitad (EconomyBookings: sedán US$267,42 ÷2 / SUV 2WD US$338 ÷2) | US$133,71 | US$169,00 |
+| Auto de alquiler, mitad (✅ reservado: US$317,42 ÷2) | US$158,71 | US$158,71 |
 | Hospedaje, mitad de las 4 zonas (opción más barata / más cara de cada una) | US$272,50 | US$339,00 |
 | Entradas y actividades (solo Poás+MA / techo realista, 1-2 activ. por zona) | US$31,00 | US$157,60 |
-| **TOTAL por persona** | **≈ US$1.095** | **≈ US$1.324** |
+| **TOTAL por persona** | **≈ US$1.120** | **≈ US$1.313** |
 
 **Detalle del piso de hospedaje** (mitad de: Tucan Container US$183 + ECO RIVER DOME US$230 + VALU Puntarenas US$67 + Pura Natura Lodge US$65 = US$545 ÷2 = US$272,50 — verificado con cálculo, correcto).
 **Detalle del techo de hospedaje** (mitad de: Arenal Sweet Bee Cabins US$275 + Camino Verde B&B US$240 + Hotel Mar y Mar US$88 + Deluxe Suite Quepos US$75 = US$678 ÷2 = US$339,00 — verificado con cálculo, correcto).
 
-**Lectura:** con el auto corregido a precios de mercado real (EconomyBookings) y un techo de entradas realista, el rango baja de US$1.261-1.813 a **US$1.095-1.324 por persona** — una diferencia de ~US$165-490 respecto al cálculo anterior, que efectivamente estaba inflado por usar Adobe (outlier) y "hacer todas las actividades" como techo. Sigue siendo un piso-techo porque el auto (sedán vs. SUV), el hospedaje (varias referencias por zona) y cuántas actividades se hagan siguen sin decisión cerrada.
+**Lectura:** con el auto ya reservado a precio fijo y un techo de entradas realista, el rango queda en **US$1.120-1.313 por persona**. Sigue siendo un piso-techo solo por el hospedaje (varias referencias por zona) y cuántas actividades se hagan — el auto y el vuelo ya son costos cerrados.
 
 ## Presupuesto de referencia (Emma Terra, gama media)
 
@@ -984,10 +786,10 @@ Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 1
 
 1. **Resolver el tramo del golfo de Nicoya del Itinerario A:** ¿solo costa (liviano) o Isla Venado completo (necesita 2-3 noches propias, hay que sacar días de otro lado)?
 2. **Verificar estacionalidad del Caribe** (lluvias invertidas) — ya no aplica al Itinerario A (que descarta el Caribe), pero sigue pendiente si en algún momento se retoma la variante 3 (Tortuguero) como alternativa.
-3. **Confirmar qué cubre el seguro del Adobe Rent a Car** (US$450/7 días) antes de reservar — alerta de que muchas tarjetas de crédito no cubren 4x4/pickup.
+3. ~~Confirmar qué cubre el seguro del Adobe Rent a Car antes de reservar~~ — sin efecto, no se usó esa opción (ver punto 9).
 4. **Cerrar el Itinerario A con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
 5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — hoy es la parada con menos datos concretos de costo del Itinerario A.
 6. ✅ **Ritmo del día 1 — CERRADO (13/9/2026):** analizado en detalle (ver auditoría de horarios más arriba) y decidido dejarlo como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens — sin riesgo de plata perdida porque no pide reserva anticipada.
 7. **Reservar Eco Termales con anticipación** (13/9/2026) junto con Poás y Manuel Antonio — cupo limitado a 100 personas por franja, riesgo de agotarse en Semana Santa.
 8. **Decidir si sumar Bajos del Toro/Blue Falls of Costa Rica y en qué momento** (13/9/2026): único día viable es el Día 3 (lunes 22/3, ya que cierra domingos) como excursión desde La Fortuna — compite por ese mismo día con Río Celeste y con las actividades ya fijas de La Fortuna (catarata/kayak/termas/caminata nocturna). Ver detalle de precio y horario en "Qué le falta a Itinerario A" más abajo.
-9. **Comparar las cotizaciones de auto** una vez respondan Wild Rider (falta el 4x4) y FACTO, contra Pilot (SUV US$623 / 4x4 US$665) y Adobe/EconomyBookings — y reconfirmar con Pilot si el horario real de retiro/entrega (10am día 1 a 20-23h día 8, más de 7 días exactos) entra en el mismo precio.
+9. ✅ **Auto de alquiler — RESERVADO (19/9/2026):** ver sección "Auto de alquiler" — reserva B29401782, US$317,42. Queda presentar la cobertura de la Visa Signature de Daniel en el mostrador de Avis al llegar.
