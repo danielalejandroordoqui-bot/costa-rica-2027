@@ -18,148 +18,18 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 - **Semana Santa en Costa Rica** es la fecha de mayor demanda turística INTERNA del propio país del año — afecta precio y ocupación (hoteles y parques más llenos y más caros que cualquier otra semana), no la viabilidad del viaje.
 - **Salvedad reconocida desde el principio:** no se puede hacer todo el país en 7-8 días netos (Tortuguero + Corcovado + Manuel Antonio + playa + ruta no entran todos juntos) — hay que elegir.
 
-## Vuelo BUE-San José (capturas reales, Turismocity, 12/9/2026)
+## Vuelo BUE-San José — a monitorear (no comprado)
 
-## ✅ VUELO CERRADO — Avianca, ida y vuelta (12/9/2026)
+**Itinerario elegido para seguir de cerca, Avianca vía Bogotá** — es el único que evita manejar de noche el día de regreso: sale de SJO recién a las 01:40, así que el traslado Manuel Antonio→SJO se hace con luz de día, sin horario límite de check-in esa tarde/noche. El resto de las combinaciones evaluadas (Copa, LATAM, salidas sábado a la tarde) quedaron descartadas por forzar ese manejo nocturno o llegar a Buenos Aires recién el lunes, sin margen de descanso antes de trabajar.
 
-Confirmado con las fechas reales del viaje (ida sábado 20/03, vuelta domingo 28/03), precio verificado en dos motores distintos — este es el que se reserva:
-
-| Tramo | Vuelos | Horario | Vía | Duración total |
+| Tramo | Vuelos | Horario | Vía | Duración |
 |---|---|---|---|---|
-| **Ida** (sáb 20/3) | AV218 + AV696 | EZE 01:40 → SJO 08:50 | Bogotá (escala 1h10min) | 10h10min |
-| **Vuelta** (dom 28/3) | AV691 + AV8395 | SJO 01:40 → EZE 15:40 | Bogotá (escala 2h25min) | 11h00min |
+| Ida (sáb 20/3) | AV218 + AV696 | EZE 01:40 → SJO 08:50 | Bogotá (escala 1h10) | 10h10 |
+| Vuelta (dom 28/3) | AV691 + AV8395 | SJO 01:40 → EZE 15:40 | Bogotá (escala 2h25) | 11h00 |
 
-**Precio:**
-- Turismocity (agregador): US$680 total.
-- **Directo en avianca.com (ensayo real sin compra, 12/9/2026): US$658,16 total** — US$377,23 ida + US$280,93 vuelta, todos los impuestos incluidos. Más barato que el agregador — conviene reservar directo.
-- Tarifa: **Light**. Incluye el servicio estándar de Economy (mismo asiento, cabina y servicio a bordo que cualquier tarifa superior — Avianca es aerolínea de línea completa, no low-cost, fundada en 1919, aerolínea de bandera de Colombia). Lo que NO incluye la Light: selección de asiento con anticipación (se asigna en el check-in) y cambios de itinerario sin cargo — la tarifa no admite reembolsos y los cambios tienen costo adicional. Upsell a Classic (más equipaje + selección de asiento) cotizado en +US$62,10 (ida) y +US$64,20 (vuelta) por pasajero, por si se quiere evaluar antes de reservar en firme, sobre todo tratándose de una fecha fija en Semana Santa.
-- **Equipaje:** personal item + carry-on incluidos, sin valija despachada — coincide con cómo viajan Daniel y Melisa.
+Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija despachada — sin selección de asiento anticipada ni cambios/reembolsos gratis.
 
-**⚠️ ALERTA — el precio de US$658,16 ya no está vigente (verificado 17/9/2026):** Daniel pidió chequear Google Flights/Google Hotels por si aportaban algo — Google Flights mostró este mismo itinerario exacto (Avianca, EZE 01:40→SJO 08:50 vía BOG / SJO 01:40→EZE 15:40 vía BOG) a **US$1.451 ida y vuelta**, más del doble. Para descartar que fuera un artefacto de Google, se re-cotizó en vivo directo en avianca.com, sin comprar, con el mismo itinerario exacto y tarifa equivalente (Classic ida + Light/Basic vuelta):
-- **Punto de venta Colombia (COP):** COP 3.582.900 total ≈ **US$1.148** (tipo de cambio de mercado del día).
-- **Punto de venta Argentina (ARS, el mismo que se usó para la cotización original de US$658,16):** ARS 2.187.743,60 total ≈ **US$1.448,83** (tipo de cambio de mercado del día) — prácticamente idéntico a lo que mostraba Google Flights.
-- **Conclusión:** el aumento es real, confirmado en la fuente oficial, no es un problema de cómo arma la búsqueda Google Flights. El plan original era esperar a comprar en octubre/noviembre 2026 "porque no había apuro pese a la sobretasa de Semana Santa" — ese supuesto queda invalidado, el precio ya subió ~2,2x desde que se cotizó (12/9/2026). **Pendiente: decidir si conviene comprar antes de lo planeado en vez de esperar a oct/nov, y recalcular el presupuesto por persona con el precio real actual en vez de US$658,16.**
-
-**Por qué se eligió esta y no las alternativas de salida sábado 27 (Copa/Avianca/LATAM con llegada domingo temprano):** con la restricción de no manejar de noche, la AV691 no depende de un horario límite el sábado — se puede salir de Manuel Antonio en cualquier momento de luz del día, manejar tranquilos hasta San José, devolver el auto y esperar sin presión hasta el vuelo de la 01:40. Las alternativas que salen el sábado a la tarde/noche sí exigen cumplir un horario de check-in puntual ese mismo día, un riesgo innecesario. Ver el desarrollo completo de esta discusión más abajo, en la sección de detalle tramo por tramo.
-
-**Nota histórica sobre las fechas de búsqueda:** buena parte del research de abajo (tablas de tramos sueltos, comparación Avianca vs. Copa, alternativas de salida sábado) se hizo primero con una fecha de prueba (vuelta 27/03 en vez de 28/03) para entender el patrón de la ruta antes de tener la fecha exacta — quedó documentado igual porque el patrón se mantuvo al rebuscar con la fecha real. Motor: Turismocity + sitio directo de Avianca. 1 pasajero, clase económica, USD.
-
-**Diferencia horaria:** Costa Rica está 3 horas detrás de Argentina (Argentina UTC-3, Costa Rica UTC-6). Por eso los vuelos de ida "ganan" horas de luz al llegar, y los de vuelta que salen después del mediodía costarricense terminan llegando recién al día siguiente en Argentina — ver el análisis de margen más abajo.
-
-**Equipaje:** según los íconos que muestra Turismocity en estas tarifas, todas incluyen personal item (mochila/bolso) + equipaje de mano (carry-on) — sin valija despachada. Coincide con cómo viajan habitualmente Daniel y Melisa. A confirmar el detalle exacto (peso/medidas permitidas) al momento de reservar — puede variar según la tarifa específica dentro de cada aerolínea.
-
-### Tramos de IDA (EZE → SJO) — todos con 1 escala
-
-| Aerolínea | Sale EZE | Llega SJO | Duración |
-|---|---|---|---|
-| Avianca | 01:40 | 08:50 | 10h10min |
-| Copa Airlines | 00:52 | 08:16 | 10h24min |
-| Copa Airlines | 02:08 | 10:00 | 10h52min |
-| Copa Airlines | 00:52 | 10:00 | 12h08min |
-
-Casi todas las opciones de ida salen de madrugada de EZE (00:52-02:08) y llegan a SJO a media mañana (08:16-10:00) — ese es el patrón dominante en esta ruta, no una excepción. Encaja bien con el horario laboral de Daniel/Melisa (salen del trabajo el viernes 19 a las 17h, viajan esa noche).
-
-**Detalle tramo por tramo de las 2 mejores opciones de ida** (capturas del desplegable de Turismocity, 12/9/2026):
-
-**Avianca (AV218 + AV696) — vía Bogotá:**
-| Tramo | Vuelo | Salida | Llegada | Duración |
-|---|---|---|---|---|
-| EZE → BOG | AV218 | Aer. Ministro Pistarini, Bs.As. — 01:40 (sáb 20/3) | Aer. El Dorado Intl., Bogotá — 06:15 | 6h35min |
-| Escala en Bogotá (BOG) | — | — | — | **1h10min** |
-| BOG → SJO | AV696 | El Dorado Intl., Bogotá — 07:25 | Aer. Juan Santamaría, San José — 08:50 | 2h25min |
-
-**Copa Airlines (CM168 + CM787) — vía Ciudad de Panamá:**
-| Tramo | Vuelo | Salida | Llegada | Duración |
-|---|---|---|---|---|
-| EZE → PTY | CM168 | Aer. Ministro Pistarini, Bs.As. — 00:52 (sáb 20/3) | Aer. Tocumen Intl., Ciudad de Panamá — 06:09 | 7h17min |
-| Escala en Panamá (PTY) | — | — | — | **1h47min** |
-| PTY → SJO | CM787 | Tocumen Intl., Panamá — 07:56 | Aer. Juan Santamaría, San José — 08:16 | 1h20min |
-
-**Confirmado:** la escala de Avianca en Bogotá (1h10min) es más corta que la de Copa en Panamá (1h47min) — Avianca vuela más tiempo en el aire (9h totales) pero espera menos en la conexión, y Copa vuela menos en el aire (8h37) pero espera más. El resultado neto es parecido (10h10 vs 10h24), con ventaja mínima para Avianca en duración total, y para Copa en hora de llegada (08:16 vs 08:50).
-
-### Tramos de VUELTA (SJO → EZE) — todos con 1 escala
-
-| Aerolínea | Sale SJO | Llega EZE | Duración | Llega... |
-|---|---|---|---|---|
-| Avianca | 01:50 | 15:40 | 10h50min | mismo día |
-| Copa Airlines | 08:25 | 21:38 | 10h13min | mismo día |
-| Copa Airlines | 08:25 | 23:23 | 11h58min | mismo día (tarde) |
-| Avianca | 17:15 | 06:05 (+1) | 9h50min | día siguiente |
-| LATAM | 13:40 | 03:00 (+1) | 10h20min | día siguiente |
-| Avianca | 09:30 | 00:30 (+1) | 12h00min | día siguiente (recién pasada la medianoche) |
-| Copa Airlines | 08:25 | 00:28 (+1) | 13h03min | día siguiente |
-| Copa Airlines | 19:15 | 07:40 (+1) | 9h25min | día siguiente |
-
-**Por qué importa el "+1":** Daniel y Melisa trabajan el lunes 29/3 a la mañana. Un regreso que llega "día siguiente" en Argentina significa aterrizar la madrugada del lunes, sin margen de descanso antes de ir a trabajar. Los que llegan "mismo día" (domingo 28) dejan la noche libre para descansar.
-
-### Combos completos con precio, tal como los arma el buscador
-
-| # | Ida | Vuelta | Aerolínea | Precio total | Nota |
-|---|---|---|---|---|---|
-| 1 | Avianca 01:40→08:50 | Avianca 01:50→15:40 | Avianca | **US$680** | 🟢 Mejor margen antes del lunes — llega domingo 15:40 |
-| 2 | Avianca 01:40→08:50 | Avianca 09:30→00:30+1 | Avianca | US$680 | Mismo precio que #1 pero llega lunes — sin ventaja sobre #1 |
-| 3 | Avianca 01:40→08:50 | Avianca 17:15→06:05+1 | Avianca | US$731 | Llega lunes 06:05, casi sin margen |
-| 4 | Avianca 01:40→08:50 | LATAM 13:40→03:00+1 | Avianca + LATAM | US$818 | Llega lunes 03:00 |
-| 5 | Copa 00:52→08:16 | Copa 08:25→23:23 | Copa | US$861 | 🟡 Mismo día (domingo) pero tarde |
-| 6 | Copa 02:08→10:00 | Copa 08:25→23:23 | Copa | US$861 | Igual que #5, ida más tarde |
-| 7 | Copa 00:52→08:16 | Copa 08:25→00:28+1 | Copa | US$861 | 🔴 Evitar — mismo precio que #5 pero llega peor (lunes) |
-| 8 | Copa 02:08→10:00 | Copa 08:25→00:28+1 | Copa | US$861 | 🔴 Evitar, mismo motivo que #7 |
-| 9 | Copa 00:52→08:16 | Copa 08:25→21:38 | Copa | US$953 | 🟡 Mismo día, llega más temprano que #5/#6 |
-| 10 | Copa 00:52→08:16 | Copa 19:15→07:40+1 | Copa | US$953 | Quedan 2 asientos — llega lunes 07:40, prácticamente sin margen |
-
-**Lectura rápida:** para maximizar el margen de descanso antes del lunes 29, la opción **#1 (US$680, Avianca ambos tramos)** es la más barata Y la que mejor llega — no hay que pagar de más para tener mejor horario en este caso puntual. Si se prefiere no salir de Costa Rica de madrugada (evitar el tramo nocturno Manuel Antonio→SJO), la opción **#9 (US$953, Copa)** es la alternativa que mejor concilia ambas cosas, a mayor precio. Las opciones #2, #7 y #8 no tienen sentido frente a sus alternativas al mismo precio — quedan documentadas para no repetir el análisis, no para elegirlas.
-
-### ✅ CONFIRMADO con la fecha real (28/03) — vuelta elegida (12/9/2026)
-
-Todo lo de arriba (#1 a #10) se buscó con fecha de vuelta 27/03 — Daniel volvió a buscar con la fecha real del viaje, **domingo 28/03**, y el patrón se mantiene: Avianca vía Bogotá sigue siendo la única opción que sale de SJO y llega a EZE el **mismo domingo a la tarde**. Todas las demás alternativas para el 28/03 salen de SJO recién a partir de las 4am y llegan a EZE ya entrada la noche del domingo — descartadas por Daniel explícitamente, no entran en la comparación.
-
-**Avianca (AV691 + AV8395) — vía Bogotá — vuelta 28/03, fecha real confirmada:**
-| Tramo | Vuelo | Salida | Llegada | Duración |
-|---|---|---|---|---|
-| SJO → BOG | AV691 | Aer. Juan Santamaría, San José — 01:40 (dom 28/3) | Aer. El Dorado Intl., Bogotá — 04:50 | 2h10min |
-| Escala en Bogotá (BOG) | — | — | — | **2h25min** |
-| BOG → EZE | AV8395 | El Dorado Intl., Bogotá — 07:15 | Aer. Ministro Pistarini, Bs.As. — 15:40 (dom 28/3) | 6h25min |
-
-**Duración total: 11h00min.** Llega a EZE 15:40 el domingo 28/3 — mismo horario de llegada que la búsqueda de prueba con el 27/03, solo cambia levemente la duración (11h vs 10h50) y el número del primer vuelo (AV691 en vez de AV693; el segundo tramo, BOG→EZE, es el mismo AV8395 en ambas fechas). **✅ Precio confirmado: US$680** (ver el combo final al principio de esta sección, con ida+vuelta juntas en la misma búsqueda).
-
-### Detalle tramo por tramo — combo #1 (Avianca, US$680) vs. combo #5 (Copa, US$861) — búsqueda de prueba, fecha 27/03
-
-*(Sección histórica: sirvió para comparar Avianca vs. Copa y confirmar el patrón antes de tener la fecha correcta. La cotización con fecha real está arriba.)*
-
-Confirmado con las capturas del desplegable (12/9/2026): entre estos dos puntuales, Avianca gana en todo — más barato, más rápido y llega casi 8h antes. **La opción #9 (Copa, US$953, llega 21:38) sigue sin desglose tramo por tramo — es una combinación distinta a la de acá abajo, no confundir.**
-
-**Avianca (AV693 + AV8395) — vía Bogotá — combo #1, US$680:**
-| Tramo | Vuelo | Salida | Llegada | Duración |
-|---|---|---|---|---|
-| SJO → BOG | AV693 | Aer. Juan Santamaría, San José — 01:50 | Aer. El Dorado Intl., Bogotá — 05:05 | 2h15min |
-| Escala en Bogotá (BOG) | — | — | — | **2h05min** |
-| BOG → EZE | AV8395 | El Dorado Intl., Bogotá — 07:10 | Aer. Ministro Pistarini, Bs.As. — 15:40 | 6h30min |
-
-**Copa Airlines (CM392 + CM167) — vía Ciudad de Panamá — combo #5, US$861:**
-| Tramo | Vuelo | Salida | Llegada | Duración |
-|---|---|---|---|---|
-| SJO → PTY | CM392 | Aer. Juan Santamaría, San José — 08:25 | Aer. Tocumen Intl., Panamá — 10:50 | 1h25min |
-| Escala en Panamá (PTY) | — | — | — | **3h22min** |
-| PTY → EZE | CM167 | Tocumen Intl., Panamá — 14:12 | Aer. Ministro Pistarini, Bs.As. — 23:23 | 7h11min |
-
-### Alternativas de salida sábado 27 (evaluadas y descartadas, 12/9/2026)
-
-Antes de cerrar en la AV691, Daniel buscó específicamente vuelos que salieran de SJO el **sábado 27** a última hora, para ver si llegar más temprano a Buenos Aires convenía. Cuatro opciones encontradas:
-
-| Aerolínea | Sale SJO (sáb 27) | Llega EZE | Duración | Escala |
-|---|---|---|---|---|
-| Avianca (AV699+AV87) | 17:15 | 06:05 (dom) | 9h50min | Bogotá, 1h05min |
-| Copa (CM839+CM367) | 19:15 | 07:40 (dom) | 9h25min | Panamá, 45min |
-| Copa (CM115+CM367) | 17:20 | 07:40 (dom) | 11h20min | Panamá, 2h39min |
-| LATAM (LA2409+LA2465) | 16:55 | 07:40 (dom, **a AEP, no EZE**) | 11h45min | Lima, 3h40min |
-
-Las dos últimas quedan descartadas de entrada (peor duración sin ninguna ventaja sobre las otras dos). Entre las dos primeras, la Copa 19:15→07:40 es mejor que la Avianca 17:15→06:05: sale 2h más tarde de SJO (2h más en Manuel Antonio) a cambio de llegar solo 1h35 después — buen cambio.
-
-**Por qué ninguna de las dos le gana a la AV691, aplicando la regla de no manejar de noche:** cualquier vuelo que salga de SJO el sábado a la tarde/noche exige completar el traslado Manuel Antonio→SJO (3-4h de auto) a tiempo para un check-in puntual ese mismo día — un horario límite fijo, sin margen, en lo que ya iba a ser un día ajustado. La AV691, en cambio, sale recién a la 01:40 del domingo: el traslado se puede hacer en cualquier momento de luz del sábado, sin apuro, y después hay horas de sobra esperando en la zona del aeropuerto antes de embarcar. Ninguna de las alternativas de salida sábado ofrece ese colchón.
-
-### ✅ Conclusión final (12/9/2026)
-
-**Avianca vía Bogotá queda elegida para la vuelta — AV691+AV8395, sale SJO 01:40 (dom 28/3), llega EZE 15:40, US$680** (combo completo con la ida, ver el resumen al principio de esta sección). Llegar a las 15:40 permite estar en casa ~17h del domingo, con margen real antes de trabajar el lunes 29 — y al no depender de un horario límite el sábado, es también la opción más segura respecto a la regla de no manejar de noche.
+**⚠️ El precio fluctúa fuerte y no hay que confiar en ningún número viejo.** Última cotización real: US$658,16 (12/9/2026) → subió a ~US$1.148-1.449 (verificado 17/9/2026, ~2,2x). Volver a cotizar este itinerario exacto antes de decidir cuándo comprar — [cotizar en avianca.com →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28).
 
 ## Trámites, moneda y logística general
 
