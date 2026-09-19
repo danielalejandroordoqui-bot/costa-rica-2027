@@ -214,19 +214,20 @@
   .info-card p{ margin:0; font-size:13.5px; color:var(--ink-dim); }
 
   /* ---------- DAY TIMELINE ---------- */
-  .day-timeline{ display:flex; flex-direction:column; gap:8px; }
-  .day-card{ display:flex; gap:16px; background:var(--panel); border:1px solid var(--hairline); border-left:3px solid var(--hairline); padding:14px 16px; }
+  .day-timeline{ display:flex; flex-direction:column; gap:14px; }
+  .day-card{ background:var(--panel); border:1px solid var(--hairline); border-left:3px solid var(--hairline); overflow:hidden; }
   .day-card.tight{ border-left-color:var(--danger); }
   .day-card.light{ border-left-color:var(--green); }
-  .day-card .day-badge{ flex-shrink:0; width:58px; text-align:center; }
-  .day-card .day-badge .dn{ display:block; font-family:'Space Mono',monospace; font-size:20px; font-weight:700; color:var(--ink); line-height:1.1; }
-  .day-card .day-badge .dd{ display:block; font-family:'Space Mono',monospace; font-size:10px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.04em; margin-top:3px; }
-  .day-card .day-body{ flex:1; min-width:0; }
+  .day-card .day-img{ position:relative; height:150px; background-size:cover; background-position:center; }
+  .day-card .day-img-overlay{ position:absolute; inset:0; background:linear-gradient(to top, rgba(18,22,31,.95) 0%, rgba(18,22,31,.3) 60%, transparent 100%); display:flex; align-items:flex-end; gap:10px; padding:10px 16px; }
+  .day-card .day-img .dn{ font-family:'Space Mono',monospace; font-size:26px; font-weight:700; color:var(--amber); line-height:1; }
+  .day-card .day-img .dd{ font-family:'Space Mono',monospace; font-size:10px; color:var(--ink-dim); text-transform:uppercase; letter-spacing:.05em; padding-bottom:4px; }
+  .day-card .day-tag{ position:absolute; top:10px; right:10px; font-family:'Space Mono',monospace; font-size:9.5px; letter-spacing:.05em; text-transform:uppercase; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-dim); background:rgba(18,22,31,.78); }
+  .day-card.tight .day-tag{ color:#ff9494; border-color:rgba(255,92,92,.5); background:rgba(70,18,18,.8); }
+  .day-card.light .day-tag{ color:#8ef0b3; border-color:rgba(95,211,141,.45); background:rgba(13,45,28,.8); }
+  .day-card .day-body{ padding:14px 16px; }
   .day-card .day-body h5{ margin:0 0 4px; font-size:14.5px; font-weight:600; color:var(--ink); }
   .day-card .day-body p{ margin:0; font-size:13px; color:var(--ink-dim); }
-  .day-card .day-tag{ display:inline-block; margin-top:8px; font-family:'Space Mono',monospace; font-size:9.5px; letter-spacing:.05em; text-transform:uppercase; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-faint); }
-  .day-card.tight .day-tag{ color:var(--danger); border-color:rgba(255,92,92,.4); background:rgba(255,92,92,.08); }
-  .day-card.light .day-tag{ color:var(--green); border-color:rgba(95,211,141,.35); background:rgba(95,211,141,.08); }
   .day-card .day-items{ list-style:none; margin:8px 0 0; padding:0; display:flex; flex-direction:column; gap:5px; }
   .day-card .day-items li{ font-size:12.5px; color:var(--ink-dim); line-height:1.5; padding-left:15px; position:relative; }
   .day-card .day-items li::before{ content:'→'; position:absolute; left:0; top:0; color:var(--amber); font-size:11px; }
@@ -402,12 +403,6 @@
       <div class="day"><span class="dow">Dom</span><span class="num">28</span><span class="tag">Finde</span></div>
     </div>
 
-    <div class="photo-strip">
-      <figure><img src="img/costarica.jpg" alt="Volcán Arenal, Costa Rica" loading="lazy"><figcaption>Volcán Arenal</figcaption></figure>
-      <figure><img src="img/costarica-perezoso.jpg" alt="Perezoso de dos dedos en Costa Rica" loading="lazy"><figcaption>Perezoso</figcaption></figure>
-      <figure><img src="img/costarica-monteverde.jpg" alt="Bosque nuboso de Monteverde, Costa Rica" loading="lazy"><figcaption>Bosque nuboso, Monteverde</figcaption></figure>
-    </div>
-
     <div class="map-embed">
       <iframe src="https://www.google.com/maps/d/embed?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen title="Mapa del Itinerario A — Costa Rica"></iframe>
     </div>
@@ -464,7 +459,10 @@
           <h4>Esqueleto de días</h4>
           <div class="day-timeline">
             <div class="day-card tight">
-              <div class="day-badge"><span class="dn">1</span><span class="dd">Sáb 20/3</span></div>
+              <div class="day-img" style="background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Poas_crater.jpg/1280px-Poas_crater.jpg')">
+                <span class="day-tag">⚠ Día más ajustado</span>
+                <div class="day-img-overlay"><span class="dn">1</span><span class="dd">Sáb 20/3</span></div>
+              </div>
               <div class="day-body">
                 <h5>Llegada + Alsacia + Poás + La Paz</h5>
                 <ul class="day-items">
@@ -483,11 +481,12 @@
                   <a class="cta-pill" href="https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/" target="_blank" rel="noopener">💧 La Paz Waterfall Gardens</a>
                   <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
                 </div>
-                <span class="day-tag">⚠ Día más ajustado</span>
               </div>
             </div>
             <div class="day-card">
-              <div class="day-badge"><span class="dn">2-3</span><span class="dd">Dom 21 – Lun 22</span></div>
+              <div class="day-img" style="background-image:url('img/costarica.jpg')">
+                <div class="day-img-overlay"><span class="dn">2-3</span><span class="dd">Dom 21 – Lun 22</span></div>
+              </div>
               <div class="day-body">
                 <h5>La Fortuna / Arenal</h5>
                 <ul class="day-items">
@@ -507,7 +506,10 @@
               </div>
             </div>
             <div class="day-card light">
-              <div class="day-badge"><span class="dn">4</span><span class="dd">Mar 23/3</span></div>
+              <div class="day-img" style="background-image:url('img/costarica-monteverde.jpg')">
+                <span class="day-tag">Día liviano</span>
+                <div class="day-img-overlay"><span class="dn">4</span><span class="dd">Mar 23/3</span></div>
+              </div>
               <div class="day-body">
                 <h5>La Fortuna → Monteverde</h5>
                 <ul class="day-items">
@@ -517,11 +519,12 @@
                 <div class="cta-row">
                   <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
                 </div>
-                <span class="day-tag">Día liviano</span>
               </div>
             </div>
             <div class="day-card">
-              <div class="day-badge"><span class="dn">5</span><span class="dd">Mié 24/3</span></div>
+              <div class="day-img" style="background-image:url('img/costarica-perezoso.jpg')">
+                <div class="day-img-overlay"><span class="dn">5</span><span class="dd">Mié 24/3</span></div>
+              </div>
               <div class="day-body">
                 <h5>Monteverde</h5>
                 <ul class="day-items">
@@ -538,7 +541,10 @@
               </div>
             </div>
             <div class="day-card light">
-              <div class="day-badge"><span class="dn">6</span><span class="dd">Jue 25/3</span></div>
+              <div class="day-img" style="background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sunset_over_Nicoya.jpg/1280px-Sunset_over_Nicoya.jpg')">
+                <span class="day-tag">Día liviano</span>
+                <div class="day-img-overlay"><span class="dn">6</span><span class="dd">Jue 25/3</span></div>
+              </div>
               <div class="day-body">
                 <h5>Monteverde → Puntarenas</h5>
                 <ul class="day-items">
@@ -549,11 +555,12 @@
                   <a class="cta-pill" href="https://www.isla-venado.com/" target="_blank" rel="noopener">🏝️ Isla Venado</a>
                   <a class="cta-pill map" href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">🗺️ Mapa del loop</a>
                 </div>
-                <span class="day-tag">Día liviano</span>
               </div>
             </div>
             <div class="day-card">
-              <div class="day-badge"><span class="dn">7</span><span class="dd">Vie 26/3</span></div>
+              <div class="day-img" style="background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Scarlet_macaw_cerro_lodge_entrance_road_3.28.24_DSC_5203-topaz-denoiseraw-sharpen.jpg/1280px-Scarlet_macaw_cerro_lodge_entrance_road_3.28.24_DSC_5203-topaz-denoiseraw-sharpen.jpg')">
+                <div class="day-img-overlay"><span class="dn">7</span><span class="dd">Vie 26/3</span></div>
+              </div>
               <div class="day-body">
                 <h5>Puntarenas → Manuel Antonio</h5>
                 <ul class="day-items">
@@ -567,7 +574,9 @@
               </div>
             </div>
             <div class="day-card">
-              <div class="day-badge"><span class="dn">8</span><span class="dd">Sáb 27/3</span></div>
+              <div class="day-img" style="background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Manuel_antonio_06_april_2005.jpeg/1280px-Manuel_antonio_06_april_2005.jpeg')">
+                <div class="day-img-overlay"><span class="dn">8</span><span class="dd">Sáb 27/3</span></div>
+              </div>
               <div class="day-body">
                 <h5>Manuel Antonio + regreso a SJO</h5>
                 <ul class="day-items">
@@ -586,7 +595,9 @@
               </div>
             </div>
             <div class="day-card">
-              <div class="day-badge"><span class="dn">9</span><span class="dd">Dom 28/3</span></div>
+              <div class="day-img" style="background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/SJO_aeris.jpg/1280px-SJO_aeris.jpg')">
+                <div class="day-img-overlay"><span class="dn">9</span><span class="dd">Dom 28/3</span></div>
+              </div>
               <div class="day-body">
                 <h5>Vuelo de regreso</h5>
                 <ul class="day-items">
