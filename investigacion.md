@@ -446,7 +446,7 @@ Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya 
 | Zona | Atracción | Precio adulto | Nota |
 |---|---|---|---|
 | Ruta día 1 | Hacienda Alsacia (tour cafetero Starbucks) | **US$35** | Turista (residente US$25). Incluye vivero, beneficio húmedo, patio de secado y tostadora. |
-| Ruta día 1 | Volcán Poás (PN, SINAC) | **US$15,00** | ✅ Ya confirmado (ver sección Auto/Logística arriba). |
+| Ruta día 1 | Volcán Poás (PN, SINAC) | **US$15,00** | Precio verificado — compra pendiente, sistema SINAC habilita ~ene/2027. |
 | Ruta día 1 | La Paz Waterfall Gardens | **US$56** | Día completo 8am-2pm, 5 cascadas + mariposario + sendero de bosque nuboso/lluvioso. |
 | La Fortuna | Catarata La Fortuna | **US$18** | Extranjero (residente US$9, niños <8 gratis). No incluye entrada al PN Volcán Arenal, es independiente. |
 | La Fortuna | Termas — Eco Termales Fortuna (solo entrada) | **~US$48,60** | US$43 + 13% impuesto. Con comida: US$67+imp ≈ US$75,71. Pase día (10am-4pm) o noche (5-10pm). |
@@ -456,10 +456,10 @@ Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya 
 | Monteverde | Reserva Santa Elena (alternativa más barata) | US$21 | Menos concurrida que la de Monteverde, misma idea de bosque nuboso. |
 | Monteverde | Selvatura Park — puentes colgantes (self-guided) | **US$49** | 8 puentes, 3km, 1,5-2hs. Guiado sale US$61. |
 | Monteverde | Selvatura Park — santuario de perezosos | **US$40** | ⚠️ Ojo: hay combos (Gold Pack US$116,10 con canopy, Platinum US$152,10 con todo) — este es el precio standalone, sin canopy/zip-line. |
-| Manuel Antonio | PN Manuel Antonio (SINAC) | **US$16,00** | ✅ Ya confirmado (ver sección 02/Auto arriba). |
+| Manuel Antonio | PN Manuel Antonio (SINAC) | **US$16,00** | Precio verificado — compra pendiente, sistema SINAC habilita ~ene/2027. |
 | Golfo de Nicoya | Isla Venado — panga colectiva Puntarenas↔Isla Venado | **~US$11** (₡5.000, dólar a ₡450, 13/9/2026) | Solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am — sin horario flexible. Sigue sin resolver si entra en el Itinerario A (necesita 2-3 noches propias, no 1 sola noche en Puntarenas). Tarifa "de referencia", confirmar antes de viajar — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados. |
 
-**Piso (solo lo que ya está confirmado y forma parte fija de la ruta — los 2 parques SINAC):** Poás US$15 + Manuel Antonio US$16 = **US$31 por persona**.
+**Piso (solo los 2 parques SINAC ya fijos en la ruta, precio verificado pero SIN comprar todavía):** Poás US$15 + Manuel Antonio US$16 = **US$31 por persona**.
 
 **⚠️ Corrección (13/9/2026):** sumar literalmente TODAS las actividades opcionales de la tabla daba US$412,60/persona — Daniel marcó (con razón) que ese número es un techo poco realista ("un bolazo"), porque asume hacer catarata+termas+kayak+caminata nocturna en los ~2 días efectivos de La Fortuna, más los dos componentes de Selvatura en Monteverde, todo junto. Un **techo realista** asume 1-2 actividades por zona, no todas:
 - Ruta día 1: 1 actividad — Hacienda Alsacia (US$35, más barata que La Paz Waterfall Gardens).
@@ -500,7 +500,7 @@ Repaso de cada parada de Itinerario A contra los días de calendario exactos que
 | 2-3 | Dom 21 y lun 22/3 | Caminata nocturna | ✅ Todos los días, salidas 6pm y 8pm. |
 | 5 | Mié 24/3 | Reserva Santa Elena | ✅ Abierta todos los días 7am-4pm, sin reserva previa necesaria. |
 | 5 | Mié 24/3 | Selvatura Park (puentes + santuario de perezosos) | ✅ Parque abierto todos los días 7am-4pm, tours del santuario cada hora entre 8:15am y 3:15pm. |
-| 8 | Sáb 27/3 | PN Manuel Antonio | ✅ Ya confirmado — cerrado los martes, el sábado no tiene conflicto. |
+| 8 | Sáb 27/3 | PN Manuel Antonio | ✅ Sin conflicto de día — cerrado los martes, el sábado no choca. Entrada todavía sin comprar. |
 | — | — | Isla Venado (panga, si se llega a sumar) | ⚠️ Solo corre lunes/miércoles/viernes, horario fijo (sale isla 6:30am, vuelve de Puntarenas ~11:30am) — no decidido si entra en el itinerario. |
 
 **Ningún lugar del itinerario actual tiene un cierre semanal que choque con el día asignado.** Dos puntos a tener en cuenta, no cierres sino riesgos de organización:
