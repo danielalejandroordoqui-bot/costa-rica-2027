@@ -603,20 +603,22 @@ Ruta completamente distinta a las otras 4 — no pasa por Arenal, Monteverde, Ma
 
 ## Paradas y datos sueltos (no atados a una variante específica)
 
-- **Hacienda Alsacia:** finca de café de Starbucks, en la zona montañosa cerca de Alajuela — parada de camino desde San José/Alajuela hacia el norte (confirmada por 2 fuentes independientes de ruta Valle Central → La Fortuna).
-- **Fraijanes y Varablanca:** localidades de paso hacia el norte, conocidas por sus ventas de fresas al costado de la ruta.
-- **Catarata La Paz:** parada natural sobre la misma carretera, de camino a La Fortuna (además del complejo pago La Paz Waterfall Gardens de la variante 5).
-- **Hotel Los Lagos Spa & Resort:** opción de hospedaje en La Fortuna con vista al Arenal (alternativa a Miradas Arenal, ya usado en el itinerario de referencia).
-- **Volcán Arenal — dato histórico:** en erupción continua desde 1968 hasta 2010, hoy inactivo/dormido.
-- **Árbol de ceiba de 500 años:** parada en un ceibo gigante de gran valor espiritual/cultural, en la ruta Caribe-Pacífico.
-- **Ruta Caribe → Pacífico en 24-48h** (Geoff y Alexa): Puerto Viejo (Caribe Sur) → noche en La Fortuna con vista al Arenal → Playa del Coco (Pacífico Norte, Guanacaste). ~9h totales, partido en 2 días — confirma el contraste visual/geográfico marcado entre ambas costas.
-- **Bajos del Toro:** ver variante 5.
-- **@talamancanatureserve (Instagram):** reserva natural en la zona de Talamanca (Caribe Sur, cerca de Puerto Viejo/Cahuita) — sin detalle todavía, pendiente si se termina de perfilar una variante Caribe.
-- **Starbucks con vistas a cascadas:** ubicación no confirmada — posiblemente el Starbucks de La Paz Waterfall Gardens o alguno en las afueras de San José camino a Poás/Sarapiquí.
-- **San José capital:** paseo por Avenida Central, Mercado Central, Catedral Metropolitana. Caldosas (ceviche con tostadas de maíz), plátanos tostados, empanada de carne desmechada.
-- **Cahuita (Caribe Sur):** mapaches, perezosos, serpientes, caimanes (visitado con lluvia por la fuente Aline y Diego).
-- **Manuel Antonio — cuidado con las pertenencias:** playas con monos curiosos, aprendizaje de una fuente.
-- **Catarata La Fortuna — más concurrida de lo esperado** respecto a lo que muestran redes sociales (aprendizaje de Aline y Diego).
+⚠️ **Sección depurada del `index.html` en vivo (20/9/2026):** con Itinerario A cerrado, cada dato de acá o ya se integró al día que le corresponde, o se descartó por no tener lugar lógico en la ruta (todo lo del Caribe, que A descarta a propósito). Queda documentado acá como historial completo.
+
+- ✅ **Hacienda Alsacia — YA INTEGRADO:** finca de café de Starbucks, en la zona montañosa cerca de Alajuela — parada de camino desde San José/Alajuela hacia el norte (confirmada por 2 fuentes independientes de ruta Valle Central → La Fortuna). Forma parte del Día 1.
+- ✅ **Fraijanes y Varablanca — YA INTEGRADO (20/9/2026):** localidades de paso hacia el norte, conocidas por sus ventas de fresas al costado de la ruta. Sumado al Día 1 como bonus gratis "si da el tiempo" (día ya muy ajustado, no es prioridad).
+- ✅ **Catarata La Paz — YA INTEGRADO (20/9/2026):** parada natural sobre la misma carretera, de camino a La Fortuna (además del complejo pago La Paz Waterfall Gardens). Sumado al Día 1 junto con Fraijanes/Varablanca, mismo criterio de "si da el tiempo".
+- ❌ **Hotel Los Lagos Spa & Resort — DESCARTADO (20/9/2026):** opción de hospedaje en La Fortuna con vista al Arenal. Superado por las 11 referencias reales ya cotizadas en la sección de Hospedaje — no aporta nada nuevo.
+- ❌ **Volcán Arenal — dato histórico, sacado del sitio (20/9/2026):** en erupción continua desde 1968 hasta 2010, hoy inactivo/dormido. Trivia no accionable — La Fortuna ya está en el itinerario, no hace falta un ítem aparte para mencionar el volcán.
+- ❌ **Árbol de ceiba de 500 años — DESCARTADO (20/9/2026):** parada en un ceibo gigante de gran valor espiritual/cultural, en la ruta Caribe-Pacífico. Itinerario A descarta el Caribe a propósito, no aplica.
+- ❌ **Ruta Caribe → Pacífico en 24-48h (Geoff y Alexa) — DESCARTADO (20/9/2026):** Puerto Viejo (Caribe Sur) → noche en La Fortuna con vista al Arenal → Playa del Coco (Pacífico Norte, Guanacaste). ~9h totales, partido en 2 días. No aplica, Itinerario A no toca el Caribe ni Guanacaste.
+- **Bajos del Toro:** sigue vigente — ver sección "Qué le falta a Itinerario A" (compite con Río Celeste por el Día 3).
+- ❌ **@talamancanatureserve (Instagram) — DESCARTADO (20/9/2026):** reserva natural en la zona de Talamanca (Caribe Sur, cerca de Puerto Viejo/Cahuita). No aplica, Caribe descartado.
+- **Starbucks con vistas a cascadas:** ubicación no confirmada — posiblemente el Starbucks de La Paz Waterfall Gardens o alguno en las afueras de San José camino a Poás/Sarapiquí. Dato huérfano, no accionable de todos modos.
+- ❌ **San José capital — DESCARTADO (20/9/2026):** paseo por Avenida Central, Mercado Central, Catedral Metropolitana. Caldosas, plátanos tostados, empanada de carne desmechada. Sin margen real de tiempo — Día 1 llega de noche/tarde muy ajustado y Día 8/9 son de regreso al aeropuerto contra un vuelo de madrugada.
+- ❌ **Cahuita (Caribe Sur) — DESCARTADO (20/9/2026):** mapaches, perezosos, serpientes, caimanes (visitado con lluvia por la fuente Aline y Diego). Caribe descartado, no aplica.
+- ✅ **Manuel Antonio — cuidado con las pertenencias — YA INTEGRADO (20/9/2026):** playas con monos curiosos, aprendizaje de una fuente. Sumado como alerta al Día 7.
+- **Catarata La Fortuna — más concurrida de lo esperado** respecto a lo que muestran redes sociales (aprendizaje de Aline y Diego) — sigue relevante, la catarata está en el Día 2.
 
 ---
 
