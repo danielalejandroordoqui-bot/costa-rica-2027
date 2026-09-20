@@ -330,13 +330,33 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 **Ninguna de las opciones nuevas le gana en precio a Pura Natura Lodge** — sigue siendo la mejor relación precio/comodidad de la zona, ahora con un canal alternativo (hoteles.com) que la deja incluso un poco más barata (US$57 vs. US$65 de Booking.com). Tico Tico Villas (9,6/10) es la de mejor puntaje si el criterio pasa a ser calidad antes que precio.
 
-### Uvita — 1 noche, 26-27/3/2027 (pendiente, sin cotizar — 20/9/2026)
+### Uvita — 1 noche, 26-27/3/2027 (12 referencias cotizadas, 20/9/2026)
 
-Zona nueva del itinerario, reemplaza a Puntarenas. Todavía sin ninguna referencia de hospedaje relevada — falta buscar opciones cerca de Playa Uvita / Parque Nacional Marino Ballena con el mismo criterio de las otras zonas (baño privado, agua caliente, A/C, cama cómoda).
+Zona nueva del itinerario, reemplaza a Puntarenas. Daniel pasó 12 links (Booking, Hoteles.com, Airbnb) con las fechas correctas ya cargadas — precios de Booking/Airbnb en USD, los de Hoteles.com salieron en ARS (pendiente convertir).
+
+**Booking.com:**
+- **Ballena Rey Hotel** — 9,0 "Fantástico" (1.611 reseñas, el mayor respaldo de la zona). US$106-123 la noche según tipo de cancelación (no reembolsable vs. cancelación gratis). A/C en todas las habitaciones, apartamento entero con cocina, piscina infinita, desayuno con Genius. **A 0m de la entrada del Parque Marino Ballena**, 1,3km de Playa Uvita. [Ver →](https://www.booking.com/hotel/cr/ballena-rey-bahia-ballena-uvita-de-osa.es.html)
+- **Cabinas Bahía Uvita - Marino Ballena National Park Lodge** — 8,0 "Muy bien" (92 reseñas). US$71-87 según habitación (1 o 2 camas dobles). A/C confirmado, **también a 0m del parque**, 50m de Playa Uvita. Solo efectivo. [Ver →](https://www.booking.com/hotel/cr/cabinas-bahia-uvita.es.html)
+- **Cabinas Costa Tropicana** — 9,2 "Fantástico" (237 reseñas). US$102 la noche (estudio con cocina privada). A/C confirmado, a 900m del parque, en la selva pero cerca del pueblo. Solo efectivo. [Ver →](https://www.booking.com/hotel/cr/cabinas-costa-tropicana.es.html)
+
+**Airbnb:**
+- **Habitación con terraza, A/C y baño privado en Uvita** — 4,79★ (68 reseñas de este listado, anfitrión con 309 en total). US$47/noche (antes US$52) — la más barata de toda la lista, pero es habitación, no alojamiento entero. Cerca de la Catarata Uvita. [Ver →](https://www.airbnb.com.ar/rooms/38730647)
+- **Casa Viva Barrel 2** — 4,9★ Superanfitrión (179 reseñas). US$90/noche. Minicasa tipo barril, A/C split, muebles hechos a mano, cerca de la playa. [Ver →](https://www.airbnb.com.ar/rooms/811577591723844316)
+- **Casa Viva Skylight Barrel** — 5,0★ (solo 3 reseñas). US$92/noche. Mismo anfitrión (Roy) que Casa Viva Barrel 2, a pasos de la playa/restaurantes/supermercados, A/C, TV con Netflix. [Ver →](https://www.airbnb.com.ar/rooms/1678326561328891378)
+- **Aparta Studio Jardín Alado** — 4,94★ Superanfitrión (144 reseñas). US$72/noche (antes US$80). A/C confirmado, 5 min a pie de la Catarata Uvita, 11 min en auto del parque. ⚠️ El propio listado aclara que **no tiene agua caliente** — a chequear si es un problema. [Ver →](https://www.airbnb.com.ar/rooms/1039451724826782492)
+- **Cabaña Vacal #2 frente a playa, en la jungla** — 4,8★ Superhost (235 reseñas). US$111/noche. A/C + ventilador, jacuzzi exclusivo, a 30m de la playa. [Ver →](https://www.airbnb.com.ar/rooms/884311498194365841)
+- **Seren Glamping** — 5,0★ (solo 2 reseñas, poco respaldo). US$67/noche. Carpa/glamping (no cabaña) **dentro del propio Parque Nacional Marino Ballena**, A/C confirmado, jacuzzi. Sin detector de humo ni de monóxido según el listado. [Ver →](https://www.airbnb.com.ar/rooms/1502916820967041197)
+
+**Hoteles.com (precios en ARS, pendiente convertir a USD):**
+- **Tropical Beach** — 8,6/10 (165 reseñas). ≈AR$131.720 total la noche. A/C confirmado, a 2 min a pie del parque. ⚠️ Una reseña (Enrique, 9/3/2026) reporta que la propiedad canceló una reserva confirmada por Expedia sin avisar, al llegar al hotel — riesgo a tener en cuenta. [Ver →](https://ar.hoteles.com/ho847332320/tropical-beach-ballena-costa-rica/)
+- **Morning Glory** — 9,4/10 (solo 9 reseñas, poco respaldo). ≈AR$124.298 total la noche. ⚠️ **No lista A/C entre las comodidades** — confirmar antes de reservar. 3 min a pie de playa y parque, solo efectivo, depósito de daños US$150. [Ver →](https://ar.hoteles.com/ho3435076608/morning-glory/)
+- **Hotel Daleese** — 9,2/10 (57 reseñas externas). ≈AR$181.692 total la noche — la más cara de toda la lista. ⚠️ **No lista A/C**, no está en la playa (14 min a pie de la Catarata Uvita), y pide edad mínima de 25 años para el check-in. [Ver →](https://ar.hoteles.com/ho4365863264/hotel-daleese/)
+
+**Lectura:** Ballena Rey Hotel es la opción con más respaldo (1.611 reseñas) y mejor ubicación relativa a precio (0m del parque, A/C confirmado en todo). Cabinas Bahía Uvita es la más barata con buen respaldo, también a 0m del parque. Los 3 de Hoteles.com tienen problemas propios (A/C sin confirmar en 2 de 3, una reseña de cancelación en el tercero) — no se recomiendan como primera opción hasta resolver esas dudas.
 
 ### Pendiente
 
-3 de las 4 zonas con noche ya tienen cotización real (La Fortuna, Monteverde, Manuel Antonio) — falta decidir entre las opciones de cada zona. La cuarta zona cambió de Puntarenas a **Uvita** (20/9/2026) y todavía no tiene ninguna referencia relevada — pendiente cotizar.
+Las 4 zonas con noche ya tienen cotización real (La Fortuna, Monteverde, Manuel Antonio, Uvita) — falta decidir entre las opciones de cada zona.
 
 ## Entradas y actividades — precios reales (cotización WebSearch, 13/9/2026)
 
@@ -455,14 +475,14 @@ Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por
 |---|---|---|
 | Vuelo BUE-SJO ida y vuelta (por persona, ✅ cerrado) | US$658,16 | US$658,16 |
 | Auto de alquiler, mitad (✅ reservado: US$317,42 ÷2) | US$158,71 | US$158,71 |
-| Hospedaje, mitad de las 4 zonas (opción más barata / más cara de cada una) | US$272,50 | US$339,00 |
+| Hospedaje, mitad de las 4 zonas (opción más barata / más cara de cada una) | US$274,50 | US$356,50 |
 | Entradas y actividades (Poás+MA+Marino Ballena / techo realista, 1-2 activ. por zona) | US$43,00 | US$169,60 |
-| **TOTAL por persona** | **≈ US$1.132** | **≈ US$1.325** |
+| **TOTAL por persona** | **≈ US$1.134** | **≈ US$1.343** |
 
-**Detalle del piso de hospedaje** (mitad de: Tucan Container US$183 + ECO RIVER DOME US$230 + VALU Puntarenas US$67 + Pura Natura Lodge US$65 = US$545 ÷2 = US$272,50 — verificado con cálculo, correcto).
-**Detalle del techo de hospedaje** (mitad de: Arenal Sweet Bee Cabins US$275 + Camino Verde B&B US$240 + Hotel Mar y Mar US$88 + Deluxe Suite Quepos US$75 = US$678 ÷2 = US$339,00 — verificado con cálculo, correcto).
+**Detalle del piso de hospedaje** (mitad de: Tucan Container US$183 + ECO RIVER DOME US$230 + Cabinas Bahía Uvita US$71 + Pura Natura Lodge US$65 = US$549 ÷2 = US$274,50).
+**Detalle del techo de hospedaje** (mitad de: Arenal Sweet Bee Cabins US$275 + Camino Verde B&B US$240 + Ballena Rey Hotel US$123 + Deluxe Suite Quepos US$75 = US$713 ÷2 = US$356,50).
 
-**⚠️ Fila de hospedaje desactualizada (20/9/2026):** el detalle de piso/techo de arriba todavía usa VALU Puntarenas/Hotel Mar y Mar como la 4ta zona — con el cambio a Uvita (sin hospedaje cotizado todavía) esta fila hay que recalcularla cuando se releven opciones reales en Uvita. Piso/techo de entradas sí ya están actualizados con Marino Ballena.
+**✅ Fila de hospedaje actualizada (20/9/2026):** ya usa las referencias reales de Uvita relevadas hoy (ver sección de hospedaje arriba) en vez de las viejas de Puntarenas.
 
 **⚠️ El tour de ballenas en lancha (US$85-105/persona, ver sección "Ballenas en Uvita" arriba) todavía no está sumado a esta tabla** — si se elige por sobre la entrada independiente SINAC (US$12), el techo sube esa diferencia por persona.
 
@@ -790,7 +810,7 @@ Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 1
 4. **Cerrar el Itinerario A con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
 5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — sigue siendo la variante independiente con menos datos concretos de costo (ya no forma parte del Itinerario A, ver punto 1).
 9. **Uvita — tabla de mareas (20/9/2026):** confirmar cerca de la fecha (ene/feb 2027) que la marea baja del sábado 27/3 cae en un horario que permita el tómbolo Cola de Ballena de mañana, antes de salir hacia SJO por la tarde.
-10. **Uvita — cotizar hospedaje (20/9/2026):** todavía no hay ninguna referencia relevada. Buscar con **check-in viernes 26/3/2027, check-out sábado 27/3/2027 (1 noche, 2 huéspedes)**.
+10. ✅ **Uvita — hospedaje CERRADO (relevado, 20/9/2026):** 12 referencias reales cotizadas (Booking, Hoteles.com, Airbnb) — ver sección de hospedaje arriba. Falta decidir entre las opciones, recomendadas: Ballena Rey Hotel (mejor puntaje) o Cabinas Bahía Uvita (mejor precio).
 11. **Uvita — tour de ballenas vs. entrada independiente (20/9/2026):** decidir entre el tour en lancha guiado (~US$85-105/persona) o solo la entrada SINAC (US$12) para caminar el tómbolo por cuenta propia — ver research de temporada y operadores en la sección "Ballenas en Uvita" más arriba. Daniel está juntando reseñas de otros viajeros de la misma época (fin de marzo) antes de decidir.
 6. ✅ **Ritmo del día 1 — CERRADO (13/9/2026):** analizado en detalle (ver auditoría de horarios más arriba) y decidido dejarlo como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens — sin riesgo de plata perdida porque no pide reserva anticipada.
 7. **Reservar Eco Termales con anticipación** (13/9/2026) junto con Poás y Manuel Antonio — cupo limitado a 100 personas por franja, riesgo de agotarse en Semana Santa.
