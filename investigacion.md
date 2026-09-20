@@ -502,6 +502,8 @@ Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por
 
 ## Las variantes/zonas en evaluación
 
+⚠️ **Sacadas del sitio en vivo (20/9/2026):** con Itinerario A ya elegido y en pulido activo, esta sección completa se sacó de `index.html` para no ensuciar la página que Daniel mira día a día — Corcovado, Tortuguero y Valle de los Santos no tienen forma lógica de entrar en los 9 días de A, e Isla Venado ya se sacó del loop. Queda **solo acá como research histórico**, por si en otro viaje se retoma alguna.
+
 Daniel documentó primero todos los destinos y dejó la elección entre variantes para después, a propósito — no es falta de información, es orden de trabajo. Hoy hay **5 variantes/zonas** con distinto nivel de desarrollo:
 
 ### Variante 1 — Monteverde + La Fortuna/Arenal + Manuel Antonio (la más equilibrada)
