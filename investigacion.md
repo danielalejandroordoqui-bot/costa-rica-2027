@@ -88,7 +88,7 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 
 ## Alojamiento — referencias reales por zona
 
-**Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Puntarenas/golfo, Manuel Antonio).
+**Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Manuel Antonio, Uvita — esta última reemplazó a Puntarenas/golfo el 20/9/2026).
 
 ### La Fortuna — 3 noches, 20-23/3/2027 (cotización real, 12/9/2026)
 
@@ -242,6 +242,8 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 ### Puntarenas — 1 noche, 25-26/3/2027 (cotización real, 12/9/2026)
 
+**⚠️ Zona descartada del Itinerario A (20/9/2026):** Puntarenas se saca del loop y se reemplaza por Uvita — research histórico, se mantiene documentado acá por si alguna vez se retoma esa zona, pero ya no aplica a la ruta actual (ver esqueleto de días).
+
 2 referencias reales, no decisión cerrada:
 
 **VALU Puntarenas, Apartamento Equipado** — [Airbnb](https://www.airbnb.com.ar/rooms/1161894201627519092), mismas fechas, 2 huéspedes:
@@ -264,7 +266,7 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 **✅ Solución verificada en vivo (13/9/2026), para no repetir el error — aplica a Booking, Airbnb y Hoteles.com por igual:** al escribir "Puntarenas" en el buscador de Booking.com aparecen dos sugerencias casi idénticas — **"Puntarenas — Puntarenas, Costa Rica"** (repite el nombre, es la ciudad puntual, `dest_type=city`) y **"Puntarenas — Costa Rica"** (sin repetir, es la provincia entera, `dest_type=region`). Se probó eligiendo la primera: devolvió 22 alojamientos, todos genuinamente en la ciudad — el primer resultado fue directamente **VALU**, ya documentado arriba. Regla práctica: **elegir siempre la sugerencia que repite el nombre de la ciudad en el subtítulo**, y como doble chequeo, tocar "Ver en el mapa" después de buscar — si los resultados aparecen agrupados en la costa de la ciudad puntual (no desparramados por decenas de km), la búsqueda es correcta. Mismo criterio vale para Airbnb y Hoteles.com, aunque no se probó en vivo en esos dos.
 
-### Manuel Antonio / Quepos — 1 noche, 26-27/3/2027 (cotización real, 12/9/2026)
+### Manuel Antonio / Quepos — 1 noche, 25-26/3/2027 (cotización real, 12/9/2026; fecha actualizada 20/9/2026 tras el cambio Puntarenas→Uvita)
 
 2 referencias reales, no decisión cerrada:
 
@@ -328,9 +330,13 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 **Ninguna de las opciones nuevas le gana en precio a Pura Natura Lodge** — sigue siendo la mejor relación precio/comodidad de la zona, ahora con un canal alternativo (hoteles.com) que la deja incluso un poco más barata (US$57 vs. US$65 de Booking.com). Tico Tico Villas (9,6/10) es la de mejor puntaje si el criterio pasa a ser calidad antes que precio.
 
+### Uvita — 1 noche, 26-27/3/2027 (pendiente, sin cotizar — 20/9/2026)
+
+Zona nueva del itinerario, reemplaza a Puntarenas. Todavía sin ninguna referencia de hospedaje relevada — falta buscar opciones cerca de Playa Uvita / Parque Nacional Marino Ballena con el mismo criterio de las otras zonas (baño privado, agua caliente, A/C, cama cómoda).
+
 ### Pendiente
 
-Las 4 zonas con noche ya tienen cotización real (La Fortuna, Monteverde, Puntarenas, Manuel Antonio) — falta decidir entre las opciones de cada zona, no buscar más referencias.
+3 de las 4 zonas con noche ya tienen cotización real (La Fortuna, Monteverde, Manuel Antonio) — falta decidir entre las opciones de cada zona. La cuarta zona cambió de Puntarenas a **Uvita** (20/9/2026) y todavía no tiene ninguna referencia relevada — pendiente cotizar.
 
 ## Entradas y actividades — precios reales (cotización WebSearch, 13/9/2026)
 
@@ -350,9 +356,11 @@ Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya 
 | Monteverde | Selvatura Park — puentes colgantes (self-guided) | **US$49** | 8 puentes, 3km, 1,5-2hs. Guiado sale US$61. |
 | Monteverde | Selvatura Park — santuario de perezosos | **US$40** | ⚠️ Ojo: hay combos (Gold Pack US$116,10 con canopy, Platinum US$152,10 con todo) — este es el precio standalone, sin canopy/zip-line. |
 | Manuel Antonio | PN Manuel Antonio (SINAC) | **US$16,00** | Precio verificado — compra pendiente, sistema SINAC habilita ~ene/2027. |
-| Golfo de Nicoya | Isla Venado — panga colectiva Puntarenas↔Isla Venado | **~US$11** (₡5.000, dólar a ₡450, 13/9/2026) | Solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am — sin horario flexible. Sigue sin resolver si entra en el Itinerario A (necesita 2-3 noches propias, no 1 sola noche en Puntarenas). Tarifa "de referencia", confirmar antes de viajar — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados. |
+| Uvita | PN Marino Ballena (SINAC) | **US$12,00** | Fijo en la ruta (20/9/2026) — Cola de Ballena (tómbolo) sujeta a marea baja, ver pendiente de tabla de mareas. |
 
-**Piso (solo los 2 parques SINAC ya fijos en la ruta, precio verificado pero SIN comprar todavía):** Poás US$15 + Manuel Antonio US$16 = **US$31 por persona**.
+**⚠️ Fila descartada (20/9/2026) — Isla Venado:** ya no forma parte del Itinerario A (Puntarenas se sacó del loop). Quedaba: panga colectiva Puntarenas↔Isla Venado, ~US$11 (₡5.000, dólar a ₡450, 13/9/2026), solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am. Research se mantiene como referencia de la Variante 4, independiente — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados.
+
+**Piso (los 3 parques SINAC ya fijos en la ruta, precio verificado pero SIN comprar todavía):** Poás US$15 + Manuel Antonio US$16 + Marino Ballena US$12 = **US$43 por persona**.
 
 **⚠️ Corrección (13/9/2026):** sumar literalmente TODAS las actividades opcionales de la tabla daba US$412,60/persona — Daniel marcó (con razón) que ese número es un techo poco realista ("un bolazo"), porque asume hacer catarata+termas+kayak+caminata nocturna en los ~2 días efectivos de La Fortuna, más los dos componentes de Selvatura en Monteverde, todo junto. Un **techo realista** asume 1-2 actividades por zona, no todas:
 - Ruta día 1: 1 actividad — Hacienda Alsacia (US$35, más barata que La Paz Waterfall Gardens).
@@ -360,9 +368,9 @@ Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya 
 - Monteverde (2 noches, menos tiempo): 1 actividad — la reserva del puente Wilford, US$25.
 - Más el piso fijo (Poás US$15 + MA US$16 = US$31).
 
-**Techo realista: 31 + 35 + 66,60 + 25 = ~US$157,60 por persona.** (El US$412,60 de "hacer todo" queda como dato de contexto, no como el techo usado en el presupuesto.)
+**Techo realista: 43 + 35 + 66,60 + 25 = ~US$169,60 por persona** (piso/techo actualizados 20/9/2026 al sumar Marino Ballena al piso fijo). (El US$412,60 de "hacer todo" queda como dato de contexto, no como el techo usado en el presupuesto.)
 
-Fuentes: [GetYourGuide — Hacienda Alsacia](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/) · [GetYourGuide — La Paz Waterfall Gardens](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/) · [Viajeros Callejeros — Catarata La Fortuna](https://www.viajeroscallejeros.com/catarata-la-fortuna-precios-horarios-como-ir/) · [Eco Termales Fortuna — sitio oficial](https://ecotermalesfortuna.cr/en/home/) · [Viator — Kayak Río Peñas Blancas](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11) · [MyTanFeet — La Fortuna Night Walk](https://mytanfeet.com/activities/la-fortuna-night-walk-arenal/) · [Reserva Santa Elena — sitio oficial](https://reservasantaelena.org/index.php/reservaciones/) · [Selvatura — Hanging Bridges](https://www.twoweeksincostarica.com/product/selvatura-hanging-bridges-self-guided/) · [Selvatura — Sloth Habitat](https://www.selvatura.com/tours/the-sloth-sanctuary/) · [Isla Venado — Transportes](https://www.isla-venado.com/) · [dineroeneltiempo.com — USD/CRC histórico](https://www.dineroeneltiempo.com/divisas/usd-crc/historico/2026)
+Fuentes: [GetYourGuide — Hacienda Alsacia](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/) · [GetYourGuide — La Paz Waterfall Gardens](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/) · [Viajeros Callejeros — Catarata La Fortuna](https://www.viajeroscallejeros.com/catarata-la-fortuna-precios-horarios-como-ir/) · [Eco Termales Fortuna — sitio oficial](https://ecotermalesfortuna.cr/en/home/) · [Viator — Kayak Río Peñas Blancas](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11) · [MyTanFeet — La Fortuna Night Walk](https://mytanfeet.com/activities/la-fortuna-night-walk-arenal/) · [Reserva Santa Elena — sitio oficial](https://reservasantaelena.org/index.php/reservaciones/) · [Selvatura — Hanging Bridges](https://www.twoweeksincostarica.com/product/selvatura-hanging-bridges-self-guided/) · [Selvatura — Sloth Habitat](https://www.selvatura.com/tours/the-sloth-sanctuary/) · [SINAC — Marino Ballena](https://serviciosenlinea.sinac.go.cr/) · [dineroeneltiempo.com — USD/CRC histórico](https://www.dineroeneltiempo.com/divisas/usd-crc/historico/2026)
 
 ### Hacienda Alsacia — el tour en detalle, y qué se ve en marzo sin cosecha (research 13/9/2026)
 
@@ -393,8 +401,8 @@ Repaso de cada parada de Itinerario A contra los días de calendario exactos que
 | 2-3 | Dom 21 y lun 22/3 | Caminata nocturna | ✅ Todos los días, salidas 6pm y 8pm. |
 | 5 | Mié 24/3 | Reserva Santa Elena | ✅ Abierta todos los días 7am-4pm, sin reserva previa necesaria. |
 | 5 | Mié 24/3 | Selvatura Park (puentes + santuario de perezosos) | ✅ Parque abierto todos los días 7am-4pm, tours del santuario cada hora entre 8:15am y 3:15pm. |
-| 8 | Sáb 27/3 | PN Manuel Antonio | ✅ Sin conflicto de día — cerrado los martes, el sábado no choca. Entrada todavía sin comprar. |
-| — | — | Isla Venado (panga, si se llega a sumar) | ⚠️ Solo corre lunes/miércoles/viernes, horario fijo (sale isla 6:30am, vuelve de Puntarenas ~11:30am) — no decidido si entra en el itinerario. |
+| 7 | Vie 26/3 | PN Manuel Antonio | ✅ Sin conflicto de día — cerrado los martes, el viernes no choca. Entrada todavía sin comprar. Fecha actualizada 20/9/2026 (antes sábado 27, antes del cambio Puntarenas→Uvita). |
+| 8 | Sáb 27/3 | PN Marino Ballena | ⚠️ Sin cierre semanal encontrado, pero el acceso al tómbolo Cola de Ballena depende de la marea baja del día — pendiente confirmar tabla de mareas cerca de la fecha (ene/feb 2027). |
 
 **Ningún lugar del itinerario actual tiene un cierre semanal que choque con el día asignado.** Dos puntos a tener en cuenta, no cierres sino riesgos de organización:
 
@@ -418,13 +426,15 @@ Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por
 | Vuelo BUE-SJO ida y vuelta (por persona, ✅ cerrado) | US$658,16 | US$658,16 |
 | Auto de alquiler, mitad (✅ reservado: US$317,42 ÷2) | US$158,71 | US$158,71 |
 | Hospedaje, mitad de las 4 zonas (opción más barata / más cara de cada una) | US$272,50 | US$339,00 |
-| Entradas y actividades (solo Poás+MA / techo realista, 1-2 activ. por zona) | US$31,00 | US$157,60 |
-| **TOTAL por persona** | **≈ US$1.120** | **≈ US$1.313** |
+| Entradas y actividades (Poás+MA+Marino Ballena / techo realista, 1-2 activ. por zona) | US$43,00 | US$169,60 |
+| **TOTAL por persona** | **≈ US$1.132** | **≈ US$1.325** |
 
 **Detalle del piso de hospedaje** (mitad de: Tucan Container US$183 + ECO RIVER DOME US$230 + VALU Puntarenas US$67 + Pura Natura Lodge US$65 = US$545 ÷2 = US$272,50 — verificado con cálculo, correcto).
 **Detalle del techo de hospedaje** (mitad de: Arenal Sweet Bee Cabins US$275 + Camino Verde B&B US$240 + Hotel Mar y Mar US$88 + Deluxe Suite Quepos US$75 = US$678 ÷2 = US$339,00 — verificado con cálculo, correcto).
 
-**Lectura:** con el auto ya reservado a precio fijo y un techo de entradas realista, el rango queda en **US$1.120-1.313 por persona**. Sigue siendo un piso-techo solo por el hospedaje (varias referencias por zona) y cuántas actividades se hagan — el auto y el vuelo ya son costos cerrados.
+**⚠️ Fila de hospedaje desactualizada (20/9/2026):** el detalle de piso/techo de arriba todavía usa VALU Puntarenas/Hotel Mar y Mar como la 4ta zona — con el cambio a Uvita (sin hospedaje cotizado todavía) esta fila hay que recalcularla cuando se releven opciones reales en Uvita. Piso/techo de entradas sí ya están actualizados con Marino Ballena.
+
+**Lectura:** con el auto ya reservado a precio fijo y un techo de entradas realista, el rango queda en **US$1.132-1.325 por persona** (entradas actualizadas 20/9/2026; hospedaje pendiente de recalcular). Sigue siendo un piso-techo por el hospedaje (varias referencias por zona, más la zona de Uvita todavía sin cotizar) y cuántas actividades se hagan — el auto y el vuelo ya son costos cerrados.
 
 ## Presupuesto de referencia (Emma Terra, gama media)
 
@@ -585,9 +595,11 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 4. La Paz Waterfall Gardens
 5. La Fortuna / Volcán Arenal
 6. Monteverde / Santa Elena — **acá es donde está el santuario de perezosos documentado** (variante 1, fuente Araya Vlogs), no cerca de Poás como se pensó en un primer momento
-7. Puntarenas / Golfo de Nicoya — punto de partida si se suma Isla Venado (variante 4)
-8. Quepos / Manuel Antonio
+7. Quepos / Manuel Antonio
+8. Uvita / Parque Nacional Marino Ballena — nuevo punto sur máximo del loop (cambio 20/9/2026, reemplaza a Puntarenas)
 — cierre: vuelta a SJO, devolución del auto, vuelo de regreso
+
+**✅ Cambio de ruta (20/9/2026):** se saca Puntarenas del loop y se suma Uvita — mismo tramo de la Costanera Sur, solo que se sigue ~1h más al sur en vez de dormir en el golfo. Motivo: marzo cae en la temporada alta de ballenas jorobadas (población del hemisferio norte, pico ene-mar) y Puntarenas como destino en sí no ofrecía mucho más que la playa del hotel — coincide con lo que señaló un análisis externo (GPT, 20/9/2026) sobre el Golfo de Nicoya siendo el tramo más débil del loop. Contrapartida honesta: se pierde la única tarde de descanso puro del segundo tramo del viaje (Puntarenas era "tarde libre + atardecer", sin actividad pautada) y se acorta el tiempo real disponible en Carara (el Sendero Laguna Meándrica de 2-4h ya no entra cómodo, queda como parada corta en el puente de Tárcoles). Ver esqueleto de días actualizado más abajo.
 
 **Distancias y tiempos de manejo entre paradas** (WebSearch 12/9/2026 — todos son tiempos sin tráfico ni paradas, referencia para armar días/hospedajes):
 
@@ -598,11 +610,11 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 | Volcán Poás → La Paz Waterfall Gardens | — | ~20-30 min |
 | La Paz Waterfall Gardens → La Fortuna | — | ~2h (es el punto medio SJO-La Fortuna) |
 | La Fortuna → Monteverde | — | ~2h30-3h (caminos de montaña) |
-| Monteverde → Puntarenas | ~61-68 km | ~1h30 |
-| Puntarenas → Quepos/Manuel Antonio (Costanera Sur) | ~140 km | ~2h-2h45 (pasa por Jacó y Carara, ver sección "Qué le falta") |
-| Manuel Antonio → Aeropuerto SJO | ~156-177 km | ~3h-4h (hasta 6h con tráfico) |
+| Monteverde → Manuel Antonio (directo, Costanera Sur, pasa por Jacó y Carara) | 190 km | 3h36min |
+| Manuel Antonio → Uvita | 64 km | 56min |
+| Uvita → Aeropuerto SJO | 210 km | 3h18min |
 
-**Total de manejo puro del loop:** ~11h30-13h repartidas en 8-9 días — cómodo, ningún tramo individual supera las 3-4h.
+**Total de manejo puro del loop:** ~13h40-14h25 repartidas en 5 días de manejo (días 1, 4, 6, 7 y 8) — ningún tramo individual supera las 3h40. Los 3 últimos tramos verificados en vivo con Google Maps (20/9/2026); el resto sigue siendo WebSearch 12/9/2026 sin tráfico ni paradas.
 
 **Esqueleto de días** (9 días de calendario, ~8 netos descontando el tiempo de vuelos — ida y vuelta rondan las 10h cada tramo más horas de aeropuerto):
 
@@ -637,31 +649,34 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - 🅿️ **Estacionamiento:** Selvatura y Reserva Santa Elena tienen parqueo propio del predio — no se encontró cargo aparte en ninguna fuente, así que parece incluido — sin cuidacoches.
   - 📍 Selvatura · Reserva Santa Elena · Bosque Nuboso Monteverde
   - ⚠️ **Día ambicioso (revisión 20/9/2026):** son 3 actividades pagas y separadas (santuario, reserva de bosque nuboso, puentes colgantes) — juntas pueden ser mucho para un solo día. Pendiente evaluar si se recorta a 2 — sin decidir todavía cuál.
-- **Día 6 (jue 25/3):** Monteverde → Puntarenas
-  - Salida de Monteverde hacia el Golfo de Nicoya, ~1h30 de manejo — día liviano.
-  - Llegada a Puntarenas a media mañana, check-in — el hospedaje relevado (VALU Puntarenas) está a 100m de la playa y restaurantes.
-  - Tarde libre en la playa del centro, atardecer sobre el Golfo de Nicoya.
-  - 🅿️ **Estacionamiento:** ⚠️ la playa/Paseo de los Turistas de Puntarenas es zona de cuidacoches callejeros/informales — confirmado que hay personas trabajando de "wachiman" ahí, pero **no se encontró el precio puntual** que cobran en esta zona específica (research 20/9/2026, sin resultados con monto). Llevar efectivo chico, calcular como referencia el rango general de US$1-2 (o ₡500-1.000) de propina habitual del cuidacoches en el país.
-  - Pendiente: decidir si se suma [Isla Venado](https://www.isla-venado.com/) completo (2-3 noches propias, panga solo lun/mié/vie) o si el golfo queda solo de paso.
-- **Día 7 (vie 26/3):** Puntarenas → Manuel Antonio
-  - Ruta costanera, ~2h-2h45 de manejo total.
-  - Puntarenas → Parque Nacional Carara (~1h) — cocodrilos del río Tárcoles (+2.000, mayor concentración de Centroamérica), santuario de la lapa roja, Sendero Laguna Meándrica (2-4h). Parada de camino, no desvío.
+- **Día 6 (jue 25/3):** Monteverde → Manuel Antonio (⚠️ día de manejo más largo del viaje)
+  - Salida de Monteverde directo a Manuel Antonio, 3h36min/190km — ya no hay escala en Puntarenas.
+  - **Parque Nacional Carara** (de camino, sobre la Costanera Sur) — cocodrilos del río Tárcoles (+2.000, mayor concentración de Centroamérica), santuario de la lapa roja. Con este día ya cargado de manejo, entra como parada corta en el puente de Tárcoles, no como Sendero Laguna Meándrica completo (2-4h).
   - Opcional: parar a almorzar en **Jacó** (surf, vida nocturna, la zona más desarrollada) o Playa Hermosa (de las mejores olas del país).
   - Llegada a Quepos/Manuel Antonio por la tarde/noche, check-in.
-  - **Playa Espadilla** — playa pública pegada al parque, sin ticket (parking informal ~US$10/día). Opción para la tarde/noche de llegada o al salir del parque el Día 8.
-  - **Playa Biesanz** — alternativa más tranquila y menos concurrida, cuidacoches informal ~US$4 + camastro ~US$15 si se consume.
-  - 📍 Carara · Jacó · Quepos / Manuel Antonio · Playa Espadilla · Playa Biesanz
+  - **Playa Espadilla** — playa pública pegada al parque, sin ticket (parking informal ~US$10/día). Opción liviana para la noche de llegada, mirando el atardecer.
+  - 📍 Carara · Jacó · Quepos / Manuel Antonio · Playa Espadilla
+  - ⚠️ **Lo que se pierde al sacar Puntarenas (revisión 20/9/2026):** este día pasa de ser dos tramos livianos (Monteverde→Puntarenas + Puntarenas→Manuel Antonio, con tarde libre en el medio) a un solo día 100% de manejo. Si llegan cansados, priorizar check-in + cena tranquila por sobre Playa Espadilla al atardecer.
   - 🅿️ **Estacionamiento — Parque Nacional Carara:** oficial, dentro del predio cercado del parque (SINAC), sin cuidacoches informales (precio puntual del parqueo no confirmado). **Jacó:** ⚠️ zona de cuidacoches callejeros/informales, como el resto del país — no se encontró el precio exacto para el centro de Jacó, pero como referencia cercana, Playa Mantas (a los alrededores) tiene un lote cercado a **₡1.000/hora (~US$2/hora)** — llevar efectivo chico (research 20/9/2026).
-- **Día 8 (sáb 27/3):** Manuel Antonio + regreso a SJO
+- **Día 7 (vie 26/3):** Manuel Antonio → Uvita
   - **Parque Nacional Manuel Antonio** — abre 7:00am, cierra 15:00, entrada US$16, solo compra online. Franja recomendada: Grupo 01 (07:00-07:40). [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
-  - Salida hacia SJO a las 15:00 o antes, sin apuro — con luz de día, ~3-4h de manejo.
-  - Llegada a SJO ~18-19h, devolución del auto a las 21:00 ([reserva B29401782](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=)) — presentar la Visa Signature en el mostrador.
-  - Noche de espera/descanso cerca del aeropuerto. 📍 PN Manuel Antonio · Quepos · Aeropuerto SJO
+  - Salida del parque a media tarde (cierra 15:00) — margen de sobra antes del viaje a Uvita.
+  - **Playa Biesanz** — alternativa más tranquila y menos concurrida que Espadilla, cuidacoches informal ~US$4 + camastro ~US$15 si se consume. Opción si sobra tiempo antes de salir.
+  - Manuel Antonio → Uvita, 56min/64km — tramo corto, sigue por la misma Costanera Sur. Check-in y noche en Uvita.
+  - 📍 PN Manuel Antonio · Quepos · Playa Biesanz · Uvita
   - 🅿️ **Estacionamiento:** el Parque Nacional Manuel Antonio tiene parqueo **oficial gratuito** — ir directo ahí, sin detenerse antes en falsos "encargados" que digan que está lleno (es la estafa documentada en la nota general de cuidacoches).
-  - **✅ Confirmado con Daniel (19/9/2026):** sale de Manuel Antonio a las 15:00 o antes, sin apuro ("no soy de hacer las cosas en la ruta a las apuradas"). Margen real contra la devolución del auto (21:00) y el período de gracia de solo 29 minutos.
+- **Día 8 (sáb 27/3):** Uvita — Ballenas + regreso a SJO (⚠️ sujeto a marea)
+  - **Parque Nacional Marino Ballena** — de mañana, apuntando al avistamiento de ballenas jorobadas (marzo cae en el pico de la población migratoria del hemisferio norte, dic-abr, pico ene-mar). Entrada US$12/adulto/día.
+  - **Cola de Ballena (tómbolo)** — el sendero de arena con forma de cola solo se camina en una ventana de ~6h alrededor de la marea baja. Hay que revisar la tabla de mareas cerca de la fecha para armar el horario de la mañana.
+  - Salida hacia SJO a media tarde, 3h18min/210km — más corto que el viejo tramo Manuel Antonio→SJO.
+  - Llegada a SJO, devolución del auto a las 21:00 ([reserva B29401782](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=)) — presentar la Visa Signature en el mostrador.
+  - Noche de espera/descanso cerca del aeropuerto, vuelo sale 01:40 ya entrando al domingo 28/3. 📍 PN Marino Ballena · Uvita · Aeropuerto SJO
+  - 🌊 **Depende de la marea:** si la marea baja cae mal (muy temprano o muy tarde respecto al horario de apertura del parque), puede acortar la ventana real para el tómbolo. Confirmar tabla de mareas en enero/febrero 2027, antes de reservar entradas.
+  - 🅿️ **Estacionamiento:** sin confirmar todavía si el parque tiene parqueo oficial propio o si es zona de cuidacoches — pendiente de research.
+  - **✅ Confirmado con Daniel (20/9/2026):** estructura de 3 días (jue/vie/sáb) para Manuel Antonio→Uvita→SJO — ver "Cambio de ruta" más arriba para el detalle completo de qué se gana y qué se pierde al sacar Puntarenas.
 - **Día 9 (dom 28/3):** Vuelo de regreso — sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40 (Avianca AV691+AV8395, vía Bogotá). [Cotizar →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28)
 
-**✅ Resuelto (12/9/2026) — horario oficial del Parque Nacional Manuel Antonio:** según SINAC, el parque abre **7:00am y cierra a las 3:00pm** (no 4pm como se pensaba por un video) — cerrado los martes, miércoles a lunes el resto de la semana. El sábado 27 no es martes, así que no hay conflicto de día cerrado. **Las entradas se compran únicamente online**, por el sitio oficial de SINAC — no hay venta en puerta, hay que sacarlas con anticipación.
+**✅ Resuelto (12/9/2026) — horario oficial del Parque Nacional Manuel Antonio:** según SINAC, el parque abre **7:00am y cierra a las 3:00pm** (no 4pm como se pensaba por un video) — cerrado los martes, miércoles a lunes el resto de la semana. El viernes 26/3 (día asignado tras el cambio Puntarenas→Uvita, 20/9/2026) no es martes, así que no hay conflicto de día cerrado. **Las entradas se compran únicamente online**, por el sitio oficial de SINAC — no hay venta en puerta, hay que sacarlas con anticipación.
 
 👉 **Comprar entradas acá:** [serviciosenlinea.sinac.go.cr](https://serviciosenlinea.sinac.go.cr/)
 
@@ -694,7 +709,9 @@ Fuentes: [SINAC — Parque Nacional Manuel Antonio](https://www.sinac.go.cr/es/a
 **Con cuánta anticipación reservar (research externo, 13/9/2026):** las reservas de SINAC para parques de alta demanda se habilitan aprox. 30-60 días antes de la fecha (coincide con el "período no disponible" que devolvía el sistema en septiembre 2026 para marzo 2027). En temporada seca (dic-abril) y sobre todo en Semana Santa — que este viaje tiene superpuesta — los cupos de fin de semana se agotan 2-3 semanas antes de esa ventana. **Recomendación concreta: empezar a intentar reservar Poás y Manuel Antonio a partir de mediados/fines de enero 2027** (~2 meses antes), no dejarlo para último momento. Fuentes: [Vamos Rent a Car — Poás](https://vamosrentacar.com/blog/poas-volcano-national-park/) · [Costa Rica Travel Life — Poás](https://costaricatravellife.com/poas-volcano/) · [Manuel Antonio Park — Ticket Purchase Guidance](https://www.manuelantonioparkonlineservices.com/ticket-purchase-guidance) · [Earth Trekkers — Manuel Antonio](https://www.earthtrekkers.com/manuel-antonio-national-park/).
 
 **Un punto sin resolver todavía:**
-1. **Puntarenas/golfo de Nicoya es el tramo menos resuelto:** si el plan es solo bordear la costa del golfo sin cruzar, el día 6-7 es liviano. Si se suma Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote), esa parada necesita 2-3 noches propias según la fuente original (Kike Arnaiz) — con el esqueleto de 9 días de arriba no entra sin sacrificar una noche de otro lado. Sigue sin datos de tiempo/precio del cruce (ver pendiente #5 más abajo).
+1. **El avistamiento de ballenas del Día 8 depende de la marea baja del día** — hay que revisar la tabla de mareas de Uvita cerca de la fecha (ene/feb 2027) para confirmar que la ventana del tómbolo Cola de Ballena cae en un horario compatible con la mañana en el parque y la salida hacia SJO por la tarde.
+
+**Nota histórica — Isla Venado descartada del Itinerario A (20/9/2026):** hasta el 20/9/2026, el golfo de Nicoya (Puntarenas) era el tramo menos resuelto del loop, con la duda abierta de si sumar Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote — ver más abajo, sigue documentada como variante independiente). Se resolvió sacando Puntarenas del itinerario y sumando Uvita/Parque Nacional Marino Ballena en su lugar — la idea de Isla Venado queda descartada del Itinerario A, pero el research completo (fuente original: video de Kike Arnaiz, "La Costa Rica que pocos turistas ven") sigue documentado íntegro en la sección "Variante 4" más abajo, sin tocar.
 
 ## Qué le falta a Itinerario A (12/9/2026) — ordenado de más fácil a más difícil de sumar
 
@@ -728,11 +745,13 @@ Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 1
 
 ## Pendiente / próximos pasos
 
-1. **Resolver el tramo del golfo de Nicoya del Itinerario A:** ¿solo costa (liviano) o Isla Venado completo (necesita 2-3 noches propias, hay que sacar días de otro lado)?
+1. ✅ **CERRADO (20/9/2026) — tramo del golfo de Nicoya:** se sacó Puntarenas del Itinerario A y se sumó Uvita/Parque Nacional Marino Ballena en su lugar (ballenas jorobadas, temporada alta en marzo). Nuevo pendiente: confirmar tabla de mareas de Uvita cerca de la fecha (ver punto 9 más abajo) y cotizar hospedaje real en Uvita (sin referencias todavía).
 2. **Verificar estacionalidad del Caribe** (lluvias invertidas) — ya no aplica al Itinerario A (que descarta el Caribe), pero sigue pendiente si en algún momento se retoma la variante 3 (Tortuguero) como alternativa.
 3. ~~Confirmar qué cubre el seguro del Adobe Rent a Car antes de reservar~~ — sin efecto, no se usó esa opción (ver punto 9).
 4. **Cerrar el Itinerario A con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
-5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — hoy es la parada con menos datos concretos de costo del Itinerario A.
+5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — sigue siendo la variante independiente con menos datos concretos de costo (ya no forma parte del Itinerario A, ver punto 1).
+9. **Uvita — tabla de mareas (20/9/2026):** confirmar cerca de la fecha (ene/feb 2027) que la marea baja del sábado 27/3 cae en un horario que permita el tómbolo Cola de Ballena de mañana, antes de salir hacia SJO por la tarde.
+10. **Uvita — cotizar hospedaje (20/9/2026):** todavía no hay ninguna referencia relevada para la noche del 26-27/3, a diferencia de las otras 3 zonas.
 6. ✅ **Ritmo del día 1 — CERRADO (13/9/2026):** analizado en detalle (ver auditoría de horarios más arriba) y decidido dejarlo como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens — sin riesgo de plata perdida porque no pide reserva anticipada.
 7. **Reservar Eco Termales con anticipación** (13/9/2026) junto con Poás y Manuel Antonio — cupo limitado a 100 personas por franja, riesgo de agotarse en Semana Santa.
 8. **Decidir si sumar Bajos del Toro/Blue Falls of Costa Rica y en qué momento** (13/9/2026): único día viable es el Día 3 (lunes 22/3, ya que cierra domingos) como excursión desde La Fortuna — compite por ese mismo día con Río Celeste y con las actividades ya fijas de La Fortuna (catarata/kayak/termas/caminata nocturna). Ver detalle de precio y horario en "Qué le falta a Itinerario A" más abajo.
