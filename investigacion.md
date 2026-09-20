@@ -624,6 +624,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - **Excursión de día (sin decidir):** Bajos del Toro/Blue Falls o Río Celeste compiten por este mismo día.
   - **Caminata nocturna** — 2hs guiadas, ~US$40-50.
   - 📍 Río Peñas Blancas · Bajos del Toro / Río Celeste (pendiente)
+  - ⚠️ **Posible sobrecarga de horario (revisión 20/9/2026):** Kayak + la excursión de día completo (Río Celeste ~1h30 de viaje solo ida + 3h de caminata, o Bajos del Toro) + caminata nocturna es mucho para un solo día. Pendiente definir cómo se recorta — sin decidir todavía cuál actividad prioriza.
 - **Día 4 (mar 23/3):** La Fortuna → Monteverde
   - Salida de La Fortuna, ruta de montaña, ~2h30-3h de manejo.
   - Llegada a Monteverde/Santa Elena por la tarde, check-in.
@@ -635,6 +636,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - **Selvatura — puentes colgantes** — parque abierto 7am-4pm, US$49, self-guided, 8 puentes. [Comprar →](https://www.selvatura.com/tours/the-sloth-sanctuary/)
   - 🅿️ **Estacionamiento:** Selvatura y Reserva Santa Elena tienen parqueo propio del predio — no se encontró cargo aparte en ninguna fuente, así que parece incluido — sin cuidacoches.
   - 📍 Selvatura · Reserva Santa Elena · Bosque Nuboso Monteverde
+  - ⚠️ **Día ambicioso (revisión 20/9/2026):** son 3 actividades pagas y separadas (santuario, reserva de bosque nuboso, puentes colgantes) — juntas pueden ser mucho para un solo día. Pendiente evaluar si se recorta a 2 — sin decidir todavía cuál.
 - **Día 6 (jue 25/3):** Monteverde → Puntarenas
   - Salida de Monteverde hacia el Golfo de Nicoya, ~1h30 de manejo — día liviano.
   - Llegada a Puntarenas a media mañana, check-in — el hospedaje relevado (VALU Puntarenas) está a 100m de la playa y restaurantes.
