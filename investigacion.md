@@ -515,7 +515,7 @@ Más selva/fauna/canales/aves, sin tramo de playa — podría encajar mejor con 
 
 No es un itinerario completo de 7-8 días como las otras 3 — es el dato de una **escapada corta (2-3 noches)** a una zona nueva y remota, que podría sumarse como tramo final o inicial de alguna de las otras variantes (relativamente cerca de Monteverde/Nicoya), o quedar como quinta opción aparte si pesa el perfil "poco turístico/comunitario".
 
-**Fuente:** video de Kike Arnaiz, "La Costa Rica que pocos turistas ven" — creador/fotógrafo que vive en Costa Rica, escapada de jueves a domingo con dos amigos.
+**Fuente:** video de Kike Arnaiz, "La Costa Rica que pocos turistas ven" — creador/fotógrafo que vive en Costa Rica, va específicamente a fotografiar fauna en el recorrido en bote por los manglares (de ahí surgió el interés original de Daniel por esta zona), escapada de jueves a domingo con dos amigos.
 
 - **Isla Venado**, Golfo de Nicoya (Península de Nicoya): ~1.000 habitantes censados, muy tranquila, fuera de los circuitos turísticos convencionales — a diferencia de las 3 variantes principales.
 - **Acceso:** auto hasta Lepanto, cruce en ferry, navegación en bote hasta la isla — no es una ruta de auto de punta a punta.
