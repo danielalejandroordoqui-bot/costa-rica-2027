@@ -266,7 +266,7 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 **✅ Solución verificada en vivo (13/9/2026), para no repetir el error — aplica a Booking, Airbnb y Hoteles.com por igual:** al escribir "Puntarenas" en el buscador de Booking.com aparecen dos sugerencias casi idénticas — **"Puntarenas — Puntarenas, Costa Rica"** (repite el nombre, es la ciudad puntual, `dest_type=city`) y **"Puntarenas — Costa Rica"** (sin repetir, es la provincia entera, `dest_type=region`). Se probó eligiendo la primera: devolvió 22 alojamientos, todos genuinamente en la ciudad — el primer resultado fue directamente **VALU**, ya documentado arriba. Regla práctica: **elegir siempre la sugerencia que repite el nombre de la ciudad en el subtítulo**, y como doble chequeo, tocar "Ver en el mapa" después de buscar — si los resultados aparecen agrupados en la costa de la ciudad puntual (no desparramados por decenas de km), la búsqueda es correcta. Mismo criterio vale para Airbnb y Hoteles.com, aunque no se probó en vivo en esos dos.
 
-### Manuel Antonio / Quepos — 1 noche, 25-26/3/2027 (cotización real, 12/9/2026; fecha actualizada 20/9/2026 tras el cambio Puntarenas→Uvita)
+### Manuel Antonio / Quepos — 1 noche, 25-26/3/2027 (cotización real, 12/9/2026; fecha corrida y re-verificada 20/9/2026 tras el cambio Puntarenas→Uvita)
 
 2 referencias reales, no decisión cerrada:
 
@@ -274,12 +274,14 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 - 5,0/5 (6 evaluaciones, pocas pero todas perfectas) — "Favorito entre huéspedes". Anfitriona Carolina, check-in autónomo con cerradura inteligente.
 - Estudio con cama king, cocina, wifi, TV, ascensor, lavarropas, estacionamiento. En el centro de Quepos, cerca de supermercados/restaurantes/Marina Pez Vela. A 20 min en auto del Parque Nacional Manuel Antonio.
 - ⚠️ A/C no aparece en la vista previa de comodidades (lista truncada a 8 de 29 ítems) — **confirmar antes de reservar**, dado que es un requisito de Daniel para esta zona.
-- **Precio 1 noche/2 huéspedes: US$75 total.** Cancelación gratis antes del 25/3/2027.
+- **Precio 1 noche/2 huéspedes: US$75 total.**
+- ✅ **Re-verificado 20/9/2026 con las fechas corregidas (25-26/3):** sigue disponible, mismo precio (US$75), sin cambios.
 
 **Pura Natura Lodge** (antes "Hostel Vista Serena", nombre desactualizado en el link) — [Booking.com](https://www.booking.com/hotel/cr/hostel-vista-serena.es.html), mismas fechas, 2 adultos:
 - 8,6 "Fabuloso" (1.147 comentarios) — Ubicación 9,0/10 ("a las parejas les encanta", 9,2 para viajes de a dos). A 4km del Parque Nacional Manuel Antonio, 1,7km de playa La Macha.
 - Apartamento de 1 dormitorio (35-40m²): cocina privada, baño privado, A/C, TV, patio. Vistas al océano Pacífico, piscina, restaurante/bar en el lodge.
 - Precio con descuento Genius (-15%): antes US$77, **US$65 total** la noche (impuestos incluidos). ⚠️ Tarifa no reembolsable, pago online — sin cancelación gratuita como las otras opciones.
+- ✅ **Re-verificado 20/9/2026 con las fechas corregidas (25-26/3):** sigue disponible, mismo precio (US$65 + US$0,45 impuestos = US$65,45 total), sin cambios.
 
 **Resumen Manuel Antonio/Quepos (referencia, no decisión cerrada):** Pura Natura Lodge US$65 (mejor puntuado, A/C confirmado, más cerca del parque, pero no reembolsable) · Deluxe Suite Quepos Centro US$75 (más al centro del pueblo, pero A/C sin confirmar y solo 6 reseñas).
 
