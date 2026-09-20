@@ -242,7 +242,7 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 ### Puntarenas — 1 noche, 25-26/3/2027 (cotización real, 12/9/2026)
 
-**⚠️ Zona descartada del Itinerario A (20/9/2026):** Puntarenas se saca del loop y se reemplaza por Uvita — research histórico, se mantiene documentado acá por si alguna vez se retoma esa zona, pero ya no aplica a la ruta actual (ver esqueleto de días).
+**⚠️ Zona descartada del Itinerario (20/9/2026):** Puntarenas se saca del loop y se reemplaza por Uvita — research histórico, se mantiene documentado acá por si alguna vez se retoma esa zona, pero ya no aplica a la ruta actual (ver esqueleto de días).
 
 2 referencias reales, no decisión cerrada:
 
@@ -362,7 +362,7 @@ Las 4 zonas con noche ya tienen cotización real (La Fortuna, Monteverde, Manuel
 
 ## Entradas y actividades — precios reales (cotización WebSearch, 13/9/2026)
 
-Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya confirmados (Poás y Manuel Antonio). Precios por adulto extranjero, en USD, salvo que se aclare lo contrario — **no incluyen comida**.
+Todas las paradas de pago del Itinerario, además de los dos parques SINAC ya confirmados (Poás y Manuel Antonio). Precios por adulto extranjero, en USD, salvo que se aclare lo contrario — **no incluyen comida**.
 
 | Zona | Atracción | Precio adulto | Nota |
 |---|---|---|---|
@@ -381,7 +381,7 @@ Todas las paradas de pago del Itinerario A, además de los dos parques SINAC ya 
 | Uvita | PN Marino Ballena (SINAC, entrada independiente) | **US$12,00** | Fijo en la ruta (20/9/2026) — Cola de Ballena (tómbolo) sujeta a marea baja, ver pendiente de tabla de mareas. |
 | Uvita | Tour ballenas en lancha (alternativa, sin decidir) | **US$85-105** | ~3h, sale ~8:15am, incluye café/fruta/snacks + guía + termina en la Cola de Ballena. Operadores: Ballena Tour Costa Rica US$85, GetYourGuide US$92-105, otro operador US$90 adulto/US$70 niño. Sin garantía de avistamiento — ver research de temporada abajo. No sumado al piso/techo todavía. |
 
-**⚠️ Fila descartada (20/9/2026) — Isla Venado:** ya no forma parte del Itinerario A (Puntarenas se sacó del loop). Quedaba: panga colectiva Puntarenas↔Isla Venado, ~US$11 (₡5.000, dólar a ₡450, 13/9/2026), solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am. Research se mantiene como referencia de la Variante 4, independiente — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados.
+**⚠️ Fila descartada (20/9/2026) — Isla Venado:** ya no forma parte del Itinerario (Puntarenas se sacó del loop). Quedaba: panga colectiva Puntarenas↔Isla Venado, ~US$11 (₡5.000, dólar a ₡450, 13/9/2026), solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am. Research se mantiene como referencia de la Variante 4, independiente — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados.
 
 **Piso (los 3 parques SINAC ya fijos en la ruta, precio verificado pero SIN comprar todavía):** Poás US$15 + Manuel Antonio US$16 + Marino Ballena US$12 = **US$43 por persona**.
 
@@ -408,7 +408,7 @@ Daniel pasó varios resúmenes de videos sobre un tour en lancha a Marino Ballen
 
 - **Playa Ventanas** — cuevas marinas talladas por el mar, se exploran en marea baja, ~15-20 min al sur de Uvita. Parada corta.
 - **Cascada Nauyaca** — dos caídas de 45m con pileta natural para nadar. Se llega caminando (4km), a caballo o en 4x4. Distancia/tiempo exacto desde Uvita sin confirmar todavía.
-- **Isla del Caño (snorkel)** — reserva biológica a ~1h20 en lancha desde Uvita, tortugas/rayas/meros. Tour de día completo (7am-3pm), US$100-150/persona. ✅ Corregido 20/9/2026: SÍ entra en el Día 8 como alternativa al tour de ballenas (el tour vuelve a las 3pm, con margen de sobra para el viaje a SJO) — ver detalle en el esqueleto de días y en "Qué le falta a Itinerario A".
+- **Isla del Caño (snorkel)** — reserva biológica a ~1h20 en lancha desde Uvita, tortugas/rayas/meros. Tour de día completo (7am-3pm), US$100-150/persona. ✅ Corregido 20/9/2026: SÍ entra en el Día 8 como alternativa al tour de ballenas (el tour vuelve a las 3pm, con margen de sobra para el viaje a SJO) — ver detalle en el esqueleto de días y en "Qué le falta a Itinerario".
 - Surf en el sector Colonia del parque, tour de café de Don Emilio (finca familiar en San Josecito), caminatas de fauna en general.
 - Ninguna de estas (salvo quizás Ventanas) tiene margen real en el Día 8 tal como está armado (tour de ballenas + manejo a SJO ya lo llenan).
 
@@ -440,7 +440,7 @@ Fuentes: [Two Weeks in Costa Rica — Starbucks Coffee Tour](https://www.twoweek
 
 ## Auditoría de días y horarios de apertura — cruzados contra el itinerario real (13/9/2026)
 
-Repaso de cada parada de Itinerario A contra los días de calendario exactos que le tocan (sáb 20/3 a dom 28/3), para no reservar algo un día que esté cerrado.
+Repaso de cada parada de Itinerario contra los días de calendario exactos que le tocan (sáb 20/3 a dom 28/3), para no reservar algo un día que esté cerrado.
 
 | Día | Fecha | Parada | Estado |
 |---|---|---|---|
@@ -502,7 +502,7 @@ Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por
 
 ## Las variantes/zonas en evaluación
 
-⚠️ **Sacadas del sitio en vivo (20/9/2026):** con Itinerario A ya elegido y en pulido activo, esta sección completa se sacó de `index.html` para no ensuciar la página que Daniel mira día a día — Corcovado, Tortuguero y Valle de los Santos no tienen forma lógica de entrar en los 9 días de A, e Isla Venado ya se sacó del loop. Queda **solo acá como research histórico**, por si en otro viaje se retoma alguna.
+⚠️ **Sacadas del sitio en vivo (20/9/2026):** con Itinerario ya elegido y en pulido activo, esta sección completa se sacó de `index.html` para no ensuciar la página que Daniel mira día a día — Corcovado, Tortuguero y Valle de los Santos no tienen forma lógica de entrar en los 9 días del itinerario, e Isla Venado ya se sacó del loop. Queda **solo acá como research histórico**, por si en otro viaje se retoma alguna.
 
 Daniel documentó primero todos los destinos y dejó la elección entre variantes para después, a propósito — no es falta de información, es orden de trabajo. Hoy hay **5 variantes/zonas** con distinto nivel de desarrollo:
 
@@ -603,16 +603,16 @@ Ruta completamente distinta a las otras 4 — no pasa por Arenal, Monteverde, Ma
 
 ## Paradas y datos sueltos (no atados a una variante específica)
 
-⚠️ **Sección depurada del `index.html` en vivo (20/9/2026):** con Itinerario A cerrado, cada dato de acá o ya se integró al día que le corresponde, o se descartó por no tener lugar lógico en la ruta (todo lo del Caribe, que A descarta a propósito). Queda documentado acá como historial completo.
+⚠️ **Sección depurada del `index.html` en vivo (20/9/2026):** con Itinerario cerrado, cada dato de acá o ya se integró al día que le corresponde, o se descartó por no tener lugar lógico en la ruta (todo lo del Caribe, que el itinerario descarta a propósito). Queda documentado acá como historial completo.
 
 - ✅ **Hacienda Alsacia — YA INTEGRADO:** finca de café de Starbucks, en la zona montañosa cerca de Alajuela — parada de camino desde San José/Alajuela hacia el norte (confirmada por 2 fuentes independientes de ruta Valle Central → La Fortuna). Forma parte del Día 1.
 - ✅ **Fraijanes y Varablanca — YA INTEGRADO (20/9/2026):** localidades de paso hacia el norte, conocidas por sus ventas de fresas al costado de la ruta. Sumado al Día 1 como bonus gratis "si da el tiempo" (día ya muy ajustado, no es prioridad).
 - ✅ **Catarata La Paz — YA INTEGRADO (20/9/2026):** parada natural sobre la misma carretera, de camino a La Fortuna (además del complejo pago La Paz Waterfall Gardens). Sumado al Día 1 junto con Fraijanes/Varablanca, mismo criterio de "si da el tiempo".
 - ❌ **Hotel Los Lagos Spa & Resort — DESCARTADO (20/9/2026):** opción de hospedaje en La Fortuna con vista al Arenal. Superado por las 11 referencias reales ya cotizadas en la sección de Hospedaje — no aporta nada nuevo.
 - ❌ **Volcán Arenal — dato histórico, sacado del sitio (20/9/2026):** en erupción continua desde 1968 hasta 2010, hoy inactivo/dormido. Trivia no accionable — La Fortuna ya está en el itinerario, no hace falta un ítem aparte para mencionar el volcán.
-- ❌ **Árbol de ceiba de 500 años — DESCARTADO (20/9/2026):** parada en un ceibo gigante de gran valor espiritual/cultural, en la ruta Caribe-Pacífico. Itinerario A descarta el Caribe a propósito, no aplica.
-- ❌ **Ruta Caribe → Pacífico en 24-48h (Geoff y Alexa) — DESCARTADO (20/9/2026):** Puerto Viejo (Caribe Sur) → noche en La Fortuna con vista al Arenal → Playa del Coco (Pacífico Norte, Guanacaste). ~9h totales, partido en 2 días. No aplica, Itinerario A no toca el Caribe ni Guanacaste.
-- **Bajos del Toro:** sigue vigente — ver sección "Qué le falta a Itinerario A" (compite con Río Celeste por el Día 3).
+- ❌ **Árbol de ceiba de 500 años — DESCARTADO (20/9/2026):** parada en un ceibo gigante de gran valor espiritual/cultural, en la ruta Caribe-Pacífico. Itinerario descarta el Caribe a propósito, no aplica.
+- ❌ **Ruta Caribe → Pacífico en 24-48h (Geoff y Alexa) — DESCARTADO (20/9/2026):** Puerto Viejo (Caribe Sur) → noche en La Fortuna con vista al Arenal → Playa del Coco (Pacífico Norte, Guanacaste). ~9h totales, partido en 2 días. No aplica, Itinerario no toca el Caribe ni Guanacaste.
+- **Bajos del Toro:** sigue vigente — ver sección "Qué le falta a Itinerario" (compite con Río Celeste por el Día 3).
 - ❌ **@talamancanatureserve (Instagram) — DESCARTADO (20/9/2026):** reserva natural en la zona de Talamanca (Caribe Sur, cerca de Puerto Viejo/Cahuita). No aplica, Caribe descartado.
 - **Starbucks con vistas a cascadas:** ubicación no confirmada — posiblemente el Starbucks de La Paz Waterfall Gardens o alguno en las afueras de San José camino a Poás/Sarapiquí. Dato huérfano, no accionable de todos modos.
 - ❌ **San José capital — DESCARTADO (20/9/2026):** paseo por Avenida Central, Mercado Central, Catedral Metropolitana. Caldosas, plátanos tostados, empanada de carne desmechada. Sin margen real de tiempo — Día 1 llega de noche/tarde muy ajustado y Día 8/9 son de regreso al aeropuerto contra un vuelo de madrugada.
@@ -638,11 +638,11 @@ Ruta completamente distinta a las otras 4 — no pasa por Arenal, Monteverde, Ma
 
 ---
 
-## Itinerario A — loop propio por el oeste del país (12/9/2026)
+## Itinerario — loop propio por el oeste del país (12/9/2026)
 
 Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio combinando piezas de las variantes 1, 4 y 5 — en vez de elegir una sola zona, arma un **loop por el oeste del país**, entrando y saliendo por San José, subiendo primero al norte y bajando después por la costa Pacífico central. Descarta a propósito todo lo que queda al este (Tortuguero, Caribe) y el extremo sur (Corcovado/Bahía Drake) — quedan afuera de este itinerario, no del proyecto en general.
 
-**Mapa del loop:** Google My Maps público, creado el 12/9/2026 — [Costa Rica - Itinerario A](https://www.google.com/maps/d/edit?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg). Embebido en `index.html` de este proyecto. Marca las 8 paradas + el aeropuerto, unidas con una línea recta (no es ruta real por camino, sirve para ver la forma del loop de un vistazo — confirmado con Daniel que así se mantiene).
+**Mapa del loop:** Google My Maps público, creado el 12/9/2026 — [Costa Rica - Itinerario](https://www.google.com/maps/d/edit?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg). Embebido en `index.html` de este proyecto. Marca las 8 paradas + el aeropuerto, unidas con una línea recta (no es ruta real por camino, sirve para ver la forma del loop de un vistazo — confirmado con Daniel que así se mantiene).
 
 **Lista nativa de Google Maps (13/9/2026):** además del My Maps de arriba, Daniel armó una lista guardada nativa en su cuenta de Google — "Costa Rica" (Marzo 2027), 9 sitios: Parque Nacional Manuel Antonio, Isla Venado, Puntarenas, Santa Elena, La Fortuna, Volcán Poás, La Paz Waterfall Gardens, Finca Cafetalera Hacienda Alsacia Starbucks, Aeropuerto Juan Santamaría. Link: https://maps.app.goo.gl/p6JWZSZhvREnHboJ7 — a diferencia del My Maps, esta sí aparece en "Guardado" de la app de Google Maps en iPhone, así que es la que se va a usar para navegar durante el viaje. Documentación paralela, no reemplaza al My Maps embebido en el sitio.
 
@@ -775,9 +775,9 @@ Fuentes: [SINAC — Parque Nacional Manuel Antonio](https://www.sinac.go.cr/es/a
 **Un punto sin resolver todavía:**
 1. **El avistamiento de ballenas del Día 8 depende de la marea baja del día** — hay que revisar la tabla de mareas de Uvita cerca de la fecha (ene/feb 2027) para confirmar que la ventana del tómbolo Cola de Ballena cae en un horario compatible con la mañana en el parque y la salida hacia SJO por la tarde.
 
-**Nota histórica — Isla Venado descartada del Itinerario A (20/9/2026):** hasta el 20/9/2026, el golfo de Nicoya (Puntarenas) era el tramo menos resuelto del loop, con la duda abierta de si sumar Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote — ver más abajo, sigue documentada como variante independiente). Se resolvió sacando Puntarenas del itinerario y sumando Uvita/Parque Nacional Marino Ballena en su lugar — la idea de Isla Venado queda descartada del Itinerario A, pero el research completo (fuente original: video de Kike Arnaiz, "La Costa Rica que pocos turistas ven") sigue documentado íntegro en la sección "Variante 4" más abajo, sin tocar.
+**Nota histórica — Isla Venado descartada del Itinerario (20/9/2026):** hasta el 20/9/2026, el golfo de Nicoya (Puntarenas) era el tramo menos resuelto del loop, con la duda abierta de si sumar Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote — ver más abajo, sigue documentada como variante independiente). Se resolvió sacando Puntarenas del itinerario y sumando Uvita/Parque Nacional Marino Ballena en su lugar — la idea de Isla Venado queda descartada del Itinerario, pero el research completo (fuente original: video de Kike Arnaiz, "La Costa Rica que pocos turistas ven") sigue documentado íntegro en la sección "Variante 4" más abajo, sin tocar.
 
-## Qué le falta a Itinerario A (12/9/2026) — ordenado de más fácil a más difícil de sumar
+## Qué le falta a Itinerario (12/9/2026) — ordenado de más fácil a más difícil de sumar
 
 Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 12/9/2026): en vez de armar un Itinerario B alternativo, se decidió dejar A como está y documentar acá **todo lo que A NO cubre**, ordenado por cuán fácil sería sumarlo sin romper la estructura de 9 días. Combina lo que ya teníamos documentado (research de las 5 variantes + paradas sueltas) con datos nuevos buscados específicamente para esta lista (WebSearch, 12/9/2026).
 
@@ -817,14 +817,14 @@ No por ser "inaccesibles", sino por distancia + quedar del lado opuesto del paí
 
 ## Pendiente / próximos pasos
 
-1. ✅ **CERRADO (20/9/2026) — tramo del golfo de Nicoya:** se sacó Puntarenas del Itinerario A y se sumó Uvita/Parque Nacional Marino Ballena en su lugar (ballenas jorobadas, temporada alta en marzo). Nuevo pendiente: confirmar tabla de mareas de Uvita cerca de la fecha (ver punto 9 más abajo) y cotizar hospedaje real en Uvita (sin referencias todavía).
-2. **Verificar estacionalidad del Caribe** (lluvias invertidas) — ya no aplica al Itinerario A (que descarta el Caribe), pero sigue pendiente si en algún momento se retoma la variante 3 (Tortuguero) como alternativa.
+1. ✅ **CERRADO (20/9/2026) — tramo del golfo de Nicoya:** se sacó Puntarenas del Itinerario y se sumó Uvita/Parque Nacional Marino Ballena en su lugar (ballenas jorobadas, temporada alta en marzo). Nuevo pendiente: confirmar tabla de mareas de Uvita cerca de la fecha (ver punto 9 más abajo) y cotizar hospedaje real en Uvita (sin referencias todavía).
+2. **Verificar estacionalidad del Caribe** (lluvias invertidas) — ya no aplica al Itinerario (que descarta el Caribe), pero sigue pendiente si en algún momento se retoma la variante 3 (Tortuguero) como alternativa.
 3. ~~Confirmar qué cubre el seguro del Adobe Rent a Car antes de reservar~~ — sin efecto, no se usó esa opción (ver punto 9).
-4. **Cerrar el Itinerario A con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
-5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — sigue siendo la variante independiente con menos datos concretos de costo (ya no forma parte del Itinerario A, ver punto 1).
+4. **Cerrar el Itinerario con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
+5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — sigue siendo la variante independiente con menos datos concretos de costo (ya no forma parte del Itinerario, ver punto 1).
 9. **Uvita — tabla de mareas (20/9/2026):** confirmar cerca de la fecha (ene/feb 2027) que la marea baja del sábado 27/3 cae en un horario que permita el tómbolo Cola de Ballena de mañana, antes de salir hacia SJO por la tarde.
 10. ✅ **Uvita — hospedaje CERRADO (relevado, 20/9/2026):** 12 referencias reales cotizadas (Booking, Hoteles.com, Airbnb) — ver sección de hospedaje arriba. Falta decidir entre las opciones, recomendadas: Ballena Rey Hotel (mejor puntaje) o Cabinas Bahía Uvita (mejor precio).
 11. **Uvita — tour de ballenas vs. entrada independiente (20/9/2026):** decidir entre el tour en lancha guiado (~US$85-105/persona) o solo la entrada SINAC (US$12) para caminar el tómbolo por cuenta propia — ver research de temporada y operadores en la sección "Ballenas en Uvita" más arriba. Daniel está juntando reseñas de otros viajeros de la misma época (fin de marzo) antes de decidir.
 6. ✅ **Ritmo del día 1 — CERRADO (13/9/2026):** analizado en detalle (ver auditoría de horarios más arriba) y decidido dejarlo como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens — sin riesgo de plata perdida porque no pide reserva anticipada.
 7. **Reservar Eco Termales con anticipación** (13/9/2026) junto con Poás y Manuel Antonio — cupo limitado a 100 personas por franja, riesgo de agotarse en Semana Santa.
-8. **Decidir si sumar Bajos del Toro/Blue Falls of Costa Rica y en qué momento** (13/9/2026): único día viable es el Día 3 (lunes 22/3, ya que cierra domingos) como excursión desde La Fortuna — compite por ese mismo día con Río Celeste y con las actividades ya fijas de La Fortuna (catarata/kayak/termas/caminata nocturna). Ver detalle de precio y horario en "Qué le falta a Itinerario A" más abajo.
+8. **Decidir si sumar Bajos del Toro/Blue Falls of Costa Rica y en qué momento** (13/9/2026): único día viable es el Día 3 (lunes 22/3, ya que cierra domingos) como excursión desde La Fortuna — compite por ese mismo día con Río Celeste y con las actividades ya fijas de La Fortuna (catarata/kayak/termas/caminata nocturna). Ver detalle de precio y horario en "Qué le falta a Itinerario" más abajo.
