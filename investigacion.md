@@ -92,7 +92,7 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 
 ### La Fortuna — 3 noches, 20-23/3/2027 (cotización real, 12/9/2026)
 
-**Tucan container** (apartamento, Fortuna) — [Booking.com](https://www.booking.com/hotel/cr/tucan-container.es.html), fechas exactas del viaje, 2 adultos:
+**Tucan container** (apartamento, Fortuna) — [Booking.com](https://www.booking.com/hotel/cr/tucan-container.es.html?checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2), fechas exactas del viaje, 2 adultos:
 - 9,6 "Excepcional" (14 comentarios) — Personal 9,5, Instalaciones 9,7, Limpieza 9,6, Confort 9,5, Ubicación 9,5.
 - Apartamento 30m², cocina privada, baño con agua caliente, **A/C en todo el alojamiento**, toallas y ropa de cama incluidas, balcón con **jacuzzi privado y vista al Volcán Arenal**, WiFi y parking gratis.
 - Ubicación: pegado al Parque Nacional Volcán Arenal (0m), Catarata La Fortuna a 2km, Ecotermales Fortuna a 4,4km.
@@ -100,7 +100,7 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 - Check-in 14:00-22:00 (encaja con el plan: llegan a La Fortuna al atardecer del Día 1).
 - Cumple los 5 puntos del criterio de Daniel — buen benchmark de precio/calidad para la zona.
 
-**Boutique Hotel Containers** (hotel boutique, Florencia/Platanar, Alajuela) — [Hoteles.com](https://ar.hoteles.com/ho3315641824/hotel-contenedores-corporativos-florencia-costa-rica/), mismas fechas, 2 personas:
+**Boutique Hotel Containers** (hotel boutique, Florencia/Platanar, Alajuela) — [Hoteles.com](https://ar.hoteles.com/ho3315641824/hotel-contenedores-corporativos-florencia-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2), mismas fechas, 2 personas:
 - 10/10 "Excepcional" (11 opiniones) — 100% de las parejas le dieron 10/10. Categoría 2.5.
 - Habitaciones tipo contenedor de 20 pies, bien equipadas, buena cama, baño lindo (según reseñas). Sin recepción — check-in con código de acceso, entrada privada.
 - **Habitación empresarial** (18m², 1 cama Queen, sin cocina): **AR$254.057 total** las 3 noches, impuestos incluidos.
@@ -108,7 +108,7 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 - **Conversión a USD (cotización real, 12/9/2026):** dólar blue $1.545 venta, dólar tarjeta ~$1.996 (blue/oficial + Impuesto PAIS + percepción Ganancias, ~60% más caro que el oficial). Como Hoteles.com Argentina cobra directo en pesos (no es una compra en moneda extranjera desde la óptica del pago), lo más razonable es usar el blue como referencia — no debería activarse el recargo de tarjeta, aunque no está 100% confirmado sin ver el resumen real. Habitación empresarial ≈ **US$164** · Estudio ejecutivo ≈ **US$215**. Fuentes: [LA NACION — Dólar hoy](https://www.lanacion.com.ar/dolar-hoy/) · [Indicadores AR — Dólar Tarjeta](https://indicadores.ar/indicadores-economicos/dolar-tarjeta) · [Impucálculo — cómo se compone](https://impucalculo.com/blog/ar/dolar-tarjeta-argentina.html)
 - **⚠️ Ubicación — esto pesa más que el precio:** Florencia/Platanar queda cerca de Ciudad Quesada (San Carlos), **NO en La Fortuna** — son 35-37 minutos en auto hasta La Fortuna/las termas/el volcán. Es un pueblo distinto, bastante más lejos de todo lo que van a hacer en la zona que las otras dos opciones.
 
-**Arenal Sweet Bee Cabins** ("Un Chalet de Madera rodeado de Naturaleza") — [Airbnb](https://www.airbnb.com.ar/rooms/1183455758384501529), mismas fechas, 2 viajeros:
+**Arenal Sweet Bee Cabins** ("Un Chalet de Madera rodeado de Naturaleza") — [Airbnb](https://www.airbnb.com.ar/rooms/1183455758384501529?check_in=2027-03-20&check_out=2027-03-23&adults=2), mismas fechas, 2 viajeros:
 - Cabaña entera, 4 huéspedes, 2 dormitorios (1 cama doble + 2 individuales), 1,5 baños. 4,94/5 (84 evaluaciones) — "Favorito entre huéspedes", top 10% mundial de Airbnb.
 - Cocina totalmente equipada, **A/C**, WiFi rápido, estacionamiento privado, check-in autónomo (caja de seguridad).
 - **Ubicación: la mejor de las tres** — a 5 min del centro de La Fortuna, 20 min del Volcán Arenal, prácticamente en el pueblo. Anfitrión (Christian) es guía naturalista profesional — reseñas mencionan avistaje de tucanes, monos e iguanas directo desde la propiedad, a veces con telescopio del anfitrión.
@@ -117,31 +117,31 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 
 **Opciones adicionales relevadas por Melisa (13/9/2026), mismas fechas exactas, 2 huéspedes:**
 
-**Vistas Volcán Arenal 4** (Airbnb, anfitrión William Villegas Pérez) — [airbnb.com.ar/rooms/944867743484932589](https://www.airbnb.com.ar/rooms/944867743484932589):
+**Vistas Volcán Arenal 4** (Airbnb, anfitrión William Villegas Pérez) — [airbnb.com.ar/rooms/944867743484932589](https://www.airbnb.com.ar/rooms/944867743484932589?check_in=2027-03-20&check_out=2027-03-23&adults=2):
 - 4,8/5 (241 evaluaciones) — Favorito entre huéspedes, Superanfitrión 9 años. 2 dormitorios, A/C confirmado, 1 baño. A 1,5km del centro de La Fortuna (la ficha de Airbnb la clasifica bajo "San Carlos", el cantón que incluye La Fortuna, no es un error de zona).
 - **Precio 3 noches/2 huéspedes: US$122 total.** El más barato de todas las opciones de La Fortuna relevadas hasta ahora, con buen respaldo de reseñas.
 
-**Arenal Home** (Airbnb, anfitrión Jose Daniel) — [airbnb.com.ar/rooms/42512399](https://www.airbnb.com.ar/rooms/42512399):
+**Arenal Home** (Airbnb, anfitrión Jose Daniel) — [airbnb.com.ar/rooms/42512399](https://www.airbnb.com.ar/rooms/42512399?check_in=2027-03-20&check_out=2027-03-23&adults=2):
 - 4,93/5 (339 evaluaciones) — Favorito entre huéspedes, top 10% mundial. Superanfitrión 7 años. A/C, cocina equipada, lavadora, a 2 cuadras del centro de La Fortuna.
 - **Precio 3 noches: US$203 total.**
 
-**Precioso apartamento en el centro** (Airbnb) — [airbnb.com.ar/rooms/599334628847008463](https://www.airbnb.com.ar/rooms/599334628847008463):
+**Precioso apartamento en el centro** (Airbnb) — [airbnb.com.ar/rooms/599334628847008463](https://www.airbnb.com.ar/rooms/599334628847008463?check_in=2027-03-20&check_out=2027-03-23&adults=2):
 - 4,89/5 (188 evaluaciones) — Favorito entre huéspedes. A/C confirmado por reseñas ("funcionaba bien... necesario durante el clima húmedo"), en el centro de La Fortuna.
 - **Precio 3 noches: US$158 total.**
 
-**Alojamiento en La Fortuna** (Airbnb, mismo anfitrión que Vistas Volcán Arenal 4) — [airbnb.com.ar/rooms/1315910174315064642](https://www.airbnb.com.ar/rooms/1315910174315064642):
+**Alojamiento en La Fortuna** (Airbnb, mismo anfitrión que Vistas Volcán Arenal 4) — [airbnb.com.ar/rooms/1315910174315064642](https://www.airbnb.com.ar/rooms/1315910174315064642?check_in=2027-03-20&check_out=2027-03-23&adults=2):
 - 4,85/5 (112 evaluaciones) — Favorito entre huéspedes, A/C confirmado. **Precio 3 noches: US$187 total.**
 
-**Lightroom #2, vista al Volcán Arenal** (Airbnb) — [airbnb.com.ar/rooms/597838169944537686](https://www.airbnb.com.ar/rooms/597838169944537686):
+**Lightroom #2, vista al Volcán Arenal** (Airbnb) — [airbnb.com.ar/rooms/597838169944537686](https://www.airbnb.com.ar/rooms/597838169944537686?check_in=2027-03-20&check_out=2027-03-23&adults=2):
 - 4,84/5 (446 evaluaciones, el mayor volumen de reseñas de toda la zona) — Favorito entre huéspedes, A/C confirmado, baño privado. **Precio 3 noches: US$195 total.**
 
-**Loft increíble en el centro de Fortuna** (Airbnb, Central Park Fortuna Lofts) — [airbnb.com.ar/rooms/1492797218221874903](https://www.airbnb.com.ar/rooms/1492797218221874903):
+**Loft increíble en el centro de Fortuna** (Airbnb, Central Park Fortuna Lofts) — [airbnb.com.ar/rooms/1492797218221874903](https://www.airbnb.com.ar/rooms/1492797218221874903?check_in=2027-03-20&check_out=2027-03-23&adults=2):
 - 5,0/5 (85 evaluaciones) — Favorito entre huéspedes, Superanfitrión. A/C + ventilador de techo, en el centro. **Precio 3 noches: US$269 total** — el más caro de todos.
 
-**Chalet La Fortuna** (Airbnb) — [airbnb.com.ar/rooms/1415549910925570857](https://www.airbnb.com.ar/rooms/1415549910925570857):
+**Chalet La Fortuna** (Airbnb) — [airbnb.com.ar/rooms/1415549910925570857](https://www.airbnb.com.ar/rooms/1415549910925570857?check_in=2027-03-20&check_out=2027-03-23&adults=2):
 - 4,86/5 (129 evaluaciones) — Favorito entre huéspedes, A/C confirmado. ⚠️ La ficha lo ubica en "San Ramón" (cantón bien alejado de La Fortuna en la realidad), pero la descripción del propio anfitrión dice "a solo 10 minutos de La Fortuna" — dato contradictorio, **confirmar ubicación real antes de considerarla**. Precio mostrado ambiguo (aparecen $268 y $209 en la misma página) — **confirmar precio final al momento de reservar.**
 
-**Almendros Eco-Villas** (Hoteles.com/Expedia) — [ar.hoteles.com/ho3090573824](https://ar.hoteles.com/ho3090573824/almendros-eco-villas-la-fortuna-costa-rica/):
+**Almendros Eco-Villas** (Hoteles.com/Expedia) — [ar.hoteles.com/ho3090573824](https://ar.hoteles.com/ho3090573824/almendros-eco-villas-la-fortuna-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2):
 - 8,6/10 (28 opiniones). Casa entera en Los Ángeles de La Fortuna, 2 piscinas al aire libre, A/C a nivel propiedad — pero una reseña de 6/10 advierte que el A/C real solo estaba en 1 cuarto y la sala en su experiencia, con obras/ruido durante la estadía. A 15-20min en auto de las atracciones principales (catarata, termas, parque). No reembolsable.
 - **Precio 3 noches: AR$256.512 ≈ US$166** (convertido a dólar blue $1.545, misma metodología usada para Boutique Hotel Containers).
 
@@ -168,13 +168,13 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 | Hotel | Precio 3 noches/2 pers. (aprox. USD) | Rating | Categoría/nota |
 |---|---|---|---|
 | Rio Danta Hostel/Cabinas | ~US$23 | 4,2★ (332) | 1★ — precio sospechosamente bajo, verificar antes de confiar |
-| [Nice Place Hostel](https://www.booking.com/searchresults.es.html?ss=Nice+Place+Hostel+La+Fortuna) | ~US$36 | 4,6★ (89) | 3★, desayuno, A/C, traslado aeropuerto |
-| **[Hotel Alicia](https://www.booking.com/searchresults.es.html?ss=Hotel+Alicia+La+Fortuna+Costa+Rica)** | **~US$62** | **4,6★ (199)** | 3★, desayuno, A/C, cocina en algunas habitaciones — mitad del precio de Vistas Volcán Arenal 4 con rating similar |
-| [Casona Rústica & Bungalows - Tangara](https://www.booking.com/searchresults.es.html?ss=Casona+Rustica+Bungalows+Tangara+La+Fortuna) | ~US$79 (29% off) | 4,6★ (331) | 3★, A/C |
+| [Nice Place Hostel](https://www.booking.com/searchresults.es.html?ss=Nice+Place+Hostel+La+Fortuna&checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2) | ~US$36 | 4,6★ (89) | 3★, desayuno, A/C, traslado aeropuerto |
+| **[Hotel Alicia](https://www.booking.com/searchresults.es.html?ss=Hotel+Alicia+La+Fortuna+Costa+Rica&checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2)** | **~US$62** | **4,6★ (199)** | 3★, desayuno, A/C, cocina en algunas habitaciones — mitad del precio de Vistas Volcán Arenal 4 con rating similar |
+| [Casona Rústica & Bungalows - Tangara](https://www.booking.com/searchresults.es.html?ss=Casona+Rustica+Bungalows+Tangara+La+Fortuna&checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2) | ~US$79 (29% off) | 4,6★ (331) | 3★, A/C |
 | Le Petit Hôtel Costa Rica | ~US$79 | 4,6★ (41) | 2★, A/C |
-| [Hotel Villa Fortuna](https://www.booking.com/searchresults.es.html?ss=Hotel+Villa+Fortuna+Costa+Rica) | ~US$81 (32% off) | 4,5★ (165) | A/C, pileta, desayuno |
-| [Hotel Arenal Xilopalo](https://www.booking.com/searchresults.es.html?ss=Hotel+Arenal+Xilopalo+La+Fortuna) | ~US$72 | 4,7★ (854) | El mayor volumen de reseñas de toda la zona |
-| [La Fortuna Lodge by Treebu Hotels](https://www.booking.com/searchresults.es.html?ss=La+Fortuna+Lodge+by+Treebu+Hotels) | ~US$114 | 4,8★ (279) | Mismo puntaje que Vistas Volcán Arenal 4, con desayuno gratis y spa incluidos |
+| [Hotel Villa Fortuna](https://www.booking.com/searchresults.es.html?ss=Hotel+Villa+Fortuna+Costa+Rica&checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2) | ~US$81 (32% off) | 4,5★ (165) | A/C, pileta, desayuno |
+| [Hotel Arenal Xilopalo](https://www.booking.com/searchresults.es.html?ss=Hotel+Arenal+Xilopalo+La+Fortuna&checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2) | ~US$72 | 4,7★ (854) | El mayor volumen de reseñas de toda la zona |
+| [La Fortuna Lodge by Treebu Hotels](https://www.booking.com/searchresults.es.html?ss=La+Fortuna+Lodge+by+Treebu+Hotels&checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2) | ~US$114 | 4,8★ (279) | Mismo puntaje que Vistas Volcán Arenal 4, con desayuno gratis y spa incluidos |
 
 **Ojo — precios aproximados, no verificados a nivel de reserva:** Google mostró todo en ARS (pese a pedir USD) y el desglose por proveedor (Booking/hotel directo) dio error de carga repetido — probablemente porque la fecha está muy lejos para el inventario en vivo de esas propiedades chicas. Conversión hecha a mano con el tipo de cambio de mercado del día (~1.506 ARS/USD). **Antes de reemplazar a Vistas Volcán Arenal 4, confirmar estos precios directo en Booking.com o en el sitio del hotel** — son pistas, no cotizaciones confirmadas como las de la tabla de arriba.
 
@@ -182,13 +182,13 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 
 2 referencias reales, no decisión cerrada:
 
-**ECO RIVER DOME** (habitación privada en domo) — [Airbnb](https://www.airbnb.com.ar/rooms/53621802), mismas fechas, 2 huéspedes:
+**ECO RIVER DOME** (habitación privada en domo) — [Airbnb](https://www.airbnb.com.ar/rooms/53621802?check_in=2027-03-23&check_out=2027-03-25&adults=2), mismas fechas, 2 huéspedes:
 - 4,97/5 (300 evaluaciones) — "Favorito entre huéspedes", top 5% mundial de Airbnb. Anfitrión Harry, Superanfitrión, 7 años de experiencia, guía naturalista de profesión (30 años en el rubro).
 - 1 dormitorio, 1 cama doble, 1 baño privado, A/C portátil, cocina, wifi, ventana panorámica con vista a las montañas/valle, estacionamiento gratis.
 - A 1h en auto del Volcán Arenal. Reseñas destacan la vista, la tranquilidad y la calidez del anfitrión.
 - **Precio 2 noches/2 huéspedes: US$230 total.** Cancelación gratis antes del 18/3/2027.
 
-**Camino Verde B&B Monteverde** — [Booking.com](https://www.booking.com/hotel/cr/camino-verde-bed-amp-brekfast-monteverde.es.html), mismas fechas, 2 adultos:
+**Camino Verde B&B Monteverde** — [Booking.com](https://www.booking.com/hotel/cr/camino-verde-bed-amp-brekfast-monteverde.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2), mismas fechas, 2 adultos:
 - 9,0 "Fantástico" (1.476 comentarios) — Ubicación 9,3/10, Personal 9,7/10. A 350m de la Iglesia de Santa Elena, en pleno centro del pueblo (muy caminable a restaurantes/actividades).
 - Habitación Doble Estándar (15m², 1 cama doble grande): A/C, baño privado, TV, wifi, desayuno incluido ("Fantástico" según reseñas). Terraza compartida con vista al Bosque Nuboso.
 - Precio con descuento Genius: US$212 (antes US$235) + US$28 de impuestos = **US$240 total** las 2 noches. Cancelación gratis antes del 18/3/2027.
@@ -199,21 +199,21 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 **⚠️ Descartada — error de zona:** uno de los links que pasó Melisa ("Solar La Fortuna Hotel & Lounge", vía Hoteles.com) resultó estar **en La Fortuna, no en Santa Elena/Monteverde** (a 2 min a pie del Parque de La Fortuna, 6 min del aeropuerto FON) — probablemente un resultado de búsqueda que se filtró mal. No aplica a esta zona.
 
 **⚠️ Hallazgo importante — los hostels de Monteverde no tienen A/C:** se revisaron 3 hostels de Booking.com para esta zona (Hostel Cattleya, Casa Bonanza, Cowboy Hostel) y **ninguno de los tres ofrece aire acondicionado** — ni mencionado en amenities ni en reseñas. Consistente con el clima fresco de bosque nuboso de Monteverde, donde el A/C no es estándar. Quedan documentados por precio, pero no cumplen el criterio no negociable de Daniel:
-- **Hostel Cattleya** — [booking.com/hotel/cr/hostel-cattleya](https://www.booking.com/hotel/cr/hostel-cattleya.es.html): 8,6 "Fabuloso" (1.883 comentarios, mucho respaldo). Habitación Doble Superior, baño privado, **US$66 total 2 noches** — sin A/C.
-- **Cowboy Hostel** — [booking.com/hotel/cr/cowboy-hostel-habitaciones-con-bano-privado](https://www.booking.com/hotel/cr/cowboy-hostel-habitaciones-con-bano-privado.es.html): 8,7 "Fabuloso" (480 comentarios). Habitación doble con baño privado, **US$58 total 2 noches** — sin A/C.
-- **Casa Bonanza** — [booking.com/hotel/cr/bonanza](https://www.booking.com/hotel/cr/bonanza.es.html): 8,1 "Muy bien" (solo 13 comentarios, poco respaldo). Apartamento de 3 dormitorios (sobredimensionado para 2 personas), ~US$95 total 2 noches — sin A/C.
+- **Hostel Cattleya** — [booking.com/hotel/cr/hostel-cattleya](https://www.booking.com/hotel/cr/hostel-cattleya.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 8,6 "Fabuloso" (1.883 comentarios, mucho respaldo). Habitación Doble Superior, baño privado, **US$66 total 2 noches** — sin A/C.
+- **Cowboy Hostel** — [booking.com/hotel/cr/cowboy-hostel-habitaciones-con-bano-privado](https://www.booking.com/hotel/cr/cowboy-hostel-habitaciones-con-bano-privado.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 8,7 "Fabuloso" (480 comentarios). Habitación doble con baño privado, **US$58 total 2 noches** — sin A/C.
+- **Casa Bonanza** — [booking.com/hotel/cr/bonanza](https://www.booking.com/hotel/cr/bonanza.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 8,1 "Muy bien" (solo 13 comentarios, poco respaldo). Apartamento de 3 dormitorios (sobredimensionado para 2 personas), ~US$95 total 2 noches — sin A/C.
 
 **Las 3 opciones de Airbnb sí tienen A/C** (probablemente instalado específicamente para huéspedes, algo común en alojamientos turísticos de la zona aunque el clima no lo pida):
 
-**Loft colibrí** (Airbnb) — [airbnb.com.ar/rooms/46486245](https://www.airbnb.com.ar/rooms/46486245):
+**Loft colibrí** (Airbnb) — [airbnb.com.ar/rooms/46486245](https://www.airbnb.com.ar/rooms/46486245?check_in=2027-03-23&check_out=2027-03-25&adults=2):
 - 4,78/5 (201 evaluaciones) — no tiene insignia de Superanfitrión pero buen puntaje. **A/C central confirmado en el propio título del anuncio.** Cocina totalmente equipada, TV 55", balcón privado con comederos de colibríes, 1 baño.
 - **Precio 2 noches: US$130 total** — el más barato de Monteverde con A/C confirmado, casi la mitad de ECO RIVER DOME/Camino Verde B&B.
 
-**Casa Torremar en Monteverde** (Airbnb) — [airbnb.com.ar/rooms/53661962](https://www.airbnb.com.ar/rooms/53661962):
+**Casa Torremar en Monteverde** (Airbnb) — [airbnb.com.ar/rooms/53661962](https://www.airbnb.com.ar/rooms/53661962?check_in=2027-03-23&check_out=2027-03-25&adults=2):
 - 4,83/5 (510 evaluaciones, el mayor volumen de reseñas de toda la zona) — Favorito entre huéspedes, Superanfitrión. A/C de ventana confirmado explícitamente por una reseña, 2 dormitorios, 1,5 baños.
 - **Precio 2 noches: US$213 total.**
 
-**Bello Horizonte, vista increíble cerca de Monteverde** (Airbnb) — [airbnb.com.ar/rooms/754275571837272770](https://www.airbnb.com.ar/rooms/754275571837272770):
+**Bello Horizonte, vista increíble cerca de Monteverde** (Airbnb) — [airbnb.com.ar/rooms/754275571837272770](https://www.airbnb.com.ar/rooms/754275571837272770?check_in=2027-03-23&check_out=2027-03-25&adults=2):
 - 4,98/5 (116 evaluaciones) — Favorito entre huéspedes. A/C + ventilador portátil confirmado. 1 dormitorio, 1 baño. ⚠️ El nombre dice "cerca de Monteverde", no en el pueblo mismo — confirmar distancia real antes de decidir.
 - **Precio 2 noches: US$184 total** (con descuento por reserva anticipada, antes US$203).
 
@@ -270,14 +270,14 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 
 2 referencias reales, no decisión cerrada:
 
-**Deluxe Suite • King Bed • Quepos Centro** (Apartahotel Puerta del Cielo) — [Airbnb](https://www.airbnb.com.ar/rooms/1629244010200348893), mismas fechas, 2 huéspedes:
+**Deluxe Suite • King Bed • Quepos Centro** (Apartahotel Puerta del Cielo) — [Airbnb](https://www.airbnb.com.ar/rooms/1629244010200348893?check_in=2027-03-25&check_out=2027-03-26&adults=2), mismas fechas, 2 huéspedes:
 - 5,0/5 (6 evaluaciones, pocas pero todas perfectas) — "Favorito entre huéspedes". Anfitriona Carolina, check-in autónomo con cerradura inteligente.
 - Estudio con cama king, cocina, wifi, TV, ascensor, lavarropas, estacionamiento. En el centro de Quepos, cerca de supermercados/restaurantes/Marina Pez Vela. A 20 min en auto del Parque Nacional Manuel Antonio.
 - ⚠️ A/C no aparece en la vista previa de comodidades (lista truncada a 8 de 29 ítems) — **confirmar antes de reservar**, dado que es un requisito de Daniel para esta zona.
 - **Precio 1 noche/2 huéspedes: US$75 total.**
 - ✅ **Re-verificado 20/9/2026 con las fechas corregidas (25-26/3):** sigue disponible, mismo precio (US$75), sin cambios.
 
-**Pura Natura Lodge** (antes "Hostel Vista Serena", nombre desactualizado en el link) — [Booking.com](https://www.booking.com/hotel/cr/hostel-vista-serena.es.html), mismas fechas, 2 adultos:
+**Pura Natura Lodge** (antes "Hostel Vista Serena", nombre desactualizado en el link) — [Booking.com](https://www.booking.com/hotel/cr/hostel-vista-serena.es.html?checkin=2027-03-25&checkout=2027-03-26&group_adults=2&no_rooms=1&req_adults=2), mismas fechas, 2 adultos:
 - 8,6 "Fabuloso" (1.147 comentarios) — Ubicación 9,0/10 ("a las parejas les encanta", 9,2 para viajes de a dos). A 4km del Parque Nacional Manuel Antonio, 1,7km de playa La Macha.
 - Apartamento de 1 dormitorio (35-40m²): cocina privada, baño privado, A/C, TV, patio. Vistas al océano Pacífico, piscina, restaurante/bar en el lodge.
 - Precio con descuento Genius (-15%): antes US$77, **US$65 total** la noche (impuestos incluidos). ⚠️ Tarifa no reembolsable, pago online — sin cancelación gratuita como las otras opciones.
@@ -288,34 +288,34 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 **Opciones adicionales relevadas por Melisa (13/9/2026), mismas fechas exactas, 2 adultos:**
 
 **Dos de los 6 links resultaron ser propiedades ya documentadas, no opciones nuevas:**
-- El link de Hoteles.com a "Pura Natura Lodge" ([ar.hoteles.com/ho3217052576](https://ar.hoteles.com/ho3217052576/pura-natura-lodge-quepos-costa-rica/)) es la **misma propiedad** ya cotizada arriba (antes "Hostel Vista Serena") — confirma 9,2/10 en esta plataforma, y da un precio de **AR$88.154 ≈ US$57** por esta vía (un poco más barato que los US$65 de Booking.com — canal alternativo a considerar al reservar).
-- El link llamado "Quepos" ([ar.hoteles.com/ho3072733856](https://ar.hoteles.com/ho3072733856/quepos-quepos-costa-rica/)) resultó ser el **mismo hotel** que "Vista del Pacífico Boutique Hotel" de abajo — AR$123.249 ≈ US$80, confirma el precio de Booking.com. Duplicado, no es una opción distinta.
+- El link de Hoteles.com a "Pura Natura Lodge" ([ar.hoteles.com/ho3217052576](https://ar.hoteles.com/ho3217052576/pura-natura-lodge-quepos-costa-rica/?chkin=2027-03-25&chkout=2027-03-26&rm1=a2)) es la **misma propiedad** ya cotizada arriba (antes "Hostel Vista Serena") — confirma 9,2/10 en esta plataforma, y da un precio de **AR$88.154 ≈ US$57** por esta vía (un poco más barato que los US$65 de Booking.com — canal alternativo a considerar al reservar).
+- El link llamado "Quepos" ([ar.hoteles.com/ho3072733856](https://ar.hoteles.com/ho3072733856/quepos-quepos-costa-rica/?chkin=2027-03-25&chkout=2027-03-26&rm1=a2)) resultó ser el **mismo hotel** que "Vista del Pacífico Boutique Hotel" de abajo — AR$123.249 ≈ US$80, confirma el precio de Booking.com. Duplicado, no es una opción distinta.
 
 **Las 4 opciones realmente nuevas (todas con A/C confirmado, todas más caras que Pura Natura Lodge):**
 
-**Hotel Tres Banderas** — [booking.com/hotel/cr/tres-banderas](https://www.booking.com/hotel/cr/tres-banderas.es.html):
+**Hotel Tres Banderas** — [booking.com/hotel/cr/tres-banderas](https://www.booking.com/hotel/cr/tres-banderas.es.html?checkin=2027-03-25&checkout=2027-03-26&group_adults=2&no_rooms=1&req_adults=2):
 - 8,0 "Muy bien" (1.402 comentarios, el mayor volumen de la zona). A/C confirmado, balcón, TV cable, caja fuerte. **US$73,43 la noche.**
 
-**Vista del Pacífico Boutique Hotel** — [booking.com/hotel/cr/vista-del-pacifico-quepos2](https://www.booking.com/hotel/cr/vista-del-pacifico-quepos2.es.html):
+**Vista del Pacífico Boutique Hotel** — [booking.com/hotel/cr/vista-del-pacifico-quepos2](https://www.booking.com/hotel/cr/vista-del-pacifico-quepos2.es.html?checkin=2027-03-25&checkout=2027-03-26&group_adults=2&no_rooms=1&req_adults=2):
 - 8,1 "Muy bien" (261 comentarios). A/C confirmado por reseñas, ubicado en la cima con vista. **US$81,70 la noche.**
 
-**Senda Adults Only Hostel** — [booking.com/hotel/cr/senda-hostel](https://www.booking.com/hotel/cr/senda-hostel.es.html):
+**Senda Adults Only Hostel** — [booking.com/hotel/cr/senda-hostel](https://www.booking.com/hotel/cr/senda-hostel.es.html?checkin=2027-03-25&checkout=2027-03-26&group_adults=2&no_rooms=1&req_adults=2):
 - 9,1 "Fantástico" (57 comentarios, el mejor puntaje de la zona aunque con menos volumen). A/C confirmado. Solo adultos. **US$89,25 la noche** — el más caro de los nuevos.
 
-**Hotel Verde Mar Direct Beach Access** — [booking.com/hotel/cr/verde-mar](https://www.booking.com/hotel/cr/verde-mar.es.html):
+**Hotel Verde Mar Direct Beach Access** — [booking.com/hotel/cr/verde-mar](https://www.booking.com/hotel/cr/verde-mar.es.html?checkin=2027-03-25&checkout=2027-03-26&group_adults=2&no_rooms=1&req_adults=2):
 - 7,8 "Bien" (1.492 comentarios). Acceso directo a la playa, A/C confirmado. Tiene una **Backpackers Room (literas) a US$68** que técnicamente entra 2 personas pero no es cama doble — para una cama doble real, la **Habitación Doble Económica sale US$147 la noche**, la más cara de toda la comparación.
 
 **3 links adicionales de Daniel (13/9/2026, hoteles.com, mismas fechas):**
 
-**Tico Tico Villas Adult Only** — [ar.hoteles.com/ho3393367360](https://ar.hoteles.com/ho3393367360/tico-tico-villas/):
+**Tico Tico Villas Adult Only** — [ar.hoteles.com/ho3393367360](https://ar.hoteles.com/ho3393367360/tico-tico-villas/?chkin=2027-03-25&chkout=2027-03-26&rm1=a2):
 - 9,6/10 (el mejor puntaje de toda la comparación de Manuel Antonio). A/C confirmado, solo adultos. A 6-14 min en auto de los puntos de interés — buena ubicación.
 - **Precio 1 noche: AR$150.022 ≈ US$97** (dólar blue $1.545, misma metodología usada en el resto del proyecto).
 
-**Hotel Manuel Antonio Beracha** (el link decía "Manuel Antonio Inn", pero la ficha real de la propiedad es esta) — [ar.hoteles.com/ho3946835104](https://ar.hoteles.com/ho3946835104/manuel-antonio-inn/):
+**Hotel Manuel Antonio Beracha** (el link decía "Manuel Antonio Inn", pero la ficha real de la propiedad es esta) — [ar.hoteles.com/ho3946835104](https://ar.hoteles.com/ho3946835104/manuel-antonio-inn/?chkin=2027-03-25&chkout=2027-03-26&rm1=a2):
 - 9,0/10 (18 opiniones). A/C confirmado, ventilador de techo también. A 5-19 min en auto según el punto de referencia.
 - **Precio 1 noche: AR$179.514 ≈ US$116.**
 
-**⚠️ Raya — descartada, no es de esta zona:** [ar.hoteles.com/ho4317791424](https://ar.hoteles.com/ho4317791424/raya/) está en **Matapalo**, un pueblo de playa bastante más al sur de Quepos/Manuel Antonio (17-48 min de distancia a los puntos de referencia según la propia ficha) — mismo patrón que Ojochal/Montezuma en Puntarenas: la búsqueda por la provincia completa de Puntarenas devuelve resultados de pueblos lejanos. Sin A/C confirmado y sin reseñas todavía (listing nuevo). No aplica al itinerario.
+**⚠️ Raya — descartada, no es de esta zona:** [ar.hoteles.com/ho4317791424](https://ar.hoteles.com/ho4317791424/raya/?chkin=2027-03-25&chkout=2027-03-26&rm1=a2) está en **Matapalo**, un pueblo de playa bastante más al sur de Quepos/Manuel Antonio (17-48 min de distancia a los puntos de referencia según la propia ficha) — mismo patrón que Ojochal/Montezuma en Puntarenas: la búsqueda por la provincia completa de Puntarenas devuelve resultados de pueblos lejanos. Sin A/C confirmado y sin reseñas todavía (listing nuevo). No aplica al itinerario.
 
 **Resumen Manuel Antonio, todas las opciones (13/9/2026):**
 
@@ -337,22 +337,22 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 Zona nueva del itinerario, reemplaza a Puntarenas. Daniel pasó 12 links (Booking, Hoteles.com, Airbnb) con las fechas correctas ya cargadas — precios de Booking/Airbnb en USD, los de Hoteles.com salieron en ARS (pendiente convertir).
 
 **Booking.com:**
-- **Ballena Rey Hotel** — 9,0 "Fantástico" (1.611 reseñas, el mayor respaldo de la zona). US$106-123 la noche según tipo de cancelación (no reembolsable vs. cancelación gratis). A/C en todas las habitaciones, apartamento entero con cocina, piscina infinita, desayuno con Genius. **A 0m de la entrada del Parque Marino Ballena**, 1,3km de Playa Uvita. [Ver →](https://www.booking.com/hotel/cr/ballena-rey-bahia-ballena-uvita-de-osa.es.html)
-- **Cabinas Bahía Uvita - Marino Ballena National Park Lodge** — 8,0 "Muy bien" (92 reseñas). US$71-87 según habitación (1 o 2 camas dobles). A/C confirmado, **también a 0m del parque**, 50m de Playa Uvita. Solo efectivo. [Ver →](https://www.booking.com/hotel/cr/cabinas-bahia-uvita.es.html)
-- **Cabinas Costa Tropicana** — 9,2 "Fantástico" (237 reseñas). US$102 la noche (estudio con cocina privada). A/C confirmado, a 900m del parque, en la selva pero cerca del pueblo. Solo efectivo. [Ver →](https://www.booking.com/hotel/cr/cabinas-costa-tropicana.es.html)
+- **Ballena Rey Hotel** — 9,0 "Fantástico" (1.611 reseñas, el mayor respaldo de la zona). US$106-123 la noche según tipo de cancelación (no reembolsable vs. cancelación gratis). A/C en todas las habitaciones, apartamento entero con cocina, piscina infinita, desayuno con Genius. **A 0m de la entrada del Parque Marino Ballena**, 1,3km de Playa Uvita. [Ver →](https://www.booking.com/hotel/cr/ballena-rey-bahia-ballena-uvita-de-osa.es.html?checkin=2027-03-26&checkout=2027-03-27&group_adults=2&no_rooms=1&req_adults=2)
+- **Cabinas Bahía Uvita - Marino Ballena National Park Lodge** — 8,0 "Muy bien" (92 reseñas). US$71-87 según habitación (1 o 2 camas dobles). A/C confirmado, **también a 0m del parque**, 50m de Playa Uvita. Solo efectivo. [Ver →](https://www.booking.com/hotel/cr/cabinas-bahia-uvita.es.html?checkin=2027-03-26&checkout=2027-03-27&group_adults=2&no_rooms=1&req_adults=2)
+- **Cabinas Costa Tropicana** — 9,2 "Fantástico" (237 reseñas). US$102 la noche (estudio con cocina privada). A/C confirmado, a 900m del parque, en la selva pero cerca del pueblo. Solo efectivo. [Ver →](https://www.booking.com/hotel/cr/cabinas-costa-tropicana.es.html?checkin=2027-03-26&checkout=2027-03-27&group_adults=2&no_rooms=1&req_adults=2)
 
 **Airbnb:**
-- **Habitación con terraza, A/C y baño privado en Uvita** — 4,79★ (68 reseñas de este listado, anfitrión con 309 en total). US$47/noche (antes US$52) — la más barata de toda la lista, pero es habitación, no alojamiento entero. Cerca de la Catarata Uvita. [Ver →](https://www.airbnb.com.ar/rooms/38730647)
-- **Casa Viva Barrel 2** — 4,9★ Superanfitrión (179 reseñas). US$90/noche. Minicasa tipo barril, A/C split, muebles hechos a mano, cerca de la playa. [Ver →](https://www.airbnb.com.ar/rooms/811577591723844316)
-- **Casa Viva Skylight Barrel** — 5,0★ (solo 3 reseñas). US$92/noche. Mismo anfitrión (Roy) que Casa Viva Barrel 2, a pasos de la playa/restaurantes/supermercados, A/C, TV con Netflix. [Ver →](https://www.airbnb.com.ar/rooms/1678326561328891378)
-- **Aparta Studio Jardín Alado** — 4,94★ Superanfitrión (144 reseñas). US$72/noche (antes US$80). A/C confirmado, 5 min a pie de la Catarata Uvita, 11 min en auto del parque. ⚠️ El propio listado aclara que **no tiene agua caliente** — a chequear si es un problema. [Ver →](https://www.airbnb.com.ar/rooms/1039451724826782492)
-- **Cabaña Vacal #2 frente a playa, en la jungla** — 4,8★ Superhost (235 reseñas). US$111/noche. A/C + ventilador, jacuzzi exclusivo, a 30m de la playa. [Ver →](https://www.airbnb.com.ar/rooms/884311498194365841)
-- **Seren Glamping** — 5,0★ (solo 2 reseñas, poco respaldo). US$67/noche. Carpa/glamping (no cabaña) **dentro del propio Parque Nacional Marino Ballena**, A/C confirmado, jacuzzi. Sin detector de humo ni de monóxido según el listado. [Ver →](https://www.airbnb.com.ar/rooms/1502916820967041197)
+- **Habitación con terraza, A/C y baño privado en Uvita** — 4,79★ (68 reseñas de este listado, anfitrión con 309 en total). US$47/noche (antes US$52) — la más barata de toda la lista, pero es habitación, no alojamiento entero. Cerca de la Catarata Uvita. [Ver →](https://www.airbnb.com.ar/rooms/38730647?check_in=2027-03-26&check_out=2027-03-27&adults=2)
+- **Casa Viva Barrel 2** — 4,9★ Superanfitrión (179 reseñas). US$90/noche. Minicasa tipo barril, A/C split, muebles hechos a mano, cerca de la playa. [Ver →](https://www.airbnb.com.ar/rooms/811577591723844316?check_in=2027-03-26&check_out=2027-03-27&adults=2)
+- **Casa Viva Skylight Barrel** — 5,0★ (solo 3 reseñas). US$92/noche. Mismo anfitrión (Roy) que Casa Viva Barrel 2, a pasos de la playa/restaurantes/supermercados, A/C, TV con Netflix. [Ver →](https://www.airbnb.com.ar/rooms/1678326561328891378?check_in=2027-03-26&check_out=2027-03-27&adults=2)
+- **Aparta Studio Jardín Alado** — 4,94★ Superanfitrión (144 reseñas). US$72/noche (antes US$80). A/C confirmado, 5 min a pie de la Catarata Uvita, 11 min en auto del parque. ⚠️ El propio listado aclara que **no tiene agua caliente** — a chequear si es un problema. [Ver →](https://www.airbnb.com.ar/rooms/1039451724826782492?check_in=2027-03-26&check_out=2027-03-27&adults=2)
+- **Cabaña Vacal #2 frente a playa, en la jungla** — 4,8★ Superhost (235 reseñas). US$111/noche. A/C + ventilador, jacuzzi exclusivo, a 30m de la playa. [Ver →](https://www.airbnb.com.ar/rooms/884311498194365841?check_in=2027-03-26&check_out=2027-03-27&adults=2)
+- **Seren Glamping** — 5,0★ (solo 2 reseñas, poco respaldo). US$67/noche. Carpa/glamping (no cabaña) **dentro del propio Parque Nacional Marino Ballena**, A/C confirmado, jacuzzi. Sin detector de humo ni de monóxido según el listado. [Ver →](https://www.airbnb.com.ar/rooms/1502916820967041197?check_in=2027-03-26&check_out=2027-03-27&adults=2)
 
 **Hoteles.com (precios en ARS, pendiente convertir a USD):**
-- **Tropical Beach** — 8,6/10 (165 reseñas). ≈AR$131.720 total la noche. A/C confirmado, a 2 min a pie del parque. ⚠️ Una reseña (Enrique, 9/3/2026) reporta que la propiedad canceló una reserva confirmada por Expedia sin avisar, al llegar al hotel — riesgo a tener en cuenta. [Ver →](https://ar.hoteles.com/ho847332320/tropical-beach-ballena-costa-rica/)
-- **Morning Glory** — 9,4/10 (solo 9 reseñas, poco respaldo). ≈AR$124.298 total la noche. ⚠️ **No lista A/C entre las comodidades** — confirmar antes de reservar. 3 min a pie de playa y parque, solo efectivo, depósito de daños US$150. [Ver →](https://ar.hoteles.com/ho3435076608/morning-glory/)
-- **Hotel Daleese** — 9,2/10 (57 reseñas externas). ≈AR$181.692 total la noche — la más cara de toda la lista. ⚠️ **No lista A/C**, no está en la playa (14 min a pie de la Catarata Uvita), y pide edad mínima de 25 años para el check-in. [Ver →](https://ar.hoteles.com/ho4365863264/hotel-daleese/)
+- **Tropical Beach** — 8,6/10 (165 reseñas). ≈AR$131.720 total la noche. A/C confirmado, a 2 min a pie del parque. ⚠️ Una reseña (Enrique, 9/3/2026) reporta que la propiedad canceló una reserva confirmada por Expedia sin avisar, al llegar al hotel — riesgo a tener en cuenta. [Ver →](https://ar.hoteles.com/ho847332320/tropical-beach-ballena-costa-rica/?chkin=2027-03-26&chkout=2027-03-27&rm1=a2)
+- **Morning Glory** — 9,4/10 (solo 9 reseñas, poco respaldo). ≈AR$124.298 total la noche. ⚠️ **No lista A/C entre las comodidades** — confirmar antes de reservar. 3 min a pie de playa y parque, solo efectivo, depósito de daños US$150. [Ver →](https://ar.hoteles.com/ho3435076608/morning-glory/?chkin=2027-03-26&chkout=2027-03-27&rm1=a2)
+- **Hotel Daleese** — 9,2/10 (57 reseñas externas). ≈AR$181.692 total la noche — la más cara de toda la lista. ⚠️ **No lista A/C**, no está en la playa (14 min a pie de la Catarata Uvita), y pide edad mínima de 25 años para el check-in. [Ver →](https://ar.hoteles.com/ho4365863264/hotel-daleese/?chkin=2027-03-26&chkout=2027-03-27&rm1=a2)
 
 **Lectura:** Ballena Rey Hotel es la opción con más respaldo (1.611 reseñas) y mejor ubicación relativa a precio (0m del parque, A/C confirmado en todo). Cabinas Bahía Uvita es la más barata con buen respaldo, también a 0m del parque. Los 3 de Hoteles.com tienen problemas propios (A/C sin confirmar en 2 de 3, una reseña de cancelación en el tercero) — no se recomiendan como primera opción hasta resolver esas dudas.
 
