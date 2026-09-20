@@ -34,7 +34,8 @@ Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija
 ## Trámites, moneda y logística general
 
 - **Sin trámites especiales para argentinos** (confirmado por Daniel).
-- **Moneda:** colón costarricense (1€ ≈ 568 colones, sept. 2026), dólares aceptados ampliamente. Tarjeta de crédito aceptada casi en todas partes; no hace falta llevar mucho efectivo, se puede retirar colones en cajeros.
+- **Moneda:** colón costarricense (1€ ≈ 568 colones, sept. 2026), dólares aceptados ampliamente. Tarjeta de crédito aceptada casi en todas partes para gastos grandes; **sí conviene retirar algo de efectivo en colones apenas se llega** (Daniel viaja mayormente con tarjeta) — ver el punto de cuidacoches informales abajo, es la razón concreta para no ir 100% sin billetes.
+- **⚠️ Cuidacoches informales ("wachiman") — research 20/9/2026:** casi todo el estacionamiento de playa/calle en Costa Rica es informal (sin seguro, sin cámaras, chalecos comprados por su cuenta). Cobran en **efectivo** — propina habitual US$1-2 o ₡500-1.000, a veces más en zonas turísticas y feriados. Hay relatos documentados de viajeros a los que un cuidacoches **siguió hasta un cajero automático** exigiendo el pago porque no aceptan tarjeta (fuente: [The Lost Bells — 10 Tips Manuel Antonio](https://www.thelostbells.com/post/costa-ricas-manuel-antonio-10-tips-you-need-to-know-before-you-go)). Cerca de Manuel Antonio además hay falsos "encargados" que dicen que el estacionamiento oficial está lleno para derivar a uno propio más caro (fuentes: [Rick Steves Forum](https://community.ricksteves.com/travel-forum/tourist-scams/word-to-the-wise-manuel-antonio-national-park-scam), [Costa Rica Vibes](https://www.costaricavibes.com/common-scams-in-costa-rica/), [MyTanFeet](https://mytanfeet.com/about-cr/shopping-eating-tipping-in-costa-rica/)). **Recomendación práctica: sacar colones en cajero el Día 1 (billetes chicos)** para tener con qué pagar sin depender de buscar un cajero en el momento. Detalle de estacionamiento oficial vs. informal por parada, día por día, más abajo en cada tarjeta del itinerario.
 - **Costo de vida:** descripto por viajeros como caro en general (ej. cerveza Imperial ~€4-5).
 - **Agua del grifo:** segura para tomar en la mayor parte del país.
 - **Fumar prohibido** en casi todos los espacios públicos.
@@ -590,9 +591,11 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - Poás → La Paz Waterfall Gardens (~20-30 min). **La Paz Waterfall Gardens** — abierto 8am-5pm, última entrada **15:00**, mínimo 2h de recorrido. Llegada estimada entre las **14:35 y 15:50** — en el escenario más realista no se llega a entrar. US$56, sin reserva anticipada. Postura de Daniel: "si llegamos, llegamos" (sin riesgo de plata perdida). [Comprar →](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/)
   - La Paz → La Fortuna (~2h). Noche en La Fortuna. 📍 Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · La Paz Waterfall Gardens · La Fortuna
   - ⚠️ El día más ajustado de todo el viaje — [reserva del auto](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=) se retira acá.
+  - 🅿️ **Estacionamiento:** Hacienda Alsacia y La Paz Waterfall Gardens tienen parqueo propio del predio (incluido, sin cuidacoches). Volcán Poás tiene parqueo **oficial de SINAC, US$4 por auto, aparte de la entrada** (research 20/9/2026).
 - **Día 2 (dom 21/3):** La Fortuna — Termas y catarata
   - **Eco Termales** — pase día **10am-4pm** o noche **5-10pm**, cupo limitado a 100 personas por franja, reservar con anticipación (~ene/2027). Solo entrada ~US$48,60. [Comprar →](https://ecotermalesfortuna.cr/en/home/)
   - **Catarata La Fortuna** — abierta **7am-5pm**, última entrada 4pm, US$18, independiente del PN Arenal.
+  - 🅿️ **Estacionamiento:** ambas son predios cercados con parqueo propio — no es zona de cuidacoches informales (precio del parqueo de Catarata La Fortuna no confirmado, pero está dentro del predio pago).
   - 📍 Volcán Arenal · Eco Termales · Catarata La Fortuna
 - **Día 3 (lun 22/3):** La Fortuna — Kayak y aventura
   - **Kayak Río Peñas Blancas** — tour completo con transporte + guía, ~US$65. [Comprar →](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11)
@@ -608,11 +611,13 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - **Santuario de perezosos** (Selvatura, standalone) — parque abierto 7am-4pm, tours guiados cada hora entre **8:15am y 3:15pm**. US$40.
   - **Bosque nuboso** — Reserva Santa Elena (abierta **7am-4pm**, sin reserva previa) US$21, o la del puente Wilford US$25. [Reservar →](https://reservasantaelena.org/index.php/reservaciones/)
   - **Selvatura — puentes colgantes** — parque abierto 7am-4pm, US$49, self-guided, 8 puentes. [Comprar →](https://www.selvatura.com/tours/the-sloth-sanctuary/)
+  - 🅿️ **Estacionamiento:** Selvatura y Reserva Santa Elena tienen parqueo propio del predio, incluido — sin cuidacoches.
   - 📍 Selvatura · Reserva Santa Elena · Bosque Nuboso Monteverde
 - **Día 6 (jue 25/3):** Monteverde → Puntarenas
   - Salida de Monteverde hacia el Golfo de Nicoya, ~1h30 de manejo — día liviano.
   - Llegada a Puntarenas a media mañana, check-in — el hospedaje relevado (VALU Puntarenas) está a 100m de la playa y restaurantes.
   - Tarde libre en la playa del centro, atardecer sobre el Golfo de Nicoya.
+  - 🅿️ **Estacionamiento:** ⚠️ la playa/Paseo de los Turistas de Puntarenas es zona de cuidacoches callejeros/informales — confirmado que hay personas trabajando de "wachiman" ahí (research 20/9/2026). Llevar efectivo chico.
   - Pendiente: decidir si se suma [Isla Venado](https://www.isla-venado.com/) completo (2-3 noches propias, panga solo lun/mié/vie) o si el golfo queda solo de paso.
 - **Día 7 (vie 26/3):** Puntarenas → Manuel Antonio
   - Ruta costanera, ~2h-2h45 de manejo total.
@@ -622,12 +627,13 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - **Playa Espadilla** — playa pública pegada al parque, sin ticket (parking informal ~US$10/día). Opción para la tarde/noche de llegada o al salir del parque el Día 8.
   - **Playa Biesanz** — alternativa más tranquila y menos concurrida, cuidacoches informal ~US$4 + camastro ~US$15 si se consume.
   - 📍 Carara · Jacó · Quepos / Manuel Antonio · Playa Espadilla · Playa Biesanz
-  - **⚠️ Cuidacoches informales ("wachiman") — research 20/9/2026, relevante para Daniel por viajar mayormente con tarjeta:** casi todo el estacionamiento de playa en Costa Rica es informal, no oficial (sin seguro, sin cámaras). Cobran en **efectivo** — propina habitual US$1-2 (o ₡500-1.000), a veces más en zonas turísticas y feriados. Hay relatos documentados de viajeros a los que un cuidacoches **siguió hasta un cajero automático** exigiendo el pago en efectivo porque no aceptan tarjeta (fuente: [The Lost Bells — 10 Tips Manuel Antonio](https://www.thelostbells.com/post/costa-ricas-manuel-antonio-10-tips-you-need-to-know-before-you-go)). Otro patrón de estafa específico cerca de Manuel Antonio: falsos "encargados" (a veces con chaleco tipo oficial) le dicen al turista que el estacionamiento oficial está lleno o cerrado para derivarlo a un lote propio, cobrando hasta el doble de la tarifa real — el parque tiene **estacionamiento oficial gratuito**, hay que ir directo ahí e ignorar a cualquiera que pare al auto antes de llegar (fuente: [Rick Steves Travel Forum — Manuel Antonio parking scam](https://community.ricksteves.com/travel-forum/tourist-scams/word-to-the-wise-manuel-antonio-national-park-scam), [Costa Rica Vibes — Common Scams](https://www.costaricavibes.com/common-scams-in-costa-rica/), [MyTanFeet — Tipping Guide](https://mytanfeet.com/about-cr/shopping-eating-tipping-in-costa-rica/)). **Recomendación práctica: llevar algo de efectivo/colones chicos** (no solo tarjeta) específicamente para estos casos — sacar en un cajero al llegar a Costa Rica evita quedar en la situación de que un cuidacoches te lleve a un cajero.
+  - 🅿️ **Estacionamiento — Parque Nacional Carara:** oficial, dentro del predio cercado del parque (SINAC), sin cuidacoches informales. **Jacó:** ⚠️ zona de cuidacoches callejeros/informales, como el resto del país — llevar efectivo chico (ver nota general de cuidacoches en "Trámites, moneda y logística" al principio del documento).
 - **Día 8 (sáb 27/3):** Manuel Antonio + regreso a SJO
   - **Parque Nacional Manuel Antonio** — abre 7:00am, cierra 15:00, entrada US$16, solo compra online. Franja recomendada: Grupo 01 (07:00-07:40). [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
   - Salida hacia SJO a las 15:00 o antes, sin apuro — con luz de día, ~3-4h de manejo.
   - Llegada a SJO ~18-19h, devolución del auto a las 21:00 ([reserva B29401782](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=)) — presentar la Visa Signature en el mostrador.
   - Noche de espera/descanso cerca del aeropuerto. 📍 PN Manuel Antonio · Quepos · Aeropuerto SJO
+  - 🅿️ **Estacionamiento:** el Parque Nacional Manuel Antonio tiene parqueo **oficial gratuito** — ir directo ahí, sin detenerse antes en falsos "encargados" que digan que está lleno (es la estafa documentada en la nota general de cuidacoches).
   - **✅ Confirmado con Daniel (19/9/2026):** sale de Manuel Antonio a las 15:00 o antes, sin apuro ("no soy de hacer las cosas en la ruta a las apuradas"). Margen real contra la devolución del auto (21:00) y el período de gracia de solo 29 minutos.
 - **Día 9 (dom 28/3):** Vuelo de regreso — sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40 (Avianca AV691+AV8395, vía Bogotá). [Cotizar →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28)
 
