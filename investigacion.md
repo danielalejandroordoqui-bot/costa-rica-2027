@@ -83,6 +83,12 @@ Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija
 - **Período de gracia en la recogida:** 2 horas de tolerancia sobre las 10:00 AM (hasta las 12:00 PM) antes de arriesgar que se considere "no-show".
 - **Período de gracia en la devolución:** 29 minutos de tolerancia sobre las 09:00 PM (hasta las 09:29 PM) antes de que cobren un día de alquiler adicional completo.
 - **En el mostrador:** presentar la Visa Signature de Daniel como cobertura, en vez de comprar el seguro de Avis ahí.
+- **📄 Llevar IMPRESA la constancia de cobertura de la Visa Signature** (decidido 21/9/2026, para evitar que en el mostrador insistan con venderle el seguro de la rentadora):
+  - Pedirla al banco emisor o a Visa **con margen antes del viaje (enero o febrero de 2027)**: un documento que diga que la tarjeta cubre daños y robo del auto de alquiler (CDW/LDW) y que **nombre Costa Rica o Centroamérica de forma textual**. Según Emma Terra (video de dic. 2025), tras ~10 alquileres le pidieron comprobante por primera vez, y si la tarjeta no dice textualmente que la cobertura llega a Centroamérica y no se puede mostrar, obligan a contratar el seguro de la rentadora.
+  - Llevarla **en papel**, no solo en el celular; si se puede, en español y en inglés.
+  - A confirmar con el banco: (1) si la cobertura exige que el alquiler se pague con esa misma tarjeta (la reserva figura como "Pagar ahora" a EconomyBookings: ver con qué tarjeta se pagó); (2) que el tipo de vehículo, un Nissan Kicks (SUV), no esté excluido, porque las camionetas, pickups y vans suelen quedar afuera.
+  - La constancia no reemplaza la **responsabilidad civil obligatoria** (SLI/TPL), que la tarjeta normalmente no cubre: confirmar con Avis qué incluye exactamente la reserva B29401782.
+  - Llevar impreso junto con la constancia: el voucher de la reserva (B29401782), pasaporte, licencia de conducir y el PID (ya sacado en el ACA en julio de 2026, válido 1 año).
 
 Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=
 
@@ -460,7 +466,7 @@ A pedido de Daniel: buscar en cada zona del itinerario cafeterías lindas y bien
 
 ## Dónde comer, tomar café y comprar café — por región (research 21/9/2026)
 
-Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok y un carrusel de fotos que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Todos están marcados en el My Maps del viaje (21/9/2026), en tres capas: "Comer" (17), "Café y comprar café" (7) y "Camisetas" (6). Los cafés que ya estaban en el mapa (Hacienda Alsacia, Red Frog, Café Monteverde, Café Milagro y Sibu) siguen en la capa base del itinerario. También están guardados en la lista nativa "Costa Rica" de Google Maps (43 sitios contando los 8 originales), la que se usa para navegar desde el iPhone.
+Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok, un carrusel de fotos y un video de YouTube (Emma Terra) que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Todos están marcados en el My Maps del viaje (21/9/2026), en tres capas: "Comer" (17), "Café y comprar café" (8) y "Camisetas" (6). Los cafés que ya estaban en el mapa (Hacienda Alsacia, Red Frog, Café Monteverde, Café Milagro y Sibu) siguen en la capa base del itinerario. También están guardados en la lista nativa "Costa Rica" de Google Maps (44 sitios contando los 8 originales), la que se usa para navegar desde el iPhone.
 
 ### 🌋 Ruta Día 1 · Alajuela / Poás
 
@@ -497,6 +503,11 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
   - 🕒 Todos los días, 9:00 a 20:00
   - Chocolatería "del grano a la barra" con cacao orgánico de la zona (maracuyá, chile, coco-curry), más café, helado y facturas. Aire acondicionado.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Chocolate+Fusion+La+Fortuna+Costa+Rica) · [Facebook](https://www.facebook.com/chocolatefusion.cr/)
+- **Organico Fortuna** ☕ 🍽️ 🛍️ souvenirs
+  - 📍 100 m al este del parque central (una cuadra)
+  - 🕒 Todos los días, 9:00 a 21:00
+  - 4,4★ (1.015 reseñas). Café y comida sana, con muchas opciones veganas, vegetarianas y sin gluten: sándwich de falafel, ensalada arcoíris, smoothie bowls, chilaquiles en el desayuno. Adentro hay un mercadito con productos orgánicos, ropa de diseñadores locales y souvenirs. Es el café favorito de Emma Terra en La Fortuna, que avisa que es caro: pagó US$17 por un café y una barrita. Tel +506 8572-2115.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Organico+Fortuna+La+Fortuna+Costa+Rica) · [Web](https://www.organicofortuna.com/) · [Instagram](https://www.instagram.com/organicofortuna/)
 - **Red Frog Coffee Roasters** ☕ 🛍️ café
   - 📍 Calle 142, 50 m oeste del Super Cristian #4 (~2 km al oeste del parque)
   - 🕒 Lun, mar y jue a dom 7:00-20:00 — ⚠️ **Cerrado los miércoles (Tripadvisor).**
@@ -623,7 +634,7 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
   - Ya documentado como alternativa a Sibu. Café con métodos de infusión, tortas y jardín junto a un arroyo.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Tagua+Caf%C3%A9+Vivo+Uvita+Costa+Rica)
 
-**Fuentes (videos vistos el 21/9/2026):** [Sheay Travel Beaucoup](https://vt.tiktok.com/ZSq33MAga/) (3 cafés de La Fortuna: Sloffee, D'Balu y Raúl Castaño) · [russ](https://vt.tiktok.com/ZSqw8mLHu/) (Jungle Bowls, al lado de The Green Spoon) · [Regina Gonzalez](https://vt.tiktok.com/ZSqw8T3db/) (Anch'io (pizza y pasta de horno de leña)) · [Cindy](https://vt.tiktok.com/ZSqw8bppn/) (Soda Tita Rosa, Soda La Hormiga, Arenal Manoa, Fortuneño) · [Yailene](https://vt.tiktok.com/ZSqw8xjfJ/) (María Bonita Steak House, cena favorita de la autora) · [El Arturito](https://vt.tiktok.com/ZSqw8nxhD/) (Don Rufino, 7:47 min, en español) · [lostintimezones](https://vt.tiktok.com/ZSqwLhHyF/) (Chocolate Fusion: café y panadería del centro) · [Mels | side questing](https://vt.tiktok.com/ZSqwLBsWB/) (Raúl Castaño Mirador, con vista al Arenal) · [Ange](https://vt.tiktok.com/ZSqwL8ntU/) (Tour de un día a Arenal: Místico Hanging Bridges, Baldi Hot Springs, Café Macadamia) · [Matilda](https://vt.tiktok.com/ZSqwLDFU4/) (Carrusel de 10 actividades; lo relevante ya está en el itinerario)
+**Fuentes (videos vistos el 21/9/2026):** [Sheay Travel Beaucoup](https://vt.tiktok.com/ZSq33MAga/) (3 cafés de La Fortuna: Sloffee, D'Balu y Raúl Castaño) · [russ](https://vt.tiktok.com/ZSqw8mLHu/) (Jungle Bowls, al lado de The Green Spoon) · [Regina Gonzalez](https://vt.tiktok.com/ZSqw8T3db/) (Anch'io (pizza y pasta de horno de leña)) · [Cindy](https://vt.tiktok.com/ZSqw8bppn/) (Soda Tita Rosa, Soda La Hormiga, Arenal Manoa, Fortuneño) · [Yailene](https://vt.tiktok.com/ZSqw8xjfJ/) (María Bonita Steak House, cena favorita de la autora) · [El Arturito](https://vt.tiktok.com/ZSqw8nxhD/) (Don Rufino, 7:47 min, en español) · [lostintimezones](https://vt.tiktok.com/ZSqwLhHyF/) (Chocolate Fusion: café y panadería del centro) · [Mels | side questing](https://vt.tiktok.com/ZSqwLBsWB/) (Raúl Castaño Mirador, con vista al Arenal) · [Ange](https://vt.tiktok.com/ZSqwL8ntU/) (Tour de un día a Arenal: Místico Hanging Bridges, Baldi Hot Springs, Café Macadamia) · [Emma Terra (YouTube)](https://www.youtube.com/watch?v=HQEhFUdtG0c) (Guía general de Costa Rica; de ahí salen Organico Fortuna y la advertencia sobre el comprobante del seguro) · [Matilda](https://vt.tiktok.com/ZSqwLDFU4/) (Carrusel de 10 actividades; lo relevante ya está en el itinerario)
 
 ## Camisetas de fútbol originales — Selección y clubes (research 21/9/2026)
 
@@ -1029,3 +1040,4 @@ No por ser "inaccesibles", sino por distancia + quedar del lado opuesto del paí
 7. **Reservar Eco Termales con anticipación** (13/9/2026) junto con Poás, Manuel Antonio y el tour de ballenas — cupo limitado a 100 personas por franja, riesgo de agotarse en Semana Santa.
 8. ✅ **Bajos del Toro/Blue Falls CERRADO (20/9/2026):** decidido por sobre Río Celeste, excursión de la tarde del Día 3. Sobrevive un detalle: el tiempo de viaje desde La Fortuna no está confirmado del todo (una fuente dice 1,5h, otra 3h) — chequear antes de armar el horario exacto del día.
 12. ✅ **Cafeterías por zona — CERRADO (20/9/2026):** 4 recomendadas (Red Frog Coffee Roasters en La Fortuna, Café Monteverde en Santa Elena, Cafe Milagro en Quepos, Sibu Coffee Store en Uvita), integradas al itinerario y marcadas en el Google My Maps. Ver sección "Cafeterías recomendadas por zona" arriba.
+13. **Constancia de la Visa Signature (21/9/2026):** pedirla al banco en enero o febrero de 2027, con el texto "Costa Rica/Centroamérica", e imprimirla para el mostrador de Avis. Detalle en la sección "Auto de alquiler".
