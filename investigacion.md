@@ -460,7 +460,7 @@ A pedido de Daniel: buscar en cada zona del itinerario cafeterías lindas y bien
 
 ## Dónde comer, tomar café y comprar café — por región (research 21/9/2026)
 
-Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok y un carrusel de fotos que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Todos están marcados en el My Maps del viaje (21/9/2026), en tres capas: "Comer" (17), "Café y comprar café" (7) y "Camisetas" (6). Los cafés que ya estaban en el mapa (Hacienda Alsacia, Red Frog, Café Monteverde, Café Milagro y Sibu) siguen en la capa base del itinerario.
+Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok y un carrusel de fotos que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Todos están marcados en el My Maps del viaje (21/9/2026), en tres capas: "Comer" (17), "Café y comprar café" (7) y "Camisetas" (6). Los cafés que ya estaban en el mapa (Hacienda Alsacia, Red Frog, Café Monteverde, Café Milagro y Sibu) siguen en la capa base del itinerario. También están guardados en la lista nativa "Costa Rica" de Google Maps (43 sitios contando los 8 originales), la que se usa para navegar desde el iPhone.
 
 ### 🌋 Ruta Día 1 · Alajuela / Poás
 
@@ -503,7 +503,7 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
   - Ya documentado. Compran directo a pequeños productores; venden bolsas de café para llevar.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Red+Frog+Coffee+Roasters+La+Fortuna+Costa+Rica) · [Web](https://www.redfrogcoffeeroastercr.com/)
 - **Vita Café** ☕
-  - 📍 Frente al parqueo de la Catarata La Fortuna
+  - 📍 Frente al parqueo de la Catarata La Fortuna (hay otro local en el centro, 50 m norte del Banco Popular; los dos están guardados en la lista de Google Maps)
   - 🕒 Sin dato
   - Ya documentado. Espresso cuidado, opciones de leche vegetal, cookies de manteca y carrot cake. Queda al lado de la catarata.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Vita+Caf%C3%A9+Waterfall+La+Fortuna+Costa+Rica)
@@ -544,7 +544,7 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Anch%27io+Pizzeria+e+Ristorante+La+Fortuna+Costa+Rica) · [Facebook](https://www.facebook.com/anchiopizzeria/) · [Reservar](https://www.opentable.com/r/pizzeria-e-ristorante-anchio-la-fortuna)
 - **Soda Tita Rosa** 🍽️ soda
   - 📍 Z13, camino a la Catarata La Fortuna
-  - 🕒 Lun a sáb 10:00-21:00 — ⚠️ **Cerrada los domingos (un solo agregador; el resto no da horario).**
+  - 🕒 Lun a sáb 10:00-21:00 — ⚠️ **Cerrada los domingos (un solo agregador; el resto no da horario). Además, Google Maps la muestra como "cerrada temporalmente" (21/9/2026): confirmar que sigue abierta antes de contar con ella.**
   - 4,9★ (477 reseñas). Casera y barata: sopa de carne y verduras, quesadillas de pollo, jugos naturales. Tel +506 6370-6151.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Soda+Tita+Rosa+La+Fortuna+Costa+Rica)
 - **Soda La Hormiga** 🍽️ soda
