@@ -86,6 +86,18 @@
   .flap-char{ display:inline-block; min-width:.62em; }
   .flap-char.space{ min-width:.32em; }
 
+  /* Contador al vuelo de ida (mismas letras que el título) */
+  .countdown{ margin:20px 0 4px; padding:14px 16px 12px; background:var(--panel-2); border:1px solid var(--hairline); border-left:3px solid var(--amber); }
+  .cd-label{ font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-faint); margin:0 0 10px; line-height:1.5; }
+  .cd-label b{ color:var(--ink-dim); font-weight:700; }
+  .cd-row{ display:flex; align-items:flex-start; flex-wrap:wrap; gap:.35rem .7rem; font-family:'Space Mono',monospace; }
+  .cd-unit{ display:flex; flex-direction:column; align-items:flex-start; }
+  .cd-digits{ display:flex; font-weight:700; font-size:clamp(1.9rem,7.4vw,3rem); line-height:1; color:var(--amber); letter-spacing:.02em; }
+  .cd-name{ font-size:9px; letter-spacing:.16em; text-transform:uppercase; color:var(--ink-faint); margin-top:6px; }
+  .cd-sep{ font-weight:700; font-size:clamp(1.9rem,7.4vw,3rem); line-height:1; color:var(--ink-faint); opacity:.6; }
+  .cd-note{ font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.06em; color:var(--ink-faint); margin:10px 0 0; }
+  .cd-done{ font-family:'Space Mono',monospace; font-weight:700; font-size:clamp(1.3rem,5vw,2rem); color:var(--green); }
+
   .hero-sub{
     font-family:'Space Mono',monospace; font-size:clamp(.85rem,2.4vw,1.05rem);
     color:var(--ink-dim); margin:10px 0 22px; letter-spacing:.03em;
@@ -400,6 +412,20 @@
     </div>
 
     <h1 class="hero-title mono" id="hero-title" aria-label="COSTA RICA"></h1>
+
+    <div class="countdown" id="countdown" role="timer" aria-live="off">
+      <p class="cd-label">Faltan para el vuelo de ida · <b>Avianca EZE 01:40 → SJO</b> · sáb 20/3/2027</p>
+      <div class="cd-row" id="cd-row">
+        <div class="cd-unit"><div class="cd-digits" id="cd-d" aria-label="días"></div><span class="cd-name">días</span></div>
+        <span class="cd-sep" aria-hidden="true">:</span>
+        <div class="cd-unit"><div class="cd-digits" id="cd-h" aria-label="horas"></div><span class="cd-name">horas</span></div>
+        <span class="cd-sep" aria-hidden="true">:</span>
+        <div class="cd-unit"><div class="cd-digits" id="cd-m" aria-label="minutos"></div><span class="cd-name">min</span></div>
+        <span class="cd-sep" aria-hidden="true">:</span>
+        <div class="cd-unit"><div class="cd-digits" id="cd-s" aria-label="segundos"></div><span class="cd-name">seg</span></div>
+      </div>
+      <p class="cd-note">Hora de Argentina · según el vuelo planeado (pasajes todavía sin comprar)</p>
+    </div>
 
     <p class="hero-sub">
       <b>Sáb 20 → Dom 28 de marzo, 2027</b> · 9 días corridos (1 ida + 7 destino + 1 vuelta) · con <b>2 días de licencia</b> ya pedidos (lun 22 + mar 23)
@@ -1383,6 +1409,67 @@
       }, delay);
     }
   });
+
+  /* Contador: vuelo de ida sáb 20/3/2027 01:40 (EZE, UTC-3) */
+  (function(){
+    var box = document.getElementById('countdown');
+    if(!box) return;
+    var TARGET = new Date('2027-03-20T01:40:00-03:00').getTime();
+    var digits = '0123456789';
+    var els = { d:document.getElementById('cd-d'), h:document.getElementById('cd-h'), m:document.getElementById('cd-m'), s:document.getElementById('cd-s') };
+    var first = true;
+
+    function pad(n, len){ var t = String(n); while(t.length < len) t = '0' + t; return t; }
+
+    function render(el, str){
+      if(el.children.length !== str.length){
+        el.textContent = '';
+        for(var i = 0; i < str.length; i++){
+          var sp = document.createElement('span');
+          sp.className = 'flap-char';
+          sp.textContent = reduced ? str[i] : digits[Math.floor(Math.random()*10)];
+          el.appendChild(sp);
+        }
+      }
+      for(var j = 0; j < str.length; j++){
+        (function(sp, ch, idx){
+          if(sp.getAttribute('data-v') === ch) return;
+          sp.setAttribute('data-v', ch);
+          if(reduced){ sp.textContent = ch; return; }
+          var ticks = first ? 8 + Math.floor(Math.random()*6) : 3;
+          var count = 0;
+          setTimeout(function step(){
+            if(count < ticks){
+              sp.textContent = digits[Math.floor(Math.random()*10)];
+              count++;
+              setTimeout(step, 40 + count*4);
+            } else {
+              sp.textContent = ch;
+            }
+          }, first ? idx * 55 : 0);
+        })(el.children[j], str[j], j);
+      }
+    }
+
+    function tick(){
+      var diff = TARGET - Date.now();
+      if(diff <= 0){
+        document.getElementById('cd-row').innerHTML = '<span class="cd-done">¡Buen viaje! ✈️</span>';
+        clearInterval(timer);
+        return;
+      }
+      var total = Math.floor(diff / 1000);
+      var d = Math.floor(total / 86400);
+      render(els.d, pad(d, 3));
+      render(els.h, pad(Math.floor((total % 86400) / 3600), 2));
+      render(els.m, pad(Math.floor((total % 3600) / 60), 2));
+      render(els.s, pad(total % 60, 2));
+      first = false;
+    }
+
+    var timer = setInterval(tick, 1000);
+    tick();
+  })();
 
   var navLinks = Array.prototype.slice.call(document.querySelectorAll('.top-nav a.nav-link'));
   var navTargets = navLinks.map(function(a){ return document.getElementById(a.getAttribute('href').slice(1)); }).filter(Boolean);
