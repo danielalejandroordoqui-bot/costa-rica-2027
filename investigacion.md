@@ -468,7 +468,7 @@ A pedido de Daniel: buscar en cada zona del itinerario cafeterías lindas y bien
 
 ## Dónde comer, tomar café y comprar café — por región (research 21/9/2026)
 
-Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok y un carrusel de fotos que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Marcado en el My Maps del viaje: **pendiente**.
+Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok y un carrusel de fotos que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Todos están marcados en el My Maps del viaje (21/9/2026), en tres capas: "Comer" (17), "Café y comprar café" (7) y "Camisetas" (6). Los cafés que ya estaban en el mapa (Hacienda Alsacia, Red Frog, Café Monteverde, Café Milagro y Sibu) siguen en la capa base del itinerario.
 
 ### 🌋 Ruta Día 1 · Alajuela / Poás
 
@@ -635,7 +635,7 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 
 ## Camisetas de fútbol originales — Selección y clubes (research 21/9/2026)
 
-- Marca de la Selección: **Adidas desde 2026**. La Federación cortó con New Balance en diciembre y presentó la camiseta local roja con estampa de paisaje en turquesa, lavanda y crema, cuello azul marino y "Pura Vida" en la espalda. Las camisetas anteriores son New Balance.
+- Marca de la Selección: **Adidas desde 2026** (la local roja con estampa de paisaje en turquesa, lavanda y crema, cuello azul marino y "Pura Vida" en la espalda). Antes fue New Balance (hasta diciembre). **A Daniel le sirve cualquiera de las dos marcas y también modelos anteriores, incluso en oferta**: no hace falta ir por la camiseta actual, conviene preguntar en cada local por stock de temporadas pasadas y liquidaciones.
 - Alcance: solo busqué originales y tiendas oficiales o autorizadas. Lo más parecido a una "réplica buena" es la línea *Replica* oficial de Adidas (versión hincha, más barata que la *Authentic* de jugador). No busqué imitaciones no oficiales.
 - En las zonas turísticas del itinerario (Fortuna, Monteverde, Manuel Antonio, Uvita) no encontré tiendas oficiales; lo que hay son remeras de souvenir a precio de turista. Lo confiable está en el Valle Central.
 
