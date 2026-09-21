@@ -466,6 +466,217 @@ A pedido de Daniel: buscar en cada zona del itinerario cafeterías lindas y bien
 
 **Nota:** no se encontró desacuerdo entre fuentes — todas las zonas tienen al menos una recomendación bien corroborada por varias reseñas independientes. Café Monteverde es el hallazgo más fuerte de toda la lista: finca real, de la semilla a la taza, con café propio para llevar — justo lo que Daniel valora más.
 
+## Dónde comer, tomar café y comprar café — por región (research 21/9/2026)
+
+Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok y un carrusel de fotos que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Marcado en el My Maps del viaje: **pendiente**.
+
+### 🌋 Ruta Día 1 · Alajuela / Poás
+
+- **Hacienda Alsacia (Starbucks Coffee Farm)** ☕ 🛍️ café
+  - 📍 San Luis, Sabanilla, Alajuela, en las faldas del Volcán Poás
+  - 🕒 Tours de 90 min todos los días, 8:00 a 16:00 (una fuente; el itinerario tenía 8:00 a 18:00, reconfirmar)
+  - Ya está en el itinerario (US$35). Tiene café-pabellón con cata y una tienda con café, tazas y remeras.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Hacienda+Alsacia+Starbucks+Coffee+Farm+Alajuela) · [Comprar tour](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/)
+- **Restaurante El Sabor de la Montaña** 🍽️
+  - 📍 50 m norte de la delegación de Poasito, sobre la ruta al Volcán Poás
+  - 🕒 Mar y mié 12-16 · jue 12-17 · vie 12-16 · sáb 9-17 · dom 9-18 · lunes sin dato (probable cerrado)
+  - 4,8★. Comida típica a buen precio; recomiendan la cazuela de queso con chorizo. Tel 6361-7395 / 2482-1367. Acepta reservas y tarjeta.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurante+El+Sabor+de+la+Monta%C3%B1a+Poasito+Alajuela) · [Facebook](https://www.facebook.com/sabordelamontanacr/)
+
+### 🌋 La Fortuna / Arenal
+
+- ⭐ **Raúl Castaño Fortuna Mirador** ☕ 🍽️
+  - 📍 Hotel Montaña de Fuego, a ~10 min del centro (se llega fácil por Waze)
+  - 🕒 Sin confirmar para este local (el del centro cierra a las 22:00)
+  - El de la vista: terraza trasera con el Arenal de fondo, vacas y cuatriciclos pasando. En los videos: "el café estaba bien, pero las vistas eran todo". Con cielo despejado se ve el volcán; se puede reservar la cena para ver el atardecer. Otros locales de la cadena: Fortuna Downtown (frente a Spectacolar Cantina, +506 8800-3911), Bakery, Coronado, Plaza San Carlos. ⭐ Prioridad de Daniel (21/9/2026).
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Ra%C3%BAl+Casta%C3%B1o+Fortuna+Mirador+La+Fortuna+Costa+Rica) · [Web](https://raulcastano.com/en/)
+- **Sloffee Coffee Station** ☕
+  - 📍 Diagonal al Hotel Arenal Paraíso
+  - 🕒 Todos los días, 6:00 o 7:00 a 17:00 (las fuentes difieren)
+  - 4,8★ (913 reseñas). Primera cafetería de especialidad del pueblo. Croissants, pie de limón, banana bread. Terraza con selva (tucanes y perezosos).
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Sloffee+Coffee+Station+La+Fortuna+Costa+Rica) · [Instagram](https://www.instagram.com/sloffeecr/)
+- **D'Balu** ☕ 🍽️
+  - 📍 Zeta 13, frente al cementerio, junto a Canoa Aventura
+  - 🕒 Todos los días, 7:00 a 18:00
+  - Café de especialidad, desayuno y almuerzo, vitrina de dulces. Luminoso, bebidas con jarabe (muy dulce, según el video).
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=D%27Balu+La+Fortuna+Costa+Rica) · [Facebook](https://www.facebook.com/dbalucr/)
+- **Chocolate Fusion** ☕ 🛍️ chocolate
+  - 📍 Frente al parque central, una cuadra al norte de la Ruta 142
+  - 🕒 Todos los días, 9:00 a 20:00
+  - Chocolatería "del grano a la barra" con cacao orgánico de la zona (maracuyá, chile, coco-curry), más café, helado y facturas. Aire acondicionado.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Chocolate+Fusion+La+Fortuna+Costa+Rica) · [Facebook](https://www.facebook.com/chocolatefusion.cr/)
+- **Red Frog Coffee Roasters** ☕ 🛍️ café
+  - 📍 Calle 142, 50 m oeste del Super Cristian #4 (~2 km al oeste del parque)
+  - 🕒 Lun, mar y jue a dom 7:00-20:00 — ⚠️ **Cerrado los miércoles (Tripadvisor).**
+  - Ya documentado. Compran directo a pequeños productores; venden bolsas de café para llevar.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Red+Frog+Coffee+Roasters+La+Fortuna+Costa+Rica) · [Web](https://www.redfrogcoffeeroastercr.com/)
+- **Vita Café** ☕
+  - 📍 Frente al parqueo de la Catarata La Fortuna
+  - 🕒 Sin dato
+  - Ya documentado. Espresso cuidado, opciones de leche vegetal, cookies de manteca y carrot cake. Queda al lado de la catarata.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Vita+Caf%C3%A9+Waterfall+La+Fortuna+Costa+Rica)
+- **Don Rufino** 🍽️
+  - 📍 Centro de La Fortuna (esquina, desde 2005)
+  - 🕒 Todos los días, 12:00 a 21:30
+  - Cocina de autor con producto local (chef Santiago), gama medio-alta sin precios publicados. Para muchos, el mejor de la zona. Probar: pollo de la abuela, chorizo de cordero, costilla de cerdo, ravioles de costilla, burrata local. Menú degustación de 5 tiempos "Huetar Norte" con cupo limitado. Tel +506 2479-9997 / WhatsApp 8466-4288. Reservar.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurante+Don+Rufino+La+Fortuna+Costa+Rica) · [Web](https://donrufino.com/) · [Reservar](https://www.opentable.com/r/don-rufino-la-fortuna)
+- **María Bonita Steak House** 🍽️
+  - 📍 25 m sur de la iglesia católica, frente al parque central
+  - 🕒 Todos los días, 11:30 a 22:30
+  - Parrilla a leña y carbón: porterhouse, rack de cordero, ceviche, risotto de trufa. En el video destacan el Bollo Campesino, el filete mignon, el mojito de maracuyá y el postre de cortesía. Tel +506 4000-1290 / 8455-1290. Reserva por OpenTable.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Mar%C3%ADa+Bonita+Steak+House+La+Fortuna+Costa+Rica) · [Web](https://www.mariabonitasteakhouse.com/)
+- **Restaurante Travesía** 🍽️
+  - 📍 400 m norte del Banco Nacional
+  - 🕒 Todos los días, 12:00 a 21:00
+  - 4,8★. NY steak, corvina, tartar de atún, parrillada mixta. Local chico: se llena después de las 17:30, reservar.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurante+Traves%C3%ADa+La+Fortuna+Costa+Rica) · [Facebook](https://www.facebook.com/p/Restaurante-Traves%C3%ADa-100057153141729/)
+- **Restaurante Fortuneño** 🍽️
+  - 📍 200 m este del parque central
+  - 🕒 Todos los días, 11:00 a 21:30 — ⚠️ **Una fuente menciona dos locales con menú parecido; confirmar cuál es el del centro.**
+  - 4,5★ (4.041 reseñas de Google). Pollo a la leña, costillas, ceviche, chifrijo, nachos. Porciones grandes, buen precio, patio con jardín. Tel +506 2479-7475.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurante+Fortune%C3%B1o+La+Fortuna+Costa+Rica) · [Web](https://xn--fortuneo-j3a.com/)
+- **La Street Gastro Fusion** 🍽️
+  - 📍 Ruta 142, 150 m oeste del parque
+  - 🕒 Cocina hasta 21:30, abre hasta 22:00 (días sin dato)
+  - Fusión mediterránea, medio oriente, latina y costarricense. Tel +506 2479-7518, reservas@lastreetbistro.com.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Street+Gastro+Fusion+La+Fortuna+Costa+Rica) · [Web](https://lastreetbistro.com/)
+- **Tiquicia Restaurant** 🍽️
+  - 📍 700 m sur del Polideportivo
+  - 🕒 Todos los días, 12:00 a 21:00
+  - Comida típica (casado, gallo pinto, ceviche) en porciones generosas, precios razonables. Bar con temática rockera.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurante+Tiquicia+La+Fortuna+Costa+Rica) · [Web](https://www.tiquiciarestaurant.com/)
+- **Anch'io Pizzeria e Ristorante** 🍽️
+  - 📍 350 m oeste de la iglesia católica, sobre la calle principal
+  - 🕒 Lun y mié a dom 12:00-22:00 — ⚠️ **Cerrado los martes.**
+  - Horno de leña: pizza fina y fettuccini al pesto, jardín con luces. Tel +506 2479-7024 / 8899-9933.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Anch%27io+Pizzeria+e+Ristorante+La+Fortuna+Costa+Rica) · [Facebook](https://www.facebook.com/anchiopizzeria/) · [Reservar](https://www.opentable.com/r/pizzeria-e-ristorante-anchio-la-fortuna)
+- **Soda Tita Rosa** 🍽️ soda
+  - 📍 Z13, camino a la Catarata La Fortuna
+  - 🕒 Lun a sáb 10:00-21:00 — ⚠️ **Cerrada los domingos (un solo agregador; el resto no da horario).**
+  - 4,9★ (477 reseñas). Casera y barata: sopa de carne y verduras, quesadillas de pollo, jugos naturales. Tel +506 6370-6151.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Soda+Tita+Rosa+La+Fortuna+Costa+Rica)
+- **Soda La Hormiga** 🍽️ soda
+  - 📍 Contiguo al Mega Super, costado oeste de la terminal de buses
+  - 🕒 Lun a sáb 6:00-16:00 · dom 7:00-15:00
+  - 4,5★ (3.250 reseñas). Casado con bistec ~US$4, gallo pinto, arroz con leche. Sirve para desayuno o almuerzo, no para cena. Tel +506 2479-9247.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Soda+La+Hormiga+La+Fortuna+Costa+Rica) · [Facebook](https://www.facebook.com/sodalahormiga/)
+- **Jungle Bowls** 🍽️ liviano
+  - 📍 Av. 142, edificio antiguo Jireh, diagonal a la iglesia católica (al lado de The Green Spoon)
+  - 🕒 Lun a sáb 9:00-16:00 — ⚠️ **Cerrado los domingos.**
+  - Bowls de frutas y jugos, sin gluten, granola casera. Se agota algo al final del día: ir a mediodía.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Jungle+Bowls+La+Fortuna+Costa+Rica)
+- ℹ️ **Arenal Manoa Hot Springs Resort (no mapeado):** el "buffet" del video de Cindy es el desayuno incluido para huéspedes (6:30-9:30/10:00). Sus restaurantes son La Saca (desayuno, almuerzo 10-18 y cena 18-21:30), Ohashi Sushi (17-22) y Alambique Pizzeria (12-20). No encontré confirmación de que se pueda comer ahí sin alojarse.
+
+### ☁️ Monteverde / Santa Elena
+
+- **Café Monteverde (Santa Elena Coffee Shop)** ☕ 🛍️ café
+  - 📍 Vitosi, costado oeste de la farmacia, centro de Santa Elena (el otro local está cerca de Casemcoop)
+  - 🕒 Abre 7:00 (cierre sin confirmar; otra fuente da 8:00 a 17:00 todos los días)
+  - 4,7★. Cooperativa de familias que cultivan y tuestan su propio arábica. Catas gratis, cinnamon rolls, el mejor lugar para comprar café en la zona. Ya documentado.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Monteverde+Coffee+Shop+Santa+Elena+Costa+Rica) · [Web](https://cafedemonteverde.com/) · [Tienda online](https://cafedemonteverde.com/shop/)
+- **El Sapo Restaurant & Bar (Senda Monteverde)** 🍽️
+  - 📍 Senda Monteverde Hotel, 250 m norte del BCR, Cerro Plano
+  - 🕒 Desayuno 6:30-10:00 · almuerzo 11:30-15:15 · happy hour 16:30-18:00 · cena 18:00-21:15 — ⚠️ **La cena es solo con reserva.**
+  - 4,9★ en Tripadvisor, #2 de 118 en Monteverde. Cocina costarricense de autor con producto local orgánico y pescado "del muelle al plato". Buenas opciones veg, vegana y sin gluten. Tel +506 4001-6349.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=El+Sapo+Restaurant+Senda+Monteverde+Santa+Elena) · [Facebook](https://www.facebook.com/el.sapo.monteverde/)
+- **San Lucas Treetop Dining Experience** 🍽️ cena especial
+  - 📍 Chira Glamping Hotel, Sapo Dorado, a media milla del centro de Santa Elena
+  - 🕒 Turnos de 17:00 a 21:30 (~2,5 h) — ⚠️ **Solo con reserva y cupo muy limitado. Precio ~US$117 por persona en Tripadvisor; otra fuente dice menú US$95 más cargos: reconfirmar el total.**
+  - Cena de 9 tiempos en cápsulas de vidrio sobre la copa de los árboles. Es una experiencia, no una comida casual.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=San+Lucas+Treetop+Dining+Experience+Monteverde) · [Facebook](https://www.facebook.com/SanLucasDiningExperience/)
+- **Tree House Restaurante & Café** 🍽️
+  - 📍 Centro de Santa Elena, frente a la iglesia católica
+  - 🕒 Todos los días, 11:00 a 22:00
+  - Salón armado alrededor de un árbol, música en vivo todas las noches, happy hour 16-17 con cócteles 2x1 (una fuente). Precios algo altos.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Tree+House+Restaurante+Caf%C3%A9+Santa+Elena+Monteverde) · [Web](https://treehouse.cr/)
+
+### 🏖️ Manuel Antonio / Quepos
+
+- **Café Milagro Coffee Roasters** ☕ 🛍️ café
+  - 📍 Calle Principal, centro de Quepos, cerca del puente (2do local: El Patio de Café Milagro)
+  - 🕒 Lun a sáb 9:00-17:00 — ⚠️ **Cerrado los domingos.**
+  - Ya documentado. Tuestan su café, hacen tours y muestras, venden para llevar. Tel +506 2777-4982.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Milagro+Coffee+Roasters+Quepos+Costa+Rica) · [Web](https://www.cafemilagro.com/)
+- **Emilio's Café** ☕ 🍽️
+  - 📍 40 m antes del Hotel Mariposa, camino al Parque Nacional Manuel Antonio
+  - 🕒 Todos los días 7:00-21:00 — ⚠️ **Cerrado los martes.**
+  - Ya documentado. Terraza con vista panorámica al Pacífico, macarrones, café local.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Emilio%27s+Caf%C3%A9+Manuel+Antonio+Costa+Rica) · [Instagram](https://www.instagram.com/cafeemilios/)
+- **Agua Azul Café** 🍽️
+  - 📍 Del Hotel Los Altos 30 m al sur, camino al Parque Nacional Manuel Antonio
+  - 🕒 Sin confirmar (mirar su Facebook). Música en vivo lun a sáb 19:00-21:00
+  - 4,6★ (3.118 reseñas), #17 de 96 en Manuel Antonio. Mariscos, sushi, hamburguesas, tacos, cócteles; vista al océano y buen atardecer. Reservar en temporada alta.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Agua+Azul+Caf%C3%A9+Manuel+Antonio+Quepos) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g309274-d1115303-Reviews-Agua_Azul_Cafe-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+
+### 🐋 Uvita / Bahía Ballena
+
+- **Sibu Restaurant & Coffee Store** ☕ 🍽️ 🛍️ café
+  - 📍 Uvita, sobre la Costanera (Carr. Pacífica Fernández Oreamuno)
+  - 🕒 Todos los días 7:00-21:30 (una fuente da los martes hasta las 21:00)
+  - Ya documentado. Café 100% orgánico y chocolate orgánico para llevar; también pizzas y hamburguesas wagyu.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Sibu+Restaurant+Coffee+Store+Uvita+Costa+Rica) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g635755-d7791770-Reviews-Sibu_Restaurant_Coffee_Store-Uvita_Province_of_Puntarenas.html)
+- **Sebas Restaurant** 🍽️
+  - 📍 Calle Bejuco, a 50 m de la cascada de Uvita
+  - 🕒 Sin dato (llamar al +506 8414-1888)
+  - Cocina rústica de inspiración argentino-italiana, fuego de leña, de la granja a la mesa. Pizza y pastas artesanales elogiadas; algunas reseñas marcan precios altos y platos irregulares.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Sebas+Restaurant+Uvita+Costa+Rica) · [Facebook](https://www.facebook.com/p/sebasresto-100093153503908/)
+- **The Aracari Restaurant (La Cusinga Lodge)** 🍽️
+  - 📍 La Cusinga Road, 5 km al sur del puente de Uvita, Costanera Sur, Bahía Ballena
+  - 🕒 Una sola fuente da lun a mié 11:00-20:00; el resto de los días sin confirmar
+  - 4,5★ (793 reseñas). Deck con vista al mar y atardeceres, ingredientes locales, opciones veganas y mariscos. No hace falta ser huésped del lodge. Tel +506 8318-8598.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Aracari+Restaurant+La+Cusinga+Uvita+Bah%C3%ADa+Ballena) · [Facebook](https://www.facebook.com/AracariRestaurant/)
+- **Tagua Café Vivo** ☕
+  - 📍 Uvita (sin dirección confirmada)
+  - 🕒 Sin dato
+  - Ya documentado como alternativa a Sibu. Café con métodos de infusión, tortas y jardín junto a un arroyo.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Tagua+Caf%C3%A9+Vivo+Uvita+Costa+Rica)
+
+**Fuentes (videos vistos el 21/9/2026):** [Sheay Travel Beaucoup](https://vt.tiktok.com/ZSq33MAga/) (3 cafés de La Fortuna: Sloffee, D'Balu y Raúl Castaño) · [russ](https://vt.tiktok.com/ZSqw8mLHu/) (Jungle Bowls, al lado de The Green Spoon) · [Regina Gonzalez](https://vt.tiktok.com/ZSqw8T3db/) (Anch'io (pizza y pasta de horno de leña)) · [Cindy](https://vt.tiktok.com/ZSqw8bppn/) (Soda Tita Rosa, Soda La Hormiga, Arenal Manoa, Fortuneño) · [Yailene](https://vt.tiktok.com/ZSqw8xjfJ/) (María Bonita Steak House, cena favorita de la autora) · [El Arturito](https://vt.tiktok.com/ZSqw8nxhD/) (Don Rufino, 7:47 min, en español) · [lostintimezones](https://vt.tiktok.com/ZSqwLhHyF/) (Chocolate Fusion: café y panadería del centro) · [Mels | side questing](https://vt.tiktok.com/ZSqwLBsWB/) (Raúl Castaño Mirador, con vista al Arenal) · [Ange](https://vt.tiktok.com/ZSqwL8ntU/) (Tour de un día a Arenal: Místico Hanging Bridges, Baldi Hot Springs, Café Macadamia) · [Matilda](https://vt.tiktok.com/ZSqwLDFU4/) (Carrusel de 10 actividades; lo relevante ya está en el itinerario)
+
+## Camisetas de fútbol originales — Selección y clubes (research 21/9/2026)
+
+- Marca de la Selección: **Adidas desde 2026**. La Federación cortó con New Balance en diciembre y presentó la camiseta local roja con estampa de paisaje en turquesa, lavanda y crema, cuello azul marino y "Pura Vida" en la espalda. Las camisetas anteriores son New Balance.
+- Alcance: solo busqué originales y tiendas oficiales o autorizadas. Lo más parecido a una "réplica buena" es la línea *Replica* oficial de Adidas (versión hincha, más barata que la *Authentic* de jugador). No busqué imitaciones no oficiales.
+- En las zonas turísticas del itinerario (Fortuna, Monteverde, Manuel Antonio, Uvita) no encontré tiendas oficiales; lo que hay son remeras de souvenir a precio de turista. Lo confiable está en el Valle Central.
+
+- **Tienda La Liga, City Mall Alajuela (Liga Deportiva Alajuelense)** ⚽ club
+  - 📍 City Mall, Radial Francisco J. Orlich, Alajuela (centro comercial cerca del aeropuerto SJO)
+  - 🕒 Lun a sáb 10:00-21:00 · dom 10:00-20:00 · tel 8558-8710
+  - Tienda oficial del club (camisas de casa y entrenamiento 2026, ropa casual). Precios en su web: ₡7.875 a ₡43.900 (≈US$17 a US$98 a ₡450 por dólar). Solo mercadería de la Liga, no de la Selección.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=City+Mall+Alajuela+Costa+Rica) · [tiendalaliga.cr](https://tiendalaliga.cr/) · [City Mall](https://citymall.net/mapa/alajuela)
+- **La Roja (tienda oficial de la Selección)** ⚽ Selección
+  - 📍 Quiosco en Multiplaza Escazú · local en Lincoln Plaza (Moravia) · local en City Mall Alajuela
+  - 🕒 Sin dato — ⚠️ **Los locales salen de una nota de la Federación de 2021 (cuando la marca era New Balance). No pude confirmar que sigan abiertos: preguntar por su Instagram o WhatsApp antes de ir.**
+  - Alianza oficial con la Federación. Vendían camisetas de la Selección en talles de hombre y mujer, más accesorios. El dominio larojaoficial.com que aparece en algunas búsquedas resultó ser de otro sitio: no usarlo.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Lincoln+Plaza+Moravia+Costa+Rica) · [Instagram](https://www.instagram.com/larojacr/)
+- **Tienda La Liga, Estadio Morera Soto (Alajuela)** ⚽ club
+  - 📍 Estadio Alejandro Morera Soto, Alajuela
+  - 🕒 Lun a sáb 9:00-18:00 · tel 8662-4910
+  - Otro local oficial de la Liga (además hay en Multiplaza Escazú, San José centro y Cartago).
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Estadio+Alejandro+Morera+Soto+Alajuela) · [tiendalaliga.cr](https://tiendalaliga.cr/)
+- **Tienda Saprissa (Lincoln Plaza y Estadio Ricardo Saprissa)** ⚽ club
+  - 📍 Lincoln Plaza, nivel 3, Moravia · y en el Estadio Ricardo Saprissa, San Juan de Tibás
+  - 🕒 Lincoln Plaza: 10:00-21:00 · tel 4404-3861 · estadio sin horario confirmado
+  - Tienda oficial del Deportivo Saprissa. Queda al norte de San José, fuera de la ruta del loop.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Tienda+Saprissa+Lincoln+Plaza+Moravia) · [Lincoln Plaza](http://lincolnplaza.cr/_comercio/sapristore/) · [saprissa.com](https://www.saprissa.com/)
+- **Herediano (oficinas del club y Solo Cracks)** ⚽ club
+  - 📍 Oficinas: costado sur del Estadio Eladio Rosabal Cordero, Heredia · Solo Cracks Heredia Centro · Solo Cracks Paseo de las Flores
+  - 🕒 Oficinas 8:30-17:30 · Solo Cracks centro 9:30-18:00 · Paseo de las Flores 11:00-20:00
+  - Camisetas oficiales del Herediano (marca Reebok en 2026), talles de niño a 3XL, hombre y mujer.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Estadio+Eladio+Rosabal+Cordero+Heredia) · [Herediano](https://www.herediano.com/noticias/ya-podes-adquirir-las-camisetas-de-el-team)
+- **adidas.com/cr (online, camiseta oficial de la Selección 2026)** ⚽ Selección
+  - 📍 Tienda online oficial de Adidas Costa Rica
+  - 🕒 Online
+  - Referencia para ver el modelo y el precio oficial antes de comprar en persona (la página no cargó al consultarla, no tengo el precio).
+  - 🔗 [adidas.com/cr](https://www.adidas.com/cr/es/costa_rica)
+- **Aeropuerto Juan Santamaría (SJO)** 🛍️ souvenir
+  - 📍 Locales de souvenirs después del control de seguridad, en la entrada principal
+  - 🕒 Algunos 24 h, otros de 4:00 a 1:00
+  - Venden remeras, gorros y tazas. No confirmé que tengan camisetas oficiales de fútbol; esperar precio de zona turística.
+  - 🔗 [Tiendas SJO](https://www.sjoairport.com/shopping/?lang=en)
+
+- ⚠️ Semana Santa: el sábado 27/3 es Sábado Santo. Confirmar los horarios del City Mall y de las tiendas para ese día antes de contar con ellos.
+
 ## Auditoría de días y horarios de apertura — cruzados contra el itinerario real (13/9/2026)
 
 Repaso de cada parada de Itinerario contra los días de calendario exactos que le tocan (sáb 20/3 a dom 28/3), para no reservar algo un día que esté cerrado.
