@@ -382,7 +382,7 @@ Todas las paradas de pago del Itinerario, además de los dos parques SINAC ya co
 
 **⚠️ Fila descartada (20/9/2026) — Isla Venado:** ya no forma parte del Itinerario (Puntarenas se sacó del loop). Quedaba: panga colectiva Puntarenas↔Isla Venado, ~US$11 (₡5.000, dólar a ₡450, 13/9/2026), solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am. Research se mantiene como referencia de la Variante 4, independiente — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados.
 
-**✅ Actualizado 20/9/2026 — casi todo quedó decidido hoy:** Blue Falls por sobre Río Celeste, las 3 actividades de Monteverde + caminata nocturna (mudada del Día 3), tour de ballenas por sobre Isla del Caño/entrada independiente. Lo único que sigue "si llegamos, llegamos" es La Paz Waterfall Gardens (Día 1, ya muy ajustado). **Piso (sin La Paz Waterfall Gardens, rango bajo de ballenas/caminata):** Alsacia(35)+Poás(15)+Catarata(18)+Termas(48,60)+Kayak(65)+Blue Falls(20)+Caminata(40)+Santuario(40)+Bosque Nuboso(21)+Puentes(49)+MA(16)+Ballenas(85) = **~US$452,60/persona**. **Techo (con La Paz Waterfall Gardens 56, rango alto de ballenas 105/caminata 50):** **~US$538,60/persona**. El salto grande respecto a la cotización anterior (que rondaba US$43-170) es porque antes casi todo esto estaba "opcional, sin decidir" — ahora está confirmado.
+**✅ Actualizado 20/9/2026 — casi todo quedó decidido hoy:** Blue Falls por sobre Río Celeste, las 3 actividades de Monteverde + caminata nocturna (mudada del Día 3), tour de ballenas por sobre Isla del Caño/entrada independiente. Lo único que sigue "si llegamos, llegamos" es La Paz Waterfall Gardens (Día 1, ya muy ajustado).
 
 ### Ballenas en Uvita — temporada real y tours (research 20/9/2026)
 
@@ -399,7 +399,7 @@ Daniel pasó varios resúmenes de videos sobre un tour en lancha a Marino Ballen
 - **GetYourGuide** (varios listados) — US$92-105, 3h, salida ~8:15am con snacks/café/jugo antes de zarpar, incluye entrada al parque + guía certificado + termina con parada en la Cola de Ballena. [Listado Uvita en GetYourGuide](https://www.getyourguide.com/uvita-costa-rica-l187790/).
 - Otro operador (no identificado por nombre en la búsqueda): US$90 adulto / US$70 niño menor de 12.
 - Ninguno garantiza avistamiento — todos aclaran que son animales en libertad.
-- **Alternativa sin tour:** entrada independiente SINAC US$12/adulto, caminar el tómbolo Cola de Ballena por cuenta propia (sujeto a marea baja, ver research de arriba).
+- **Alternativa sin tour:** entrada independiente SINAC US$12/adulto, caminar el tómbolo Cola de Ballena por cuenta propia (si la marea no deja caminarlo, se sigue de largo).
 
 **Pendiente:** Daniel está juntando reseñas/experiencias de otros viajeros que fueron en la misma época (fin de marzo) antes de decidir entre tour pagado o entrada independiente.
 
@@ -412,14 +412,6 @@ Daniel pasó varios resúmenes de videos sobre un tour en lancha a Marino Ballen
 - Ninguna de estas (salvo quizás Ventanas) tiene margen real en el Día 8 tal como está armado (tour de ballenas + manejo a SJO ya lo llenan).
 
 Fuentes generales: [mytanfeet — Whales in Costa Rica](https://mytanfeet.com/about-cr/whales-in-costa-rica/) · [mytanfeet — Marino Ballena National Park](https://mytanfeet.com/costa-rica-national-park/marino-ballena-national-park-in-costa-rica/) · [mytanfeet — Things to do in Uvita](https://mytanfeet.com/activities/things-to-do-in-uvita-and-dominical/) · [GetYourGuide — Uvita tours](https://www.getyourguide.com/uvita-costa-rica-l187790/) · [Ballena Tour Costa Rica](https://ballenatourcostarica.com/) · [Capture the Atlas — Uvita](https://capturetheatlas.com/uvita-costa-rica/)
-
-**⚠️ Corrección (13/9/2026):** sumar literalmente TODAS las actividades opcionales de la tabla daba US$412,60/persona — Daniel marcó (con razón) que ese número es un techo poco realista ("un bolazo"), porque asume hacer catarata+termas+kayak+caminata nocturna en los ~2 días efectivos de La Fortuna, más los dos componentes de Selvatura en Monteverde, todo junto. Un **techo realista** asume 1-2 actividades por zona, no todas:
-- Ruta día 1: 1 actividad — Hacienda Alsacia (US$35, más barata que La Paz Waterfall Gardens).
-- La Fortuna (3 noches, más tiempo): 2 actividades — catarata US$18 + termas US$48,60 = US$66,60.
-- Monteverde (2 noches, menos tiempo): 1 actividad — la reserva del puente Wilford, US$25.
-- Más el piso fijo (Poás US$15 + MA US$16 = US$31).
-
-**Techo realista: 43 + 35 + 66,60 + 25 = ~US$169,60 por persona** (piso/techo actualizados 20/9/2026 al sumar Marino Ballena al piso fijo). (El US$412,60 de "hacer todo" queda como dato de contexto, no como el techo usado en el presupuesto.)
 
 Fuentes: [GetYourGuide — Hacienda Alsacia](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/) · [GetYourGuide — La Paz Waterfall Gardens](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/) · [Viajeros Callejeros — Catarata La Fortuna](https://www.viajeroscallejeros.com/catarata-la-fortuna-precios-horarios-como-ir/) · [Eco Termales Fortuna — sitio oficial](https://ecotermalesfortuna.cr/en/home/) · [Viator — Kayak Río Peñas Blancas](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11) · [MyTanFeet — La Fortuna Night Walk](https://mytanfeet.com/activities/la-fortuna-night-walk-arenal/) · [Reserva Santa Elena — sitio oficial](https://reservasantaelena.org/index.php/reservaciones/) · [Selvatura — Hanging Bridges](https://www.twoweeksincostarica.com/product/selvatura-hanging-bridges-self-guided/) · [Selvatura — Sloth Habitat](https://www.selvatura.com/tours/the-sloth-sanctuary/) · [SINAC — Marino Ballena](https://serviciosenlinea.sinac.go.cr/) · [dineroeneltiempo.com — USD/CRC histórico](https://www.dineroeneltiempo.com/divisas/usd-crc/historico/2026)
 
@@ -693,7 +685,7 @@ Repaso de cada parada de Itinerario contra los días de calendario exactos que l
 | 5 | Mié 24/3 | Reserva Santa Elena | ✅ Abierta todos los días 7am-4pm, sin reserva previa necesaria. |
 | 5 | Mié 24/3 | Selvatura Park (puentes + santuario de perezosos) | ✅ Parque abierto todos los días 7am-4pm, tours del santuario cada hora entre 8:15am y 3:15pm. |
 | 7 | Vie 26/3 | PN Manuel Antonio | ✅ Sin conflicto de día — cerrado los martes, el viernes no choca. Entrada todavía sin comprar. Fecha actualizada 20/9/2026 (antes sábado 27, antes del cambio Puntarenas→Uvita). |
-| 8 | Sáb 27/3 | PN Marino Ballena | ⚠️ Sin cierre semanal encontrado, pero el acceso al tómbolo Cola de Ballena depende de la marea baja del día — pendiente confirmar tabla de mareas cerca de la fecha (ene/feb 2027). |
+| 8 | Sáb 27/3 | PN Marino Ballena | Sin cierre semanal encontrado. Si la marea no deja caminar el tómbolo Cola de Ballena, se sigue de largo (decidido 21/9/2026). |
 
 **Ningún lugar del itinerario actual tiene un cierre semanal que choque con el día asignado.** Dos puntos a tener en cuenta, no cierres sino riesgos de organización:
 
@@ -703,35 +695,6 @@ Repaso de cada parada de Itinerario contra los días de calendario exactos que l
 
    **✅ Decisión de Daniel (13/9/2026): se deja el Día 1 tal como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens.** Esto no tiene riesgo de plata perdida: La Paz Waterfall Gardens **no pide reserva anticipada** (se paga en el momento, sin costo hundido si no se llega). El único costo ya comprometido es la entrada a Poás, pero ahí el "riesgo" no es perder la entrada (se usa la franja que toque) sino simplemente no ver el cráter bien despejado — algo ya esperable dado el horario del vuelo, no una falla de planificación.
 2. **⚠️ Eco Termales necesita reserva anticipada** por el cupo limitado (100 personas) — conviene reservarla junto con Poás y Manuel Antonio, no dejarla para último momento, más todavía con Semana Santa superpuesta al viaje.
-
-## Presupuesto real calculado por persona (13/9/2026)
-
-Cálculo propio con los datos ya confirmados del proyecto — vuelo completo por persona, **mitad** del auto y **mitad** de todos los hospedajes (se dividen 50/50 con Melisa), más entradas (esas sí, completas por persona, no se dividen). **No incluye comida ni souvenirs**, tal como pidió Daniel.
-
-**✅ Actualizado 20/9/2026 — las actividades ya quedaron decididas.** Lo único piso/techo que queda es el hospedaje (varias referencias por zona) y si se llega o no a La Paz Waterfall Gardens el Día 1.
-
-**⚠️ Desactualizado (17/9/2026):** la fila del vuelo usa el precio viejo (US$658,16), que ya no está vigente — el precio real hoy ronda US$1.148-1.449 (ver alerta en la sección "Vuelos"). El TOTAL de esta tabla queda subestimado hasta recalcular con el precio real del vuelo al momento de comprar.
-
-| Ítem | Piso (mínimo) | Techo (máximo) |
-|---|---|---|
-| Vuelo BUE-SJO ida y vuelta (por persona, ✅ cerrado) | US$658,16 | US$658,16 |
-| Auto de alquiler, mitad (✅ reservado: US$317,42 ÷2) | US$158,71 | US$158,71 |
-| Hospedaje, mitad de las 4 zonas (opción más barata / más cara de cada una) | US$274,50 | US$356,50 |
-| Entradas y actividades (✅ decididas 20/9/2026) | US$452,60 | US$538,60 |
-| **TOTAL por persona** | **≈ US$1.544** | **≈ US$1.712** |
-
-**Detalle del piso de hospedaje** (mitad de: Tucan Container US$183 + ECO RIVER DOME US$230 + Cabinas Bahía Uvita US$71 + Pura Natura Lodge US$65 = US$549 ÷2 = US$274,50).
-**Detalle del techo de hospedaje** (mitad de: Arenal Sweet Bee Cabins US$275 + Camino Verde B&B US$240 + Ballena Rey Hotel US$123 + Deluxe Suite Quepos US$75 = US$713 ÷2 = US$356,50).
-
-**Lectura:** con el auto reservado y las actividades ya decididas, el rango real es **US$1.544-1.712 por persona**. Lo que queda piso-techo es el hospedaje (varias referencias por zona) y si se llega o no a La Paz Waterfall Gardens.
-
-## Presupuesto de referencia (Emma Terra, gama media)
-
-**~US$1.000/persona/semana, sin vuelo internacional:**
-- Alojamiento 35% (~US$350)
-- Comida y bebida 25% (~US$250) — comiendo en "sodas"/cocinando; un plato en restaurante turístico o frente al mar promedia US$30
-- Tours/actividades 20% (~US$200) — alcanza para 2-3 actividades de US$50-200 c/u
-- Transporte 15% (~US$150) — da un piso de comparación con los US$450/7 días del auto ya cotizado
 
 ---
 
@@ -965,15 +928,14 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - **☕ Sibu Restaurant & Coffee Store** (Uvita, nuevo 20/9/2026) — "el mejor café de Uvita" según reviews, 100% orgánico (tueste oscuro/medio/espresso + prensa francesa), también venden chocolate costarricense orgánico y dulces. Para la noche de llegada o la mañana del Día 8. Alternativa: **Tagua Café Vivo** (local chico, personal atento que explica métodos de infusión, tortas/salados, terraza junto a un arroyo).
   - 📍 PN Manuel Antonio · Quepos · Cafe Milagro · Playa Biesanz · Uvita · Sibu Coffee Store
   - 🅿️ **Estacionamiento:** el Parque Nacional Manuel Antonio tiene parqueo **oficial gratuito** — ir directo ahí, sin detenerse antes en falsos "encargados" que digan que está lleno (es la estafa documentada en la nota general de cuidacoches).
-- **Día 8 (sáb 27/3):** Uvita — Ballenas + regreso a SJO (⚠️ sujeto a marea)
+- **Día 8 (sáb 27/3):** Uvita — Ballenas + regreso a SJO
   - **Parque Nacional Marino Ballena — tour en lancha guiado** (✅ decidido 20/9/2026) — ~US$85-105/persona, ~3h, sale ~8:15am con café/fruta/snacks antes de zarpar, guía explica biología y migración, **ya incluye la parada en la Cola de Ballena** al final (no hace falta pagar la entrada independiente SINAC aparte). Operadores relevados: Ballena Tour Costa Rica (US$85, [ballenatourcostarica.com](https://ballenatourcostarica.com/)), varios listados en GetYourGuide (US$92-105/3h), otro operador US$90 adulto/US$70 niño. Ninguno garantiza avistamiento.
   - ⚠️ **Expectativa honesta para el 27/3 (research 20/9/2026):** la temporada del hemisferio norte es **dic-mediados de marzo**, pico en ene-feb — mytanfeet (fuente ya usada en este proyecto) dice textual que "la actividad generalmente empieza a bajar después de mediados de marzo". El 27/3 ya cae pasado ese punto: realista esperar avistamientos parciales (soplidos, aletas, alguna cola a la distancia), no necesariamente un espectáculo cercano. Ningún tour lo garantiza — es fauna silvestre.
   - **✅ Isla del Caño descartado para este viaje (20/9/2026):** se investigó como alternativa de snorkel (~US$100-150/persona, tour 7am-3pm, de lo mejor del país para ver tortugas/rayas/meros — técnicamente SÍ entraba en el día, el tour termina a las 3pm con margen de sobra para salir a SJO). Daniel prefirió no forzarlo: no hay una versión corta de snorkel que reemplace esa experiencia en otro lado del viaje (se investigó snorkel dentro del propio Parque Marino Ballena, pero no tiene la fama de Isla del Caño — esa reputación es específica de la isla y sus arrecifes). Queda como candidato para otro viaje a Costa Rica, no para este.
-  - **Cola de Ballena (tómbolo)** — parte del tour, el sendero de arena con forma de cola se camina en la ventana de ~6h alrededor de la marea baja. Hay que revisar la tabla de mareas cerca de la fecha para confirmar que el horario del tour coincide.
+  - **Cola de Ballena (tómbolo)** — parte del tour, el sendero de arena con forma de cola se camina en la ventana de ~6h alrededor de la marea baja. Si la marea no lo permite ese día, no se camina y se sigue de largo (decidido 21/9/2026, no hace falta revisar mareas).
   - Salida hacia SJO a media tarde, 3h18min/210km — más corto que el viejo tramo Manuel Antonio→SJO.
   - Llegada a SJO, devolución del auto a las 21:00 ([reserva B29401782](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=)) — presentar la Visa Signature en el mostrador.
   - Noche de espera/descanso cerca del aeropuerto, vuelo sale 01:40 ya entrando al domingo 28/3. 📍 PN Marino Ballena · Uvita · Aeropuerto SJO
-  - 🌊 **Depende de la marea:** si la marea baja cae mal (muy temprano o muy tarde respecto al horario de apertura del parque), puede acortar la ventana real para el tómbolo. Confirmar tabla de mareas en enero/febrero 2027, antes de reservar entradas.
   - 🅿️ **Estacionamiento:** sin confirmar todavía si el parque tiene parqueo oficial propio o si es zona de cuidacoches — pendiente de research.
   - **✅ Confirmado con Daniel (20/9/2026):** estructura de 3 días (jue/vie/sáb) para Manuel Antonio→Uvita→SJO — ver "Cambio de ruta" más arriba para el detalle completo de qué se gana y qué se pierde al sacar Puntarenas.
 - **Día 9 (dom 28/3):** Vuelo de regreso — sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40 (Avianca AV691+AV8395, vía Bogotá). [Cotizar →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28)
@@ -1010,8 +972,7 @@ Fuentes: [SINAC — Parque Nacional Manuel Antonio](https://www.sinac.go.cr/es/a
 
 **Con cuánta anticipación reservar (research externo, 13/9/2026):** las reservas de SINAC para parques de alta demanda se habilitan aprox. 30-60 días antes de la fecha (coincide con el "período no disponible" que devolvía el sistema en septiembre 2026 para marzo 2027). En temporada seca (dic-abril) y sobre todo en Semana Santa — que este viaje tiene superpuesta — los cupos de fin de semana se agotan 2-3 semanas antes de esa ventana. **Recomendación concreta: empezar a intentar reservar Poás y Manuel Antonio a partir de mediados/fines de enero 2027** (~2 meses antes), no dejarlo para último momento. Fuentes: [Vamos Rent a Car — Poás](https://vamosrentacar.com/blog/poas-volcano-national-park/) · [Costa Rica Travel Life — Poás](https://costaricatravellife.com/poas-volcano/) · [Manuel Antonio Park — Ticket Purchase Guidance](https://www.manuelantonioparkonlineservices.com/ticket-purchase-guidance) · [Earth Trekkers — Manuel Antonio](https://www.earthtrekkers.com/manuel-antonio-national-park/).
 
-**Un punto sin resolver todavía:**
-1. **El avistamiento de ballenas del Día 8 depende de la marea baja del día** — hay que revisar la tabla de mareas de Uvita cerca de la fecha (ene/feb 2027) para confirmar que la ventana del tómbolo Cola de Ballena cae en un horario compatible con la mañana en el parque y la salida hacia SJO por la tarde.
+**✅ Mareas (21/9/2026):** no hace falta revisar la tabla; si el tómbolo Cola de Ballena no se puede caminar ese día, se sigue de largo.
 
 **Nota histórica — Isla Venado descartada del Itinerario (20/9/2026):** hasta el 20/9/2026, el golfo de Nicoya (Puntarenas) era el tramo menos resuelto del loop, con la duda abierta de si sumar Isla Venado en sí (variante 4: auto a Lepanto + ferry + bote — ver más abajo, sigue documentada como variante independiente). Se resolvió sacando Puntarenas del itinerario y sumando Uvita/Parque Nacional Marino Ballena en su lugar — la idea de Isla Venado queda descartada del Itinerario, pero el research completo (fuente original: video de Kike Arnaiz, "La Costa Rica que pocos turistas ven") sigue documentado íntegro en la sección "Variante 4" más abajo, sin tocar.
 
@@ -1056,12 +1017,12 @@ No por ser "inaccesibles", sino por distancia + quedar del lado opuesto del paí
 
 ## Pendiente / próximos pasos
 
-1. ✅ **CERRADO (20/9/2026) — tramo del golfo de Nicoya:** se sacó Puntarenas del Itinerario y se sumó Uvita/Parque Nacional Marino Ballena en su lugar (ballenas jorobadas, temporada alta en marzo). Nuevo pendiente: confirmar tabla de mareas de Uvita cerca de la fecha (ver punto 9 más abajo) y cotizar hospedaje real en Uvita (sin referencias todavía).
+1. ✅ **CERRADO (20/9/2026) — tramo del golfo de Nicoya:** se sacó Puntarenas del Itinerario y se sumó Uvita/Parque Nacional Marino Ballena en su lugar (ballenas jorobadas, temporada alta en marzo). Uvita: el hospedaje ya está relevado (12 referencias, ver punto 10) y la tabla de mareas no hace falta (ver punto 9).
 2. **Verificar estacionalidad del Caribe** (lluvias invertidas) — ya no aplica al Itinerario (que descarta el Caribe), pero sigue pendiente si en algún momento se retoma la variante 3 (Tortuguero) como alternativa.
 3. ~~Confirmar qué cubre el seguro del Adobe Rent a Car antes de reservar~~ — sin efecto, no se usó esa opción (ver punto 9).
-4. **Cerrar el Itinerario con horarios y hospedaje concretos**, y presupuesto total real (vuelo + auto + alojamiento + comida + actividades) para decidir fecha de compra de pasajes (con la sobretasa de Semana Santa, conviene comprar con 3-6 meses de anticipación — ideal antes de fin de 2026).
+4. **Cerrar el Itinerario con horarios y hospedaje concretos.** Comprar los pasajes con 3-6 meses de anticipación por la sobretasa de Semana Santa (ideal antes de fin de 2026).
 5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — sigue siendo la variante independiente con menos datos concretos de costo (ya no forma parte del Itinerario, ver punto 1).
-9. **Uvita — tabla de mareas (20/9/2026):** confirmar cerca de la fecha (ene/feb 2027) que la marea baja del sábado 27/3 cae en un horario que permita el tómbolo Cola de Ballena de mañana, antes de salir hacia SJO por la tarde.
+9. ✅ **Uvita — tabla de mareas ELIMINADO (21/9/2026):** no importa. Si el tómbolo Cola de Ballena no se puede caminar ese día, se sigue de largo.
 10. ✅ **Uvita — hospedaje CERRADO (relevado, 20/9/2026):** 12 referencias reales cotizadas (Booking, Hoteles.com, Airbnb) — ver sección de hospedaje arriba. Falta decidir entre las opciones, recomendadas: Ballena Rey Hotel (mejor puntaje) o Cabinas Bahía Uvita (mejor precio).
 11. ✅ **Uvita — tour de ballenas CERRADO (20/9/2026):** decidido el tour en lancha guiado (~US$85-105/persona, ya incluye entrada al parque + Cola de Ballena) por sobre la entrada independiente SINAC y por sobre Isla del Caño (declinado para este viaje, ver "Qué le falta a Itinerario").
 6. ✅ **Ritmo del día 1 — CERRADO (13/9/2026):** analizado en detalle (ver auditoría de horarios más arriba) y decidido dejarlo como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens — sin riesgo de plata perdida porque no pide reserva anticipada.
