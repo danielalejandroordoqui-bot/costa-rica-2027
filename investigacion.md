@@ -680,9 +680,9 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 
 - ⚠️ Semana Santa: el sábado 27/3 es Sábado Santo. Confirmar los horarios del City Mall y de las tiendas para ese día antes de contar con ellos.
 
-## Reservas naturales parecidas a Talamanca (opcionales, fuera del itinerario) (research 21/9/2026)
+## Reservas naturales parecidas a Talamanca (opcionales, para hilar fino) (research 21/9/2026)
 
-- Opciones dentro o cerca del loop parecidas a la posada de Talamanca Nature Reserve, relevadas el 21/9/2026 a pedido de Daniel. **Ninguna está incluida en el itinerario**: es información para decidir si se suma algo.
+- Opciones dentro o cerca del loop parecidas a la posada de Talamanca Nature Reserve, relevadas el 21/9/2026 a pedido de Daniel. Daniel decidió (21/9/2026) dejarlas como **opcionales para hilar fino**: no reemplazan nada del itinerario y solo se suman si hay margen. Marcadas como opcionales en los Días 4 y 5.
 - Las tarifas de los lodges son referencias de otras fechas: Booking no mostró disponibilidad para las noches del viaje, así que **no hay cotización real**. No verifiqué Rainmaker ni Hacienda Barú (cerca de Manuel Antonio).
 
 - **Reserva Curi-Cancha (Monteverde)** 🌿 reserva 🐦 aves
@@ -942,6 +942,8 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - Salida de La Fortuna, ruta de montaña, ~2h30-3h de manejo.
   - Llegada a Monteverde/Santa Elena por la tarde, check-in.
   - Tarde libre para recorrer el pueblo de Santa Elena.
+  - 🌿 **Opcional (para hilar fino):** en La Fortuna antes de salir, **Sendero Bogarín** (1-2 h, 7:00-17:00) o pase de día en **Arenal Observatory Lodge** (US$22, desde las 5:30; distancia desde el pueblo sin confirmar). Detalle en "Reservas naturales parecidas".
+  - 🌿 **Opcional (para hilar fino):** ya en Monteverde, tour nocturno de **Curi-Cancha** (~17:30-19:30, desde US$45). No reemplaza la caminata nocturna del Día 5.
   - ⚠️ Camino con fama de complicado (2 fuentes con percances), salir con tiempo.
 - **Día 5 (mié 24/3):** Monteverde
   - **Santuario de perezosos** (Selvatura, standalone) — parque abierto 7am-4pm, tours guiados cada hora entre **8:15am y 3:15pm**. US$40. La experiencia más "garantizada" de ver perezosos de cerca — en estado salvaje son durísimos de encontrar.
@@ -950,6 +952,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - **Caminata nocturna** — 2hs guiadas, ~US$40-50, de noche (✅ mudada acá desde el Día 3, 20/9/2026). Fauna distinta a la de La Fortuna: perezosos, monos, culebras, tarántulas.
   - **☕ Café Monteverde** (nuevo, 20/9/2026) — el hallazgo más fuerte de café de todo el viaje: cooperativa de 20-21 familias locales que cultivan, cosechan, procesan, tuestan y exportan su propio arábica desde 1989. Dos locales (centro de Santa Elena y cerca de la cooperativa Casemcoop en Monteverde), 8am-5pm. Catas gratis todos los días (V60, Chemex, chorreador, prensa francesa), repostería, licuados, almuerzo liviano. Venden el café que ellos mismos cultivan y tuestan. [cafedemonteverde.com →](https://cafedemonteverde.com/) · [Tienda online →](https://cafedemonteverde.com/shop/)
   - 🅿️ **Estacionamiento:** Selvatura y Reserva Santa Elena tienen parqueo propio del predio — no se encontró cargo aparte en ninguna fuente, así que parece incluido — sin cuidacoches.
+  - 🌿 **Opcional (para hilar fino):** **Curi-Cancha** — tour de aves 6:30-11:00 (US$125, con chance de quetzal en temporada) o visita sin guía (US$25, 7:00-15:00). Compite con la mañana de este día: solo si se libera algo.
   - 📍 Selvatura · Reserva Santa Elena · Bosque Nuboso Monteverde · Café Monteverde
   - ✅ **Día activo, aceptado a conciencia (revisión 20/9/2026):** las 3 actividades de día suman ~4,5-6,5h en total (sin contar traslados, que son mínimos entre Selvatura y Santa Elena) — técnicamente entran las 3 en un día. Sumando la caminata nocturna (2h más), el total sube a ~6,5-8,5h de actividad guiada/paga en un solo día. Decisión de Daniel (20/9/2026): las 4 quedan, con la premisa de que "somos honestos con nosotros mismos al viajar, si no estamos a gusto por cualquier motivo abortamos misión y buscamos otra cosa, no nos aferramos al plan".
 - **Día 6 (jue 25/3):** Monteverde → Manuel Antonio (⚠️ día de manejo más largo del viaje)
