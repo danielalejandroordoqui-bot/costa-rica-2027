@@ -680,6 +680,37 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 
 - ⚠️ Semana Santa: el sábado 27/3 es Sábado Santo. Confirmar los horarios del City Mall y de las tiendas para ese día antes de contar con ellos.
 
+## Reservas naturales parecidas a Talamanca (opcionales, fuera del itinerario) (research 21/9/2026)
+
+- Opciones dentro o cerca del loop parecidas a la posada de Talamanca Nature Reserve, relevadas el 21/9/2026 a pedido de Daniel. **Ninguna está incluida en el itinerario**: es información para decidir si se suma algo.
+- Las tarifas de los lodges son referencias de otras fechas: Booking no mostró disponibilidad para las noches del viaje, así que **no hay cotización real**. No verifiqué Rainmaker ni Hacienda Barú (cerca de Manuel Antonio).
+
+- **Reserva Curi-Cancha (Monteverde)** 🌿 reserva 🐦 aves
+  - 📍 300 m al noreste de la Fábrica de Quesos de Monteverde
+  - 🕒 Visita sin guía 7:00-15:00 · tour de aves 6:30-11:00 · tour nocturno ~17:30-19:30
+  - Reserva privada con más de 200 especies de aves, entre ellas el quetzal, y monos aulladores, cara blanca y araña. La temporada del quetzal va de febrero a junio, así que marzo entra. Visita sin guía: entrada US$25 adulto y US$15 de 5 a 20 años. Tour de aves (4,5 h): US$125 adulto, incluye la entrada, máximo 6 personas, sin traslado y con reserva obligatoria; llevar documento con foto, calzado cerrado, pantalón largo y campera impermeable. Tour nocturno desde US$45 (según una agencia, incluye guía, entrada y linternas). Tiene también un tour de historia natural (sin precio relevado) y alojamiento propio.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Reserva+Curi-Cancha+Monteverde+Costa+Rica) · [Web oficial](https://reservacuricancha.com/en/) · [Tour de aves](https://reservacuricancha.com/en/tours/3-birdwatching-tour.html) · [Tour nocturno](https://montetours.com/curi-cancha-night-tour/)
+- **Arenal Observatory Lodge & Trails (La Fortuna)** 🌿 reserva 🐦 aves
+  - 📍 Parque Nacional Volcán Arenal, La Fortuna (distancia desde el pueblo sin confirmar)
+  - 🕒 Pase de día todos los días 5:30-17:30 (los senderos cierran a las 17:00), sin reserva previa — ⚠️ **Alojamiento sin disponibilidad en Booking para el 20-23/3/2027 (consultado el 21/9/2026).**
+  - Reserva de 350 hectáreas al pie del volcán: 11 km de senderos, torres de observación "The Nest", cascada Danta, puentes colgantes y más de 500 especies de aves. No hace falta dormir ahí: entrada US$22 por persona, o pase de día con almuerzo US$40 (restaurante El Jilguero). Tours de aves (mañana 2 h, tarde 2 h, día completo 7,5 h, puentes colgantes 6 h, El Silencio 4 h): precios no publicados, reservas al +506 2290-7011. Alojamiento: 48 habitaciones, desde ~US$91 hasta US$729 la noche según tipo y temporada (US$134 en enero de 2026).
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Arenal+Observatory+Lodge+%26+Trails+La+Fortuna+Costa+Rica) · [Web oficial](https://www.arenalobservatorylodge.com/) · [Pases de día](https://www.arenalobservatorylodge.com/day-passes/) · [Tours de aves](https://www.arenalobservatorylodge.com/bird-watching-tours/)
+- **La Cusinga Lodge (Uvita)** 🌿 reserva 🛏️ lodge
+  - 📍 5 km al sur del puente de Uvita, Costanera Sur, Bahía Ballena
+  - 🕒 Es alojamiento (check-in sin dato). El restaurante Aracari sí está abierto a no huéspedes — ⚠️ **Sin disponibilidad en Booking para el 26-27/3/2027 (consultado el 21/9/2026), probablemente por Semana Santa.**
+  - Lodge dentro de una reserva privada de 250 hectáreas con senderos, aves y monos aulladores. 10 cabañas con terraza y vista al mar y a la selva, desayuno incluido. Booking: 9,3 (244 comentarios). Según una fuente, las instalaciones y los senderos son solo para huéspedes: la única forma de recorrerlos sería dormir ahí. Tarifas de referencia, no cotización: ~US$190 la noche en marzo de 2026 (US$214 con impuestos); otras fuentes dan desde US$109 y desde US$250. Tel +506 2770-2549, info@lacusingalodge.com.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cusinga+Lodge+Uvita+Costa+Rica) · [Web oficial](https://lacusingalodge.com/) · [Booking](https://www.booking.com/hotel/cr/la-cusinga-lodge.html)
+- **Sendero Bogarín (La Fortuna)** 🌿 sendero
+  - 📍 A menos de 1 km al oeste del parque central, por una calle lateral de la Ruta 142 (a la derecha, justo después de La Forchetta)
+  - 🕒 7:00-17:00 · tours 8:00-16:00 · visita sin guía 7:00-16:00
+  - Circuito de 2,5 km, fácil, de 1 a 2 horas. Perezosos, tucanes y ranas. Proyecto familiar. Precio de entrada sin confirmar (ver su web).
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Sendero+Bogar%C3%ADn+La+Fortuna+Costa+Rica) · [Web](https://www.bogarintrail.com/)
+- **Talamanca Nature Reserve (San Gerardo de Rivas) · el del Instagram** 🌿 posada
+  - 📍 San Gerardo de Rivas, al pie del Chirripó (~2 h y ~103 km desde Uvita, pasando por San Isidro)
+  - 🕒 Sin dato
+  - El lugar del Instagram que pasó Daniel el 8/9/2026. Posada de montaña a ~1.500 m con más de 300 especies de aves, cuatriciclos y termas cerca. Queda tierra adentro y el regreso a SJO desde ahí es largo, así que no entra en el loop de 9 días: es para otro viaje. No pude ver su Instagram (pide iniciar sesión).
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Talamanca+Nature+Reserve+San+Gerardo+de+Rivas+Costa+Rica) · [Web](https://www.talamancanaturereserve.com/)
+
 ## Auditoría de días y horarios de apertura — cruzados contra el itinerario real (13/9/2026)
 
 Repaso de cada parada de Itinerario contra los días de calendario exactos que le tocan (sáb 20/3 a dom 28/3), para no reservar algo un día que esté cerrado.
