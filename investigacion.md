@@ -829,8 +829,11 @@ Jake y Emily Junda, una pareja de EE.UU. que recorrió Costa Rica unas dos seman
 - **Catarata La Fortuna: US$20 vs US$18 · horario** ⚠️ precio
   - TRS (jun 2025) paga US$20 por persona y dice horario 7:00-16:00; nuestra fuente dice US$18 y 7:00-17:00 con última entrada a las 16:00. US$18 + 13% de IVA da ≈US$20,3, así que probablemente es la misma diferencia de impuesto; lo más seguro es asumir US$20 y llegar antes de las 16:00. Recomiendan ir a la apertura (7:00) por las multitudes; son unos 500 escalones y no conviene nadar pegado a la caída.
   - 🔗 [Two Roaming Souls · La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
-- **Mirador El Castillo: camino de 4x4** ⚠️ auto
-  - Vista de 360° al Arenal y al lago, muy buena para atardecer y amanecer, pero por un camino de tierra empinado que TRS recomienda hacer con 4x4 y alta luz al suelo, sobre todo si llovió. Nuestro Nissan Kicks es 4x2: no lo veo apto.
+- **Mirador El Castillo — atardecer, sin decisión (⏳ abierto, research 22/9/2026)** ⚠️ auto
+  - A Daniel le encantó cómo se ve en el video/blog. Vista de 360° al Arenal y al lago, muy buena para atardecer y amanecer. TRS dice textual: "high clearance and 4×4 are **highly recommended**, especially if there's been any recent rain" — no dice que sea obligatorio, es un camino de tierra empinado pero mantenido por el gobierno. Marzo es temporada seca, así que "llovió hace poco" es menos probable, aunque nunca está garantizado.
+  - ⚠️ **Nuevo hallazgo (22/9/2026) — riesgo real, no solo incomodidad:** en Costa Rica el seguro de los autos de alquiler generalmente **no cubre daños en caminos de tierra sueltos o con superficie irregular**, aunque sean caminos públicos reconocidos. No verificamos la letra chica puntual de nuestra reserva (Avis/EconomyBookings B29401782) para este caso.
+  - **Alternativa sin ese riesgo:** **Mirador La Armonía**, sobre la propia Ruta 142 (asfaltada), a ~24 km de La Fortuna. Entrada US$5, vista al volcán y al lago desde ~150 m de altura, fauna (tucanes, monos aulladores, a veces perezosos), venden queso y miel de la propia finca.
+  - **Sin asignar a ningún día todavía** — el Nissan Kicks reservado es 4x2. Decidir más adelante: ir igual a El Castillo evaluando el camino al llegar (con plan de volverse si se ve mal), ir directo a La Armonía, o descartar la idea.
   - 🔗 [Two Roaming Souls · La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
 - **Cierres que chocan con el itinerario** ⚠️ días
   - Soda Ranchito Doña María (Uvita) cierra sábado y domingo: el Día 8 es sábado 27/3. La feria de La Fortuna es los viernes: estamos en La Fortuna domingo a martes, así que no la vemos. Manuel Antonio cierra los martes (ya estaba resuelto: vamos el viernes).
@@ -1235,7 +1238,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - ⚠️ Camino con fama de complicado (2 fuentes con percances), salir con tiempo.
   - 🧭 **Extras de Two Roaming Souls (opcionales):**
     - **Sendero Bogarín** — ahora con precio: US$20 sin guía o US$45 con guía; 2,5 km, 1-2 h. TRS solo vio un perezoso porque un tour estaba parado mirándolo, y aconseja pagar guía. También mencionan una oferta en línea de US$35 (perezosos + clase de tortillas).
-    - **Si se libera la mañana:** El Salto (gratis) y Arenal 1968 (US$26), con el detalle del Día 2. El Mirador El Castillo, que sí les encantó, exige camino de tierra con 4x4: con el Kicks (4x2) no.
+    - **Si se libera la mañana:** El Salto (gratis) y Arenal 1968 (US$26), con el detalle del Día 2. El Mirador El Castillo sigue como opción abierta sin decidir (ver detalle y alternativa en "Lo que TRS cambia o contradice"): a Daniel le encantó la vista, pero el camino de tierra puede no estar cubierto por el seguro del auto.
 - **Día 5 (mié 24/3):** Monteverde
   - **Santuario de perezosos** (Selvatura, standalone) — parque abierto 7am-4pm, tours guiados cada hora entre **8:15am y 3:15pm**. US$40. La experiencia más "garantizada" de ver perezosos de cerca — en estado salvaje son durísimos de encontrar.
   - **Bosque nuboso** — Reserva Santa Elena (abierta **7am-4pm**, sin reserva previa) US$21 (✅ decidida por sobre la del puente Wilford, US$25). Inmersión real en el bosque nuboso denso, menos gente que otras reservas, incluye su propio puente colgante en el sendero, gestión comunitaria de bajo impacto. [Reservar →](https://reservasantaelena.org/index.php/reservaciones/)
