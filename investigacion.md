@@ -35,7 +35,7 @@ Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija
 
 - **Sin trámites especiales para argentinos** (confirmado por Daniel).
 - **Moneda:** colón costarricense (1€ ≈ 568 colones, sept. 2026), dólares aceptados ampliamente. Tarjeta de crédito aceptada casi en todas partes para gastos grandes.
-- **⚠️ Cuidacoches informales ("wachiman") — research 20/9/2026:** casi todo el estacionamiento de playa/calle en Costa Rica es informal (sin seguro, sin cámaras, chalecos comprados por su cuenta). Cobran en **efectivo** — propina habitual US$1-2 o ₡500-1.000, a veces más en zonas turísticas y feriados. Hay relatos documentados de viajeros a los que un cuidacoches **siguió hasta un cajero automático** exigiendo el pago porque no aceptan tarjeta (fuente: [The Lost Bells — 10 Tips Manuel Antonio](https://www.thelostbells.com/post/costa-ricas-manuel-antonio-10-tips-you-need-to-know-before-you-go)). Cerca de Manuel Antonio además hay falsos "encargados" que dicen que el estacionamiento oficial está lleno para derivar a uno propio más caro (fuentes: [Rick Steves Forum](https://community.ricksteves.com/travel-forum/tourist-scams/word-to-the-wise-manuel-antonio-national-park-scam), [Costa Rica Vibes](https://www.costaricavibes.com/common-scams-in-costa-rica/), [MyTanFeet](https://mytanfeet.com/about-cr/shopping-eating-tipping-in-costa-rica/)). Detalle de estacionamiento oficial vs. informal por parada, día por día, más abajo en cada tarjeta del itinerario.
+- **⚠️ Cuidacoches informales ("wachiman") — research 20/9/2026:** casi todo el estacionamiento de playa/calle en Costa Rica es informal (sin seguro, sin cámaras, chalecos comprados por su cuenta). Cobran en **efectivo** — propina habitual US$1-2 o ₡500-1.000, a veces más en zonas turísticas y feriados. Hay relatos documentados de viajeros a los que un cuidacoches **siguió hasta un cajero automático** exigiendo el pago porque no aceptan tarjeta (fuente: [The Lost Bells — 10 Tips Manuel Antonio](https://www.thelostbells.com/post/costa-ricas-manuel-antonio-10-tips-you-need-to-know-before-you-go)). Cerca de Manuel Antonio además hay falsos "encargados" que dicen que el estacionamiento oficial está lleno para derivar a uno propio más caro (⚠️ corregido 21/9/2026: el parque no tiene estacionamiento propio, ver Día 7) (fuentes: [Rick Steves Forum](https://community.ricksteves.com/travel-forum/tourist-scams/word-to-the-wise-manuel-antonio-national-park-scam), [Costa Rica Vibes](https://www.costaricavibes.com/common-scams-in-costa-rica/), [MyTanFeet](https://mytanfeet.com/about-cr/shopping-eating-tipping-in-costa-rica/)). Detalle de estacionamiento oficial vs. informal por parada, día por día, más abajo en cada tarjeta del itinerario.
 
 ### Cómo conseguir efectivo para los cuidacoches — guía paso a paso (Daniel nunca sacó plata en un cajero del exterior, research 20/9/2026)
 
@@ -373,17 +373,17 @@ Todas las paradas de pago del Itinerario, además de los dos parques SINAC ya co
 | Zona | Atracción | Precio adulto | Nota |
 |---|---|---|---|
 | Ruta día 1 | Hacienda Alsacia (tour cafetero Starbucks) | **US$35** | Turista (residente US$25). Incluye vivero, beneficio húmedo, patio de secado y tostadora. |
-| Ruta día 1 | Volcán Poás (PN, SINAC) | **US$15,00** | Precio verificado — compra pendiente, sistema SINAC habilita ~ene/2027. |
-| Ruta día 1 | La Paz Waterfall Gardens | **US$56** | Día completo 8am-2pm, 5 cascadas + mariposario + sendero de bosque nuboso/lluvioso. |
+| Ruta día 1 | Volcán Poás (PN, SINAC) | **US$15,00** | Precio verificado — compra pendiente, sistema SINAC habilita ~ene/2027. ⚠️ Probable +13% de IVA (≈US$17), como en Río Celeste, donde TRS escribe "$12 + 13% de impuesto". |
+| Ruta día 1 | ~~La Paz Waterfall Gardens~~ | ~~US$56~~ | ❌ **DESCARTADO 21/9/2026** (animales en recintos; cascadas que no lo sorprendieron). Con IVA eran US$63,28 por adulto. |
 | La Fortuna | Catarata La Fortuna | **US$18** | Extranjero (residente US$9, niños <8 gratis). No incluye entrada al PN Volcán Arenal, es independiente. |
 | La Fortuna | Termas — Eco Termales Fortuna (solo entrada) | **~US$48,60** | US$43 + 13% impuesto. Con comida: US$67+imp ≈ US$75,71. Pase día (10am-4pm) o noche (5-10pm). |
-| La Fortuna | Kayak Río Peñas Blancas (Safari Float) | **~US$65** | Tour completo: transporte, guía naturalista, kayak, salvavidas, snack. 3-5hs (mañana). |
+| La Fortuna | ~~Kayak Río Peñas Blancas (Safari Float)~~ | ~~~US$65~~ | ❌ **DESCARTADO 21/9/2026** (fauna repetida en el loop; difícil llevar la lente 150-600 en kayak). Era tour completo de 3-5 h por la mañana. |
 | La Fortuna | Bajos del Toro / Blue Falls of Costa Rica | **US$20** | ✅ Decidido por sobre Río Celeste, excursión de la tarde del Día 3. US$25 el combo con Catarata del Toro. |
 | Monteverde | Reserva Santa Elena (bosque nuboso) | **US$21** | ✅ Decidida por sobre la del puente Wilford (US$25) — menos concurrida, misma idea de bosque nuboso. |
 | Monteverde | Selvatura Park — puentes colgantes (self-guided) | **US$49** | 8 puentes, 3km, 1,5-2hs. Guiado sale US$61. |
 | Monteverde | Selvatura Park — santuario de perezosos | **US$40** | ⚠️ Ojo: hay combos (Gold Pack US$116,10 con canopy, Platinum US$152,10 con todo) — este es el precio standalone, sin canopy/zip-line. |
 | Monteverde | Caminata nocturna (night walk) | **~US$40-50** | 2hs guiadas, de noche (✅ mudada acá desde el Día 3, 20/9/2026). Fauna distinta a La Fortuna: perezosos, monos, culebras, tarántulas. |
-| Manuel Antonio | PN Manuel Antonio (SINAC) | **US$16,00** | Precio verificado — compra pendiente, sistema SINAC habilita ~ene/2027. |
+| Manuel Antonio | PN Manuel Antonio (SINAC) | **US$16,00** | Precio verificado en SINAC el 12/9/2026 — compra pendiente, habilita ~ene/2027. ⚠️ TRS y guías de 2026 dicen US$18: es probable que sean US$16 + 13% de IVA (=US$18,08); confirmar el total en el paso de pago. |
 | Uvita | Tour ballenas en lancha | **US$85-105** | ✅ Decidido — ~3h, sale ~8:15am, incluye café/fruta/snacks + guía + entrada al parque + Cola de Ballena, no hace falta pagar el SINAC independiente aparte. Operadores: Ballena Tour Costa Rica US$85, GetYourGuide US$92-105, otro operador US$90 adulto/US$70 niño. Sin garantía de avistamiento — ver research de temporada abajo. |
 
 **⚠️ Fila descartada (20/9/2026) — Isla Venado:** ya no forma parte del Itinerario (Puntarenas se sacó del loop). Quedaba: panga colectiva Puntarenas↔Isla Venado, ~US$11 (₡5.000, dólar a ₡450, 13/9/2026), solo lunes/miércoles/viernes, sale de Isla Venado 6:30am y regresa de Puntarenas ~11:30am. Research se mantiene como referencia de la Variante 4, independiente — [isla-venado.com](https://www.isla-venado.com/) advierte de precios inflados a turistas desinformados.
@@ -405,14 +405,14 @@ Daniel pasó varios resúmenes de videos sobre un tour en lancha a Marino Ballen
 - **GetYourGuide** (varios listados) — US$92-105, 3h, salida ~8:15am con snacks/café/jugo antes de zarpar, incluye entrada al parque + guía certificado + termina con parada en la Cola de Ballena. [Listado Uvita en GetYourGuide](https://www.getyourguide.com/uvita-costa-rica-l187790/).
 - Otro operador (no identificado por nombre en la búsqueda): US$90 adulto / US$70 niño menor de 12.
 - Ninguno garantiza avistamiento — todos aclaran que son animales en libertad.
-- **Alternativa sin tour:** entrada independiente SINAC US$12/adulto, caminar el tómbolo Cola de Ballena por cuenta propia (si la marea no deja caminarlo, se sigue de largo).
+- **Alternativa sin tour:** entrada independiente SINAC US$12/adulto, caminar el tómbolo Cola de Ballena por cuenta propia (si la marea no deja caminarlo, se sigue de largo). ⚠️ **Discrepancia (21/9/2026):** TRS y dos guías de 2026 dicen US$6 por adulto extranjero (niños menores de 12 gratis, válido todo el día en los 4 sectores; una guía aclara que se paga en efectivo en el puesto de guardaparques). El US$12 no tiene fuente que pueda comprobar: confirmar en SINAC antes de decidir tour vs. entrada. El tour ya incluye la entrada, así que no cambia lo decidido.
 
 **Pendiente:** Daniel está juntando reseñas/experiencias de otros viajeros que fueron en la misma época (fin de marzo) antes de decidir entre tour pagado o entrada independiente.
 
 ### Otras actividades en la zona de Uvita/Bahía Ballena (research 20/9/2026)
 
 - **Playa Ventanas** — cuevas marinas talladas por el mar, se exploran en marea baja, ~15-20 min al sur de Uvita. Parada corta.
-- **Cascada Nauyaca** — dos caídas de 45m con pileta natural para nadar. Se llega caminando (4km), a caballo o en 4x4. Distancia/tiempo exacto desde Uvita sin confirmar todavía.
+- **Cascada Nauyaca** — dos caídas de 45m con pileta natural para nadar. Se llega caminando, a caballo o en 4x4. **Datos de TRS (2025):** ~30 min en auto desde Uvita (15 min desde Dominical hasta el centro de tickets). Caminata US$10 por persona + US$5 de parqueo por auto; camioneta 4x4 US$32 por persona; caballo con guía US$80 por persona. Son 4 millas (~6,4 km) ida y vuelta —no 4 km— aunque un camino nuevo asfaltado les ahorró las 2 millas más duras. El desafío es el calor; empezaron a las 7:30 y tuvieron la cascada de abajo casi para ellos. Hay baños, vestuarios y agua potable, y un río para bañarse al final. Para ellos, una de sus 5 mejores cascadas de todos sus viajes. No entra en el Día 7 ni en el Día 8.
 - **Isla del Caño (snorkel)** — reserva biológica a ~1h20 en lancha desde Uvita, tortugas/rayas/meros. Tour de día completo (7am-3pm), US$100-150/persona. ✅ Corregido 20/9/2026: SÍ entra en el Día 8 como alternativa al tour de ballenas (el tour vuelve a las 3pm, con margen de sobra para el viaje a SJO) — ver detalle en el esqueleto de días y en "Qué le falta a Itinerario".
 - Surf en el sector Colonia del parque, tour de café de Don Emilio (finca familiar en San Josecito), caminatas de fauna en general.
 - Ninguna de estas (salvo quizás Ventanas) tiene margen real en el Día 8 tal como está armado (tour de ballenas + manejo a SJO ya lo llenan).
@@ -466,7 +466,7 @@ A pedido de Daniel: buscar en cada zona del itinerario cafeterías lindas y bien
 
 ## Dónde comer, tomar café y comprar café — por región (research 21/9/2026)
 
-Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok, un carrusel de fotos y un video de YouTube (Emma Terra) que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Todos están marcados en el My Maps del viaje (21/9/2026), en tres capas: "Comer" (17), "Café y comprar café" (8) y "Camisetas" (6). Los cafés que ya estaban en el mapa (Hacienda Alsacia, Red Frog, Café Monteverde, Café Milagro y Sibu) siguen en la capa base del itinerario. También están guardados en la lista nativa "Costa Rica" de Google Maps (44 sitios contando los 8 originales), la que se usa para navegar desde el iPhone.
+Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, días y horarios, con link al mapa y a su sitio. Sale de las capturas de Daniel (Google Maps y WhatsApp) y de 10 videos de TikTok, un carrusel de fotos y un video de YouTube (Emma Terra) que se vieron completos (audio transcripto con Whisper y texto en pantalla leído cuadro por cuadro). **Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.** ☕ = café · 🍽️ = comer · 🛍️ = para llevar (café, chocolate). Todos están marcados en el My Maps del viaje (21/9/2026), en tres capas: "Comer" (17), "Café y comprar café" (8) y "Camisetas" (6). Los cafés que ya estaban en el mapa (Hacienda Alsacia, Red Frog, Café Monteverde, Café Milagro y Sibu) siguen en la capa base del itinerario. **Segunda tanda (21/9/2026):** sumé lo que recomienda la pareja de viajeros Two Roaming Souls, marcado **TRS**. **Todos marcados el 22/9/2026** en la capa "🍽️ Comer" del My Maps (39 lugares) y en la lista nativa "Costa Rica" (93 sitios). También están guardados en la lista nativa "Costa Rica" de Google Maps (44 sitios contando los 8 originales), la que se usa para navegar desde el iPhone.
 
 ### 🌋 Ruta Día 1 · Alajuela / Poás
 
@@ -506,7 +506,7 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 - **Organico Fortuna** ☕ 🍽️ 🛍️ souvenirs
   - 📍 100 m al este del parque central (una cuadra)
   - 🕒 Todos los días, 9:00 a 21:00
-  - 4,4★ (1.015 reseñas). Café y comida sana, con muchas opciones veganas, vegetarianas y sin gluten: sándwich de falafel, ensalada arcoíris, smoothie bowls, chilaquiles en el desayuno. Adentro hay un mercadito con productos orgánicos, ropa de diseñadores locales y souvenirs. Es el café favorito de Emma Terra en La Fortuna, que avisa que es caro: pagó US$17 por un café y una barrita. Tel +506 8572-2115.
+  - 4,4★ (1.015 reseñas). Café y comida sana, con muchas opciones veganas, vegetarianas y sin gluten: sándwich de falafel, ensalada arcoíris, smoothie bowls, chilaquiles en el desayuno. Adentro hay un mercadito con productos orgánicos, ropa de diseñadores locales y souvenirs. Es el café favorito de Emma Terra en La Fortuna, que avisa que es caro: pagó US$17 por un café y una barrita. Tel +506 8572-2115. TRS también lo recomienda: ingredientes orgánicos, veg/vegano, y avisan que es algo más caro.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Organico+Fortuna+La+Fortuna+Costa+Rica) · [Web](https://www.organicofortuna.com/) · [Instagram](https://www.instagram.com/organicofortuna/)
 - **Red Frog Coffee Roasters** ☕ 🛍️ café
   - 📍 Calle 142, 50 m oeste del Super Cristian #4 (~2 km al oeste del parque)
@@ -536,7 +536,7 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 - **Restaurante Fortuneño** 🍽️
   - 📍 200 m este del parque central
   - 🕒 Todos los días, 11:00 a 21:30 — ⚠️ **Una fuente menciona dos locales con menú parecido; confirmar cuál es el del centro.**
-  - 4,5★ (4.041 reseñas de Google). Pollo a la leña, costillas, ceviche, chifrijo, nachos. Porciones grandes, buen precio, patio con jardín. Tel +506 2479-7475.
+  - 4,5★ (4.041 reseñas de Google). Pollo a la leña, costillas, ceviche, chifrijo, nachos. Porciones grandes, buen precio, patio con jardín. Tel +506 2479-7475. TRS: pidan el combo de pollo a la leña para compartir (pollo, tortillas, patacones, frijoles, plátano, ensalada); los frijoles refritos fueron lo mejor. Hace calor: buscar mesa con ventilador.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurante+Fortune%C3%B1o+La+Fortuna+Costa+Rica) · [Web](https://xn--fortuneo-j3a.com/)
 - **La Street Gastro Fusion** 🍽️
   - 📍 Ruta 142, 150 m oeste del parque
@@ -568,6 +568,31 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
   - 🕒 Lun a sáb 9:00-16:00 — ⚠️ **Cerrado los domingos.**
   - Bowls de frutas y jugos, sin gluten, granola casera. Se agota algo al final del día: ir a mediodía.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Jungle+Bowls+La+Fortuna+Costa+Rica)
+- **Soda Rodríguez** 🍽️ soda · TRS
+  - 📍 Un poco afuera del centro de La Fortuna (sin dirección exacta en la fuente)
+  - 🕒 Sin dato
+  - Clima de casa en el árbol, con mensajes escritos a mano por visitantes de todo el mundo y cada mesa distinta; cada cliente recibe un azulejo en blanco para dejar el suyo. No tiene menú impreso: ofrecen unos pocos platos del día con ingredientes frescos (nombran el bowl de pollo y la quesadilla). Hay animales de granja. Cuesta acomodar a quien es muy selectivo con la comida.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Soda+Rodriguez+La+Fortuna+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/)
+- **Soda Sabores Lulu** 🍽️ soda · TRS
+  - 📍 La Fortuna (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Sensación de comer en casa de la abuela. Desayuno típico y casados, porciones grandes, fruta fresca con la comida y licuados generosos. Mesas al frente, patio chico y ventana a la cocina. Fue la primera soda de su viaje y "puso el listón alto".
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Soda+Sabores+Lulu+La+Fortuna+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/)
+- **Mercadito Arenal** 🍽️ patio de comidas · TRS
+  - 📍 La Fortuna (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Patio de comidas al aire libre, con vista al Arenal cuando despeja. Puestos: La Canalla (hamburguesas; recomiendan la pizza burger), Pizzería y Cafetería Rooster (pizza a leña), Sensai Sushi (poke de atún), Mexikah Taqueria y Voodoo Cocktail Bar (Maracuyna y Vulkano, que llega con un volcán humeante). Sirve cuando cada uno quiere algo distinto.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Mercadito+Arenal+La+Fortuna+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/)
+- **Chante Verde** 🍽️ · TRS
+  - 📍 "Un poco afuera del pueblo" (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Diseño "boho chic" elegante pero relajado, chef profesional, opciones para veganos y carnívoros. Recomiendan el cordon bleu de pollo y el ceviche. Dicen que dos platos fuertes con bebidas salen por menos de US$45.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Chante+Verde+La+Fortuna+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/)
+- **Beerland** 🍺 cerveza artesanal · TRS
+  - 📍 La Fortuna (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Sirven catas (flights). Probaron la pale ale de mango, la lager de albahaca, una IPA y la cerveza de chile, que fue la que más les gustó. Tienen comida y cerveza para llevar, algo más cara porque el lúpulo y la cebada se importan.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Beerland+La+Fortuna+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
 - ℹ️ **Arenal Manoa Hot Springs Resort (no mapeado):** el "buffet" del video de Cindy es el desayuno incluido para huéspedes (6:30-9:30/10:00). Sus restaurantes son La Saca (desayuno, almuerzo 10-18 y cena 18-21:30), Ohashi Sushi (17-22) y Alambique Pizzeria (12-20). No encontré confirmación de que se pueda comer ahí sin alojarse.
 
 ### ☁️ Monteverde / Santa Elena
@@ -575,7 +600,7 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 - **Café Monteverde (Santa Elena Coffee Shop)** ☕ 🛍️ café
   - 📍 Vitosi, costado oeste de la farmacia, centro de Santa Elena (el otro local está cerca de Casemcoop)
   - 🕒 Abre 7:00 (cierre sin confirmar; otra fuente da 8:00 a 17:00 todos los días)
-  - 4,7★. Cooperativa de familias que cultivan y tuestan su propio arábica. Catas gratis, cinnamon rolls, el mejor lugar para comprar café en la zona. Ya documentado.
+  - 4,7★. Cooperativa de familias que cultivan y tuestan su propio arábica. Catas gratis, cinnamon rolls, el mejor lugar para comprar café en la zona. Ya documentado. TRS suma que también hacen un tour de 2 h "de la semilla a la taza" en su finca sostenible (precio sin dato); ese tour se descartó el 21/9/2026 (la tienda para comprar café se mantiene).
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Monteverde+Coffee+Shop+Santa+Elena+Costa+Rica) · [Web](https://cafedemonteverde.com/) · [Tienda online](https://cafedemonteverde.com/shop/)
 - **El Sapo Restaurant & Bar (Senda Monteverde)** 🍽️
   - 📍 Senda Monteverde Hotel, 250 m norte del BCR, Cerro Plano
@@ -590,8 +615,23 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 - **Tree House Restaurante & Café** 🍽️
   - 📍 Centro de Santa Elena, frente a la iglesia católica
   - 🕒 Todos los días, 11:00 a 22:00
-  - Salón armado alrededor de un árbol, música en vivo todas las noches, happy hour 16-17 con cócteles 2x1 (una fuente). Precios algo altos.
+  - Salón armado alrededor de un árbol, música en vivo todas las noches, happy hour 16-17 con cócteles 2x1 (una fuente). Precios algo altos. TRS: el árbol es un ficus que atraviesa todos los niveles; carta de pizza, pasta, hamburguesas y casado o chifrijo. "Caro para Costa Rica", pero vale por el ambiente, sobre todo de noche con la iluminación de colores.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Tree+House+Restaurante+Caf%C3%A9+Santa+Elena+Monteverde) · [Web](https://treehouse.cr/)
+- **Colibrí Café** ☕ · TRS
+  - 📍 Justo afuera de la entrada de la Reserva del Bosque Nuboso de Monteverde (no la Reserva Santa Elena que elegimos, que es otra)
+  - 🕒 Sin dato
+  - Comederos con decenas de colibríes en el patio; se los ve gratis, sin consumir. Café, té, licuados y una carta chica de comida. Como Reserva Santa Elena y Colibrí Café no están pegados, sería un desvío: Selvatura ya tiene su propio jardín de colibríes.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Colibri+Cafe+Monteverde+Cloud+Forest+Reserve+entrance) · [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
+- **Monteverde Brewing Company** 🍺 🍽️ · TRS
+  - 📍 Monteverde (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Cervecería chica con varios estilos. Probaron la American Pale Ale El Reyado y la hazy IPA Kinkajou. Hamburguesas y sándwiches: el favorito fue el de pollo crocante con panceta y maple. Vende latas para llevar.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Monteverde+Brewing+Company+Santa+Elena+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
+- **Stella's Monteverde** ☕ 🍽️ · TRS
+  - 📍 Monteverde (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Café adentro y afuera para un desayuno o almuerzo tranquilo: licuados, bowls, sándwiches, ensaladas y algunos clásicos costarricenses. El patio-jardín está lleno de naturaleza y varios reportan monos y aves mientras comen.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Stella%27s+Monteverde+Cafe+Santa+Elena+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
 
 ### 🏖️ Manuel Antonio / Quepos
 
@@ -610,6 +650,30 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
   - 🕒 Sin confirmar (mirar su Facebook). Música en vivo lun a sáb 19:00-21:00
   - 4,6★ (3.118 reseñas), #17 de 96 en Manuel Antonio. Mariscos, sushi, hamburguesas, tacos, cócteles; vista al océano y buen atardecer. Reservar en temporada alta.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Agua+Azul+Caf%C3%A9+Manuel+Antonio+Quepos) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g309274-d1115303-Reviews-Agua_Azul_Cafe-Manuel_Antonio_Quepos_Province_of_Puntarenas.html)
+- ℹ️ **Comida dentro del parque (TRS):** no se puede entrar con comida de afuera ni con botellas plásticas. La única cafetería está dentro de una jaula de metal (para que monos y mapaches no roben) y según otros visitantes es "floja y cara". Conviene desayunar antes de entrar; con entrada de 7:00 (Grupo 01), desayunar en Quepos o en el hotel.
+
+### 🌴 Dominical (de paso entre Manuel Antonio y Uvita, sobre la misma Costanera Sur)
+
+Pueblo surfero con pocas cuadras caminables, que Two Roaming Souls (TRS) recomienda para almorzar o tomar algo. Cae en el trayecto del Día 7 (Manuel Antonio → Uvita). ⚠️ Según TRS, no dejar nada de valor en el auto en Dominical: les pidieron plata en la calle y hay antecedentes de robos a autos en Poza Azul.
+
+- **La Junta** 🍽️ 🍺 · TRS
+  - 📍 Dominical (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Uno de sus restaurantes favoritos de todo el viaje: sándwiches (el Thai Buffalo Chicken, picante, y el Yard Bird), cócteles creativos y la carta de cerveza artesanal más grande que encontraron en Costa Rica. Local chico con mesas largas donde se comparte, música en vivo.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Junta+Dominical+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/)
+- **Fuego Brewing Company** 🍺 🍽️ · TRS
+  - 📍 Dominical (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Cervecería en un segundo piso abierto, tipo casa en el árbol, donde vieron una iguana negra y aves. Probaron la American IPA. La comida es algo cara para ser una cervecería; ellos prefirieron La Junta.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuego+Brewing+Company+Dominical+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/)
+- **Bar Jolly Roger** 🍽️ alitas · TRS
+  - 📍 Centro de Dominical (se mudó a un local más céntrico)
+  - 🕒 Sin dato
+  - Alitas enormes con muchas salsas, de suaves a extremas. La #1 y la que recomiendan es la Hot Honey Garlic; la de albahaca y parmesano no la repetirían. El local nuevo tiene aire acondicionado pero no la vista del anterior. Cerveza fría y cócteles.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Bar+Jolly+Roger+Dominical+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/)
+- **Menciones de honor (no los probaron)** ☕ 🍽️ · TRS
+  - Mama Toucan's Natural Market (panadería y almacén), Café Olas (café chico que se perdieron; Google lo muestra "cerrado temporalmente", confirmar), Café Mono Congo (café y desayuno saludable) y **El Ríncon de Domi** (la soda de comida típica; ⚠️ no confundir con "Soda El Rincón", que está en San José y cerró).
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/)
 
 ### 🐋 Uvita / Bahía Ballena
 
@@ -621,7 +685,7 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 - **Sebas Restaurant** 🍽️
   - 📍 Calle Bejuco, a 50 m de la cascada de Uvita
   - 🕒 Sin dato (llamar al +506 8414-1888)
-  - Cocina rústica de inspiración argentino-italiana, fuego de leña, de la granja a la mesa. Pizza y pastas artesanales elogiadas; algunas reseñas marcan precios altos y platos irregulares.
+  - Cocina rústica de inspiración argentino-italiana, fuego de leña, de la granja a la mesa. Pizza y pastas artesanales elogiadas; algunas reseñas marcan precios altos y platos irregulares. TRS lo escribe "Seba's" y, por lo que describe (pizza y mariscos, salón abierto con un árbol grande en el centro), probablemente sea este mismo: lo califica como "la mejor pizza de Costa Rica"; una pizza mediana sale US$20-30; su ceviche también les gustó. Sirve también de hospedaje (Seaside Luxury Villas).
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Sebas+Restaurant+Uvita+Costa+Rica) · [Facebook](https://www.facebook.com/p/sebasresto-100093153503908/)
 - **The Aracari Restaurant (La Cusinga Lodge)** 🍽️
   - 📍 La Cusinga Road, 5 km al sur del puente de Uvita, Costanera Sur, Bahía Ballena
@@ -631,8 +695,33 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 - **Tagua Café Vivo** ☕
   - 📍 Uvita (sin dirección confirmada)
   - 🕒 Sin dato
-  - Ya documentado como alternativa a Sibu. Café con métodos de infusión, tortas y jardín junto a un arroyo.
+  - Ya documentado como alternativa a Sibu. Café con métodos de infusión, tortas y jardín junto a un arroyo. TRS lo escribe "Cafe Vivo" y probablemente es este mismo (café en un entorno natural junto a un arroyo): cold brew y rolls de canela muy recomendados, y platos con presentación cuidada.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Tagua+Caf%C3%A9+Vivo+Uvita+Costa+Rica)
+- **Gusto Italian Restaurant** 🍽️ · TRS
+  - 📍 Un poco afuera del pueblo, cuesta arriba por un camino con tramo rústico
+  - 🕒 Sin dato — ⚠️ **Recomiendan reservar, sobre todo para el atardecer: pedir mesa unos 45 min antes de la puesta del sol.**
+  - Los ñoquis fueron "de los más suaves" que probaron y la vista al mar es la razón de subir. Según ellos, bastante accesible para la calidad. TRS dice que en Costa Rica el sol se pone siempre entre las 17:00 y las 18:00, así que la reserva iría entre las 16:15 y las 17:15 según el día.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Gusto+Italian+Restaurant+Uvita+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Whale Tail Brewery** 🍺 🍽️ · TRS
+  - 📍 Uvita (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Mural que captura Uvita; el cervecero creció en Europa y hace estilos con ese toque (golden ale, porter, IPAs). Tiene brew pub con pizzas, hamburguesas, tacos y bifes, y cerveza para llevar (compraron la Whale's Tail Pale Ale).
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Whale+Tail+Brewery+Uvita+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Soda Ranchito Doña María** 🍽️ soda · TRS
+  - 📍 Uvita, con mesas junto a un arroyo (sin dirección en la fuente)
+  - 🕒 Sin horario — ⚠️ **Cerrada sábados y domingos. Nosotros estamos en Uvita el vie 26 (abre) y el sáb 27 (cerrada).**
+  - Comida de mamá y papá: casado de pollo y plato de pescado al ajillo. Un almuerzo barato de la tarde del viernes, no del día del tour de ballenas.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Soda+Ranchito+Dona+Maria+Uvita+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Ballena Bistro** 🍦 🍽️ · TRS
+  - 📍 Uvita (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Restaurante completo, pero fueron por el helado casero.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Ballena+Bistro+Uvita+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Mirador Don Roger** 🍽️ vista · TRS
+  - 📍 Uvita (sin dirección en la fuente)
+  - 🕒 Sin dato
+  - Lo nombran junto con Aracari (ya documentado) como restaurante con vista al mar. Sin más detalle.
+  - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Mirador+Don+Roger+Uvita+Costa+Rica) · [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
 
 **Fuentes (videos vistos el 21/9/2026):** [Sheay Travel Beaucoup](https://vt.tiktok.com/ZSq33MAga/) (3 cafés de La Fortuna: Sloffee, D'Balu y Raúl Castaño) · [russ](https://vt.tiktok.com/ZSqw8mLHu/) (Jungle Bowls, al lado de The Green Spoon) · [Regina Gonzalez](https://vt.tiktok.com/ZSqw8T3db/) (Anch'io (pizza y pasta de horno de leña)) · [Cindy](https://vt.tiktok.com/ZSqw8bppn/) (Soda Tita Rosa, Soda La Hormiga, Arenal Manoa, Fortuneño) · [Yailene](https://vt.tiktok.com/ZSqw8xjfJ/) (María Bonita Steak House, cena favorita de la autora) · [El Arturito](https://vt.tiktok.com/ZSqw8nxhD/) (Don Rufino, 7:47 min, en español) · [lostintimezones](https://vt.tiktok.com/ZSqwLhHyF/) (Chocolate Fusion: café y panadería del centro) · [Mels | side questing](https://vt.tiktok.com/ZSqwLBsWB/) (Raúl Castaño Mirador, con vista al Arenal) · [Ange](https://vt.tiktok.com/ZSqwL8ntU/) (Tour de un día a Arenal: Místico Hanging Bridges, Baldi Hot Springs, Café Macadamia) · [Emma Terra (YouTube)](https://www.youtube.com/watch?v=HQEhFUdtG0c) (Guía general de Costa Rica; de ahí salen Organico Fortuna y la advertencia sobre el comprobante del seguro) · [Matilda](https://vt.tiktok.com/ZSqwLDFU4/) (Carrusel de 10 actividades; lo relevante ya está en el itinerario)
 
@@ -703,13 +792,185 @@ Lista por región, sin repartir por día. Cada lugar trae nombre, dirección, d�
 - **Sendero Bogarín (La Fortuna)** 🌿 sendero
   - 📍 A menos de 1 km al oeste del parque central, por una calle lateral de la Ruta 142 (a la derecha, justo después de La Forchetta)
   - 🕒 7:00-17:00 · tours 8:00-16:00 · visita sin guía 7:00-16:00
-  - Circuito de 2,5 km, fácil, de 1 a 2 horas. Perezosos, tucanes y ranas. Proyecto familiar. Precio de entrada sin confirmar (ver su web).
+  - Circuito de 2,5 km, fácil, de 1 a 2 horas. Perezosos, tucanes y ranas. Proyecto familiar. Precio según TRS (2025): US$20 sin guía y US$45 con guía; reconfirmar en su web. TRS sin guía solo vio un perezoso porque un tour estaba parado mirándolo, y recomiendan pagar guía.
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Sendero+Bogar%C3%ADn+La+Fortuna+Costa+Rica) · [Web](https://www.bogarintrail.com/)
 - **Talamanca Nature Reserve (San Gerardo de Rivas) · el del Instagram** 🌿 posada
   - 📍 San Gerardo de Rivas, al pie del Chirripó (~2 h y ~103 km desde Uvita, pasando por San Isidro)
   - 🕒 Sin dato
   - El lugar del Instagram que pasó Daniel el 8/9/2026. Posada de montaña a ~1.500 m con más de 300 especies de aves, cuatriciclos y termas cerca. Queda tierra adentro y el regreso a SJO desde ahí es largo, así que no entra en el loop de 9 días: es para otro viaje. No pude ver su Instagram (pide iniciar sesión).
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Talamanca+Nature+Reserve+San+Gerardo+de+Rivas+Costa+Rica) · [Web](https://www.talamancanaturereserve.com/)
+
+## Two Roaming Souls — lo que hicieron en nuestra ruta (research 21/9/2026)
+
+Jake y Emily Junda, una pareja de EE.UU. que recorrió Costa Rica unas dos semanas en un camper 4x4 (Nomad America); los artículos son de junio a septiembre de 2025 y usan las siglas TRS acá. Daniel los encontró (blog + videos) y pidió tomar de ellos lo más posible. Leí a fondo los 8 artículos que tienen de Costa Rica: [Uvita](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/), [La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/), [restaurantes de La Fortuna](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/), [Monteverde](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/), [Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/), [Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/), [Río Celeste](https://tworoamingsouls.com/how-to-hike-rio-celeste-do-you-need-a-guide-more/) y [camping](https://tworoamingsouls.com/camping-in-costa-rica/) (no aplica: iban en camper), más la transcripción del [video de Río Celeste](https://www.youtube.com/watch?v=M-OcFhJiWGc).
+
+**Cómo leerlo:** 🆕 = no estaba en el proyecto · ✅ = ya estaba (se anota lo que TRS suma) · ⚠️ = contradice algo que teníamos · ❌ = ya descartado. Los precios son de 2025 y de un viaje en mayo (temporada verde): **reconfirmar**. Nada de esto se movió al itinerario: queda como opcional, a decidir por Daniel. **Todo marcado (21-22/9/2026):** las atracciones en el My Maps, capa "🧭 Extras opcionales", y los lugares para comer en la capa "🍽️ Comer" (39); en la lista nativa "Costa Rica", 93 sitios. Los lugares para comer y tomar café de TRS están en "Dónde comer" (etiqueta TRS), no acá.
+
+### ⚖️ Lo que TRS cambia o contradice de lo que ya teníamos
+
+- **Entrada a Manuel Antonio: US$16 vs US$18** ⚠️ precio
+  - Nuestra captura de SINAC (12/9/2026) dice US$16,00 (adulto extranjero no residente). TRS y las guías de 2026 dicen US$18 para adultos (niños de 2 a 11: US$5,65). La cuenta cierra si son US$16 + 13% de IVA (=US$18,08). En Río Celeste TRS lo escribe explícito: "$12 más 13% de impuesto". Refuerzo: en el tutorial del video la pantalla de pago de SINAC de Manuel Antonio muestra subtotal, una línea de IVA 13% y total, así que el impuesto se suma al pagar (no pude leer los números). Probable, no confirmado: mirar el total en el paso de pago de SINAC. Lo mismo valdría para Poás (US$15, ≈US$17).
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/) · [Two Roaming Souls · Río Celeste](https://tworoamingsouls.com/how-to-hike-rio-celeste-do-you-need-a-guide-more/)
+- **Parqueo en Manuel Antonio: no hay oficial** ⚠️ corregido en el itinerario
+  - Habíamos anotado "parqueo oficial gratuito". TRS dice que el parque no administra ningún parqueo, y varias guías de 2026 coinciden. Hay playones privados de vecinos a ~150 m (~₡5.000) y otros más lejos, a veces a más de 20 min a pie, con gente en chaleco que los para. Con su tour de Viator les guardaron un lugar pegado al parque por US$10 extra. Corregido en el Día 7.
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/)
+- **Entrada independiente a Marino Ballena: US$12 vs US$6** ⚠️ precio
+  - Ver la nota agregada en "Ballenas en Uvita". TRS: US$6 por persona para la Cola de Ballena. No cambia la decisión: el tour en lancha ya incluye la entrada.
+  - 🔗 [Two Roaming Souls · Uvita](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Catarata La Fortuna: US$20 vs US$18 · horario** ⚠️ precio
+  - TRS (jun 2025) paga US$20 por persona y dice horario 7:00-16:00; nuestra fuente dice US$18 y 7:00-17:00 con última entrada a las 16:00. US$18 + 13% de IVA da ≈US$20,3, así que probablemente es la misma diferencia de impuesto; lo más seguro es asumir US$20 y llegar antes de las 16:00. Recomiendan ir a la apertura (7:00) por las multitudes; son unos 500 escalones y no conviene nadar pegado a la caída.
+  - 🔗 [Two Roaming Souls · La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Mirador El Castillo: camino de 4x4** ⚠️ auto
+  - Vista de 360° al Arenal y al lago, muy buena para atardecer y amanecer, pero por un camino de tierra empinado que TRS recomienda hacer con 4x4 y alta luz al suelo, sobre todo si llovió. Nuestro Nissan Kicks es 4x2: no lo veo apto.
+  - 🔗 [Two Roaming Souls · La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Cierres que chocan con el itinerario** ⚠️ días
+  - Soda Ranchito Doña María (Uvita) cierra sábado y domingo: el Día 8 es sábado 27/3. La feria de La Fortuna es los viernes: estamos en La Fortuna domingo a martes, así que no la vemos. Manuel Antonio cierra los martes (ya estaba resuelto: vamos el viernes).
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+
+### 🌋 La Fortuna / Arenal — actividades y precios (TRS, jun 2025)
+
+- **Tour de café y cacao — North Fields** ❌ DESCARTADO 21/9/2026 (era US$46 por persona)
+  - Para ellos, uno de los mejores momentos del viaje: se ve, se toca y se prueba todo el proceso. Abren una vaina de cacao (la pulpa que envuelve los granos es rica; el grano crudo es amargo y "asqueroso"), pasan a una sala donde se prueba chocolate en distintas etapas, hay un tramo corto de caña de azúcar (se muestra cómo se procesa y se prueba) y cierra el café: cómo se tuesta y el filtro de tela costarricense. Duración y horarios sin dato. Para un fanático del café, es un extra a Hacienda Alsacia.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Sendero Bogarín (perezosos)** ✅ ya como opcional · precio nuevo
+  - US$20 sin guía y US$45 con guía (ya cargado arriba). También mencionan Sloth Territory, otro sendero de perezosos, y una oferta en línea de US$35 (tour guiado de perezosos + clase de tortillas). Vistas al Arenal y hormigas cortadoras.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Termas: gratis, Los Laureles y Baldi** 🆕 opciones baratas
+  - Elegimos Eco Termales (~US$48,60). TRS probó: (1) las termas gratis pegadas a Tabacón, un río tibio "como una bañera", sendero corto, sin baños ni vestuarios, con parqueo de US$10 que no saben si es oficial; (2) Thermales Los Laureles, US$15 (US$10 residentes), con toboganes, muchas piletas, mesas de picnic y snack bar, "excelente relación precio-calidad"; y (3) mencionan Baldi (estilo parque acuático) y Tabacón (el de lujo, siempre el mejor calificado; los precios van de gratis a más de US$100).
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Arenal 1968 (senderos sobre lava)** 🆕 US$26 · US$45 con termas
+  - Tres senderos marcados verde, amarillo y rojo, de ~2 a 5 km, sobre campos de lava y selva hasta miradores del volcán y del lago; el rojo fue donde más fauna vieron. Convergen en el restaurante Lava '86, con vista. Es de los más caros de la zona pero tiene baños, parqueo seguro y jardín de frutas y hierbas con colibríes. Pase de día con termas: US$45. Dicen que las alternativas más baratas (Parque Nacional Arenal, Mirador El Silencio) están descuidadas.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **El Salto (soga y saltos al río)** 🆕 gratis
+  - Su actividad gratuita favorita de todo el viaje: caminar por un puente peatonal y bajar a un pozón para nadar, saltar de las rocas o colgarse de la soga. El parqueo sobre la ruta es gratis, pero un local les pidió plata al irse. Advierten corrientes que cambian rápido y remolinos: bajo propia responsabilidad.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Lago Arenal** 🆕 alquileres sin precio
+  - Kayak, paddleboard, windsurf, moto de agua y lanchas; también hay paseos guiados. El lago es ventoso, sobre todo en la seca: quedarse cerca del volcán, donde el agua está más calma. El kayak es lo más barato pero cuesta avanzar.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Otros ítems** ℹ️
+  - Rafting en el río Balsa (clases 2 a 4) y otras actividades de aventura, sin precios. Feria de los viernes (no coincide). Parque central: la iglesia y el volcán quedan alineados, buena foto; un árbol grande en la esquina noreste da sombra.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Río Celeste (Tenorio) — datos completos** 🔄 a reconsiderar (Día 3)
+  - Daniel pidió reconsiderarlo (21/9/2026): ver la comparación con Blue Falls en el Día 3. Entrada US$12 + 13% de IVA (niños US$5), tope de 1.200 personas por día, franjas de entrada 8:00 a 13:05 y cierre a las 17:00; reserva anticipada en SINAC (en temporada seca, días o semanas antes). Sendero único de ida y vuelta: 2,8 km, 122 m de desnivel y 250 escalones; completo llega a 5,1 km (mirador del volcán, Laguna Azul, Los Borbollones, El Teñidero). Prohibido bañarse dentro; para nadar, Dante's Free Pool (gratis, corriente rápida) o Mirador Río Celeste (se paga a locales). Parqueo: poner "Parqueo del Parque Nacional Tenorio" en Google Maps, no "Río Celeste" (los lleva al lugar equivocado); ₡3.000 (~US$6) o gratis cruzando la calle junto a un mercado. Después, Blue River Brewery con vista. Opinión: "mucho viaje para una sola atracción"; y que la guía no vale acá (es un solo sendero lleno de gente): mejor gastarla en Manuel Antonio o Monteverde. El río puede no verse azul después de tormentas. Detalles del video y del artículo que faltaban: un cartel del sendero marca la catarata a ~1,5 km de la entrada (lectura aproximada, la imagen es chica); la pantalla de SINAC muestra 6 franjas de entrada con ~150-200 lugares cada una (números borrosos), la última de 13:05 a 13:45; el cartel de "no nadar" está en el propio río; el parqueo de ₡3.000 aparece rotulado "about $6". Guías: tienen una privada que incluye la entrada, y tours de día completo desde La Fortuna o desde San José (en su descripción de YouTube). Dormir cerca (a 3 min del parque): Posada Río Celeste La Amistad (económico), The Edge of the Rainforest Above Rio Celeste (gama media, cabañas de troncos) y Hideaway Rio Celeste (lujo, con spa, piscinas y restaurante). El pueblo más cercano es Bijagua, a ~30 min al oeste: lo describen como una joya escondida, sin las multitudes de La Fortuna o Monteverde, y sugieren pasar un par de días ahí para que el viaje rinda. Recuerdan que todo auto alquilado exige seguro de responsabilidad civil y que el CDW se puede evitar solo si se prueba por escrito otra cobertura (tarjeta o seguro de viaje), lo que coincide con la constancia de la Visa que ya anotamos.
+  - 🔗 [Two Roaming Souls · Río Celeste](https://tworoamingsouls.com/how-to-hike-rio-celeste-do-you-need-a-guide-more/) · [Video de YouTube](https://www.youtube.com/watch?v=M-OcFhJiWGc) · [Dante's Free Pool](https://maps.app.goo.gl/133FeiLM7Yfnxoqv8) · [Mirador Río Celeste](https://maps.app.goo.gl/y46SzrNW8fTeuwRx6) · [Blue River Brewery](https://maps.app.goo.gl/L72Vty9NWFw24Njx9)
+
+### ☁️ Monteverde — actividades y precios (TRS, jun 2025)
+
+- **Reserva del Bosque Nuboso de Monteverde** 🆕 US$26 · US$49 guiada
+  - La reserva clásica (10.500 ha, solo el 2% abierto al público, puente colgante, noche y aves). Nosotros elegimos Santa Elena (US$21) por más tranquila. Sobre la guía: "sin ella puede sentirse como una caminata cara"; si se va sin guía, llevar binoculares o alquilarlos. La guiada es lo que más recomiendan.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
+- **Tirolesa 100% Aventura** 🆕 US$67 · fotos US$15
+  - 9 tirolesas, 2 estilo Superman y un Tarzan swing con caída libre; la más larga mide 1.590 m (casi una milla). US$67 adultos, US$56 niños; el paquete de fotos cuesta US$15. Empieza con una línea chica y va subiendo. El Día 5 ya está cargado.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
+- **Mirador San Luis** 🆕 gratis
+  - Plataforma con vista hasta el Golfo de Nicoya y la península de Nicoya en día despejado. Está fuera del pueblo, por una bajada empinada: hace falta auto. Depende del clima.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
+- **Ficus La Raíz** 🆕 donación US$2
+  - Higuera cuyas raíces trepan una ladera formando un puente natural sobre un arroyo. Donación sugerida de US$2 por persona, con un estacionamiento chico y solo un par de tramos de escalera.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
+- **Caminata nocturna (ya en el Día 5)** ✅ tip
+  - Fauna nocturna: tarántulas, ranas, lagartos, serpientes, coatíes, kinkajúes y búhos. Ropa: pantalón largo, manga larga y calzado cerrado.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
+- **Consejos generales de Monteverde** ℹ️
+  - 1.400 m de altura (4.500 pies), más fresco que el resto. Santa Elena es el pueblo; muchas calles son empinadas y una cuadra corta puede cansar. En el centro hay más servicios pero ruido de calle; afuera hay más naturaleza y menos comodidades. Para ver fauna hay que ir despacio y escuchar: "los guías te hacen ver mucho más".
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
+
+### 🏖️ Manuel Antonio — el parque en detalle (TRS, ago 2025)
+
+- **Reglas del parque (revisan las mochilas en la entrada)** 🆕 importante
+  - Sin plástico de un solo uso, incluidas botellas: llevar botella reutilizable (hay puntos de recarga dentro). Sin comida de afuera (comer antes de entrar). Sin alcohol ni tabaco. Sin sillas, sombrillas, carpas, toldos ni hamacas: solo toalla. Sin aerosoles de ningún tipo: ni protector solar, ni bronceador, ni repelente en spray (usar crema, loción o pulverizador sin presión). Sin drones. Sí hay lavapiés, duchas al aire libre y baños: llevar una muda si van a nadar.
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/)
+- **Horarios y entrada** ✅ coincide
+  - 7:00-15:00, cerrado los martes; hay que salir antes de las 16:00 (por eso las atracciones lejanas cierran a las 15:00). La entrada tiene franja horaria, pero una vez adentro se queda hasta el cierre. Reservar la primera franja: menos gente y más chance de ver animales. El sol sale entre las 5 y las 6 todo el año.
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/)
+- **Qué hay dentro** ℹ️
+  - Playa Manuel Antonio (la mejor para nadar y hacer snorkel, con piletas de marea en los bordes), Playa Espadilla Sur (más olas), Playa Gemelas (cala rocosa con olas fuertes, la más vacía), Punta Catedral (antigua isla unida por el tómbolo, sendero cuidado con miradores y aves marinas), 18 ha de manglar y una cascada estacional (consultar al personal). Solo se recorre a pie: 8 km de senderos, pero la visita típica es de 1,5 a 3 km. Hay tramos de pasarela plana.
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/)
+- **Guía: sí, y cuándo** 🆕 opción
+  - Recomiendan contratar guía naturalista: con su telescopio (y un adaptador para sacar fotos con el celular) encontraron aves y murciélagos que no habrían visto solos. Dentro de la entrada están los Guías Oficiales del parque: (506) 8671-1813 o maofficialtourguide@gmail.com. Ellos también tomaron un grupo compartido por Viator (les tocó privado), guía Luis. Aconsejan hacerlo temprano en el viaje para aprender a ver fauna, y admiten que su error fue ir el último día. Precio sin dato.
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/)
+- **Fauna y cuidados** ℹ️
+  - Perezosos de tres dedos (los más fáciles) y de dos; en época de lluvias suben más alto y cuesta verlos. Capuchinos cara blanca y monos aulladores casi seguros; ardillas y araña son más raros. Los capuchinos roban: mantener distancia, cuidar las cosas y no sonreír ni mirar fijo (mostrar los dientes lo leen como amenaza). Iguana negra en las playas, cangrejos Halloween, hormigas cortadoras, más de 350 aves (tucán pico castaño, arasarí de pico de fuego) y, con suerte, cocodrilos y osos hormigueros.
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/)
+- **Dormir cerca (referencias de TRS, sin precios)** ℹ️
+  - 727 Airplane Jungle Fuselage (el más cercano al parque, el más caro), Hotel Manuel Antonio (sobre la playa, a 5 min a pie de la entrada) y Costa Linda Art Hostel (a 8 min, baño compartido). La cotización de estos está más abajo ("Cotización de los alojamientos que recomienda TRS").
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/)
+
+### 🌴 Dominical y Uvita — actividades y precios (TRS, jun-sep 2025)
+
+- **Cascada Nauyaca** 🆕 US$10 · 30 min de Uvita
+  - Doble cascada; "entre las 5 mejores de todos sus viajes". Detalle y precios en "Otras actividades en la zona de Uvita". Caminata US$10, parqueo US$5, camioneta 4x4 US$32, caballo US$80; 4 millas ida y vuelta; salir hacia las 7:30 para no toparse con el calor ni con la gente. No cabe en el Día 7 (parque hasta ~15:00) ni en el Día 8 (tour de ballenas + 3h18 de manejo).
+  - 🔗 [Two Roaming Souls · Uvita](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/) · [Two Roaming Souls · Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/)
+- **Catarata Uvita** 🆕 ₡1.500-2.000
+  - Cerca del pueblo (Sebas queda a 50 m). Entrada superior ₡1.500 por persona, con sendero corto y empinado; o Catarata Esmeralda Uvita, ₡2.000, con mariposario, baños, vestuarios y restaurante. Se puede saltar de acantilado y deslizarse por la cascada, pero con el caudal fuerte les desaconsejaron el tobogán. Todo resbaloso.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Cola de Ballena (tómbolo)** ✅ ya en el Día 8
+  - TRS: US$6 por persona (ver discrepancia arriba). La península protege del oleaje y es más tranquila para nadar. Aconsejan ir dentro de las 2 horas de la marea baja: con marea alta el mar cruza y no se camina. Hay piletas de marea, miles de cangrejos en la playa y, cerca de la desembocadura de agua dulce, cocodrilos (no vieron ninguno).
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Ballenas: la temporada que dice TRS** ✅ coincide
+  - Ellos fueron en mayo, fuera de temporada, y no vieron. Marcan mediados de julio a octubre (hemisferio sur) y fines de diciembre a marzo (hemisferio norte), coherente con lo que ya teníamos. A veces se ven desde la orilla; el barco da más chances y también delfines y tortugas.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Playa Colonia al atardecer · Playa Ventanas · surf** 🆕 gratis
+  - Playa Colonia: fueron para el atardecer y "Mamá Naturaleza cumplió". Playa Ventanas (cuevas en las rocas) está 15 min al sur, en sentido contrario a SJO (ya la habíamos descartado). Surf para principiantes a intermedios; la mejor época es la lluviosa, mayo a noviembre.
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Playa Dominical y Poza Azul** 🆕 gratis
+  - Dominical rompe olas todo el año (más para intermedios y avanzados; la bahía de Dominicalito es más tranquila). Vendedores de artesanías y cocos sobre la playa. Poza Azul: cascada y pozón a 2 min de caminata desde el parqueo, con soga para saltar (ojo: poca profundidad); hubo robos a autos y esta vez vieron patrulla; los capuchinos también roban.
+  - 🔗 [Two Roaming Souls · Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/)
+- **Alturas Wildlife Sanctuary** 🆕 sin precio
+  - Santuario de animales rescatados que se rehabilitan para liberar; sitio de fauna "garantizada". Sin precio ni horario en la fuente. Ojo: ya tenemos el santuario de perezosos de Selvatura.
+  - 🔗 [Two Roaming Souls · Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/)
+- **Isla del Caño · tours de café, chocolate y aves** ℹ️
+  - Snorkel y buceo en la reserva (tortugas, rayas, tiburones de arrecife); ya descartada para este viaje. También mencionan tours de aves, de chocolate y de café en la zona, sin precios (enlaces de Viator).
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/)
+- **Dormir en Uvita y Dominical (referencias de TRS, sin precios)** ℹ️
+  - Uvita: Alborada Boutique Stay (lujo, a 1,2 millas de la playa, piscina, desayuno), Ibiza Tropical Beach Villas (gama media, muy cerca de la playa) y Tropical Beach (económico, piscina, desayuno). Dominical: Mavi Surf Hotel (gama media, desayuno) y Cool Vibes Beach Hostel. Cotización con nuestras fechas más abajo.
+  - 🔗 [Two Roaming Souls · Uvita](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/) · [Two Roaming Souls · Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/)
+
+### 🎟️ Cómo reservar en SINAC (video de Río Celeste; el proceso es el mismo para Poás y Manuel Antonio)
+
+- **Paso a paso** 🆕 útil en enero
+  - (1) Entrar con la cuenta (Daniel ya está registrado). (2) La pantalla de disponibilidad sirve para mirar fechas pero no deja comprar desde ahí: hay que volver a "Comprar" → "Reserva en línea" y bajar hasta el parque. (3) Elegir fecha (ojo: escriben el día antes del mes, así que 200725 es el 20 de julio de 2025; confunde cuando el día es 12 o menos), franja y cantidad; las categorías extra son adultos mayores, niños extranjeros o nacionales y menores de 2 años. (4) Aceptar términos: las entradas se retienen 12 minutos mientras se paga. (5) Cargar nombre, número de pasaporte o licencia y país de cada visitante, después la tarjeta; se puede desmarcar la factura electrónica porque llega el mail igual. (6) El mail trae un solo código de barras para todos y un adjunto con condiciones; el mail repite que cada persona debe presentar su documento en la entrada. (7) Ojo: el tutorial del video está grabado con Manuel Antonio, y en su pantalla de pago se ven un subtotal, una línea de "IVA 13%" y el total. Ahí se confirma cuánto es de verdad (los números del cuadro no se leen).
+  - 🔗 [Video (YouTube)](https://www.youtube.com/watch?v=M-OcFhJiWGc) · [SINAC — reservas](https://serviciosenlinea.sinac.go.cr/)
+- **En el parque** 🆕
+  - Controlan los documentos contra los números que se cargaron: llevar los pasaportes de los dos. En Río Celeste no siempre hay señal ni wifi, así que tener el código descargado o impreso antes de llegar (por las dudas, también para Poás y Manuel Antonio). Anticipación: TRS reservó el día antes en mayo (temporada baja); en seca y sobre todo en Semana Santa, conviene semanas antes. Río Celeste tiene tope de 1.200 personas por día.
+  - 🔗 [Two Roaming Souls · Río Celeste](https://tworoamingsouls.com/how-to-hike-rio-celeste-do-you-need-a-guide-more/)
+
+### 📌 Consejos generales que repiten
+
+- **Propina y pagos** ℹ️
+  - La propina habitual es ~10% y muchos restaurantes ya suman 10% de servicio automáticamente. Frase útil: "la cuenta". Pagar con tarjeta en colones. ⚠️ **Daniel ya decidió no perseguir el pago en colones; queda solo como dato.**
+  - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/)
+- **Valores en el auto y fauna que roba** ℹ️
+  - No dejar nada de valor en el auto en ningún lado (playas, cascadas, Dominical); los capuchinos también roban cosas. Sobre el estacionamiento en los atractivos naturales: a veces no se sabe si el cobro es oficial o de alguien con chaleco; llevar efectivo chico.
+  - 🔗 [Two Roaming Souls · Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/) · [Two Roaming Souls · La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/)
+- **Manejo, combustible y luz del día (del artículo de camping)** 🆕
+  - Combustible en 2025: ₡692 por litro (~US$1,37); en todas las estaciones te cargan el tanque y se pide "full super" (ellos gastaron ~US$148 en dos semanas con un Suzuki Jimny). En el país amanece a las 5-6 y el sol se pone siempre entre las 17:00 y las 18:00 (11,5 a 12,5 horas de luz todo el año): planificar llegar de día. Ojo con el Día 8: salir de Uvita a media tarde deja la parte final del trayecto a SJO ya de noche. Manejo en rutas principales: sin sobresaltos, pero adelantan mucho en carril contrario y hay muchas motos; en montaña, alerta a pozos, fauna y lluvia. Las rutas secundarias pueden tener cruces de río: la ruta trasera de La Fortuna a Monteverde tiene uno (ellos no la tomaron). Verificar que Waze o Google no nos mande por ahí. Aconsejan Waze como más preciso, aunque a ellos Google Maps les funcionó bien. La mayoría del agua de la canilla es potable. El pronóstico en apps no sirve: el clima es muy local; en verde amanece soleado y se nubla a la tarde. La costa es más calurosa y húmeda que la montaña, donde refresca de noche.
+  - 🔗 [Two Roaming Souls · Camping](https://tworoamingsouls.com/camping-in-costa-rica/)
+- **Lo que ellos harían distinto** ℹ️
+  - Hacer la visita guiada de fauna al principio del viaje (para aprender a ver animales el resto del viaje) y gastar el presupuesto de guías en Manuel Antonio y Monteverde antes que en Río Celeste. También: ir siempre a la primera franja/apertura de cada atractivo.
+  - 🔗 [Two Roaming Souls · Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/) · [Two Roaming Souls · Río Celeste](https://tworoamingsouls.com/how-to-hike-rio-celeste-do-you-need-a-guide-more/)
+
+### 🛏️ Cotización de los alojamientos que recomienda TRS (Booking, 21/9/2026, 2 adultos, con la cuenta de Daniel)
+
+De 13 alojamientos buscados, **11 no tienen disponibilidad en Booking para nuestras noches** (probable Semana Santa) y 2 no se pudieron encontrar. Booking dice "no disponible en nuestra web": puede haber cupo pidiéndolo directo al hotel o en otra plataforma (no lo probé). Aire acondicionado sin verificar, por ser irrelevante sin cupo. Quedan como referencia, no como opción viable: para dormir sigue valiendo lo ya relevado por zona.
+
+- **La Fortuna · 20-23/3 (3 noches)**
+  - **Tabacón Thermal Resort & Spa** (9,1; 271 opiniones): ⚠️ no disponible en Booking. Booking sugiere fechas vecinas desde US$705 la noche (18-19/3, 19-20/3) y 3 noches del 25 al 28/3 desde US$2.685.
+  - **Hotel Los Lagos Spa & Resort** (9,1; 3.673 opiniones; es el "Los Lagos Spa & Thermal Resort" de TRS): ⚠️ no disponible en Booking.
+  - **Arenal Oasis Eco Lodge & Wildlife Refuge** (9,1; 872 opiniones): ⚠️ no disponible en Booking.
+- **Monteverde · 23-25/3 (2 noches)**
+  - **Hotel Belmar** (8,8; 166 opiniones): ⚠️ no disponible. Desde el 21/3 sí hay: 1 noche desde US$540, 2 noches (21-23/3) desde US$1.075.
+  - **Hotel & Spa Poco a Poco** (9,1; 150 opiniones): ⚠️ no disponible. Desde el 21/3: 1 noche desde US$429, 2 noches desde US$858.
+  - **Hostel Monteverde Backpackers** (8,1; 115 opiniones): ⚠️ no disponible (y como los otros hostels de la zona, probablemente sin A/C).
+  - **Casa Euphonia**: no la pude ubicar en Booking ni en Airbnb con ese nombre.
+- **Manuel Antonio · 25-26/3 (1 noche)**
+  - **Hotel Manuel Antonio** (8,1; 723 opiniones): ⚠️ no disponible.
+  - **Costa Linda Art Hostel** (8,3; 515 opiniones): ⚠️ no disponible el 25→26/3; Booking muestra cupo el 23→24 y 24→25/3 a US$72,35 la noche, o sea, no sirve para esta fecha.
+  - **727 Airplane Jungle Fuselage**: no apareció en Booking con ese nombre.
+- **Uvita · 26-27/3 (1 noche)**
+  - **Alborada Boutique Stay** (9,3; 254 opiniones), **Ibiza Tropical Beach Villas** (9,4; 291 opiniones) y **Tropical Beach** (8,2; 1.258 opiniones): ⚠️ las tres sin disponibilidad en Booking.
+
+**Fuentes:** [Uvita](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/) · [La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/) · [Restaurantes La Fortuna](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/) · [Monteverde](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/) · [Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/) · [Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/) · [Río Celeste](https://tworoamingsouls.com/how-to-hike-rio-celeste-do-you-need-a-guide-more/) · [Video Río Celeste](https://www.youtube.com/watch?v=M-OcFhJiWGc) · [Guías 2026 de Manuel Antonio (parqueo y precio)](https://mytanfeet.com/activities/hiking-at-manuel-antonio-national-park/) · [Guías 2026 de Marino Ballena (precio)](https://costaricadivers.com/destinations/uvita/marino-ballena-national-park/).
 
 ## Auditoría de días y horarios de apertura — cruzados contra el itinerario real (13/9/2026)
 
@@ -719,10 +980,10 @@ Repaso de cada parada de Itinerario contra los días de calendario exactos que l
 |---|---|---|---|
 | 1 | Sáb 20/3 | Hacienda Alsacia | ✅ Abierta todos los días 8am-6pm. Ver detalle arriba sobre temporada. |
 | 1 | Sáb 20/3 | Volcán Poás | ✅ Abierto los 7 días, sin cierre semanal (puede cerrar sin aviso por actividad volcánica, riesgo bajo e impredecible). |
-| 1 | Sáb 20/3 | La Paz Waterfall Gardens | ✅ Abierto todos los días 8am-5pm, última entrada 3pm, sin reserva previa. |
+| 1 | Sáb 20/3 | ~~La Paz Waterfall Gardens~~ | ❌ Descartado el 21/9/2026. |
 | 2-3 | Dom 21 y lun 22/3 | Catarata La Fortuna | ✅ Abierta todos los días 7am-5pm, última entrada 4pm. |
 | 2-3 | Dom 21 y lun 22/3 | Eco Termales Fortuna | ✅ Sin cierre semanal, pero ⚠️ **cupo limitado a 100 personas por franja y reserva obligatoria con anticipación** — puede agotarse, sobre todo en Semana Santa (superpuesta con este viaje). |
-| 2-3 | Dom 21 y lun 22/3 | Kayak Río Peñas Blancas | ✅ Tour de mañana (pickup ~7:30-8am, vuelta ~11-11:15am), sin cierre semanal encontrado. |
+| 2-3 | Dom 21 y lun 22/3 | ~~Kayak Río Peñas Blancas~~ | ❌ Descartado el 21/9/2026. |
 | 2-3 | Dom 21 y lun 22/3 | Caminata nocturna | ✅ Todos los días, salidas 6pm y 8pm. |
 | 5 | Mié 24/3 | Reserva Santa Elena | ✅ Abierta todos los días 7am-4pm, sin reserva previa necesaria. |
 | 5 | Mié 24/3 | Selvatura Park (puentes + santuario de perezosos) | ✅ Parque abierto todos los días 7am-4pm, tours del santuario cada hora entre 8:15am y 3:15pm. |
@@ -735,7 +996,7 @@ Repaso de cada parada de Itinerario contra los días de calendario exactos que l
 
    **Cronología detallada (13/9/2026):** aterrizaje 08:50 + inmigración (15-60min, mejor por llegar antes de las 9am) + retiro del auto (45-60min con traslado al lote) → recién se empieza a manejar entre las 10:05 y 10:35am. Con ese punto de partida, la franja de Poás realmente alcanzable es la de 11am-12pm (no la de 8am, ideal para cráter despejado — a esa hora ya suele estar nublado, sea cual sea el orden de las paradas). Siguiendo con Alsacia y después La Paz Waterfall Gardens, la llegada a La Paz cae entre las 14:35 y las 15:50 — la última entrada es a las 15:00, así que en el escenario más realista **no se llega a entrar**.
 
-   **✅ Decisión de Daniel (13/9/2026): se deja el Día 1 tal como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens.** Esto no tiene riesgo de plata perdida: La Paz Waterfall Gardens **no pide reserva anticipada** (se paga en el momento, sin costo hundido si no se llega). El único costo ya comprometido es la entrada a Poás, pero ahí el "riesgo" no es perder la entrada (se usa la franja que toque) sino simplemente no ver el cráter bien despejado — algo ya esperable dado el horario del vuelo, no una falla de planificación.
+   **✅ Decisión de Daniel (13/9/2026): se deja el Día 1 tal como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens** *(superado el 21/9/2026: La Paz quedó descartado del todo).* Esto no tiene riesgo de plata perdida: La Paz Waterfall Gardens **no pide reserva anticipada** (se paga en el momento, sin costo hundido si no se llega). El único costo ya comprometido es la entrada a Poás, pero ahí el "riesgo" no es perder la entrada (se usa la franja que toque) sino simplemente no ver el cráter bien despejado — algo ya esperable dado el horario del vuelo, no una falla de planificación.
 2. **⚠️ Eco Termales necesita reserva anticipada** por el cupo limitado (100 personas) — conviene reservarla junto con Poás y Manuel Antonio, no dejarla para último momento, más todavía con Semana Santa superpuesta al viaje.
 
 ---
@@ -890,7 +1151,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 1. Aeropuerto Juan Santamaría (SJO) — llegada, retiro del auto
 2. Hacienda Alsacia (Starbucks) — tour cafetero, está en las faldas del propio Poás
 3. Volcán Poás (PN Volcán Poás)
-4. La Paz Waterfall Gardens
+4. ~~La Paz Waterfall Gardens~~ (descartado 21/9/2026; lo reemplaza Colibrí Café de Cinchona y la Catarata La Paz desde el puente)
 5. La Fortuna / Volcán Arenal
 6. Monteverde / Santa Elena — **acá es donde está el santuario de perezosos documentado** (variante 1, fuente Araya Vlogs), no cerca de Poás como se pensó en un primer momento
 7. Quepos / Manuel Antonio
@@ -907,8 +1168,8 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 |---|---|---|
 | Aeropuerto SJO → Hacienda Alsacia | ~15 km | ~45 min |
 | Hacienda Alsacia → Volcán Poás | están en la misma ladera | ~15-20 min |
-| Volcán Poás → La Paz Waterfall Gardens | — | ~20-30 min |
-| La Paz Waterfall Gardens → La Fortuna | — | ~2h (es el punto medio SJO-La Fortuna) |
+| Volcán Poás → La Paz Waterfall Gardens (descartado 21/9/2026) | — | ~20-30 min |
+| Cinchona / La Paz → La Fortuna | — | ~1h30-2h (estimado); Poás → La Fortuna directo ~2h15 |
 | La Fortuna → Monteverde | — | ~2h30-3h (caminos de montaña) |
 | Monteverde → Manuel Antonio (directo, Costanera Sur, pasa por Jacó y Carara) | 190 km | 3h36min |
 | Manuel Antonio → Uvita | 64 km | 56min |
@@ -918,26 +1179,44 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 
 **Esqueleto de días** (9 días de calendario, ~8 netos descontando el tiempo de vuelos — ida y vuelta rondan las 10h cada tramo más horas de aeropuerto):
 
-- **Día 1 (sáb 20/3):** Llegada + Alsacia + Poás + La Paz
-  - Aterrizaje SJO 08:50 (AV218+AV696 vía Bogotá) + inmigración (15-60 min) + retiro del auto en Avis (45-60 min) — recién se arranca a manejar entre las **10:05 y 10:35am**.
-  - SJO → Hacienda Alsacia (~45 min). **Hacienda Alsacia** — tour cafetero guiado, 90 min + cata, 1,5-2h en total. US$35 turista extranjero. [Comprar →](https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/)
-  - Alsacia → Volcán Poás (~15-20 min). **Volcán Poás** — franja real alcanzable **11am-12pm** (la de 8am con cráter despejado no entra en los horarios), entrada US$15. [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
-  - Poás → La Paz Waterfall Gardens (~20-30 min). **La Paz Waterfall Gardens** — abierto 8am-5pm, última entrada **15:00**, mínimo 2h de recorrido. Llegada estimada entre las **14:35 y 15:50** — en el escenario más realista no se llega a entrar. US$56, sin reserva anticipada. Postura de Daniel: "si llegamos, llegamos" (sin riesgo de plata perdida). [Comprar →](https://www.getyourguide.com/costa-rica-l168995/la-paz-waterfall-gardens-day-pass-ticket-t780799/)
-  - La Paz → La Fortuna (~2h). Noche en La Fortuna. 📍 Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · La Paz Waterfall Gardens · La Fortuna
-  - ⚠️ El día más ajustado de todo el viaje — [reserva del auto](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=) se retira acá.
-  - 🅿️ **Estacionamiento:** Hacienda Alsacia y La Paz Waterfall Gardens tienen parqueo propio del predio — ninguna fuente oficial menciona un cargo aparte, así que está incluido en la entrada (sin cuidacoches). Volcán Poás tiene parqueo **oficial de SINAC, US$4 por auto, aparte de la entrada** (research 20/9/2026, segunda pasada de research confirma el mismo dato).
+- **Día 1 (sáb 20/3):** Llegada + Alsacia + Poás + Cinchona
+  - ✅ **DÍA 1 CERRADO (21/9/2026)** con las decisiones de Daniel: **La Paz Waterfall Gardens descartado**; **se suman** Catarata de la Paz (puente), Colibrí Café de Cinchona y, de paso, Fraijanes; **Alsacia queda como el único tour de café del viaje** (sin el tour de Café Monteverde ni North Fields); Poás se mantiene. ✅ **Formato de Alsacia decidido (22/9/2026): Coffee Tour de 90 min.** Queda una sola definición chica, a resolver cuando abra el calendario: el orden Poás/Alsacia.
+  - Aterrizaje SJO **08:50** (AV218+AV696 vía Bogotá) + inmigración (15-60 min) + retiro del auto en Avis (45-60 min) — recién se arranca a manejar entre las **10:05 y 10:35am**.
+  - SJO → Hacienda Alsacia (~45 min). ✅ **Hacienda Alsacia — Coffee Tour de 90 min, DECIDIDO (22/9/2026).** US$36 por adulto (mínimo 2 pagantes): vivero, beneficio húmedo, patio de secado y tostadora. ⚠️ En marzo, fuera de cosecha, parte de eso está parado: una reseña de 1★ de agosto de 2026 dice que la finca solo opera de octubre a febrero — igual se ve el tueste en vivo y la cata final. Reservar cuando abra el calendario de marzo de 2027 (solo con reserva, tours 8:00-16:00). Descartados: el Coffee Lab de 45 min y el café suelto sin tour. Instagram: @haciendaalsacia. [Reservar (oficial)](https://www.starbuckscoffeefarm.com/visit).
+  - Alsacia → Volcán Poás (~15-20 min). **Volcán Poás** — SINAC vende franjas de 20 min de 8:00 a 14:00 (hasta 108 personas por franja); entrada US$15 (probable +13% de IVA). La visita es corta: ~10 min de caminata plana por sendero asfaltado hasta el mirador, 20 min permitidos ahí y 10 de vuelta (~45-60 min en total). ⚠️ **El texto anterior decía "franja 11:00-12:00", pero con Alsacia primero se llega ~13:00.** Con Poás primero sería ~11:00-12:00, con mejor chance de cráter despejado (⏳ orden por decidir; recomendado: Poás primero).
+  - **Poás — estado de los senderos (sin confirmar):** dos fuentes (el video que vio Daniel y la guía de Viajeros Callejeros) dicen que hoy solo se visita el cráter principal y que los senderos a la Laguna Botos y Escalonia no se pueden hacer por daños de la actividad eruptiva; una guía de 2026 los menciona como abiertos, pero cita datos de 2018. No pude leer la página oficial de SINAC. Daniel lo va a seguir investigando con el correr de los meses para ver en qué estado están; de todos modos, se reconfirma al reservar en enero y de nuevo antes del viaje. El parque cierra por actividad volcánica y SINAC lo avisa en su web y sus redes.
+  - **Poás — ver la visibilidad del cráter antes de subir:** cámaras oficiales del observatorio OVSICORI: [cráter](https://www.ovsicori.una.ac.cr/index.php/vulcanologia/camara-volcanes-2/camara-crater-v-poas) (según su página, se actualiza cada pocos segundos) y [suroeste del cráter](https://www.ovsicori.una.ac.cr/index.php/vulcanologia/camara-volcanes-2/camara-v-poas-so-del-crater), y la [cámara de la CNE](https://www.cne.go.cr/preparativos_respuestas/eventos_actuales/volcanes/volcan_poas.aspx). El cráter suele estar cubierto por los vientos alisios del Caribe, pero puede despejar en minutos.
+  - ❌ **La Paz Waterfall Gardens — DESCARTADO (21/9/2026)**, decisión de Daniel después de ver un video completo: le da pena cómo están los animales (recintos) y las cascadas no lo sorprendieron; le gustaron más las de Río Celeste. Costaba US$56 sin IVA, US$63,28 con IVA (~US$126 los dos).
+  - 🆕 **Colibrí Café – Soda y Mirador Cinchona** (parada de ruta, no es el Colibrí Café de Monteverde) — sobre la ruta 126, pasando La Paz y antes de San Miguel. Gratis (aceptan aportes), abre desde las 6:00; más de una docena de especies de colibríes, tángaras y con suerte quetzal, y vista a la catarata San Fernando de 70 m; hay soda para almorzar. Ideal para la lente 150-600. Según el video que vio Daniel, la gente almuerza ahí después de Poás y ve colibríes, tucanes y otras aves en los comederos; Google Maps muestra cerca las cataratas San Fernando, Paula y Botos. Estimado 30-60 min; hora de cierre sin confirmar. [Ficha](https://natureincostarica.com/place/colibri-cafe-soda-y-mirador-cinchona/).
+  - 🆕 **Catarata de la Paz desde el puente de la ruta** (la cascada gratis; en Google Maps la ficha se llama "Catarata de la Paz", mientras que "Catarata La Paz" es el listado del complejo pago) — parada de 5-10 min justo sobre la ruta 126, antes de Cinchona. ⚠️ Hubo robos a autos en ese punto: no dejar nada adentro.
+  - Cinchona → La Fortuna (~1h30-2h, estimado; Poás → La Fortuna directo son ~2h15). Noche en **La Fortuna**. Saliendo de Cinchona a las ~15:45 se llega ~17:15-17:30, antes de la puesta de sol (~17:50).
+  - De paso, **Fraijanes** (sobre la ruta 712 de Alajuela a Poasito, antes de Poás): ventas de fresas al costado del camino, restaurantes de casado a menos de US$15 y el Parque Recreativo Laguna de Fraijanes. Parada libre, sin prioridad.
+  - 📍 Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · Catarata de la Paz (puente) · Colibrí Café Cinchona · Fraijanes · La Fortuna
+  - ⚠️ **El día más ajustado de todo el viaje** — [reserva del auto](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=) se retira acá. Sin La Paz ya no hay una última entrada que perder; la única hora fija es la franja de Poás.
+  - 🅿️ **Estacionamiento:** Hacienda Alsacia tiene parqueo propio del predio, sin cargo aparte conocido. Volcán Poás tiene parqueo **oficial de SINAC, US$4 por auto**, aparte de la entrada. Catarata de la Paz y Colibrí Café Cinchona son paradas de ruta: sin datos de parqueo ni de cuidacoches.
 - **Día 2 (dom 21/3):** La Fortuna — Termas y catarata
   - **Eco Termales** — pase día **10am-4pm** o noche **5-10pm**, cupo limitado a 100 personas por franja, reservar con anticipación (~ene/2027). Solo entrada ~US$48,60. [Comprar →](https://ecotermalesfortuna.cr/en/home/)
   - **Catarata La Fortuna** — abierta **7am-5pm**, última entrada 4pm, US$18, independiente del PN Arenal.
   - **☕ Red Frog Coffee Roasters** (nuevo, 20/9/2026) — a las afueras del pueblo, compran directo a pequeños productores locales, single-origin pour-over/espresso de Tarrazú y Valle Central, ambiente rústico, venden bolsas de café para llevar. Alternativa más céntrica: **Vita Café** (espresso muy cuidado, buena variedad de leches, repostería casera).
   - 🅿️ **Estacionamiento:** ambas son predios cercados con parqueo propio — no es zona de cuidacoches informales (precio del parqueo de Catarata La Fortuna no confirmado, pero está dentro del predio pago).
   - 📍 Volcán Arenal · Eco Termales · Catarata La Fortuna · Red Frog Coffee Roasters
-- **Día 3 (lun 22/3):** La Fortuna — Kayak y Blue Falls
-  - **Kayak Río Peñas Blancas** — tour completo con transporte + guía, medio día (mañana), ~US$65. Monos, cocodrilos/caimanes, lagarto Jesucristo, aves, perezosos + cierre con visita a una casa local (snacks, demo de cacao). [Comprar →](https://www.viator.com/tours/La-Fortuna/SAFARI-FLOAT-EN-KAYAK-Rio-Penas-Blancas/d821-21249P11)
+  - 🧭 **Extras de Two Roaming Souls (opcionales, no reemplazan nada; datos de 2025, reconfirmar):**
+    - **Arenal 1968 (senderos sobre lava)** — US$26 por persona, o US$45 con acceso a sus termas. 3 senderos marcados verde, amarillo y rojo, de ~2 a 5 km, por campos de lava y selva hasta miradores del volcán y del lago; convergen en el restaurante Lava '86, con vista. Baños, parqueo seguro y jardín de frutas y hierbas con colibríes. Donde más fauna vieron fue en el tramo final del rojo. Depende de las nubes, que suelen abrir tan rápido como se cierran. Horario y duración sin dato.
+    - **El Salto (soga y pozón)** — gratis. Puente peatonal sobre el río y bajada corta a un pozón para nadar, saltar de las rocas o colgarse de la soga; para TRS fue la mejor actividad gratuita de todo su viaje. El parqueo sobre la ruta es gratis, aunque un local les pidió plata al irse. Corrientes que cambian rápido y remolinos: bajo propia responsabilidad.
+    - **Termas más baratas que Eco Termales (para comparar, no para reemplazar)** — las termas gratis pegadas a Tabacón (parqueo de US$10 de dudosa oficialidad, sendero corto, sin baños ni vestuarios, río tibio "como una bañera") o Thermales Los Laureles, US$15 por persona, con toboganes, piletas y snack bar.
+    - ❌ **Tour de café y cacao — North Fields — DESCARTADO (21/9/2026):** el único tour de café del viaje es el de Alsacia (Día 1). Era de US$46 por persona, con café, cacao y caña.
+- **Día 3 (lun 22/3):** La Fortuna — Blue Falls (mañana libre)
+  - ❌ **Kayak Río Peñas Blancas — DESCARTADO (21/9/2026)**, era un tour de medio día (~US$65). Motivo: los animales que da (monos, iguanas, cocodrilos, aves, con suerte un perezoso) se ven igual en otras paradas del loop, y las reseñas admiten que no está garantizado ni siquiera un perezoso; además es difícil llevar la lente 150-600 con tranquilidad en un kayak (remar, sin apoyo, riesgo de agua). Si algún día se recupera, la versión en balsa es más estable para fotos. La mañana queda libre.
   - **Bajos del Toro / Blue Falls of Costa Rica** — excursión de la tarde (✅ decidido 20/9/2026, por sobre Río Celeste). Cascadas turquesas con piletas para nadar (a diferencia de Río Celeste, donde está prohibido bañarse — es zona de conservación, solo se camina y se mira). US$20 la entrada, US$25 el combo con Catarata del Toro. Cierra los domingos, único día viable el lunes. ⚠️ Tiempo de viaje desde La Fortuna sin confirmar del todo (una fuente dice 1,5h, otra 3h) — chequear al planificar.
   - 📍 Río Peñas Blancas · Bajos del Toro / Blue Falls
-  - ✅ **Resuelto (20/9/2026):** la caminata nocturna que estaba acá se mudó al Día 5 en Monteverde (de noche, no compite con las 3 actividades de ese día). Este día queda en 2 medios días — kayak a la mañana, Blue Falls a la tarde.
+  - ✅ **Resuelto (20/9/2026):** la caminata nocturna que estaba acá se mudó al Día 5 en Monteverde (de noche, no compite con las 3 actividades de ese día). Este día queda con Blue Falls a la tarde; la mañana quedó libre desde que se descartó el kayak (21/9/2026).
   - **Por qué Blue Falls y no Río Celeste (comparativa 20/9/2026):** Blue Falls tiene el plus de poder meterse al agua; el paseo total (con el combo de Catarata del Toro) sale más corto (~4h) que Río Celeste (1h20-1h30 de viaje + 3h de caminata = ~5h40-6h20 total). La caminata nocturna, evaluada como posiblemente exclusiva de La Fortuna, en realidad también existe en Monteverde (con fauna distinta: perezosos, monos, culebras, tarántulas vs. ranas/insectos de La Fortuna) — eso fue lo que permitió moverla sin perder la actividad.
+  - 🧭 **Río Celeste como alternativa a Blue Falls (comparación, decisión pendiente de Daniel):**
+    - **Qué es:** Parque Nacional Volcán Tenorio. Catarata y río de un celeste turquesa producido por minerales; el río puede no verse azul después de tormentas. **Entrada** US$12 por adulto extranjero más 13% de IVA (≈US$13,56), US$5 niños; con reserva anticipada en SINAC (tope de 1.200 personas por día, 6 franjas de entrada de 8:00 a 13:45, ~150-200 lugares cada una; el parque cierra a las 17:00). Sin señal ni wifi adentro: llevar el código descargado.
+    - **Recorrido:** un único sendero de ida y vuelta, 2,8 km y 122 m de desnivel hasta la catarata (250 escalones de bajada y de subida); completo son 5,1 km, con el mirador del volcán, la Laguna Azul, Los Borbollones (aguas que burbujean) y El Teñidero, donde el agua mineral se mezcla con el río. Está lleno de gente: ir en la primera franja.
+    - **Bañarse:** dentro del parque está prohibido. A unos metros, cruzando el puente, está **Dante's Free Pool**, un tramo gratuito del río donde sí se puede nadar (corriente rápida, mejor para nadadores fuertes), y hay vecinos que cobran por dejar entrar a su tramo (Mirador Río Celeste). Ese baño es de agua de río fría: **las termas naturales son otra cosa y están en La Fortuna**, en las termas gratis junto a Tabacón, donde todo el río está tibio (ver Día 2).
+    - **Logística:** ~1h20-1h30 desde La Fortuna (~4 h desde SJO). En Google Maps poner "Parqueo del Parque Nacional Tenorio", no "Río Celeste" (los lleva al lugar equivocado). Parqueo ₡3.000 (~US$6) o gratis frente al parque, junto a un mercado. No se permite plástico de un solo uso (botellas), alcohol, tabaco, mascotas ni drones; revisan las mochilas. Después, Blue River Brewery con terraza.
+    - **Frente a Blue Falls (Bajos del Toro):** Río Celeste tiene un color más famoso y un sendero más largo, pero no se nada en el parque, hay más gente y el paseo entero ronda las 5h40-6h20. Blue Falls es un paseo de ~4h con piletas para nadar y sin reserva. Cualquiera de los dos ocupa casi todo el día y no entran los dos (con el kayak ya descartado, la mañana del Día 3 está libre). La opinión de TRS sobre Río Celeste: "mucho viaje para una sola atracción", aunque si te obsesiona ese color vale la pena.
 - **Día 4 (mar 23/3):** La Fortuna → Monteverde
   - Salida de La Fortuna, ruta de montaña, ~2h30-3h de manejo.
   - Llegada a Monteverde/Santa Elena por la tarde, check-in.
@@ -945,16 +1224,24 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - 🌿 **Opcional (para hilar fino):** en La Fortuna antes de salir, **Sendero Bogarín** (1-2 h, 7:00-17:00) o pase de día en **Arenal Observatory Lodge** (US$22, desde las 5:30; distancia desde el pueblo sin confirmar). Detalle en "Reservas naturales parecidas".
   - 🌿 **Opcional (para hilar fino):** ya en Monteverde, tour nocturno de **Curi-Cancha** (~17:30-19:30, desde US$45). No reemplaza la caminata nocturna del Día 5.
   - ⚠️ Camino con fama de complicado (2 fuentes con percances), salir con tiempo.
+  - 🧭 **Extras de Two Roaming Souls (opcionales):**
+    - **Sendero Bogarín** — ahora con precio: US$20 sin guía o US$45 con guía; 2,5 km, 1-2 h. TRS solo vio un perezoso porque un tour estaba parado mirándolo, y aconseja pagar guía. También mencionan una oferta en línea de US$35 (perezosos + clase de tortillas).
+    - **Si se libera la mañana:** El Salto (gratis) y Arenal 1968 (US$26), con el detalle del Día 2. El Mirador El Castillo, que sí les encantó, exige camino de tierra con 4x4: con el Kicks (4x2) no.
 - **Día 5 (mié 24/3):** Monteverde
   - **Santuario de perezosos** (Selvatura, standalone) — parque abierto 7am-4pm, tours guiados cada hora entre **8:15am y 3:15pm**. US$40. La experiencia más "garantizada" de ver perezosos de cerca — en estado salvaje son durísimos de encontrar.
   - **Bosque nuboso** — Reserva Santa Elena (abierta **7am-4pm**, sin reserva previa) US$21 (✅ decidida por sobre la del puente Wilford, US$25). Inmersión real en el bosque nuboso denso, menos gente que otras reservas, incluye su propio puente colgante en el sendero, gestión comunitaria de bajo impacto. [Reservar →](https://reservasantaelena.org/index.php/reservaciones/)
   - **Selvatura — puentes colgantes** — parque abierto 7am-4pm, US$49, self-guided, 8 puentes de 57-157m de largo y 17-34m de altura. Reserva privada con más infraestructura (jardín de mariposas, casa de reptiles, jardín de colibríes, zipline aparte) — más "atracción armada" que inmersión real en el bosque, pero la escala de los puentes es mucho más dramática. Selvatura y Reserva Santa Elena quedan a pocos cientos de metros una de otra, traslado mínimo. [Comprar →](https://www.selvatura.com/tours/the-sloth-sanctuary/)
   - **Caminata nocturna** — 2hs guiadas, ~US$40-50, de noche (✅ mudada acá desde el Día 3, 20/9/2026). Fauna distinta a la de La Fortuna: perezosos, monos, culebras, tarántulas.
-  - **☕ Café Monteverde** (nuevo, 20/9/2026) — el hallazgo más fuerte de café de todo el viaje: cooperativa de 20-21 familias locales que cultivan, cosechan, procesan, tuestan y exportan su propio arábica desde 1989. Dos locales (centro de Santa Elena y cerca de la cooperativa Casemcoop en Monteverde), 8am-5pm. Catas gratis todos los días (V60, Chemex, chorreador, prensa francesa), repostería, licuados, almuerzo liviano. Venden el café que ellos mismos cultivan y tuestan. [cafedemonteverde.com →](https://cafedemonteverde.com/) · [Tienda online →](https://cafedemonteverde.com/shop/)
+  - **☕ Café Monteverde** (nuevo, 20/9/2026) — el hallazgo más fuerte de café de todo el viaje: cooperativa de 20-21 familias locales que cultivan, cosechan, procesan, tuestan y exportan su propio arábica desde 1989. Dos locales (centro de Santa Elena y cerca de la cooperativa Casemcoop en Monteverde), 8am-5pm. Catas gratis todos los días (V60, Chemex, chorreador, prensa francesa), repostería, licuados, almuerzo liviano. Venden el café que ellos mismos cultivan y tuestan. Solo la tienda y el café: el tour de 2 h se descartó el 21/9/2026. [cafedemonteverde.com →](https://cafedemonteverde.com/) · [Tienda online →](https://cafedemonteverde.com/shop/)
   - 🅿️ **Estacionamiento:** Selvatura y Reserva Santa Elena tienen parqueo propio del predio — no se encontró cargo aparte en ninguna fuente, así que parece incluido — sin cuidacoches.
   - 🌿 **Opcional (para hilar fino):** **Curi-Cancha** — tour de aves 6:30-11:00 (US$125, con chance de quetzal en temporada) o visita sin guía (US$25, 7:00-15:00). Compite con la mañana de este día: solo si se libera algo.
   - 📍 Selvatura · Reserva Santa Elena · Bosque Nuboso Monteverde · Café Monteverde
   - ✅ **Día activo, aceptado a conciencia (revisión 20/9/2026):** las 3 actividades de día suman ~4,5-6,5h en total (sin contar traslados, que son mínimos entre Selvatura y Santa Elena) — técnicamente entran las 3 en un día. Sumando la caminata nocturna (2h más), el total sube a ~6,5-8,5h de actividad guiada/paga en un solo día. Decisión de Daniel (20/9/2026): las 4 quedan, con la premisa de que "somos honestos con nosotros mismos al viajar, si no estamos a gusto por cualquier motivo abortamos misión y buscamos otra cosa, no nos aferramos al plan".
+  - 🧭 **Extras de Two Roaming Souls (opcionales):**
+    - **Reserva del Bosque Nuboso de Monteverde (la clásica)** — US$26 el pase de día, US$49 con guía (la entrada incluida); 10.500 ha de las que solo el 2% está abierto, con puente colgante en el canopy. **Ojo con la expectativa:** TRS fue sin guía una mañana sin nubes y dice que fue "de lo que menos fauna vieron en cualquier caminata de Costa Rica", "una caminata cara". Recomiendan ir con guía. Nuestra Reserva Santa Elena (US$21) ya cubre bosque nuboso y puente, y el santuario de perezosos de Selvatura es la vía más segura para ver animales de cerca.
+    - **Colibrí Café** — colibríes a pocos centímetros, gratis, en la entrada de esa reserva (café y licuados si se consume). Selvatura también tiene su jardín de colibríes.
+    - **Tirolesa 100% Aventura** — US$67 adultos (fotos US$15): 9 tirolesas, 2 estilo Superman y un Tarzan swing con caída libre de ~2 s; la más larga mide 1.590 m. El día ya está en 6,5-8,5 h de actividad: solo sumaría si se saca otra cosa.
+    - **Caminata nocturna:** llevar pantalón largo, manga larga y calzado cerrado.
 - **Día 6 (jue 25/3):** Monteverde → Manuel Antonio (⚠️ día de manejo más largo del viaje)
   - Salida de Monteverde directo a Manuel Antonio, 3h36min/190km — ya no hay escala en Puntarenas.
   - **Parque Nacional Carara** (de camino, sobre la Costanera Sur) — cocodrilos del río Tárcoles (+2.000, mayor concentración de Centroamérica), santuario de la lapa roja. Con este día ya cargado de manejo, entra como parada corta en el puente de Tárcoles, no como Sendero Laguna Meándrica completo (2-4h).
@@ -964,6 +1251,10 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - 📍 Carara · Jacó · Quepos / Manuel Antonio · Playa Espadilla
   - ⚠️ **Lo que se pierde al sacar Puntarenas (revisión 20/9/2026):** este día pasa de ser dos tramos livianos (Monteverde→Puntarenas + Puntarenas→Manuel Antonio, con tarde libre en el medio) a un solo día 100% de manejo. Si llegan cansados, priorizar check-in + cena tranquila por sobre Playa Espadilla al atardecer.
   - 🅿️ **Estacionamiento — Parque Nacional Carara:** oficial, dentro del predio cercado del parque (SINAC), sin cuidacoches informales (precio puntual del parqueo no confirmado). **Jacó:** ⚠️ zona de cuidacoches callejeros/informales, como el resto del país — no se encontró el precio exacto para el centro de Jacó, pero como referencia cercana, Playa Mantas (a los alrededores) tiene un lote cercado a **₡1.000/hora (~US$2/hora)** — llevar efectivo chico (research 20/9/2026).
+  - 🧭 **Extras de Two Roaming Souls (opcionales, antes de salir de Monteverde):**
+    - **Mirador San Luis** — gratis; plataforma con vista hasta el Golfo de Nicoya y la península en día despejado. Está fuera del pueblo por una bajada empinada, hace falta auto.
+    - **Ficus La Raíz** — donación sugerida de US$2 por persona; higuera con raíces que forman un puente natural sobre un arroyo, con parqueo chico y unas pocas escaleras.
+    - ⚠️ Es el día de manejo más largo (3h36): en Costa Rica el sol se pone siempre entre las 17 y las 18 h, así que cada parada extra empuja la llegada a Manuel Antonio hacia el atardecer. Duración de estas dos paradas: sin dato.
 - **Día 7 (vie 26/3):** Manuel Antonio → Uvita
   - **Parque Nacional Manuel Antonio** — abre 7:00am, cierra 15:00, entrada US$16, solo compra online. Franja recomendada: Grupo 01 (07:00-07:40). [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
   - Salida del parque a media tarde (cierra 15:00) — margen de sobra antes del viaje a Uvita.
@@ -972,7 +1263,13 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - **☕ Cafe Milagro Coffee Roasters** (Quepos, nuevo 20/9/2026) — "el mejor café de la zona" según reviews repetidas, centro de Quepos sobre el camino costero (2do local: El Patio de Café Milagro). Tuestan su propio café, hacen tours + muestras gratis, venden café para llevar, buen menú de desayuno. Lun-sáb 9am-5pm. [cafemilagro.com →](https://www.cafemilagro.com/) — alternativa: **Emilio's Cafe** (vista panorámica al Pacífico desde la veranda, macarrones, café local, ambiente al aire libre).
   - **☕ Sibu Restaurant & Coffee Store** (Uvita, nuevo 20/9/2026) — "el mejor café de Uvita" según reviews, 100% orgánico (tueste oscuro/medio/espresso + prensa francesa), también venden chocolate costarricense orgánico y dulces. Para la noche de llegada o la mañana del Día 8. Alternativa: **Tagua Café Vivo** (local chico, personal atento que explica métodos de infusión, tortas/salados, terraza junto a un arroyo).
   - 📍 PN Manuel Antonio · Quepos · Cafe Milagro · Playa Biesanz · Uvita · Sibu Coffee Store
-  - 🅿️ **Estacionamiento:** el Parque Nacional Manuel Antonio tiene parqueo **oficial gratuito** — ir directo ahí, sin detenerse antes en falsos "encargados" que digan que está lleno (es la estafa documentada en la nota general de cuidacoches).
+  - 🅿️ **Estacionamiento:** **corregido 21/9/2026:** el Parque Nacional Manuel Antonio **no tiene parqueo propio** (Two Roaming Souls, 2025, y guías de 2026): lo que hay son playones privados de vecinos, ~₡5.000 (~US$10) el día, a ~150 m de la entrada, que conviene pagar en efectivo. Ir lo más cerca posible de la entrada y usar el primer playón que no esté lleno; **no hacer caso a quienes paran el auto con chaleco reflectivo muy lejos** (algunos playones quedan a más de 20 min a pie). Antes decía "oficial gratuito", que no coincide con ninguna fuente de 2025-2026.
+  - 🧭 **Extras de Two Roaming Souls (opcionales):**
+    - **Manuel Antonio — reglas (revisan las mochilas):** sin plástico de un solo uso (llevar botella reutilizable; hay puntos de recarga), sin comida de afuera (desayunar antes; la única cafetería está en una jaula de metal por los monos), sin alcohol ni tabaco, sin sillas, sombrillas ni hamacas (solo toalla), **sin aerosoles** (ni protector ni repelente en spray: usar crema o loción) y sin drones. Hay lavapiés, duchas y baños: llevar una muda si van a nadar. Los capuchinos roban: distancia, no mirar fijo ni sonreír mostrando los dientes.
+    - **Guía en el parque** — TRS lo recomienda (con telescopio y adaptador de celular encontraron aves y murciélagos que no habrían visto): Guías Oficiales dentro de la entrada, (506) 8671-1813 o maofficialtourguide@gmail.com; precio sin dato. Aconsejan hacerlo temprano en el viaje; acá cae hacia el final.
+    - **Dominical (de paso, sobre la Costanera)** — buen lugar para almorzar (ver "Comer"). **Poza Azul:** cascada y pozón a 2 min de caminata del parqueo, con soga (poca profundidad); hubo robos a autos, no dejar nada adentro. **Playa Dominical:** puestos de artesanías y cocos.
+    - **Catarata Uvita** — ₡1.500 por persona por la entrada superior (sendero corto y empinado) o ₡2.000 en Catarata Esmeralda, con mariposario, baños, vestuarios y restaurante. Se puede saltar de rocas y deslizarse por la cascada, pero todo es resbaloso y con el caudal fuerte les desaconsejaron el tobogán. Horario sin dato.
+    - **Playa Colonia al atardecer** (Parque Marino Ballena, Uvita) — gratis; fueron por el atardecer y "Mamá Naturaleza cumplió". Con parque hasta las 15:00 y 56 min de manejo, llegando a Uvita ~16:00-16:30 se llega antes de la puesta de sol (17-18 h).
 - **Día 8 (sáb 27/3):** Uvita — Ballenas + regreso a SJO
   - **Parque Nacional Marino Ballena — tour en lancha guiado** (✅ decidido 20/9/2026) — ~US$85-105/persona, ~3h, sale ~8:15am con café/fruta/snacks antes de zarpar, guía explica biología y migración, **ya incluye la parada en la Cola de Ballena** al final (no hace falta pagar la entrada independiente SINAC aparte). Operadores relevados: Ballena Tour Costa Rica (US$85, [ballenatourcostarica.com](https://ballenatourcostarica.com/)), varios listados en GetYourGuide (US$92-105/3h), otro operador US$90 adulto/US$70 niño. Ninguno garantiza avistamiento.
   - ⚠️ **Expectativa honesta para el 27/3 (research 20/9/2026):** la temporada del hemisferio norte es **dic-mediados de marzo**, pico en ene-feb — mytanfeet (fuente ya usada en este proyecto) dice textual que "la actividad generalmente empieza a bajar después de mediados de marzo". El 27/3 ya cae pasado ese punto: realista esperar avistamientos parciales (soplidos, aletas, alguna cola a la distancia), no necesariamente un espectáculo cercano. Ningún tour lo garantiza — es fauna silvestre.
@@ -983,6 +1280,10 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - Noche de espera/descanso cerca del aeropuerto, vuelo sale 01:40 ya entrando al domingo 28/3. 📍 PN Marino Ballena · Uvita · Aeropuerto SJO
   - 🅿️ **Estacionamiento:** sin confirmar todavía si el parque tiene parqueo oficial propio o si es zona de cuidacoches — pendiente de research.
   - **✅ Confirmado con Daniel (20/9/2026):** estructura de 3 días (jue/vie/sáb) para Manuel Antonio→Uvita→SJO — ver "Cambio de ruta" más arriba para el detalle completo de qué se gana y qué se pierde al sacar Puntarenas.
+  - 🧭 **Extras de Two Roaming Souls (informativo):**
+    - **Nauyaca** no cabe: ~30 min desde Uvita, caminata US$10 más US$5 de parqueo por auto (camioneta 4x4 US$32, caballo US$80 por persona), 4 millas ida y vuelta; salir hacia las 7:30 por el calor. Con el tour de ballenas y 3h18 de manejo a SJO no hay margen.
+    - ⚠️ **Luz del día:** el sol se pone entre las 17 y las 18 h. Salir de Uvita a media tarde deja el final del trayecto hacia SJO de noche (la devolución es a las 21:00).
+    - **Cola de Ballena:** TRS dice US$6 por persona para entrar por cuenta propia (el tour ya lo incluye) y aconseja ir dentro de las 2 h de la marea baja.
 - **Día 9 (dom 28/3):** Vuelo de regreso — sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40 (Avianca AV691+AV8395, vía Bogotá). [Cotizar →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28)
 
 **✅ Resuelto (12/9/2026) — horario oficial del Parque Nacional Manuel Antonio:** según SINAC, el parque abre **7:00am y cierra a las 3:00pm** (no 4pm como se pensaba por un video) — cerrado los martes, miércoles a lunes el resto de la semana. El viernes 26/3 (día asignado tras el cambio Puntarenas→Uvita, 20/9/2026) no es martes, así que no hay conflicto de día cerrado. **Las entradas se compran únicamente online**, por el sitio oficial de SINAC — no hay venta en puerta, hay que sacarlas con anticipación.
@@ -1034,7 +1335,7 @@ Surgió tras evaluar una posible extensión hacia Tamarindo/Nicoya (charla del 1
 - ✅ **Parque Nacional Carara + cocodrilos de Tárcoles — YA INTEGRADO (20/9/2026):** sobre la Costanera Sur, el mismo camino que ya recorre A entre el golfo de Nicoya y Manuel Antonio (~1h30 desde Quepos). Mayor concentración de cocodrilos de Centroamérica (+2.000 en la desembocadura del río Tárcoles) y santuario de la lapa roja/guacamaya escarlata. Sendero Laguna Meándrica, 2-4h. Es una parada de camino, no un desvío. Ahora forma parte del Día 6 (parada corta en el puente de Tárcoles, ya no el sendero completo por falta de tiempo). *(WebSearch 12/9/2026)*
 - ✅ **Jacó / Playa Herradura / Playa Hermosa — YA INTEGRADO (20/9/2026):** también sobre la Costanera Sur, mismo tramo que Carara — "4km pasando Jacó a Quepos, menos de 2 horas" según una fuente. Jacó es la más desarrollada turísticamente de la zona (surf, vida nocturna); Hermosa es de las mejores olas del país. Ahora forma parte del Día 6 como parada opcional de almuerzo. *(WebSearch 12/9/2026)*
 - ❌ **Río Celeste (PN Volcán Tenorio) — NO ELEGIDO (20/9/2026):** ~1h20-1h30 en auto desde La Fortuna, ruta pavimentada. Catarata y río de color turquesa, caminata de 6km/~3h — pero está prohibido bañarse, es zona de conservación, solo se camina y se mira. Compitió con Bajos del Toro/Blue Falls por el Día 3 — ganó Blue Falls, porque ahí sí se puede nadar y el paseo total sale más corto. Queda documentado como candidato para otro viaje. *(dato ya documentado + WebSearch 12/9/2026 confirma tiempos)*
-- ✅ **Bajos del Toro / Blue Falls of Costa Rica — ELEGIDO (20/9/2026), por sobre Río Celeste:** cerca de Poasito/Volcán Poás (Alajuela), cordillera volcánica central. **Decisión 13/9/2026: el Día 1 se deja como está** (ya muy ajustado con Alsacia+Poás+La Paz, ver auditoría de horarios más arriba — "si llegamos, llegamos"), así que combinar Bajos del Toro con la ruta del día 1 quedó descartado desde entonces. Ahora es la excursión de la tarde del Día 3, después del kayak.
+- ✅ **Bajos del Toro / Blue Falls of Costa Rica — ELEGIDO (20/9/2026), por sobre Río Celeste:** cerca de Poasito/Volcán Poás (Alajuela), cordillera volcánica central. **Decisión 13/9/2026: el Día 1 se deja como está** (ya muy ajustado con Alsacia+Poás+La Paz, ver auditoría de horarios más arriba — "si llegamos, llegamos"), así que combinar Bajos del Toro con la ruta del día 1 quedó descartado desde entonces. Ahora es la excursión de la tarde del Día 3 (el kayak de la mañana se descartó el 21/9/2026).
   - **Precio (oficial, blue-falls-of-costa-rica.com, 13/9/2026):** US$20 adulto (solo Blue Falls, 6 cascadas azules + piscinas de baño con guía + senderos) — US$10 niños 4-12 años. Combo con Catarata del Toro (cascada de 90m en un cráter volcánico, atracción separada): US$25, recorrido de ~4h en total.
   - **Sin reserva anticipada** — se paga al llegar, en efectivo (USD/euros/colones) o tarjeta.
   - **⚠️ Horario clave: abre lunes a sábado 7am-5pm (última entrada 4pm), CERRADO LOS DOMINGOS.** El Día 2 del itinerario es domingo 21/3 — ese día queda descartado para Bajos del Toro. **El único día viable es el Día 3 (lunes 22/3).**
