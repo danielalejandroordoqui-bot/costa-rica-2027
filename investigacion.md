@@ -390,6 +390,15 @@ Todas las paradas de pago del Itinerario, además de los dos parques SINAC ya co
 
 **✅ Actualizado 20/9/2026 — casi todo quedó decidido hoy:** Blue Falls por sobre Río Celeste, las 3 actividades de Monteverde + caminata nocturna (mudada del Día 3), tour de ballenas por sobre Isla del Caño/entrada independiente. Lo único que sigue "si llegamos, llegamos" es La Paz Waterfall Gardens (Día 1, ya muy ajustado).
 
+### ¿Existe un pase combinado de parques, tipo el anual por auto de EE.UU.? — NO (research 22/9/2026)
+
+Daniel preguntó si hay algo como el "America the Beautiful" (un pase que cubre todos los parques). **No existe un equivalente en Costa Rica.** Cada parque del sistema SINAC se paga por separado, en su propia reserva online, con su propio precio y su propia franja horaria — no hay un pase anual, ni un pase por auto, ni un combo multi-parque oficial.
+
+- **Sistema oficial** ([serviciosenlinea.sinac.go.cr](https://serviciosenlinea.sinac.go.cr/)): confirmado en vivo (22/9/2026) — el buscador de disponibilidad es parque por parque, sin ninguna opción de pase combinado o membresía.
+- **Hubo un programa parecido, pero está discontinuado:** "Amigos de los Parques Nacionales" (ProParques + SINAC, desde 2010) vendía una tarjeta con 3 entradas en 14 días por US$39. Su sitio (amigosdelosparques.org) **ya ni siquiera resuelve como dominio** — el programa no está activo hoy.
+- **⚠️ Alerta de seguridad:** en la búsqueda apareció `sinac-cr.com`, que se presenta como sitio de entradas "con 40% de descuento". **Cloudflare lo tiene marcado como sitio de phishing sospechoso** — no es el sitio oficial (que es `sinac.go.cr` / `serviciosenlinea.sinac.go.cr`) y no hay que comprar ahí ni cargar datos de tarjeta.
+- **Conclusión:** conviene seguir comprando cada entrada por separado (Poás, Manuel Antonio, Río Celeste si se suma) directo en el sistema oficial, como ya está planeado.
+
 ### Ballenas en Uvita — temporada real y tours (research 20/9/2026)
 
 Daniel pasó varios resúmenes de videos sobre un tour en lancha a Marino Ballena, incluyendo la afirmación "hemisferio norte: sep-dic, hemisferio sur: desde enero" — esa afirmación **está invertida** respecto a lo que confirman fuentes especializadas, se descarta.
@@ -1360,6 +1369,14 @@ No por ser "inaccesibles", sino por distancia + quedar del lado opuesto del paí
 - **Tortuguero (variante 3):** en auto hasta **La Pavona** (Guápiles → Cariari → La Pavona, ~3-4h desde San José, último tramo de tierra con baches, recomendable 4x4) — se deja el auto estacionado en el parking del puerto, y de ahí lancha pública hasta el pueblo (45min-2h según nivel del río, salen desde las 7am cada 1h30-2h). Puerta a puerta en transporte propio, calculá 8-9h con esperas. No hace falta vuelo. Lo que lo pone en difícil es que es un desvío completo hacia el Caribe, del lado opuesto del país respecto a todo el recorrido de A, sumando un día entero de ida y otro de vuelta solo en tránsito. *(WebSearch 12/9/2026)*
 - **Nicoya costa completa (Tamarindo + Nosara + Sámara bordeando la costa):** ya evaluado en detalle — los caminos entre playas son lentos/de tierra en tramos (sobre todo Nosara-Sámara), y recorrerla en serio pide días propios, no un desvío. Además choca con la preferencia ya documentada de evitar viajes de "solo playa". Mejor una escapada dedicada aparte que estirar A.
 - **Zona de los Santos / Orosi / Copey (variante 5, tramo este):** geográficamente queda al sureste de San José, del lado opuesto de todo el loop de A (que es puramente oeste) — sumarla exigiría volver a cruzar el Valle Central, rompiendo la lógica de loop cerrado.
+
+## Cosas a llevar (pedido de Daniel, 22/9/2026)
+
+- **PID** (Permiso Internacional de Conducción) — ya sacado en el ACA en julio de 2026, válido 1 año.
+- **Pasaporte** (de los dos).
+- **DNI.**
+- **Dólares en efectivo**, sobre todo billetes chicos con cambio — para cuidacoches y gastos puntuales (ver la guía de efectivo en "Trámites, moneda y logística general").
+- **Botella de agua reutilizable** — el agua de la canilla es potable en casi todo el país, y varios parques (Manuel Antonio, Río Celeste) prohíben entrar con botellas de plástico de un solo uso; hay puntos de recarga adentro.
 
 ## Pendiente / próximos pasos
 
