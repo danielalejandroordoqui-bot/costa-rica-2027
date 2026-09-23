@@ -82,13 +82,14 @@ Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija
 - **Kilometraje ilimitado** — incluido en el precio, sin recargo por distancia recorrida.
 - **Período de gracia en la recogida:** 2 horas de tolerancia sobre las 10:00 AM (hasta las 12:00 PM) antes de arriesgar que se considere "no-show".
 - **Período de gracia en la devolución:** 29 minutos de tolerancia sobre las 09:00 PM (hasta las 09:29 PM) antes de que cobren un día de alquiler adicional completo.
+- **✅ SLI/TPL (responsabilidad civil obligatoria) INCLUIDO en la reserva (confirmado por mail el 23/9/2026):** EconomyBookings (Axel, Reservation Department, reservations@bookinggroup.com) respondió que el TPL/SLI solo queda afuera para conductores de USA y Canadá; para el resto (licencia argentina) va incluido en la reserva y ya está en el precio online. O sea, los US$317,42 ya lo cubren y no corresponde pagarlo de nuevo en el mostrador de Avis. **Llevar impreso ese mail** junto con el voucher. Lo que sigue sin incluir es CDW/TP (daños y robo del propio auto), que cubre la Visa Signature; si no la aceptan, Avis puede pedir un depósito de ~US$2.000.
 - **En el mostrador:** presentar la Visa Signature de Daniel como cobertura, en vez de comprar el seguro de Avis ahí.
 - **📄 Llevar IMPRESA la constancia de cobertura de la Visa Signature** (decidido 21/9/2026, para evitar que en el mostrador insistan con venderle el seguro de la rentadora):
   - Pedirla al banco emisor o a Visa **con margen antes del viaje (enero o febrero de 2027)**: un documento que diga que la tarjeta cubre daños y robo del auto de alquiler (CDW/LDW) y que **nombre Costa Rica o Centroamérica de forma textual**. Según Emma Terra (video de dic. 2025), tras ~10 alquileres le pidieron comprobante por primera vez, y si la tarjeta no dice textualmente que la cobertura llega a Centroamérica y no se puede mostrar, obligan a contratar el seguro de la rentadora.
   - Llevarla **en papel**, no solo en el celular; si se puede, en español y en inglés.
   - A confirmar con el banco: (1) si la cobertura exige que el alquiler se pague con esa misma tarjeta (la reserva figura como "Pagar ahora" a EconomyBookings: ver con qué tarjeta se pagó); (2) que el tipo de vehículo, un Nissan Kicks (SUV), no esté excluido, porque las camionetas, pickups y vans suelen quedar afuera.
-  - La constancia no reemplaza la **responsabilidad civil obligatoria** (SLI/TPL), que la tarjeta normalmente no cubre: confirmar con Avis qué incluye exactamente la reserva B29401782.
-  - Llevar impreso junto con la constancia: el voucher de la reserva (B29401782), pasaporte, licencia de conducir y el PID (ya sacado en el ACA en julio de 2026, válido 1 año).
+  - La constancia no reemplaza la **responsabilidad civil obligatoria** (SLI/TPL), que la tarjeta normalmente no cubre. Eso ya está resuelto: viene incluido en la reserva (ver arriba).
+  - Llevar impreso junto con la constancia: el voucher de la reserva (B29401782), el mail de EconomyBookings que confirma el SLI incluido, pasaporte, licencia de conducir y el PID (ya sacado en el ACA en julio de 2026, válido 1 año).
 
 Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=
 
