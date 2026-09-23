@@ -1282,14 +1282,14 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
     - **Logística:** ~1h20-1h30 desde La Fortuna (~4 h desde SJO). En Google Maps poner "Parqueo del Parque Nacional Tenorio", no "Río Celeste" (los lleva al lugar equivocado). Parqueo ₡3.000 (~US$6) o gratis frente al parque, junto a un mercado. No se permite plástico de un solo uso (botellas), alcohol, tabaco, mascotas ni drones; revisan las mochilas. Después, Blue River Brewery con terraza.
     - **Frente a Blue Falls (Bajos del Toro):** Río Celeste tiene un color más famoso y un sendero más largo, pero no se nada en el parque, hay más gente y el paseo entero ronda las 5h40-6h20. Blue Falls es un paseo de ~4h con piletas para nadar y sin reserva. Si Río Celeste reemplazara a Blue Falls, El Choyin de la mañana seguiría igual — la definición pendiente es solo entre esos dos para la tarde. La opinión de TRS sobre Río Celeste: "mucho viaje para una sola atracción", aunque si te obsesiona ese color vale la pena.
 - **Día 4 (mar 23/3):** La Fortuna → Monteverde
-  - Salida de La Fortuna, ruta de montaña, ~2h30-3h de manejo.
+  - ✅ **Salida directa de La Fortuna a la mañana — DECIDIDO (23/9/2026, decisión de Daniel):** sin actividades antes de salir, para hacer el tramo complicado con tiempo y luz y llegar con resto al Día 5 (el más cargado). Ruta de montaña, ~2h30-3h de manejo.
   - Llegada a Monteverde/Santa Elena por la tarde, check-in.
   - Tarde libre para recorrer el pueblo de Santa Elena.
-  - 🌿 **Opcional (para hilar fino):** en La Fortuna antes de salir, **Sendero Bogarín** (1-2 h, 7:00-17:00) o pase de día en **Arenal Observatory Lodge** (US$22, desde las 5:30; distancia desde el pueblo sin confirmar). Detalle en "Reservas naturales parecidas".
+  - ❌ ~~**Opcional:** en La Fortuna antes de salir, **Sendero Bogarín** (1-2 h, 7:00-17:00) o pase de día en **Arenal Observatory Lodge** (US$22, desde las 5:30; distancia desde el pueblo sin confirmar).~~ Descartado (23/9/2026): se sale directo; los dos se superponen con Arenal 1968 (Día 2) y el santuario de perezosos (Día 5). Detalle en "Reservas naturales parecidas".
   - 🌿 **Opcional (para hilar fino):** ya en Monteverde, tour nocturno de **Curi-Cancha** (~17:30-19:30, desde US$45). No reemplaza la caminata nocturna del Día 5.
   - ⚠️ Camino con fama de complicado (2 fuentes con percances), salir con tiempo.
   - 🧭 **Extras de Two Roaming Souls (opcionales):**
-    - **Sendero Bogarín** — ahora con precio: US$20 sin guía o US$45 con guía; 2,5 km, 1-2 h. TRS solo vio un perezoso porque un tour estaba parado mirándolo, y aconseja pagar guía. También mencionan una oferta en línea de US$35 (perezosos + clase de tortillas).
+    - ❌ ~~**Sendero Bogarín**~~ — descartado para este día (23/9/2026, se sale directo). Con precio: US$20 sin guía o US$45 con guía; 2,5 km, 1-2 h. TRS solo vio un perezoso porque un tour estaba parado mirándolo, y aconseja pagar guía. También mencionan una oferta en línea de US$35 (perezosos + clase de tortillas).
     - **Atardecer:** el Mirador El Castillo sigue como opción abierta sin decidir (ver detalle y alternativa en "Lo que TRS cambia o contradice"): a Daniel le encantó la vista, pero el camino de tierra puede no estar cubierto por el seguro del auto.
 - **Día 5 (mié 24/3):** Monteverde
   - **Santuario de perezosos** (Selvatura, standalone) — parque abierto 7am-4pm, tours guiados cada hora entre **8:15am y 3:15pm**. US$40. La experiencia más "garantizada" de ver perezosos de cerca — en estado salvaje son durísimos de encontrar.
