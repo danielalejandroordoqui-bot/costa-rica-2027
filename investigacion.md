@@ -1243,17 +1243,18 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - 📍 Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · Catarata de la Paz (puente) · Colibrí Café Cinchona · Fraijanes · La Fortuna
   - ⚠️ **El día más ajustado de todo el viaje** — [reserva del auto](https://www.economybookings.com/es/cabinet/reservation?resno=QjI5NDAxNzgyfGRhb3Jkb3F1aUBnbWFpbC5jb20=) se retira acá. Sin La Paz ya no hay una última entrada que perder; la única hora fija es la franja de Poás.
   - 🅿️ **Estacionamiento:** Hacienda Alsacia tiene parqueo propio del predio, sin cargo aparte conocido. Volcán Poás tiene parqueo **oficial de SINAC, US$4 por auto**, aparte de la entrada. Catarata de la Paz y Colibrí Café Cinchona son paradas de ruta: sin datos de parqueo ni de cuidacoches.
-- **Día 2 (dom 21/3):** La Fortuna — Catarata (día liviano)
+- **Día 2 (dom 21/3):** La Fortuna — Catarata + Arenal 1968
   - ✅ **Reestructurado (22/9/2026, decisión de Daniel):** las termas se mudaron al Día 3, junto con Blue Falls — ver el detalle ahí. Este día queda liviano a propósito: sirve de descanso después del Día 1 (el más ajustado del viaje) y deja margen para algún extra si aparece ganas.
   - **Catarata La Fortuna** — abierta **7am-5pm**, última entrada 4pm, US$18, independiente del PN Arenal.
   - **☕ Red Frog Coffee Roasters** (nuevo, 20/9/2026) — a las afueras del pueblo, compran directo a pequeños productores locales, single-origin pour-over/espresso de Tarrazú y Valle Central, ambiente rústico, venden bolsas de café para llevar. Alternativa más céntrica: **Vita Café** (espresso muy cuidado, buena variedad de leches, repostería casera).
   - 🅿️ **Estacionamiento:** predio cercado con parqueo propio — no es zona de cuidacoches informales (precio no confirmado, pero está dentro del predio pago).
   - 📍 Volcán Arenal · Catarata La Fortuna · Red Frog Coffee Roasters
-  - 🧭 **Extras de Two Roaming Souls (opcionales, no reemplazan nada; datos de 2025, reconfirmar):**
-    - **Arenal 1968 (senderos sobre lava)** — US$26 por persona, o US$45 con acceso a sus termas. 3 senderos marcados verde, amarillo y rojo, de ~2 a 5 km, por campos de lava y selva hasta miradores del volcán y del lago; convergen en el restaurante Lava '86, con vista. Baños, parqueo seguro y jardín de frutas y hierbas con colibríes. Donde más fauna vieron fue en el tramo final del rojo. Depende de las nubes, que suelen abrir tan rápido como se cierran. Horario y duración sin dato.
+  - ✅ **Arenal 1968 — DECIDIDO (23/9/2026, decisión de Daniel):** pasa de extra opcional a actividad fija del día. Se hace en ~2-3 h (Emma Terra), así que convive bien con la catarata.
+  - 🧭 **Extras de Two Roaming Souls (datos de 2025, reconfirmar):**
+    - ✅ **Arenal 1968 (senderos sobre lava)** — US$26 por persona, o US$45 con acceso a sus termas. 3 senderos marcados verde, amarillo y rojo, de ~2 a 5 km, por campos de lava y selva hasta miradores del volcán y del lago; convergen en el restaurante Lava '86, con vista. Baños, parqueo seguro y jardín de frutas y hierbas con colibríes. Donde más fauna vieron fue en el tramo final del rojo. Depende de las nubes, que suelen abrir tan rápido como se cierran. Horario y duración sin dato.
     - ❌ ~~**El Salto (soga y pozón)**~~ — **DESCARTADO (22/9/2026, decisión de Daniel).** Era gratis: puente peatonal sobre el río y bajada corta a un pozón para nadar, saltar de las rocas o colgarse de la soga; para TRS fue la mejor actividad gratuita de todo su viaje. Corrientes que cambian rápido y remolinos.
     - ❌ **Tour de café y cacao — North Fields — DESCARTADO (21/9/2026):** el único tour de café del viaje es el de Alsacia (Día 1). Era de US$46 por persona, con café, cacao y caña.
-  - 🧭 **Alternativas a Arenal 1968, por si no se hace ese día (research 22/9/2026, sin decidir):**
+  - 🧭 **Plan B si ese día está nublado o Arenal 1968 no se puede (research 22/9/2026; solo acá, no en el sitio):**
     | Opción | Precio | Qué ofrece |
     |---|---|---|
     | **Mirador El Silencio** | ~US$10 entrada (₡5.500), sin guía | Reserva privada de 550 acres, 6 senderos (14 km en total), selva primaria intacta. Sendero propio de campos de lava. Fauna: crested guans, tarántulas, monos aulladores a la distancia, a veces perezosos/monos. Vistas al volcán, lagunas verdes y llanuras hacia Nicaragua. 7:30am-5:30pm. Tour guiado aparte desde US$61 grupal / US$110 privado (~3,5h). |
@@ -1261,8 +1262,8 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
     | **Sendero Bogarín** | US$20 sin guía / US$45 con guía | 2,5 km, 1-2h. Foco en perezosos — TRS solo vio uno porque un tour estaba parado mirándolo, aconsejan pagar guía. |
     | **Arenal Observatory Lodge** | Entrada sola US$18 · Day Pass US$40 (incluye almuerzo en El Jilguero) | 11 km de senderos, el lodge más cercano al volcán (con torres de observación), catarata Danta, puentes colgantes, museo del observatorio. |
     | **Mistico Arenal Hanging Bridges Park** | Self-guided desde US$28 (adulto) · guiado US$44-54 | 6 puentes colgantes (5-100 m de largo, algunos de +60 m de altura) sobre un sendero interpretativo de 3 km en reserva privada. Horario 6:15am-3:50pm, reservar con anticipación. |
-    - Sin decidir todavía cuál (si alguna) reemplaza a Arenal 1968 — quedan documentadas para elegir si hace falta.
-    - 💬 **Se inclina por Arenal 1968 (22/9/2026, sin cerrar formalmente):** a Daniel le gustó el combo paisaje + caminata + algo de fauna + café con vistas al final, sobre todo porque según Emma Terra se puede hacer en 2-3h (deja el resto del día libre).
+    - Quedan como respaldo: no reemplazan a Arenal 1968, solo se usan si falla.
+    - 💬 **Por qué Arenal 1968 (22/9/2026, cerrado 23/9/2026):** a Daniel le gustó el combo paisaje + caminata + algo de fauna + café con vistas al final, sobre todo porque según Emma Terra se puede hacer en 2-3h (deja el resto del día libre).
     - 🔗 [Two Weeks in Costa Rica — Mirador El Silencio](https://www.twoweeksincostarica.com/mirador-el-silencio-arenal/) · [Ecocentro Danaus — sitio oficial](https://ecocentrodanaus.com/) · [Arenal Observatory Lodge — day passes](https://www.arenalobservatorylodge.com/day-passes/) · [Mistico Park — sitio oficial](https://misticopark.com/)
 - **Día 3 (lun 22/3):** La Fortuna — El Choyin + Blue Falls
   - ✅ **Cerrado (22/9/2026, decisión de Daniel):** El Choyin (termas gratis) a la mañana + Blue Falls a la tarde. Se eligió el lunes en vez del domingo específicamente para El Choyin — una guía dedicada a ese lugar dice textual "evitar los fines de semana por completo" por la multitud, y el lunes es día de semana. El "arranque" de Semana Santa recién empieza a notarse lunes-miércoles y el pico real es jueves-domingo (25-28/3), así que el lunes sigue estando lejos de lo peor.
@@ -1287,7 +1288,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - ⚠️ Camino con fama de complicado (2 fuentes con percances), salir con tiempo.
   - 🧭 **Extras de Two Roaming Souls (opcionales):**
     - **Sendero Bogarín** — ahora con precio: US$20 sin guía o US$45 con guía; 2,5 km, 1-2 h. TRS solo vio un perezoso porque un tour estaba parado mirándolo, y aconseja pagar guía. También mencionan una oferta en línea de US$35 (perezosos + clase de tortillas).
-    - **Si se libera la mañana:** El Salto (gratis) y Arenal 1968 (US$26), con el detalle del Día 2. El Mirador El Castillo sigue como opción abierta sin decidir (ver detalle y alternativa en "Lo que TRS cambia o contradice"): a Daniel le encantó la vista, pero el camino de tierra puede no estar cubierto por el seguro del auto.
+    - **Atardecer:** el Mirador El Castillo sigue como opción abierta sin decidir (ver detalle y alternativa en "Lo que TRS cambia o contradice"): a Daniel le encantó la vista, pero el camino de tierra puede no estar cubierto por el seguro del auto.
 - **Día 5 (mié 24/3):** Monteverde
   - **Santuario de perezosos** (Selvatura, standalone) — parque abierto 7am-4pm, tours guiados cada hora entre **8:15am y 3:15pm**. US$40. La experiencia más "garantizada" de ver perezosos de cerca — en estado salvaje son durísimos de encontrar.
   - **Bosque nuboso** — Reserva Santa Elena (abierta **7am-4pm**, sin reserva previa) US$21 (✅ decidida por sobre la del puente Wilford, US$25). Inmersión real en el bosque nuboso denso, menos gente que otras reservas, incluye su propio puente colgante en el sendero, gestión comunitaria de bajo impacto. [Reservar →](https://reservasantaelena.org/index.php/reservaciones/)
