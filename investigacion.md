@@ -97,6 +97,8 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 
 **Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Manuel Antonio, Uvita — esta última reemplazó a Puntarenas/golfo el 20/9/2026).
 
+> 💳 **Al menos 1 hospedaje se reserva por Booking (23/9/2026):** Daniel tiene un **saldo a favor de US$72,09** en su cuenta de Booking.com que quiere aprovechar. Al elegir hospedaje, priorizar una opción que esté en Booking (en el checkout, confirmar que el saldo se aplique).
+
 ### La Fortuna — 3 noches, 20-23/3/2027 (cotización real, 12/9/2026)
 
 **Tucan container** (apartamento, Fortuna) — [Booking.com](https://www.booking.com/hotel/cr/tucan-container.es.html?checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2), fechas exactas del viaje, 2 adultos:
