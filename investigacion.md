@@ -915,10 +915,10 @@ El viaje entero tiene Semana Santa superpuesta (21-28/3, ver nota general del pr
 - **Tirolesa 100% Aventura** 🆕 US$67 · fotos US$15
   - 9 tirolesas, 2 estilo Superman y un Tarzan swing con caída libre; la más larga mide 1.590 m (casi una milla). US$67 adultos, US$56 niños; el paquete de fotos cuesta US$15. Empieza con una línea chica y va subiendo. El Día 5 ya está cargado.
   - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
-- **Mirador San Luis** 🆕 gratis
+- **Mirador San Luis** ✅ Día 4, atardecer (en Google Maps: "Mirador Django")
   - Plataforma con vista hasta el Golfo de Nicoya y la península de Nicoya en día despejado. Está fuera del pueblo, por una bajada empinada: hace falta auto. Depende del clima.
   - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
-- **Ficus La Raíz** 🆕 donación US$2
+- **Ficus La Raíz** ✅ Día 4 · donación US$2
   - Higuera cuyas raíces trepan una ladera formando un puente natural sobre un arroyo. Donación sugerida de US$2 por persona, con un estacionamiento chico y solo un par de tramos de escalera.
   - 🔗 [Two Roaming Souls](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/)
 - **Caminata nocturna (ya en el Día 5)** ✅ tip
@@ -1261,6 +1261,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - 📍 Volcán Arenal · Catarata La Fortuna · Red Frog Coffee Roasters
   - ⛽ **Antes de dormir: tanque lleno** en Gasolinera La Fortuna (24 h). Mañana van a Blue Falls: **no hay estaciones en Bajos del Toro** y son ~3 h de ida y vuelta.
   - ✅ **Arenal 1968 — DECIDIDO (23/9/2026, decisión de Daniel):** pasa de extra opcional a actividad fija del día. Se hace en ~2-3 h (Emma Terra), así que convive bien con la catarata.
+  - **Atardecer (opcional, movido acá desde el Día 4 el 23/9/2026, porque los dos miradores están en la zona de Arenal):** el Mirador El Castillo sigue como opción abierta sin decidir (ver detalle y alternativa en "Lo que TRS cambia o contradice"): a Daniel le encantó la vista, pero el camino de tierra puede no estar cubierto por el seguro del auto.
   - 🧭 **Extras de Two Roaming Souls (datos de 2025, reconfirmar):**
     - ✅ **Arenal 1968 (senderos sobre lava)** — US$26 por persona, o US$45 con acceso a sus termas. 3 senderos marcados verde, amarillo y rojo, de ~2 a 5 km, por campos de lava y selva hasta miradores del volcán y del lago; convergen en el restaurante Lava '86, con vista. Baños, parqueo seguro y jardín de frutas y hierbas con colibríes. Donde más fauna vieron fue en el tramo final del rojo. Depende de las nubes, que suelen abrir tan rápido como se cierran. Horario y duración sin dato.
     - ❌ ~~**El Salto (soga y pozón)**~~ — **DESCARTADO (22/9/2026, decisión de Daniel).** Era gratis: puente peatonal sobre el río y bajada corta a un pozón para nadar, saltar de las rocas o colgarse de la soga; para TRS fue la mejor actividad gratuita de todo su viaje. Corrientes que cambian rápido y remolinos.
@@ -1309,7 +1310,10 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 - **Día 4 (mar 23/3):** La Fortuna → Monteverde
   - ✅ **Salida directa de La Fortuna a la mañana — DECIDIDO (23/9/2026, decisión de Daniel):** sin actividades antes de salir, para hacer el tramo complicado con tiempo y luz y llegar con resto al Día 5 (el más cargado). Ruta de montaña, ~2h30-3h de manejo.
   - Llegada a Monteverde/Santa Elena por la tarde, check-in.
-  - Tarde libre para recorrer el pueblo de Santa Elena.
+  - ✅ **Tarde en Monteverde (decidido 23/9/2026, decisión de Daniel):** saliendo de La Fortuna a las 10:00 llegan a Santa Elena ~13:30-14:30. Quedan ~3-4 h de luz (el sol se pone ~17:50). Plan en tres paradas: Santa Elena → Ficus La Raíz → Mirador San Luis al atardecer. Las dos últimas estaban como extras del Día 6 y se pasaron acá, así el Día 6 (el de manejo más largo) queda más liviano.
+    - **1. Santa Elena:** check-in y recorrer el pueblo.
+    - **2. Ficus La Raíz:** puente natural de raíces de una higuera que cayó sobre un arroyo y siguió creciendo. Gratis con donación (TRS: ~US$2 por persona). Estacionamiento y baños; bajada de ~5 min por escalones de cemento y tierra, con baranda, bancos y plataforma. A menos de 10 min a pie del centro. ~30 min. Fuentes: [My Tan Feet](https://mytanfeet.com/activities/monteverde-ficus-root-bridge/), TikTok @duoviajerocr.
+    - **3. Mirador San Luis (atardecer).** En Google Maps figura como **"Mirador Django"** (75RX+5FC, sobre la Trocha a San Luis, 4,8★ con 109 reseñas que mencionan el Golfo de Nicoya, la catarata de San Luis y los atardeceres). *El 21/9 se había borrado ese pin creyendo que era otro lugar: fue un error, es este.* A ~10 min en auto de Santa Elena; mira al oeste, al valle y la catarata de San Luis y al Golfo de Nicoya (Isla Chira) en día despejado. Gratis, con bancos. Bajada empinada y con curvas, pero **asfaltada y en buen estado**. Hay dos plataformas: estacionar en la nueva (un poco más al sur, más lugar y más bancos); hay poco estacionamiento. La vuelta es de noche y con posible niebla: ~10 min, despacio. Fuentes: [My Tan Feet](https://mytanfeet.com/activities/5-free-things-to-do-in-monteverde/) (ene. 2024), [Ultimate Guide to CR](https://theultimateguidetocostarica.com/mirador-san-luis/) (feb. 2024).
   - ❌ ~~**Opcional:** en La Fortuna antes de salir, **Sendero Bogarín** (1-2 h, 7:00-17:00) o pase de día en **Arenal Observatory Lodge** (US$22, desde las 5:30; distancia desde el pueblo sin confirmar).~~ Descartado (23/9/2026): se sale directo; los dos se superponen con Arenal 1968 (Día 2) y el santuario de perezosos (Día 5). Detalle en "Reservas naturales parecidas".
   - 🌿 **Opcional (para hilar fino):** ya en Monteverde, tour nocturno de **Curi-Cancha** (~17:30-19:30, desde US$45). No reemplaza la caminata nocturna del Día 5.
   - ⚠️ Camino con fama de complicado (2 fuentes con percances), salir con tiempo.
@@ -1323,7 +1327,6 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - ⛽ **En Tilarán, completar el tanque** (Gasolinera JSM Tilarán, 24 h), aunque falte poco: es el último surtidor antes del ripio de la Ruta 145 y hasta Monteverde no hay otro.
   - 🧭 **Extras de Two Roaming Souls (opcionales):**
     - ❌ ~~**Sendero Bogarín**~~ — descartado para este día (23/9/2026, se sale directo). Con precio: US$20 sin guía o US$45 con guía; 2,5 km, 1-2 h. TRS solo vio un perezoso porque un tour estaba parado mirándolo, y aconseja pagar guía. También mencionan una oferta en línea de US$35 (perezosos + clase de tortillas).
-    - **Atardecer:** el Mirador El Castillo sigue como opción abierta sin decidir (ver detalle y alternativa en "Lo que TRS cambia o contradice"): a Daniel le encantó la vista, pero el camino de tierra puede no estar cubierto por el seguro del auto.
 - **Día 5 (mié 24/3):** Monteverde
   - **Santuario de perezosos** (Selvatura, standalone) — parque abierto 7am-4pm, tours guiados cada hora entre **8:15am y 3:15pm**. US$40. La experiencia más "garantizada" de ver perezosos de cerca — en estado salvaje son durísimos de encontrar.
   - **Bosque nuboso** — Reserva Santa Elena (abierta **7am-4pm**, sin reserva previa) US$21 (✅ decidida por sobre la del puente Wilford, US$25). Inmersión real en el bosque nuboso denso, menos gente que otras reservas, incluye su propio puente colgante en el sendero, gestión comunitaria de bajo impacto. [Reservar →](https://reservasantaelena.org/index.php/reservaciones/)
@@ -1355,10 +1358,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - ⛽ **Nivel:** no dejarlo bajar de medio tanque. Si llegan justos, cargar en **Delta Quepos** (sobre la Costanera, 24 h).
   - ⚠️ **Lo que se pierde al sacar Puntarenas (revisión 20/9/2026):** este día pasa de ser dos tramos livianos (Monteverde→Puntarenas + Puntarenas→Manuel Antonio, con tarde libre en el medio) a un solo día 100% de manejo. Si llegan cansados, priorizar check-in + cena tranquila por sobre Playa Espadilla al atardecer.
   - 🅿️ **Estacionamiento — Parque Nacional Carara:** oficial, dentro del predio cercado del parque (SINAC), sin cuidacoches informales (precio puntual del parqueo no confirmado). **Jacó:** ⚠️ zona de cuidacoches callejeros/informales, como el resto del país — no se encontró el precio exacto para el centro de Jacó, pero como referencia cercana, Playa Mantas (a los alrededores) tiene un lote cercado a **₡1.000/hora (~US$2/hora)** — llevar efectivo chico (research 20/9/2026).
-  - 🧭 **Extras de Two Roaming Souls (opcionales, antes de salir de Monteverde):**
-    - **Mirador San Luis** — gratis; plataforma con vista hasta el Golfo de Nicoya y la península en día despejado. Está fuera del pueblo por una bajada empinada, hace falta auto.
-    - **Ficus La Raíz** — donación sugerida de US$2 por persona; higuera con raíces que forman un puente natural sobre un arroyo, con parqueo chico y unas pocas escaleras.
-    - ⚠️ Es el día de manejo más largo (3h36): en Costa Rica el sol se pone siempre entre las 17 y las 18 h, así que cada parada extra empuja la llegada a Manuel Antonio hacia el atardecer. Duración de estas dos paradas: sin dato.
+  - ➡️ **Mirador San Luis y Ficus La Raíz se pasaron a la tarde del Día 4 (23/9/2026)**, para alivianar este día de manejo largo.
 - **Día 7 (vie 26/3):** Manuel Antonio → Uvita
   - **Parque Nacional Manuel Antonio** — abre 7:00am, cierra 15:00, entrada US$16, solo compra online. Franja recomendada: Grupo 01 (07:00-07:40). [Comprar (SINAC) →](https://serviciosenlinea.sinac.go.cr/)
   - Salida del parque a media tarde (cierra 15:00) — margen de sobra antes del viaje a Uvita.
