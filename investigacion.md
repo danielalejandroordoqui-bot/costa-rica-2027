@@ -20,6 +20,8 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 
 ## Vuelo BUE-San José — a monitorear (no comprado)
 
+> 📅 **Plan de compra (23/9/2026, decisión de Daniel):** comprar los pasajes en **noviembre de 2026** con tarjeta de crédito, para que el gasto caiga en el **resumen de diciembre**, que se paga con el aguinaldo. Hasta entonces, seguir monitoreando el precio.
+
 **Itinerario elegido para seguir de cerca, Avianca vía Bogotá** — es el único que evita manejar de noche el día de regreso: sale de SJO recién a las 01:40, así que el traslado Manuel Antonio→SJO se hace con luz de día, sin horario límite de check-in esa tarde/noche. El resto de las combinaciones evaluadas (Copa, LATAM, salidas sábado a la tarde) quedaron descartadas por forzar ese manejo nocturno o llegar a Buenos Aires recién el lunes, sin margen de descanso antes de trabajar.
 
 | Tramo | Vuelos | Horario | Vía | Duración |
@@ -29,7 +31,7 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 
 Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija despachada — sin selección de asiento anticipada ni cambios/reembolsos gratis.
 
-**⚠️ El precio fluctúa fuerte y no hay que confiar en ningún número viejo.** Última cotización real: US$658,16 (12/9/2026) → subió a ~US$1.148-1.449 (verificado 17/9/2026, ~2,2x). Volver a cotizar este itinerario exacto antes de decidir cuándo comprar — [cotizar en avianca.com →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28).
+**⚠️ El precio fluctúa fuerte y no hay que confiar en ningún número viejo.** Última cotización real: US$658,16 (12/9/2026) → subió a ~US$1.148-1.449 (verificado 17/9/2026, ~2,2x). Volver a cotizar este itinerario exacto antes de comprar — [cotizar en avianca.com →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28).
 
 ## Trámites, moneda y logística general
 
@@ -1436,7 +1438,7 @@ No por ser "inaccesibles", sino por distancia + quedar del lado opuesto del paí
 1. ✅ **CERRADO (20/9/2026) — tramo del golfo de Nicoya:** se sacó Puntarenas del Itinerario y se sumó Uvita/Parque Nacional Marino Ballena en su lugar (ballenas jorobadas, temporada alta en marzo). Uvita: el hospedaje ya está relevado (12 referencias, ver punto 10) y la tabla de mareas no hace falta (ver punto 9).
 2. **Verificar estacionalidad del Caribe** (lluvias invertidas) — ya no aplica al Itinerario (que descarta el Caribe), pero sigue pendiente si en algún momento se retoma la variante 3 (Tortuguero) como alternativa.
 3. ~~Confirmar qué cubre el seguro del Adobe Rent a Car antes de reservar~~ — sin efecto, no se usó esa opción (ver punto 9).
-4. **Cerrar el Itinerario con horarios y hospedaje concretos.** Comprar los pasajes con 3-6 meses de anticipación por la sobretasa de Semana Santa (ideal antes de fin de 2026).
+4. **Cerrar el Itinerario con horarios y hospedaje concretos.** Comprar los pasajes en **noviembre de 2026** con tarjeta de crédito (cae en el resumen de diciembre, que se paga con el aguinaldo); queda dentro de los 3-6 meses de anticipación que pide la sobretasa de Semana Santa.
 5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — sigue siendo la variante independiente con menos datos concretos de costo (ya no forma parte del Itinerario, ver punto 1).
 9. ✅ **Uvita — tabla de mareas ELIMINADO (21/9/2026):** no importa. Si el tómbolo Cola de Ballena no se puede caminar ese día, se sigue de largo.
 10. ✅ **Uvita — hospedaje CERRADO (relevado, 20/9/2026):** 12 referencias reales cotizadas (Booking, Hoteles.com, Airbnb) — ver sección de hospedaje arriba. Falta decidir entre las opciones, recomendadas: Ballena Rey Hotel (mejor puntaje) o Cabinas Bahía Uvita (mejor precio).
