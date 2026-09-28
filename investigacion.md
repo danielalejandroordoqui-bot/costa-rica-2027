@@ -1506,6 +1506,50 @@ No por ser "inaccesibles", sino por distancia + quedar del lado opuesto del paí
 - **Dólares en efectivo**, sobre todo billetes chicos con cambio — para cuidacoches y gastos puntuales (ver la guía de efectivo en "Trámites, moneda y logística general").
 - **Botella de agua reutilizable** — el agua de la canilla es potable en casi todo el país, y varios parques (Manuel Antonio, Río Celeste) prohíben entrar con botellas de plástico de un solo uso; hay puntos de recarga adentro.
 
+## 📅 Calendario de reservas — cuándo se reserva cada cosa (research 28/9/2026)
+
+Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se pasen las fechas. Contexto que lo condiciona todo: **Jueves y Viernes Santo (25-26/3) son feriado en Costa Rica y caen en los Días 6 y 7.** El Día 7 (Manuel Antonio) es Viernes Santo, y de jueves a domingo es el pico de gente. Según Tico Times, en Semana Santa 2026 la ocupación hotelera proyectada fue de 88% en la zona norte (La Fortuna), 82% en Puntarenas (Monteverde), 75% en el Pacífico central (Manuel Antonio) y 70% en el Pacífico sur (Uvita). [Tico Times (24/3/2026)](https://ticotimes.net/2026/03/24/costa-rica-hotels-expect-high-occupancy-for-easter-week)
+
+### 🔴 Ahora (octubre 2026)
+- **Hospedaje en las 4 zonas.** Es lo único que ya conviene cerrar: en Semana Santa lo bueno se va primero. **Reservar con cancelación gratis** siempre que se pueda, así se asegura el lugar sin perder flexibilidad. Al menos uno por Booking, para usar el saldo de US$72,09.
+
+### 🟠 Noviembre 2026
+- **Vuelo Avianca** (ya decidido), con tarjeta de crédito, para que caiga en el resumen de diciembre que se paga con el aguinaldo.
+
+### 🟡 Desde el 1/12/2026: vigilar SINAC hasta que se habilite marzo
+- **Cuándo se habilita, sin confirmar.** Las fuentes no coinciden: unas dicen que Poás abre franjas 30 días antes (~4 semanas), otras hablan de 30-60 días, y para el Chirripó SINAC abre hasta 6 meses antes. Lo único seguro es lo que vio Daniel el 12/9/2026: marzo 2027 figuraba como "período no disponible". **No pude verlo directo: la consulta de disponibilidad de SINAC pide un captcha**, que tiene que resolver Daniel.
+- **Plan:** entrar a la disponibilidad de SINAC ([serviciosenlinea.sinac.go.cr](https://serviciosenlinea.sinac.go.cr/)) **una vez por semana desde el 1/12/2026** y **todos los días desde el 15/1/2027**, mirando Poás y Manuel Antonio, hasta que aparezca el 20/3 y el 26/3.
+- **El día que se habilite, comprar las dos en el momento:**
+  - **Poás, sábado 20/3:** con el cupo reducido a 56 personas por turno desde la erupción de agosto, las franjas buenas se agotan rápido.
+  - **Manuel Antonio, viernes 26/3 (Viernes Santo), Grupo 01 (07:00-07:40).** Para Semana Santa las guías dicen que se agota con meses de anticipación.
+- **Reglas de SINAC (preguntas frecuentes oficiales, leídas el 28/9/2026):**
+  - **No hay devolución** si no se puede ir.
+  - Si el parque **cierra por emergencia** (el caso del Poás), se puede **cambiar la fecha** escribiendo a reservaciones.sinac@sinac.go.cr.
+  - En Manuel Antonio se permite **una sola transacción por usuario por día**: comprar las dos entradas juntas, en la misma compra.
+  - Hay que llegar en la franja comprada; si hay atraso, avisar al parque.
+  - Los parques abren los feriados, salvo riesgo.
+
+### 🟢 Con la compra de SINAC hecha (enero-febrero 2027)
+- **Hacienda Alsacia, Coffee Tour de 90 min (sábado 20/3):** reservar **después** de comprar Poás, porque el orden del Día 1 depende de la franja que toque. Tours entre las 8 y las 16; se recomienda reservar online (en promedio se reserva ~8 días antes, pero es sábado de Semana Santa: mejor 3-4 semanas antes). Confirmar al reservar que el tour corre ese sábado. La cancelación depende de dónde se compre: algunas reventas no devuelven nada, el sitio oficial no lo pude leer. [Sitio oficial](https://www.starbuckscoffeefarm.com/)
+- **Selvatura, santuario de perezosos + puentes (miércoles 24/3):** en el santuario la **reserva es obligatoria** (grupos chicos, salidas cada hora y cuarto de 8:15 a 15:15, US$40 + 13%). Cancelación: **100% hasta 48 h antes**, 50% entre 24 y 48 h, nada con menos de 24 h. De diciembre a abril recomiendan reservar para asegurar la entrada. Reservar en febrero. [Selvatura — santuario](https://www.selvatura.com/tours/the-sloth-sanctuary/)
+- **Tour de ballenas en Uvita (sábado 27/3, ~8:15):** la mayoría de los operadores devuelve todo cancelando hasta 24 h antes, y si se suspende por clima reprograman o devuelven. Reservar en febrero y **preguntar si incluye parqueo**. [GetYourGuide — Uvita](https://www.getyourguide.com/uvita-costa-rica-l187790/uvita-whale-watching-tour-in-marino-ballena-national-park-t712261/)
+- **Caminata nocturna en Monteverde (miércoles 24/3):** elegir operador (ver Día 5). Refugio Monteverde pide reservar **al menos un día antes de diciembre a abril**, y Curi-Cancha tiene cupos limitados. Reservar en febrero.
+- **Constancia de la Visa Signature:** pedirla al banco en enero o febrero (ver Auto).
+
+### 🔵 Febrero 2027 (opcional, con cancelación gratis)
+- **Catarata La Fortuna (domingo 21/3):** se puede comprar en la puerta, pero **en Semana Santa conviene la entrada online con franja** (7:00, 9:00, 11:00, 13:00 o 15:00). Es muy flexible: se cambia la fecha o se pide devolución por mail hasta las 17:00 del mismo día de la visita. [Sitio oficial](https://www.cataratalafortuna.com/es) · [Condiciones](https://www.cataratalafortuna.com/terms)
+- **Arenal 1968 (domingo 21/3):** abre de 8:00 a 17:00, último ingreso 15:00. Entrada online desde ~US$26-27; llegando temprano se compra en el lugar. Comprarla online solo si se quiere asegurar.
+
+### ⚪ La semana antes (13-19/3/2027)
+- **Mirador El Castillo:** si se va, escribir por WhatsApp (+506 8310 0223) para pedir la ubicación en Peñas Blancas donde dejar el auto y el precio del traslado.
+- **Poás:** mirar el estado del volcán (OVSICORI y SINAC). Si el parque cierra, pedir el cambio de fecha a reservaciones.sinac@sinac.go.cr.
+- **Reconfirmar todo:** Alsacia, Selvatura, caminata nocturna y ballenas (horario y punto de encuentro).
+
+### ✅ No hace falta reservar
+- **Blue Falls + Catarata del Toro (lunes 22/3):** no piden reserva, se paga en la puerta en efectivo o con tarjeta (combo US$25). ⚠️ **Cierra los domingos**: el lunes no hay problema, pero no moverlo al domingo. [Precios 2026](https://www.blue-falls-of-costa-rica.com/prices/)
+- **El Choyin, Reserva Santa Elena, Playa Espadilla, Playa Biesanz y la parada en el puente de Tárcoles:** sin reserva.
+- **Cola de Ballena:** va incluida en el tour de ballenas.
+
 ## Pendiente / próximos pasos
 
 1. ✅ **CERRADO (20/9/2026) — tramo del golfo de Nicoya:** se sacó Puntarenas del Itinerario y se sumó Uvita/Parque Nacional Marino Ballena en su lugar (ballenas jorobadas, temporada alta en marzo). Uvita: el hospedaje ya está relevado (12 referencias, ver punto 10) y la tabla de mareas no hace falta (ver punto 9).
