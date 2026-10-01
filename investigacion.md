@@ -101,7 +101,7 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 
 **Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Manuel Antonio, Uvita — esta última reemplazó a Puntarenas/golfo el 20/9/2026).
 
-> 💳 **Al menos 1 hospedaje se reserva por Booking (23/9/2026):** Daniel tiene un **saldo a favor de US$72,09** en su cuenta de Booking.com que quiere aprovechar. Al elegir hospedaje, priorizar una opción que esté en Booking (en el checkout, confirmar que el saldo se aplique).
+> 💳 **Al menos 1 hospedaje se reserva por Booking (23/9/2026):** Daniel tiene un **saldo a favor de US$72,09** en su cuenta de Booking.com que quiere aprovechar. Al elegir hospedaje, priorizar una opción que esté en Booking (en el checkout, confirmar que el saldo se aplique). **Actualización 1/10/2026:** el saldo solo se aplica en reservas donde el pago lo procesa Booking; en las de "Paga al alojamiento" (Ballena Rey en Uvita, y también Senda Hostel y Tres Banderas en Manuel Antonio) no aparece. Queda para La Fortuna o Monteverde.
 
 ### La Fortuna — 3 noches, 20-23/3/2027 (cotización real, 12/9/2026)
 
@@ -352,6 +352,15 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 **Ninguna de las opciones nuevas le gana en precio a Pura Natura Lodge** — sigue siendo la mejor relación precio/comodidad de la zona, ahora con un canal alternativo (hoteles.com) que la deja incluso un poco más barata (US$57 vs. US$65 de Booking.com). Tico Tico Villas (9,6/10) es la de mejor puntaje si el criterio pasa a ser calidad antes que precio.
 
 ### Uvita — 1 noche, 26-27/3/2027 (12 referencias cotizadas, 20/9/2026)
+
+**✅ RESERVADO (1/10/2026): Ballena Rey Hotel**, por Booking.com, confirmación **6026998678** (el PIN está en el mail de confirmación). **Apartamento - Planta baja** (48 m², 2 camas dobles grandes + sofá cama, patio, A/C, cocina), tarifa **no reembolsable**, **US$109,88** total (US$97 + impuestos; precio original US$136, con descuento Genius). Desayuno incluido por Genius, parking, check-in tarde. Entrada vie 26/3 15:00-23:30, salida sáb 27/3 10:30-11:00. Se paga al alojamiento antes de llegar.
+- **Por qué este:** era la primera opción del relevamiento del 20/9 y Melisa lo preseleccionó por su cuenta. Daniel eligió la tarifa no reembolsable (US$18 menos que la de cancelación gratis hasta el 24/3) y el de planta baja con 2 camas en vez del de vistas al jardín (1 cama), al mismo precio.
+- **Tarifas vistas ese día (2 personas, con impuestos):** planta baja/jardín ~US$110 no reembolsable / ~US$128 flexible; planta alta con balcón ~US$120 / ~US$140; 80 m² con vistas a la piscina ~US$129 / ~US$154.
+- **El saldo de Booking NO se pudo aplicar:** la reserva es "Paga al alojamiento" y el Monedero solo sirve donde el pago lo procesa Booking. Los US$72,09 siguen intactos.
+- **Peticiones especiales enviadas:** guardar las valijas el sábado 27 después del check-out durante el tour de ballenas, y poder ducharse al volver (una reseña de la ficha dice que lo permiten). Pendiente la respuesta del hotel. Hora de llegada informada en el desplegable de Booking.
+- ⚠️ **Tarjeta:** la reserva quedó garantizada con tarjeta; si el hotel cobra más cerca de la fecha, verificar que la tarjeta cargada siga vigente (la Mastercard terminada en 8820 vence 10/26).
+
+Lo que sigue es el relevamiento original, como historial:
 
 Zona nueva del itinerario, reemplaza a Puntarenas. Daniel pasó 12 links (Booking, Hoteles.com, Airbnb) con las fechas correctas ya cargadas — precios de Booking/Airbnb en USD, los de Hoteles.com salieron en ARS (pendiente convertir).
 
@@ -1516,6 +1525,7 @@ No por ser "inaccesibles", sino por distancia + quedar del lado opuesto del paí
 Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se pasen las fechas. Contexto que lo condiciona todo: **Jueves y Viernes Santo (25-26/3) son feriado en Costa Rica y caen en los Días 6 y 7.** El Día 7 (Manuel Antonio) es Viernes Santo, y de jueves a domingo es el pico de gente. Según Tico Times, en Semana Santa 2026 la ocupación hotelera proyectada fue de 88% en la zona norte (La Fortuna), 82% en Puntarenas (Monteverde), 75% en el Pacífico central (Manuel Antonio) y 70% en el Pacífico sur (Uvita). [Tico Times (24/3/2026)](https://ticotimes.net/2026/03/24/costa-rica-hotels-expect-high-occupancy-for-easter-week)
 
 ### 🔴 Ahora (octubre 2026)
+- **Estado al 1/10/2026:** Uvita ✅ reservado (Ballena Rey Hotel). Manuel Antonio en elección (preselección de Melisa: Senda Adults Only Hostel y Hotel Tres Banderas). La Fortuna y Monteverde pasan al 22/10 (recordatorio nuevo en Google Calendar).
 - **Hospedaje en las 4 zonas.** Es lo único que ya conviene cerrar: en Semana Santa lo bueno se va primero. **Reservar con cancelación gratis** siempre que se pueda, así se asegura el lugar sin perder flexibilidad. Al menos uno por Booking, para usar el saldo de US$72,09.
 
 ### 🟠 Noviembre 2026
@@ -1563,7 +1573,7 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 4. **Cerrar el Itinerario con horarios y hospedaje concretos.** Comprar los pasajes en **noviembre de 2026** con tarjeta de crédito (cae en el resumen de diciembre, que se paga con el aguinaldo); queda dentro de los 3-6 meses de anticipación que pide la sobretasa de Semana Santa.
 5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — sigue siendo la variante independiente con menos datos concretos de costo (ya no forma parte del Itinerario, ver punto 1).
 9. ✅ **Uvita — tabla de mareas ELIMINADO (21/9/2026):** no importa. Si el tómbolo Cola de Ballena no se puede caminar ese día, se sigue de largo.
-10. ✅ **Uvita — hospedaje CERRADO (relevado, 20/9/2026):** 12 referencias reales cotizadas (Booking, Hoteles.com, Airbnb) — ver sección de hospedaje arriba. Falta decidir entre las opciones, recomendadas: Ballena Rey Hotel (mejor puntaje) o Cabinas Bahía Uvita (mejor precio).
+10. ✅ **Uvita — hospedaje RESERVADO (1/10/2026):** Ballena Rey Hotel, confirmación 6026998678, US$109,88 no reembolsable. Historial: relevado el 20/9/2026, 12 referencias reales cotizadas (Booking, Hoteles.com, Airbnb) — ver sección de hospedaje arriba. Falta decidir entre las opciones, recomendadas: Ballena Rey Hotel (mejor puntaje) o Cabinas Bahía Uvita (mejor precio).
 11. ✅ **Uvita — tour de ballenas CERRADO (20/9/2026):** decidido el tour en lancha guiado (~US$85-105/persona, ya incluye entrada al parque + Cola de Ballena) por sobre la entrada independiente SINAC y por sobre Isla del Caño (declinado para este viaje, ver "Qué le falta a Itinerario").
 6. ✅ **Ritmo del día 1 — CERRADO (13/9/2026):** analizado en detalle (ver auditoría de horarios más arriba) y decidido dejarlo como está, con la postura de "si llegamos, llegamos" a La Paz Waterfall Gardens — sin riesgo de plata perdida porque no pide reserva anticipada. *(Superado el 21/9/2026: La Paz Waterfall Gardens quedó descartado y el Día 1 se rearmó con Catarata de la Paz y Colibrí Café de Cinchona.)*
 7. ~~Reservar Eco Termales con anticipación~~ — ✅ **sin efecto (28/9/2026):** Eco Termales ya no está en el plan; se eligió El Choyin (gratis, sin reserva) para el Día 3. Poás, Manuel Antonio y el tour de ballenas siguen pendientes de reservar.
