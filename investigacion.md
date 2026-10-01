@@ -1548,6 +1548,11 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 
 ### 🔴 Ahora (octubre 2026)
 - **Estado al 1/10/2026:** Uvita ✅ reservado (Ballena Rey Hotel). Manuel Antonio ✅ reservado (Pura Natura Lodge). La Fortuna y Monteverde pasan al 22/10 (recordatorio nuevo en Google Calendar).
+- **La Fortuna y Monteverde: se espera (decisión de Daniel, 1/10/2026).** No quiere reservar por impulso: primero ve cómo cierra los gastos de octubre; si le da, reserva alguno este mes, y si no, pasa a noviembre junto con el vuelo. Recordatorio vigente: jue 22/10/2026 09:00. Entradas y excursiones: enero. Vuelo: noviembre, para pagarlo en diciembre con el aguinaldo.
+  - **Re-chequeo de precios del 1/10/2026 (fechas reales, 2 adultos):** promedio de las opciones verificadas ≈US$200 por zona (La Fortuna 3 noches ≈US$67/noche, rango US$122-275; Monteverde 2 noches ≈US$100/noche, rango US$130-240).
+  - **Se reservan sin pagar nada hoy y con cancelación gratis (Booking):** Tucan Container (La Fortuna) US$203 las 3 noches (US$180 + US$23), cancelación gratis hasta el 19/3/2027, sin pago por adelantado; no reembolsable US$183. Camino Verde B&B (Monteverde) **subió a US$407** las 2 noches (US$360 + US$47; estaba en US$240), cancelación gratis hasta el 18/3/2027, no se paga nada hasta el 16/3/2027; solo queda la Doble Estándar Superior.
+  - **Airbnb (cancelación gratuita, pero Airbnb cobra al reservar; no verificado en el checkout):** Vistas Volcán Arenal 4 US$117 (hasta 19/3) · Lightroom #2 US$195 (hasta 18/2) · Loft colibrí US$127 (hasta 21/2) · Casa Torremar US$218 (hasta 18/3) · ECO RIVER DOME US$230 (hasta 18/3). El resto no se re-chequeó.
+  - Daniel vio las 16 fichas abiertas en Chrome y le gustaron todas ("se ven todos muy lindos"); sin favorita elegida.
 - **Hospedaje en las 4 zonas.** Es lo único que ya conviene cerrar: en Semana Santa lo bueno se va primero. **Reservar con cancelación gratis** siempre que se pueda, así se asegura el lugar sin perder flexibilidad. ~~Al menos uno por Booking, para usar el saldo de US$72,09~~ (saldo ya usado el 1/10/2026 en Manuel Antonio).
 
 ### 🟠 Noviembre 2026
