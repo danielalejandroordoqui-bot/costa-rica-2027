@@ -357,7 +357,7 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 - **Por qué este:** era la primera opción del relevamiento del 20/9 y Melisa lo preseleccionó por su cuenta. Daniel eligió la tarifa no reembolsable (US$18 menos que la de cancelación gratis hasta el 24/3) y el de planta baja con 2 camas en vez del de vistas al jardín (1 cama), al mismo precio.
 - **Tarifas vistas ese día (2 personas, con impuestos):** planta baja/jardín ~US$110 no reembolsable / ~US$128 flexible; planta alta con balcón ~US$120 / ~US$140; 80 m² con vistas a la piscina ~US$129 / ~US$154.
 - **El saldo de Booking NO se pudo aplicar:** la reserva es "Paga al alojamiento" y el Monedero solo sirve donde el pago lo procesa Booking. Los US$72,09 siguen intactos.
-- **Peticiones especiales enviadas:** guardar las valijas el sábado 27 después del check-out durante el tour de ballenas, y poder ducharse al volver (una reseña de la ficha dice que lo permiten). Pendiente la respuesta del hotel. Hora de llegada informada en el desplegable de Booking.
+- **Peticiones especiales enviadas:** guardar las valijas el sábado 27 después del check-out durante el tour de ballenas, y poder ducharse al volver (una reseña de la ficha dice que lo permiten). Pendiente la respuesta del hotel. Hora de llegada informada en el desplegable de Booking: **check-in 15:00-16:00 aprobado por el hotel** (mail de Booking, 1/10/2026, sin cargo); ese mail NO responde lo de las valijas ni la ducha.
 - ⚠️ **Tarjeta:** la reserva quedó garantizada con tarjeta; si el hotel cobra más cerca de la fecha, verificar que la tarjeta cargada siga vigente (la Mastercard terminada en 8820 vence 10/26).
 
 Lo que sigue es el relevamiento original, como historial:
