@@ -101,7 +101,7 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 
 **Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Manuel Antonio, Uvita — esta última reemplazó a Puntarenas/golfo el 20/9/2026).
 
-> 💳 **Al menos 1 hospedaje se reserva por Booking (23/9/2026):** Daniel tiene un **saldo a favor de US$72,09** en su cuenta de Booking.com que quiere aprovechar. Al elegir hospedaje, priorizar una opción que esté en Booking (en el checkout, confirmar que el saldo se aplique). **Actualización 1/10/2026:** el saldo solo se aplica en reservas donde el pago lo procesa Booking; en las de "Paga al alojamiento" (Ballena Rey en Uvita, y también Senda Hostel y Tres Banderas en Manuel Antonio) no aparece. Queda para La Fortuna o Monteverde.
+> 💳 **Al menos 1 hospedaje se reserva por Booking (23/9/2026):** Daniel tiene un **saldo a favor de US$72,09** en su cuenta de Booking.com que quiere aprovechar. Al elegir hospedaje, priorizar una opción que esté en Booking (en el checkout, confirmar que el saldo se aplique). **Actualización 1/10/2026:** el saldo solo se aplica en reservas donde el pago lo procesa Booking; en las de "Paga al alojamiento" (Ballena Rey en Uvita, y también Senda Hostel y Tres Banderas en Manuel Antonio) no aparece. ~~Queda para La Fortuna o Monteverde.~~ **Usado completo el 1/10/2026 en Pura Natura Lodge (Manuel Antonio); saldo en cero.**
 
 ### La Fortuna — 3 noches, 20-23/3/2027 (cotización real, 12/9/2026)
 
@@ -292,7 +292,7 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
 - **Reseñas leídas (20: las 10 más recientes y las 10 peores, 1/10/2026):** de 1.153, 1.038 son de 7+ y 49 de menos de 5. El tipo reservado (2 dormitorios con vistas al océano) tiene 10, 10, 9 y 9 en septiembre 2026: fotos fieles, más de 100 m², estacionamiento en la puerta, A/C y ventilador en cada ambiente. En contra: algo de ruido a la noche del restaurante de arriba, ventanas de los dormitorios que dan al living, electrodomésticos flojos, sin microondas, respuestas lentas del alojamiento. **Las quejas fuertes son de otras unidades:** el "Apartamento de 1 dormitorio" (el de US$63 con 2 camas individuales: "galpón" al fondo, viejo, sin agua caliente, no coincide con el anuncio) y los dormitorios compartidos. Dos quejas de trato comercial (un cobro en tarjeta tras cancelar en el lugar, feb 2025; "prácticas turbias" sin detalle, feb 2026). Una reseña avisa que no todos los apartamentos pueden usar la piscina.
 - **Letra chica a vigilar:** la ficha dice que el pago se hace "por un link que manda el alojamiento" o por transferencia, lo que choca con el "Pagas online". No pagar nada por links fuera de Booking sin revisarlo.
 - **Valijas del Día 7:** petición enviada al reservar (dejar el auto en el estacionamiento con las valijas, o las valijas en recepción, hasta volver del parque al mediodía). Pendiente la respuesta. Plan B de Daniel: valijas en el baúl cerrado, sin nada a la vista. Plan C: dejar el auto en el lodge e ir al parque en colectivo (parada al lado, ~4 km).
-- **Monedero:** pendiente confirmar con Daniel si los US$72,09 se aplicaron en el pago.
+- **Pago (1/10/2026): ya está todo pagado por Booking.** US$72,09 con el Crédito del Monedero + US$8,27 con la Visa terminada en 2387. **El saldo a favor de Booking quedó en cero**: ya no condiciona la elección de La Fortuna ni Monteverde.
 
 Lo que sigue es el relevamiento original, como historial:
 
@@ -1537,7 +1537,7 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 
 ### 🔴 Ahora (octubre 2026)
 - **Estado al 1/10/2026:** Uvita ✅ reservado (Ballena Rey Hotel). Manuel Antonio ✅ reservado (Pura Natura Lodge). La Fortuna y Monteverde pasan al 22/10 (recordatorio nuevo en Google Calendar).
-- **Hospedaje en las 4 zonas.** Es lo único que ya conviene cerrar: en Semana Santa lo bueno se va primero. **Reservar con cancelación gratis** siempre que se pueda, así se asegura el lugar sin perder flexibilidad. Al menos uno por Booking, para usar el saldo de US$72,09.
+- **Hospedaje en las 4 zonas.** Es lo único que ya conviene cerrar: en Semana Santa lo bueno se va primero. **Reservar con cancelación gratis** siempre que se pueda, así se asegura el lugar sin perder flexibilidad. ~~Al menos uno por Booking, para usar el saldo de US$72,09~~ (saldo ya usado el 1/10/2026 en Manuel Antonio).
 
 ### 🟠 Noviembre 2026
 - **Vuelo Avianca** (ya decidido), con tarjeta de crédito, para que caiga en el resumen de diciembre que se paga con el aguinaldo.
