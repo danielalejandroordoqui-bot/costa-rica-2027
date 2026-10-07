@@ -113,7 +113,9 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 - Check-in 14:00-22:00 (encaja con el plan: llegan a La Fortuna al atardecer del Día 1).
 - Cumple los 5 puntos del criterio de Daniel — buen benchmark de precio/calidad para la zona.
 
-**Boutique Hotel Containers** (hotel boutique, Florencia/Platanar, Alajuela) — [Hoteles.com](https://ar.hoteles.com/ho3315641824/hotel-contenedores-corporativos-florencia-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2), mismas fechas, 2 personas:
+❌ **DESCARTADO (7/10/2026, decisión de Daniel):** el link de Hoteles.com ya no abre la ficha (redirige a una búsqueda de hoteles en Florencia; parece dado de baja) y además era el de peor ubicación (35-37 min de La Fortuna). Sacado del sitio; con esto no queda ninguna opción de Hoteles.com en La Fortuna (9 referencias: 8 de Airbnb + Tucan Container).
+
+~~**Boutique Hotel Containers**~~ (hotel boutique, Florencia/Platanar, Alajuela) — [Hoteles.com](https://ar.hoteles.com/ho3315641824/hotel-contenedores-corporativos-florencia-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2), mismas fechas, 2 personas:
 - 10/10 "Excepcional" (11 opiniones) — 100% de las parejas le dieron 10/10. Categoría 2.5.
 - Habitaciones tipo contenedor de 20 pies, bien equipadas, buena cama, baño lindo (según reseñas). Sin recepción — check-in con código de acceso, entrada privada.
 - **Habitación empresarial** (18m², 1 cama Queen, sin cocina): **AR$254.057 total** las 3 noches, impuestos incluidos.
@@ -167,7 +169,7 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 | **Vistas Volcán Arenal 4** | **US$122** | ✅ | 1,5km del centro — la más barata con buen respaldo |
 | ~~Almendros Eco-Villas~~ | ~US$166 | ⚠️ parcial según reseña | ❌ Descartado 7/10/2026 (reseña reciente de moho) |
 | Precioso apartamento centro | US$158 | ✅ | En el centro |
-| Boutique Hotel Containers | ~US$164-215 | ✅ | Florencia, 35-37 min — lejos |
+| ~~Boutique Hotel Containers~~ | ~US$164-215 | ✅ | ❌ Descartado 7/10/2026 (ficha dada de baja en Hoteles.com; quedaba a 35-37 min) |
 | Alojamiento en La Fortuna | US$187 | ✅ | La Fortuna |
 | Tucan Container | US$183-203 | ✅ | Corredor termas/volcán |
 | Lightroom #2 | US$195 | ✅ | 446 reseñas, el mayor respaldo |
