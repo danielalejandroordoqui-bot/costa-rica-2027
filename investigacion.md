@@ -154,7 +154,9 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 **Chalet La Fortuna** (Airbnb) — [airbnb.com.ar/rooms/1415549910925570857](https://www.airbnb.com.ar/rooms/1415549910925570857?check_in=2027-03-20&check_out=2027-03-23&adults=2):
 - 4,86/5 (129 evaluaciones) — Favorito entre huéspedes, A/C confirmado. ⚠️ La ficha lo ubica en "San Ramón" (cantón bien alejado de La Fortuna en la realidad), pero la descripción del propio anfitrión dice "a solo 10 minutos de La Fortuna" — dato contradictorio, **confirmar ubicación real antes de considerarla**. Precio mostrado ambiguo (aparecen $268 y $209 en la misma página) — **confirmar precio final al momento de reservar.**
 
-**Almendros Eco-Villas** (Hoteles.com/Expedia) — [ar.hoteles.com/ho3090573824](https://ar.hoteles.com/ho3090573824/almendros-eco-villas-la-fortuna-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2):
+❌ **DESCARTADO (7/10/2026, decisión de Daniel):** al re-chequear precios apareció una reseña de 2/10 del 13/8/2026 en Hoteles.com ("rooms filled with black mold... we immediately left"), que se suma a la del A/C parcial y las obras. Precio ese día: AR$258.438 las 3 noches (antes AR$256.512). Sacado del sitio; no volver a proponerlo.
+
+~~**Almendros Eco-Villas**~~ (Hoteles.com/Expedia) — [ar.hoteles.com/ho3090573824](https://ar.hoteles.com/ho3090573824/almendros-eco-villas-la-fortuna-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2):
 - 8,6/10 (28 opiniones). Casa entera en Los Ángeles de La Fortuna, 2 piscinas al aire libre, A/C a nivel propiedad — pero una reseña de 6/10 advierte que el A/C real solo estaba en 1 cuarto y la sala en su experiencia, con obras/ruido durante la estadía. A 15-20min en auto de las atracciones principales (catarata, termas, parque). No reembolsable.
 - **Precio 3 noches: AR$256.512 ≈ US$166** (convertido a dólar blue $1.545, misma metodología usada para Boutique Hotel Containers).
 
@@ -163,7 +165,7 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 | Opción | Precio (USD) | A/C | Ubicación |
 |---|---|---|---|
 | **Vistas Volcán Arenal 4** | **US$122** | ✅ | 1,5km del centro — la más barata con buen respaldo |
-| Almendros Eco-Villas | ~US$166 | ⚠️ parcial según reseña | 15-20min de las atracciones |
+| ~~Almendros Eco-Villas~~ | ~US$166 | ⚠️ parcial según reseña | ❌ Descartado 7/10/2026 (reseña reciente de moho) |
 | Precioso apartamento centro | US$158 | ✅ | En el centro |
 | Boutique Hotel Containers | ~US$164-215 | ✅ | Florencia, 35-37 min — lejos |
 | Alojamiento en La Fortuna | US$187 | ✅ | La Fortuna |
