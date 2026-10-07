@@ -299,7 +299,7 @@ Búsqueda en Booking.com hecha antes de tener el esqueleto de días cerrado (7 n
   - **Mapa de la propiedad** (guardado en `img/pura-natura-mapa.jpg`, publicado en la tarjeta): entrada sobre la Ruta 618; al entrar, a la izquierda quedan Hills Apartment y el Restaurante, con Enjoy Sunset y Everyday Sunset debajo; siguiendo el parqueo hacia el fondo: Forever, Beautiful, Deluxe Ocaso, Hostel, Recepción, Great Sunset y, al final, Always (arriba) y Amazing (abajo); Mountain Apartment suelto del lado de la ruta. A la derecha de la entrada: Tropical, y más al sur Deluxe Habitación y Paradise, **con la piscina** (por eso no todos los apartamentos la tienen a mano).
   - **Un día antes del check-in (mié 24/3/2027)** mandan por WhatsApp o correo: código de acceso, datos del wifi y contacto disponible durante la estadía. Ese mensaje es esperable; no incluye pagos (la reserva ya está paga por Booking).
 - **Valijas del Día 7:** petición enviada al reservar (dejar el auto en el estacionamiento con las valijas, o las valijas en recepción, hasta volver del parque al mediodía). **✅ CONFIRMADO (1/10/2026, 14:22, chat de Booking):** Pura Natura respondió "Claro que sí, no hay problema." La respuesta no aclara cuál de las dos variantes (auto en el estacionamiento o valijas guardadas), se define al llegar. Con esto los dos hospedajes de una noche (Pura Natura y Ballena Rey) aceptaron guardar las valijas después del check-out. Ya sin uso, quedan de respaldo: valijas en el baúl cerrado, sin nada a la vista; o dejar el auto en el lodge e ir al parque en colectivo (parada al lado, ~4 km).
-- **Pago (1/10/2026): ya está todo pagado por Booking.** US$72,09 con el Crédito del Monedero + US$8,27 con la Visa terminada en 2387. **El saldo a favor de Booking quedó en cero**: ya no condiciona la elección de La Fortuna ni Monteverde.
+- **Pago (1/10/2026): ya está todo pagado por Booking.** US$72,09 con el Crédito del Monedero + US$8,27 con la Visa terminada en 2387. **En el check-in no hay saldo de alojamiento que pagar** (solo consumos extra si los hay); si piden cobrar la noche otra vez, mostrar la reserva en la app de Booking (confirmación 6045184519), donde figura como pagada, y no pagar nada por links fuera de Booking (anotado 7/10/2026). **El saldo a favor de Booking quedó en cero**: ya no condiciona la elección de La Fortuna ni Monteverde.
 
 Lo que sigue es el relevamiento original, como historial:
 
@@ -371,7 +371,9 @@ Lo que sigue es el relevamiento original, como historial:
 
 ### Uvita — 1 noche, 26-27/3/2027 (12 referencias cotizadas, 20/9/2026)
 
-**✅ RESERVADO (1/10/2026): Ballena Rey Hotel**, por Booking.com, confirmación **6026998678** (el PIN está en el mail de confirmación). **Apartamento - Planta baja** (48 m², 2 camas dobles grandes + sofá cama, patio, A/C, cocina), tarifa **no reembolsable**, **US$109,88** total (US$97 + impuestos; precio original US$136, con descuento Genius). Desayuno incluido por Genius, parking, check-in tarde. Entrada vie 26/3 15:00-23:30, salida sáb 27/3 10:30-11:00. Se paga al alojamiento antes de llegar.
+**✅ RESERVADO (1/10/2026): Ballena Rey Hotel**, por Booking.com, confirmación **6026998678** (el PIN está en el mail de confirmación). **Apartamento - Planta baja** (48 m², 2 camas dobles grandes + sofá cama, patio, A/C, cocina), tarifa **no reembolsable**, **US$109,88** total (US$97 + impuestos; precio original US$136, con descuento Genius). Desayuno incluido por Genius, parking, check-in tarde. Entrada vie 26/3 15:00-23:30, salida sáb 27/3 10:30-11:00. **YA PAGADO: el hotel cobró el total el 1/10/2026** (la reserva decía "se paga al alojamiento antes de llegar"; detalle abajo).
+- 💳 **Por qué decía "se paga al alojamiento" y ya está cobrado (aclarado 7/10/2026):** en Booking esa leyenda indica QUIÉN cobra (el hotel, no Booking), no que se paga recién al llegar. Con tarifa no reembolsable el hotel puede debitar la tarjeta en cualquier momento antes de la llegada, y lo hizo el mismo día de la reserva. **En el check-in no hay saldo de alojamiento que pagar**, solo consumos extra si los hay. Si piden cobrar la noche otra vez: mostrar el mensaje del hotel en el chat de Booking ("el pago total por un monto de US$109.88... ha sido procesado con éxito") y la confirmación 6026998678. No pagar nada por links que lleguen fuera de Booking.
+- ⏳ **A verificar cuando llegue el resumen de la tarjeta:** que el cargo de US$109,88 figure UNA sola vez. La reserva se había garantizado con la Mastercard terminada en 8820 (ver "Tarjeta" abajo); falta confirmar en qué tarjeta cayó el cargo, porque Daniel entiende que todo va a la Visa Galicia (2387).
 - **Por qué este:** era la primera opción del relevamiento del 20/9 y Melisa lo preseleccionó por su cuenta. Daniel eligió la tarifa no reembolsable (US$18 menos que la de cancelación gratis hasta el 24/3) y el de planta baja con 2 camas en vez del de vistas al jardín (1 cama), al mismo precio.
 - **Tarifas vistas ese día (2 personas, con impuestos):** planta baja/jardín ~US$110 no reembolsable / ~US$128 flexible; planta alta con balcón ~US$120 / ~US$140; 80 m² con vistas a la piscina ~US$129 / ~US$154.
 - ⚠️ **Check-out antes del tour (Día 8):** la salida es de 10:30 a 11:00 y el tour de ballenas (8:15, ~3 h) vuelve después. Hay que dejar el apartamento antes de ir al tour; por eso el pedido de guardar las valijas y ducharse a la vuelta.
@@ -1214,6 +1216,45 @@ Ruta completamente distinta a las otras 4 — no pasa por Arenal, Monteverde, Ma
   - **Catarata Las Cortinas** (Siquirres, Limón): del lado del Caribe, nivel avanzado, 10-18 km con cuerdas, en propiedad privada. [Qué Buen Lugar](https://quebuenlugar.com/en/lugares/catarata-las-cortinas)
   - **Nauyaca** (@breannrochelle): ya estaba evaluada, no entra en los Días 7 y 8.
   - Dos videos de @costaricamochilera no traen el nombre de la catarata: uno solo dice "Venecia, Alajuela" y el otro no da ubicación.
+
+---
+
+## Cuentas de Instagram para etiquetar al subir las fotos (6/10/2026, pedido de Daniel)
+
+> Usuarios verificados uno por uno en Instagram el 6/10/2026 (existen, con ese nombre y esa cantidad de seguidores). Que reposteen no está garantizado: las oficiales de turismo y los hubs lo hacen seguido; las cuentas de parques y ONG, de vez en cuando.
+> Cómo usarlas: Instagram deja **etiquetar hasta 20 cuentas por publicación** (en la foto) y además mencionar en el texto. Etiquetar en la foto pesa más que el hashtag. Elegir según lo que muestra cada foto, no todas siempre. En historias, mencionar con @ para que puedan compartirla con un toque.
+
+**Oficiales**
+- **@visit_costarica** (521 mil) — la oficial de turismo. La principal. Ojo: @visitcostarica y @visit_costa_rica son otras, sin peso.
+- **@oficial_ict** (33 mil) — Instituto Costarricense de Turismo.
+- **@sinac_cr** (13 mil) — SINAC, parques nacionales (Poás, Manuel Antonio, Marino Ballena, Tenorio/Río Celeste).
+
+**Hubs del país** (viven de fotos de terceros)
+- **@costarica** (149 mil) · **@costaricaexperts** (148 mil) · **@costaricacool** (131 mil)
+- **@mytanfeet** (21 mil) · **@thecostaricaguide** (19 mil)
+
+**Lugares del itinerario**
+- **@haciendaalsacia** (59 mil) — Hacienda Alsacia (Starbucks).
+- **@lafortunawaterfall** (6,5 mil) — Catarata Río Fortuna.
+- **@arenalobservatorylodge** (15 mil) · **@misticopark** (22 mil) — solo si se entra.
+- **@selvaturapark** (18 mil) — Selvatura, Monteverde.
+- **@hotelballenarey** (545) — hospedaje de Uvita.
+- Pura Natura Lodge (Manuel Antonio): no le encontré Instagram.
+
+**Fauna**
+- **@slothconservation** (120 mil) — perezosos.
+- Aves: **@best_birds_of_ig** (409 mil) · **@nuts_about_birds** (444 mil) · **@your_best_birds** (350 mil) · **@bird_brilliance** (157 mil) · **@birds_captures** (141 mil)
+- **@wildgeography** (1 M) · **@discoverwildlife** (101 mil) · **@natgeoyourshot** (6 M)
+
+**Hubs globales de paisaje y viaje** (difícil entrar, pero suman alcance)
+- **@beautifuldestinations** (24 M) · **@earthpix** (22 M) · **@discoverearth** (7 M) · **@earthofficial** (5 M) · **@roamtheplanet** (2 M) · **@folkscenery** (1 M) · **@stayandwander** (800 mil)
+
+**Segunda tanda (6/10/2026)**
+- Hubs en español, hechos con fotos de terceros: **@descubrecostarica** (353 mil) · **@vamosaturistear** (100 mil) · **@costaricamochilera** (72 mil) · **@rutascr** (13 mil) · **@elviajerocr** (19 mil) · **@caminandocostarica** (572)
+- Hubs en inglés: **@thisiscostarica** (224 mil) · **@costarica.explores** (206 mil) · **@costaricatraveler** (62 mil) · **@discovercostarica** (29 mil) · **@costaricadestinations** (1,8 mil) · **@costaricagram** (912) · **@naturecostarica** (334) · **@costaricaadventures** (306)
+- **@visit_costaricafr** (7,4 mil) — la oficial para Francia; en la bio pide que la etiqueten para repostear.
+- Por zona: **@monteverde_cr** (3 mil) · **@monteverdecloudforest** (1,7 mil) · **@reservasantaelena** (5 mil) · **@manuelantoniopark** (3,3 mil) · **@visitmanuelantonio** (622) · **@marinapezvela** (1,9 mil, Quepos) · **@visitdominical** (451) · **@poasvolcanolodge** (17 mil)
+- Fauna y aves locales: **@costaricabirding** (2,5 mil) · **@birdsofcostarica** (1 mil) · **@kidssavingtherainforest** (27 mil, rescate en Manuel Antonio) · **@costaricaanimalrescuecenter_** (28 mil) · **@toucanrescueranch** (137 mil) · **@proyectoasis** (6,7 mil, La Fortuna)
 
 ---
 
