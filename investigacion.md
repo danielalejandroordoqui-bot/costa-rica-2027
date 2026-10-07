@@ -162,11 +162,24 @@ Ver reserva oficial: https://www.economybookings.com/es/cabinet/reservation?resn
 - 8,6/10 (28 opiniones). Casa entera en Los Ángeles de La Fortuna, 2 piscinas al aire libre, A/C a nivel propiedad — pero una reseña de 6/10 advierte que el A/C real solo estaba en 1 cuarto y la sala en su experiencia, con obras/ruido durante la estadía. A 15-20min en auto de las atracciones principales (catarata, termas, parque). No reembolsable.
 - **Precio 3 noches: AR$256.512 ≈ US$166** (convertido a dólar blue $1.545, misma metodología usada para Boutique Hotel Containers).
 
+**Búsqueda nueva en Booking y Hoteles.com (7/10/2026, pedido de Daniel: 3 de cada sitio, con sus valores y necesidades):** fechas reales 20-23/3/2027, 2 adultos, A/C, puntuación 8+; en Booking además parking y "acepta pagos online". Totales con impuestos; Hoteles.com cobra en pesos (convertido a ≈$1.521 por dólar, el cambio que usa Booking ese día). Daniel vio las 6 fichas: **4 quedan, 2 no**.
+- ✅ **Hotel Campestre Arenal** — [Booking](https://www.booking.com/hotel/cr/la-palmera-real.es.html?checkin=2027-03-20&checkout=2027-03-23&group_adults=2&no_rooms=1&req_adults=2) (el slug es `la-palmera-real`): 8,1 (491 comentarios). Habitación con cama grande y vista al jardín, desayuno incluido. **US$180** las 3 noches (US$159 + US$21). Cancelación gratis hasta el 6/3/2027; "no pagues nada hasta el 4 de marzo de 2027" → **se cobra el 4/3, no al reservar** (contra el criterio de pagar al reservar; no se revisó si tiene otra tarifa). Ojo: buscándolo por nombre en Booking aparece "no disponible"; la ficha directa sí muestra precios.
+- ✅ **Aunty Arenal Lodge** — [Hoteles.com](https://ar.hoteles.com/ho600767680/aunty-arenal-lodge-la-fortuna-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2): 8,4 (261 opiniones). Lodge con piscina y estacionamiento, desayuno con cargo. **AR$318.102 ≈ US$209** las 3 noches. A/C sin confirmar (salió de "propiedades similares", no de una búsqueda filtrada).
+- ✅ **Hotel Alicia** — [Hoteles.com](https://ar.hoteles.com/ho1229017120/hotel-alicia-la-fortuna-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2): 9,4 (54 opiniones). Desayuno incluido, estacionamiento. **AR$327.284 ≈ US$215** las 3 noches. Corrige la pista de Google Hotels del 17/9 (~US$62), que no era el total.
+- ✅ **Arenal Xilopalo** — [Hoteles.com](https://ar.hoteles.com/ho634902016/arenal-xilopalo-la-fortuna-costa-rica/?chkin=2027-03-20&chkout=2027-03-23&rm1=a2): 9,2 (149 opiniones). A/C, estacionamiento y wifi. **AR$329.746 ≈ US$217** las 3 noches. Corrige la pista de Google Hotels del 17/9 (~US$72).
+- ❌ **Descartados por Daniel al ver las fichas (7/10/2026), no volver a proponer:** Pura Vida Apartment - Downtown La Fortuna (Booking, 8,9/51, US$234) y Bungalow Batsù (Booking, 9,3/262, US$277).
+- **Re-chequeo del mismo día:** Tucan Container sin cambios (US$183 no reembolsable "pagas al alojamiento antes de llegar", sin tarjeta / US$203 con cancelación gratis hasta el 19/3 y pago en el alojamiento). Las fichas de Airbnb no se pudieron re-chequear: Airbnb bloqueó la Mac con 503/429 por abrir 12 fichas juntas (abrirlas de a pocas).
+- **Criterio nuevo de Daniel (7/10/2026):** prefiere pagar el hospedaje al reservar; no quiere que se acumulen gastos en el mes del viaje. Para cada tarifa, anotar cuándo se cobra.
+
 **Resumen La Fortuna, todas las opciones (13/9/2026):**
 
 | Opción | Precio (USD) | A/C | Ubicación |
 |---|---|---|---|
 | **Vistas Volcán Arenal 4** | **US$122** | ✅ | 1,5km del centro — la más barata con buen respaldo |
+| Hotel Campestre Arenal (7/10) | US$180 | ✅ | Booking, desayuno incluido; se cobra el 4/3 |
+| Aunty Arenal Lodge (7/10) | ~US$209 | ⚠️ a confirmar | Hoteles.com, piscina |
+| Hotel Alicia (7/10) | ~US$215 | ✅ | Hoteles.com, desayuno incluido |
+| Arenal Xilopalo (7/10) | ~US$217 | ✅ | Hoteles.com |
 | ~~Almendros Eco-Villas~~ | ~US$166 | ⚠️ parcial según reseña | ❌ Descartado 7/10/2026 (reseña reciente de moho) |
 | Precioso apartamento centro | US$158 | ✅ | En el centro |
 | ~~Boutique Hotel Containers~~ | ~US$164-215 | ✅ | ❌ Descartado 7/10/2026 (ficha dada de baja en Hoteles.com; quedaba a 35-37 min) |
@@ -238,11 +251,28 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 - 4,98/5 (116 evaluaciones) — Favorito entre huéspedes. A/C + ventilador portátil confirmado. 1 dormitorio, 1 baño. ⚠️ El nombre dice "cerca de Monteverde", no en el pueblo mismo — confirmar distancia real antes de decidir.
 - **Precio 2 noches: US$184 total** (con descuento por reserva anticipada, antes US$203).
 
+**Búsqueda nueva en Booking y Hoteles.com (7/10/2026, pedido de Daniel: 3 de cada sitio):** fechas reales 23-25/3/2027, 2 adultos, A/C, puntuación 8+; en Booking además parking. Totales con impuestos; Hoteles.com cobra en pesos (≈$1.521 por dólar). Daniel vio las 6 fichas y **quedan las 6**.
+- ✅ **Gamaí Monteverde Tiny House** — [Booking](https://www.booking.com/hotel/cr/gamai-monteverde.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 8,1 (85 comentarios). Apartamento estudio, cancelación gratis. **US$106** las 2 noches, impuestos incluidos.
+- ✅ **Dadirri Cozy House Santa Elena** — [Booking](https://www.booking.com/hotel/cr/dadirri-house-minicasa-santa-elena-monteverde.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 9,5 (35 comentarios). Apartamento de 1 dormitorio, cancelación gratis. **US$134** (US$119 + US$15).
+- ✅ **Black & White Apartments** — [Booking](https://www.booking.com/hotel/cr/black-amp-white-aparment.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 9,3 (66 comentarios). Apartamento de 1 dormitorio con balcón. **US$169** (US$150 + US$19).
+- ✅ **Calathea Hotel Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho1221052736/calathea-lodge-monteverde-monteverde-costa-rica/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 9,6 (321 opiniones). Desayuno incluido, terraza, a 1,6 km del centro; totalmente reembolsable, con opción "reserva ahora, paga después". **AR$479.907 ≈ US$316**. En Booking el mismo hotel: 8,9 (629), US$331, "pagarás en el alojamiento".
+- ✅ **Casa Curré Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho3629588000/casa-curre-monteverde/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 10 (solo 6 opiniones). Hidromasaje privado, a 1,9 km del centro, reembolsable. **AR$556.446 ≈ US$366**.
+- ✅ **ÉWA Homes Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho3602144480/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 9,8 (10 opiniones). Balcón y kitchenette, a 1,7 km del centro, reembolsable. **AR$595.088 ≈ US$391**.
+- **Sin verificar en ninguna de las 6:** cuándo se cobra exactamente (se ve en el paso de pago) y el detalle de cada ficha (baño privado, reseñas); los datos salen de los listados de búsqueda.
+- **Camino Verde B&B, re-chequeo 7/10/2026:** Booking US$393 las 2 noches (US$348 + US$45), solo queda la Triple Estándar (el 1/10 era US$407 con la Doble Estándar Superior; el 12/9, US$240). En Hoteles.com: AR$533.405 ≈ US$351, reembolsable, 9,4 (1.002 opiniones).
+- **Ojo al buscar en Hoteles.com:** "Monteverde" resuelve a toda la provincia de Puntarenas y mezcla hoteles de La Fortuna a 25+ km; usar la región "Santa Elena, Monteverde" (`regionId=6139827`) y ordenar por distancia.
+
 **Resumen Monteverde, todas las opciones (13/9/2026):**
 
 | Opción | Precio (USD) | A/C | Nota |
 |---|---|---|---|
 | **Loft colibrí** | **US$130** | ✅ | El más barato con A/C confirmado |
+| Gamaí Monteverde Tiny House (7/10) | US$106 | ✅ | Booking, estudio |
+| Dadirri Cozy House (7/10) | US$134 | ✅ | Booking, 9,5 |
+| Black & White Apartments (7/10) | US$169 | ✅ | Booking, con balcón |
+| Calathea Hotel Monteverde (7/10) | ~US$316 | ✅ | Hoteles.com, desayuno incluido |
+| Casa Curré Monteverde (7/10) | ~US$366 | ✅ | Hoteles.com, solo 6 opiniones |
+| ÉWA Homes Monteverde (7/10) | ~US$391 | ✅ | Hoteles.com, 10 opiniones |
 | ECO RIVER DOME | US$230 | ✅ portátil | Domo con vista, más aislado |
 | Camino Verde B&B | US$240 | ✅ | Centro de Santa Elena, desayuno incluido |
 | Casa Torremar | US$213 | ✅ ventana | 510 reseñas — el mayor respaldo de la zona |
