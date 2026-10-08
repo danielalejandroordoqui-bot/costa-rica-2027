@@ -222,7 +222,7 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 - A 1h en auto del Volcán Arenal. Reseñas destacan la vista, la tranquilidad y la calidez del anfitrión.
 - **Precio 2 noches/2 huéspedes: US$230 total.** Cancelación gratis antes del 18/3/2027.
 
-**Camino Verde B&B Monteverde** — [Booking.com](https://www.booking.com/hotel/cr/camino-verde-bed-amp-brekfast-monteverde.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2), mismas fechas, 2 adultos:
+❌ **Descartado 8/10/2026 (por precio; además ese día Booking ya no tenía disponibilidad para 23-25/3).** **Camino Verde B&B Monteverde** — [Booking.com](https://www.booking.com/hotel/cr/camino-verde-bed-amp-brekfast-monteverde.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2), mismas fechas, 2 adultos:
 - 9,0 "Fantástico" (1.476 comentarios) — Ubicación 9,3/10, Personal 9,7/10. A 350m de la Iglesia de Santa Elena, en pleno centro del pueblo (muy caminable a restaurantes/actividades).
 - Habitación Doble Estándar (15m², 1 cama doble grande): A/C, baño privado, TV, wifi, desayuno incluido ("Fantástico" según reseñas). Terraza compartida con vista al Bosque Nuboso.
 - Precio con descuento Genius: US$212 (antes US$235) + US$28 de impuestos = **US$240 total** las 2 noches. Cancelación gratis antes del 18/3/2027.
@@ -255,12 +255,24 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 - ✅ **Gamaí Monteverde Tiny House** — [Booking](https://www.booking.com/hotel/cr/gamai-monteverde.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 8,1 (85 comentarios). Apartamento estudio, cancelación gratis. **US$106** las 2 noches, impuestos incluidos.
 - ✅ **Dadirri Cozy House Santa Elena** — [Booking](https://www.booking.com/hotel/cr/dadirri-house-minicasa-santa-elena-monteverde.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 9,5 (35 comentarios). Apartamento de 1 dormitorio, cancelación gratis. **US$134** (US$119 + US$15).
 - ✅ **Black & White Apartments** — [Booking](https://www.booking.com/hotel/cr/black-amp-white-aparment.es.html?checkin=2027-03-23&checkout=2027-03-25&group_adults=2&no_rooms=1&req_adults=2): 9,3 (66 comentarios). Apartamento de 1 dormitorio con balcón. **US$169** (US$150 + US$19).
-- ✅ **Calathea Hotel Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho1221052736/calathea-lodge-monteverde-monteverde-costa-rica/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 9,6 (321 opiniones). Desayuno incluido, terraza, a 1,6 km del centro; totalmente reembolsable, con opción "reserva ahora, paga después". **AR$479.907 ≈ US$316**. En Booking el mismo hotel: 8,9 (629), US$331, "pagarás en el alojamiento".
-- ✅ **Casa Curré Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho3629588000/casa-curre-monteverde/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 10 (solo 6 opiniones). Hidromasaje privado, a 1,9 km del centro, reembolsable. **AR$556.446 ≈ US$366**.
-- ✅ **ÉWA Homes Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho3602144480/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 9,8 (10 opiniones). Balcón y kitchenette, a 1,7 km del centro, reembolsable. **AR$595.088 ≈ US$391**.
+- ❌ (descartado 8/10/2026, por precio) **Calathea Hotel Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho1221052736/calathea-lodge-monteverde-monteverde-costa-rica/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 9,6 (321 opiniones). Desayuno incluido, terraza, a 1,6 km del centro; totalmente reembolsable, con opción "reserva ahora, paga después". **AR$479.907 ≈ US$316**. En Booking el mismo hotel: 8,9 (629), US$331, "pagarás en el alojamiento".
+- ❌ (descartado 8/10/2026, por precio) **Casa Curré Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho3629588000/casa-curre-monteverde/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 10 (solo 6 opiniones). Hidromasaje privado, a 1,9 km del centro, reembolsable. **AR$556.446 ≈ US$366**.
+- ❌ (descartado 8/10/2026, por precio) **ÉWA Homes Monteverde** — [Hoteles.com](https://ar.hoteles.com/ho3602144480/?chkin=2027-03-23&chkout=2027-03-25&rm1=a2): 9,8 (10 opiniones). Balcón y kitchenette, a 1,7 km del centro, reembolsable. **AR$595.088 ≈ US$391**.
 - **Sin verificar en ninguna de las 6:** cuándo se cobra exactamente (se ve en el paso de pago) y el detalle de cada ficha (baño privado, reseñas); los datos salen de los listados de búsqueda.
 - **Camino Verde B&B, re-chequeo 7/10/2026:** Booking US$393 las 2 noches (US$348 + US$45), solo queda la Triple Estándar (el 1/10 era US$407 con la Doble Estándar Superior; el 12/9, US$240). En Hoteles.com: AR$533.405 ≈ US$351, reembolsable, 9,4 (1.002 opiniones).
 - **Ojo al buscar en Hoteles.com:** "Monteverde" resuelve a toda la provincia de Puntarenas y mezcla hoteles de La Fortuna a 25+ km; usar la región "Santa Elena, Monteverde" (`regionId=6139827`) y ordenar por distancia.
+
+**Decisión 8/10/2026:** Daniel se queda con las 7 opciones de hasta US$250 (Gamaí, Loft colibrí, Dadirri, Black & White, Bello Horizonte, Casa Torremar, ECO RIVER DOME) y descarta las 4 caras (Calathea, Casa Curré, ÉWA Homes, Camino Verde B&B): no volver a proponerlas. Le gustaron sobre todo Bello Horizonte, Casa Torremar y ECO RIVER DOME; sin decisión todavía.
+
+**Verificación ficha por ficha (8/10/2026, 23-25/3, 2 adultos): las 7 tienen A/C, estacionamiento gratis y baño privado.** Distancias al centro de Santa Elena en línea recta desde las coordenadas de cada ficha (las de Airbnb son aproximadas):
+- **Gamaí Tiny House:** US$107, ≈1,5 km. Ubicación 7,8 en Booking.
+- **Loft colibrí:** US$128, ≈1,3 km. A/C central, estacionamiento compartido para 3 autos. Cancelación gratuita hasta el 21/2.
+- **Dadirri Cozy House:** la ficha muestra US$117 (el 7/10 eran US$119 + US$15 de impuestos; no verifiqué si los US$117 los incluyen), ≈3 km (una reseña dice 10 min del centro). Ubicación 8,7.
+- **Black & White Apartments:** ≈0,7 km, la más céntrica. Ubicación 9,4.
+- **Bello Horizonte:** US$184, US$0 al reservar, cancelación gratuita hasta el 22/3. 4,98 (117), 98% de 5★, top 1% de Airbnb. Casa entera sin vecinos en Abangares (Guanacaste), ≈8 km al oeste; las reseñas dan 18-30 min a Santa Elena y ~30 min a la reserva de Monteverde, por camino con baches y curvas, sin necesidad de 4x4. A/C split solo en el dormitorio (el living se calienta a la tarde), cama king, cocina completa, wifi 16 Mbps, sin TV. Restaurante a pasos (no siempre abierto), conviene llevar comida. Una reseña menciona hormigas; el portón cuesta verlo de noche. Check-in 14:00 con caja de llaves, check-out 11:00. Anfitrión Jose, Superanfitrión.
+- **Casa Torremar:** US$218, US$0 al reservar, cancelación gratuita hasta el 18/3. 4,83 (520): 85% de 5★, 13% de 4★, 2% de 3★. Cabaña de madera de 2 pisos, 1,5 baños, mosquiteros; A/C de ventana solo en el dormitorio de arriba. ≈3 km del centro por coordenadas (el anuncio dice 5 min). Punto flojo repetido: ruido y poca privacidad (casas cerca, anfitriones abajo, perros, la madera suena con viento); una reseña habla de agua caliente floja.
+- **ECO RIVER DOME:** US$230, US$0 al reservar, cancelación gratuita hasta el 18/3. 4,97 (300), 97% de 5★, 5,0 en ubicación. Airbnb lo lista como "habitación en domo con acceso a espacios compartidos" (hay más de un domo en el predio); baño privado en la habitación, cocina chica, A/C y calefactor portátiles. ≈3,4 km del centro. Puntos flojos: poca presión en la ducha, la lona suena con viento. La ficha marca "Básicos" (toallas, sábanas) como no incluido: preguntarle al anfitrión. Check-in 15:00, check-out 10:00. Anfitrión Harry, guía naturalista.
+- Reseñas leídas: 44 de 117 (Bello Horizonte), 24 de 520 (Torremar), 24 de 300 (ECO RIVER DOME).
 
 **Resumen Monteverde, todas las opciones (13/9/2026):**
 
@@ -270,11 +282,7 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 | Gamaí Monteverde Tiny House (7/10) | US$106 | ✅ | Booking, estudio |
 | Dadirri Cozy House (7/10) | US$134 | ✅ | Booking, 9,5 |
 | Black & White Apartments (7/10) | US$169 | ✅ | Booking, con balcón |
-| Calathea Hotel Monteverde (7/10) | ~US$316 | ✅ | Hoteles.com, desayuno incluido |
-| Casa Curré Monteverde (7/10) | ~US$366 | ✅ | Hoteles.com, solo 6 opiniones |
-| ÉWA Homes Monteverde (7/10) | ~US$391 | ✅ | Hoteles.com, 10 opiniones |
 | ECO RIVER DOME | US$230 | ✅ portátil | Domo con vista, más aislado |
-| Camino Verde B&B | US$240 | ✅ | Centro de Santa Elena, desayuno incluido |
 | Casa Torremar | US$213 | ✅ ventana | 510 reseñas — el mayor respaldo de la zona |
 | Bello Horizonte | US$184 | ✅ portátil | "Cerca de" Monteverde, confirmar distancia |
 | Cowboy Hostel | US$58 | ❌ | Sin A/C, no cumple criterio |
