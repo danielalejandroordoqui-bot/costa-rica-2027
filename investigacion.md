@@ -1655,6 +1655,9 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 ### 🟠 Noviembre 2026
 - **Vuelo Avianca** (ya decidido), con tarjeta de crédito, para que caiga en el resumen de diciembre que se paga con el aguinaldo.
 
+### 🟡 Principios de diciembre 2026
+- **Hospedaje de La Fortuna** (3 noches, 20-23/3), con cancelación gratis siempre que se pueda. Es el único que falta; recordatorio en Google Calendar el mar 1/12/2026 09:00. En el sitio, el bloque "Ahora (octubre)" pasó a llamarse "Ya reservado" (8/10/2026).
+
 ### 🟡 Desde el 1/12/2026: vigilar SINAC hasta que se habilite marzo
 - **Cuándo se habilita, sin confirmar.** Las fuentes no coinciden: unas dicen que Poás abre franjas 30 días antes (~4 semanas), otras hablan de 30-60 días, y para el Chirripó SINAC abre hasta 6 meses antes. Lo único seguro es lo que vio Daniel el 12/9/2026: marzo 2027 figuraba como "período no disponible". **No pude verlo directo: la consulta de disponibilidad de SINAC pide un captcha**, que tiene que resolver Daniel.
 - **Plan:** entrar a la disponibilidad de SINAC ([serviciosenlinea.sinac.go.cr](https://serviciosenlinea.sinac.go.cr/)) **una vez por semana desde el 1/12/2026** y **todos los días desde el 15/1/2027**, mirando Poás y Manuel Antonio, hasta que aparezca el 20/3 y el 26/3.
