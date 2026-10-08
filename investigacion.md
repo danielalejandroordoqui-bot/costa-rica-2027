@@ -214,6 +214,14 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 
 ### Monteverde — 2 noches, 23-25/3/2027 (cotización real, 12/9/2026)
 
+**✅ RESERVADO Y PAGADO (8/10/2026): Bello Horizonte, vista increíble cerca de Monteverde**, por Airbnb ([ficha](https://www.airbnb.com.ar/rooms/754275571837272770?check_in=2027-03-23&check_out=2027-03-25&adults=2)). 23-25/3/2027, 2 viajeros. **Monto pagado: US$206,23** (2 noches a US$101,50 = US$203 − US$19 de descuento por reserva anticipada + US$22,23 de impuestos), elegida la opción "pagar ahora" (la otra era US$0 hoy y cobro el 14/3/2027). Cancelación gratuita con reembolso total hasta el 22/3/2027. Código de confirmación y tarjeta usada: sin anotar todavía.
+- **Distancias medidas en Google Maps (8/10/2026, desde las coordenadas aproximadas de Airbnb):** 23 min / 12,3 km al centro de Santa Elena, 33 min / 16,2 km a Selvatura, 34 min / 16,6 km a la Reserva Santa Elena, todo por la Ruta 606. Son 13 min más por tramo que ECO RIVER DOME (10 min al centro, 20 a Selvatura).
+- **Entrada** desde las 14:00 con caja de seguridad para llaves; **salida** hasta las 11:00. Anfitrión Jose (coanfitriona Lissette), responde en menos de una hora.
+- **A tener en cuenta:** llegar con luz el primer día (el portón cuesta verlo de noche); llevar comida; A/C solo en el dormitorio. Detalle completo en la verificación del 8/10 más abajo.
+- **Ojo con los precios de Airbnb:** la ficha mostraba US$184 y el checkout sumó impuestos (US$206,23). Los precios de ficha de las demás opciones de Airbnb pueden estar igual, sin impuestos.
+- **Pendiente de mapas:** falta marcarlo en el My Maps y en la lista nativa "Costa Rica".
+
+
 2 referencias reales, no decisión cerrada:
 
 **ECO RIVER DOME** (habitación privada en domo) — [Airbnb](https://www.airbnb.com.ar/rooms/53621802?check_in=2027-03-23&check_out=2027-03-25&adults=2), mismas fechas, 2 huéspedes:
@@ -1631,6 +1639,7 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 
 ### 🔴 Ahora (octubre 2026)
 - **Estado al 1/10/2026:** Uvita ✅ reservado (Ballena Rey Hotel). Manuel Antonio ✅ reservado (Pura Natura Lodge). La Fortuna y Monteverde pasan al 22/10 (recordatorio nuevo en Google Calendar).
+- **Estado al 8/10/2026:** Monteverde ✅ reservado y pagado (Bello Horizonte, Airbnb, US$206,23). Solo falta La Fortuna.
 - **La Fortuna y Monteverde: se espera (decisión de Daniel, 1/10/2026).** No quiere reservar por impulso: primero ve cómo cierra los gastos de octubre; si le da, reserva alguno este mes, y si no, pasa a noviembre junto con el vuelo. Recordatorio vigente: jue 22/10/2026 09:00. Entradas y excursiones: enero. Vuelo: noviembre, para pagarlo en diciembre con el aguinaldo.
   - **Re-chequeo de precios del 1/10/2026 (fechas reales, 2 adultos):** promedio de las opciones verificadas ≈US$200 por zona (La Fortuna 3 noches ≈US$67/noche, rango US$122-275; Monteverde 2 noches ≈US$100/noche, rango US$130-240).
   - **Se reservan sin pagar nada hoy y con cancelación gratis (Booking):** Tucan Container (La Fortuna) US$203 las 3 noches (US$180 + US$23), cancelación gratis hasta el 19/3/2027, sin pago por adelantado; no reembolsable US$183. Camino Verde B&B (Monteverde) **subió a US$407** las 2 noches (US$360 + US$47; estaba en US$240), cancelación gratis hasta el 18/3/2027, no se paga nada hasta el 16/3/2027; solo queda la Doble Estándar Superior.
