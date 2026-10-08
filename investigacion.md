@@ -214,12 +214,13 @@ El más barato (Boutique Hotel Containers) sigue siendo el de peor ubicación �
 
 ### Monteverde — 2 noches, 23-25/3/2027 (cotización real, 12/9/2026)
 
-**✅ RESERVADO Y PAGADO (8/10/2026): Bello Horizonte, vista increíble cerca de Monteverde**, por Airbnb ([ficha](https://www.airbnb.com.ar/rooms/754275571837272770?check_in=2027-03-23&check_out=2027-03-25&adults=2)). 23-25/3/2027, 2 viajeros. **Monto pagado: US$206,23** (2 noches a US$101,50 = US$203 − US$19 de descuento por reserva anticipada + US$22,23 de impuestos), elegida la opción "pagar ahora" (la otra era US$0 hoy y cobro el 14/3/2027). Cancelación gratuita con reembolso total hasta el 22/3/2027. Código de confirmación y tarjeta usada: sin anotar todavía.
+**✅ RESERVADO Y PAGADO (8/10/2026): Bello Horizonte, vista increíble cerca de Monteverde**, por Airbnb ([ficha](https://www.airbnb.com.ar/rooms/754275571837272770?check_in=2027-03-23&check_out=2027-03-25&adults=2)). 23-25/3/2027, 2 viajeros. **Monto pagado: US$206,23** (2 noches a US$101,50 = US$203 − US$19 de descuento por reserva anticipada + US$22,23 de impuestos), elegida la opción "pagar ahora" (la otra era US$0 hoy y cobro el 14/3/2027). Cancelación gratuita con reembolso total hasta el 22/3/2027. Código de confirmación **HMHBCNXJXP**. Tarjeta usada: sin anotar todavía.
 - **Distancias medidas en Google Maps (8/10/2026, desde las coordenadas aproximadas de Airbnb):** 23 min / 12,3 km al centro de Santa Elena, 33 min / 16,2 km a Selvatura, 34 min / 16,6 km a la Reserva Santa Elena, todo por la Ruta 606. Son 13 min más por tramo que ECO RIVER DOME (10 min al centro, 20 a Selvatura).
 - **Entrada** desde las 14:00 con caja de seguridad para llaves; **salida** hasta las 11:00. Anfitrión Jose (coanfitriona Lissette), responde en menos de una hora.
 - **A tener en cuenta:** llegar con luz el primer día (el portón cuesta verlo de noche); llevar comida; A/C solo en el dormitorio. Detalle completo en la verificación del 8/10 más abajo.
 - **Ojo con los precios de Airbnb:** la ficha mostraba US$184 y el checkout sumó impuestos (US$206,23). Los precios de ficha de las demás opciones de Airbnb pueden estar igual, sin impuestos.
-- **Pendiente de mapas:** falta marcarlo en el My Maps y en la lista nativa "Costa Rica".
+- 🗺️ **Marcado en mapas (8/10/2026):** punto exacto de la reserva de Airbnb, `10.33881751518902,-84.8960663425888` ([Google Maps](https://www.google.com/maps/search/?api=1&query=10.33881751518902,-84.8960663425888)). En el My Maps como "Bello Horizonte (hospedaje Monteverde)" (capa base, junto a Ballena Rey y Pura Natura) y en la lista nativa "Costa Rica" como punto por coordenadas, sin nombre (112 sitios en total).
+- **Datos que Airbnb libera 24 h antes del check-in:** instrucciones para entrar (caja de llaves) y wifi. La política completa: cancelación gratuita hasta las 14:00 del 22/3; después, reembolso parcial hasta el check-in.
 
 
 2 referencias reales, no decisión cerrada:
