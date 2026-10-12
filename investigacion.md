@@ -911,6 +911,27 @@ Pueblo surfero con pocas cuadras caminables, que Two Roaming Souls (TRS) recomie
   - El lugar del Instagram que pasó Daniel el 8/9/2026. Posada de montaña a ~1.500 m con más de 300 especies de aves, cuatriciclos y termas cerca. Queda tierra adentro y el regreso a SJO desde ahí es largo, así que no entra en el loop de 9 días: es para otro viaje. No pude ver su Instagram (pide iniciar sesión).
   - 🔗 [Google Maps](https://www.google.com/maps/search/?api=1&query=Talamanca+Nature+Reserve+San+Gerardo+de+Rivas+Costa+Rica) · [Web](https://www.talamancanaturereserve.com/)
 
+## Apps de aves y fauna en el teléfono (12/10/2026, pedido de Daniel)
+
+- Daniel bajó el 12/10/2026 **Merlin Bird ID**, **eBird**, **iNaturalist** y Aves Argentinas (esta última solo cubre Argentina: no sirve en Costa Rica). Las tres primeras son gratis y sin suscripción. Las va a explorar por su cuenta; esto es qué hacer con cada una en este viaje.
+
+**Antes de viajar, con wifi:**
+- **Merlin:** Ajustes → paquetes de aves → bajar el de Costa Rica. Una fuente dice que Costa Rica viene dentro del paquete de Centroamérica: si no aparece solo, bajar ese. Sin el paquete identifica igual, pero no muestra la ficha de la especie. No pude confirmar el nombre exacto del paquete desde afuera de la app.
+- **eBird:** menú → "Packs" → bajar el de la región, para armar listas sin señal. Con wifi, buscar en el mapa los puntos de la ruta (Cinchona, Arenal Observatory Lodge, Curi-Cancha, Selvatura, Tárcoles, Manuel Antonio) y mirar la lista de cada uno filtrada por marzo. No verifiqué la cantidad de especies de cada punto; Arenal Observatory Lodge publica 497 especies y 1.267 listas en eBird.
+- **iNaturalist:** en los ajustes, desactivar la subida automática, por si en algún sendero no hay señal. Con la eSIM, donde haya datos sugiere la especie en el momento.
+
+**En la ruta, dónde rinde cada una:**
+- **Colibrí Café de Cinchona (Día 1):** comederos con colibríes y tucanes a pocos metros → Merlin por foto.
+- **Arenal y Sendero Bogarín / Arenal Observatory Lodge (opcionales):** Merlin por sonido y por foto; eBird para ver qué se registró ahí esa semana.
+- **Monteverde (Santa Elena, Selvatura, Curi-Cancha):** en el bosque nuboso se escucha mucho más de lo que se ve → Merlin por sonido.
+- **Caminata nocturna (Día 5):** ranas, insectos y mamíferos → iNaturalist, con foto del teléfono.
+- **Puente de Tárcoles (Día 6) y Manuel Antonio (Día 7):** cocodrilos, monos, perezosos e iguanas → iNaturalist; las aves, con Merlin.
+- **Uvita (Día 8):** aves de playa con Merlin. Las ballenas las identifica el guía.
+
+**Límites:** el reconocimiento por sonido de Merlin tiene cobertura completa en Estados Unidos, Canadá y Europa; en el Neotrópico reconoce las especies más comunes y extendidas (la versión de octubre de 2025 sumó 227 especies neotropicales, 2.066 en total). Lo raro se confirma con la ficha o con un guía. Merlin por foto anda sin señal: sirve pasar la foto de la cámara al teléfono o sacarle una foto a la pantalla de la cámara.
+
+- Fuentes: [Merlin, Cornell Lab](https://merlin.allaboutbirds.org/) · [paquetes de Merlin](https://support.ebird.org/en/support/solutions/articles/48000966223) · [Sound ID](https://merlin.allaboutbirds.org/sound-id/) · [eBird, balance 2025](https://ebird.org/news/2025-year-in-review) · [iNaturalist sin conexión](https://forum.inaturalist.org/t/how-to-use-the-inaturalist-mobile-app-without-an-internet-connection/11620) · [Arenal Observatory Lodge en eBird](https://arenalobservatorylodge.com/ebird-and-citizen-science-at-the-arenal-observatory-lodge-spa).
+
 ## Two Roaming Souls — lo que hicieron en nuestra ruta (research 21/9/2026)
 
 Jake y Emily Junda, una pareja de EE.UU. que recorrió Costa Rica unas dos semanas en un camper 4x4 (Nomad America); los artículos son de junio a septiembre de 2025 y usan las siglas TRS acá. Daniel los encontró (blog + videos) y pidió tomar de ellos lo más posible. Leí a fondo los 8 artículos que tienen de Costa Rica: [Uvita](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/), [La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/), [restaurantes de La Fortuna](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/), [Monteverde](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/), [Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/), [Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/), [Río Celeste](https://tworoamingsouls.com/how-to-hike-rio-celeste-do-you-need-a-guide-more/) y [camping](https://tworoamingsouls.com/camping-in-costa-rica/) (no aplica: iban en camper), más la transcripción del [video de Río Celeste](https://www.youtube.com/watch?v=M-OcFhJiWGc).
@@ -1709,3 +1730,4 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 13. **Constancia de la Visa Signature (21/9/2026):** pedirla al banco en enero o febrero de 2027, con el texto "Costa Rica/Centroamérica", e imprimirla para el mostrador de Avis. Detalle en la sección "Auto de alquiler".
 14. ~~**Política de combustible de Avis**~~ — ✅ **resuelto (23/9/2026):** lleno/lleno, confirmado por Daniel en el voucher.
 15. **eSIM para el viaje (pedido de Daniel, 28/9/2026):** sacar una eSIM de **Holafly** o de un operador similar (Airalo, que ya figuraba recomendada en "Conectividad") para tener datos en Costa Rica durante todo el viaje. Instalarla antes de salir y activarla al aterrizar.
+16. **Apps de aves y fauna (12/10/2026):** Merlin, eBird e iNaturalist ya están bajadas. Antes de viajar, con wifi: bajar el paquete de aves de Costa Rica en Merlin y el de eBird, y desactivar la subida automática de iNaturalist. Detalle en la sección "Apps de aves y fauna en el teléfono".
