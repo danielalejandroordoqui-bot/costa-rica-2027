@@ -913,7 +913,7 @@ Pueblo surfero con pocas cuadras caminables, que Two Roaming Souls (TRS) recomie
 
 ## Apps de aves y fauna en el teléfono (12/10/2026, pedido de Daniel)
 
-- Daniel bajó el 12/10/2026 **Merlin Bird ID**, **eBird**, **iNaturalist** y Aves Argentinas (esta última solo cubre Argentina: no sirve en Costa Rica). Las tres primeras son gratis y sin suscripción. Las va a explorar por su cuenta; esto es qué hacer con cada una en este viaje.
+- Daniel bajó el 12/10/2026 **Merlin Bird ID**, **eBird**, **iNaturalist**, y ya tiene cuenta en las tres. Son gratis y sin suscripción. Las va a explorar por su cuenta; esto es qué hacer con cada una en este viaje.
 
 **Antes de viajar, con wifi:**
 - **Merlin:** Ajustes → paquetes de aves → bajar el de Costa Rica. Una fuente dice que Costa Rica viene dentro del paquete de Centroamérica: si no aparece solo, bajar ese. Sin el paquete identifica igual, pero no muestra la ficha de la especie. No pude confirmar el nombre exacto del paquete desde afuera de la app.
