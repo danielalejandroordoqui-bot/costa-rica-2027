@@ -932,6 +932,28 @@ Pueblo surfero con pocas cuadras caminables, que Two Roaming Souls (TRS) recomie
 
 - Fuentes: [Merlin, Cornell Lab](https://merlin.allaboutbirds.org/) · [paquetes de Merlin](https://support.ebird.org/en/support/solutions/articles/48000966223) · [Sound ID](https://merlin.allaboutbirds.org/sound-id/) · [eBird, balance 2025](https://ebird.org/news/2025-year-in-review) · [iNaturalist sin conexión](https://forum.inaturalist.org/t/how-to-use-the-inaturalist-mobile-app-without-an-internet-connection/11620) · [Arenal Observatory Lodge en eBird](https://arenalobservatorylodge.com/ebird-and-citizen-science-at-the-arenal-observatory-lodge-spa).
 
+## Video con la Nikon D7500 para reels (12/10/2026, pedido de Daniel)
+
+Daniel quiere ejercitar el video para tener clips cortos de fauna y armar reels. Trabaja la foto en manual con ISO automático y velocidades altas; no lleva trípode y filma con el 150-600. Pidió una sección de consejos con seteos para probar, igual a la del sitio de Iberá (misma base, adaptada a las paradas de este viaje). Confirmado en el manual en línea de la D7500: el menú de video tiene "Control auto. sensibilidad ISO (modo M)", así que manual + ISO automático sirve igual en video; cuadros: 4K a 30/25/24p y 1080 a 60/50/30/25/24p; VR electrónico como opción del menú de video (Nikon lo anuncia solo para 1080); en 4K el recorte total pasa de 1,5x a 2,2x.
+
+**El cambio respecto de la foto:** en video la velocidad NO va alta. Regla: el doble de los cuadros por segundo (60p → 1/125; 30p → 1/60). La velocidad queda fija y la exposición la manejan el diafragma y el ISO automático.
+
+**Seteos (todos en M, ISO automático con máximo 6400, VR del lente encendido):**
+| Seteo | Tamaño y cuadros | Velocidad | Diafragma | Para qué |
+|---|---|---|---|---|
+| 1. Base, cámara lenta | 1080 a 60p | 1/125 | f/8 | El de todos los días. A mitad de velocidad disimula el temblor. VR electrónico encendido. |
+| 2. Poca luz | 1080 a 30p | 1/60 | f/6.3 | Bosque nuboso y selva cerrada: gana un paso de luz respecto del 1. VR electrónico encendido. |
+| 3. Máxima calidad | 4K a 30p | 1/60 | f/8 a f/11 | Solo con el lente apoyado: sin VR electrónico y con recorte extra (150 mm rinde como unos 340 mm). |
+| 4. Acción | 1080 a 60p | 1/250 a 1/500 | f/6.3 | Colibríes, aves en vuelo, ballenas saltando. Más nítido cuadro por cuadro, menos fluido. |
+
+**Ajustes comunes:** balance de blancos fijo (Luz día, Nublado o Sombra en la selva); Picture Control Estándar o Neutro; enfocar antes de grabar y pasar a manual (el autofoco en video es lento y va y viene); con mucha luz (playa) cerrar a f/11 o f/16; tomas de 5 a 8 segundos; probar si U1 y U2 guardan el seteo de video (no confirmado).
+
+**Sin trípode:** apoyar el lente en barandas (puentes colgantes, puente de Tárcoles, miradores), en la mochila o en la ventanilla del auto; filmar en 150-250 mm; girar la cámara a vertical con el collar del lente; tomas abiertas con el teléfono.
+
+**Por parada:** Colibrí Café de Cinchona (día 1): seteo 4 y probar el 1 para cámara lenta, apoyado en la baranda. Arenal (días 2 a 4): seteo 1 en senderos; perezosos quietos, ideales para empezar. Monteverde (días 4 y 5): seteo 2, hay poca luz. Puente de Tárcoles (día 6): seteo 1 o 3 apoyado en la baranda; cocodrilos quietos. Manuel Antonio (días 6 y 7): monos con seteo 1; en la playa cerrar el diafragma. Uvita, ballenas (día 8): seteo 4 en la punta corta del lente, el bote se mueve.
+
+Fuentes: [manual D7500, tamaño y cuadros](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_04.html) · [manual D7500, ISO en video](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_07.html) · [manual D7500, VR electrónico](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_17.html) · [Videomaker, recorte en 4K](https://www.videomaker.com/videonews/2017/04/new-nikon-d7500-surprisingly-appealing-for-video-shooters/) · [The Camera Store, regla de la velocidad](https://thecamerastore.com/blogs/blog/tips-for-capturing-wildlife-photo-video-with-sony).
+
 ## Two Roaming Souls — lo que hicieron en nuestra ruta (research 21/9/2026)
 
 Jake y Emily Junda, una pareja de EE.UU. que recorrió Costa Rica unas dos semanas en un camper 4x4 (Nomad America); los artículos son de junio a septiembre de 2025 y usan las siglas TRS acá. Daniel los encontró (blog + videos) y pidió tomar de ellos lo más posible. Leí a fondo los 8 artículos que tienen de Costa Rica: [Uvita](https://tworoamingsouls.com/best-things-to-do-in-uvita-costa-rica/), [La Fortuna](https://tworoamingsouls.com/best-things-to-do-in-la-fortuna-costa-rica/), [restaurantes de La Fortuna](https://tworoamingsouls.com/best-restaurants-in-la-fortuna-costa-rica/), [Monteverde](https://tworoamingsouls.com/things-to-do-in-monteverde-costa-rica/), [Manuel Antonio](https://tworoamingsouls.com/manuel-antonio-national-park/), [Dominical](https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/), [Río Celeste](https://tworoamingsouls.com/how-to-hike-rio-celeste-do-you-need-a-guide-more/) y [camping](https://tworoamingsouls.com/camping-in-costa-rica/) (no aplica: iban en camper), más la transcripción del [video de Río Celeste](https://www.youtube.com/watch?v=M-OcFhJiWGc).
