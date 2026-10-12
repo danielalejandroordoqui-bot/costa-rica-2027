@@ -950,6 +950,8 @@ Daniel quiere ejercitar el video para tener clips cortos de fauna y armar reels.
 
 **Sin trípode:** apoyar el lente en barandas (puentes colgantes, puente de Tárcoles, miradores), en la mochila o en la ventanilla del auto; filmar en 150-250 mm; girar la cámara a vertical con el collar del lente; tomas abiertas con el teléfono.
 
+**Práctica con distintas luces (pedido de Daniel, 12/10, está en Pendientes del sitio):** salir a filmar al aire libre antes del viaje: sol pleno del mediodía (ver cuándo se quema y cuánto cerrar), sombra y día nublado (hasta dónde sube el ISO), temprano y al atardecer, y contraluz.
+
 **Por parada:** Colibrí Café de Cinchona (día 1): seteo 4 y probar el 1 para cámara lenta, apoyado en la baranda. Arenal (días 2 a 4): seteo 1 en senderos; perezosos quietos, ideales para empezar. Monteverde (días 4 y 5): seteo 2, hay poca luz. Puente de Tárcoles (día 6): seteo 1 o 3 apoyado en la baranda; cocodrilos quietos. Manuel Antonio (días 6 y 7): monos con seteo 1; en la playa cerrar el diafragma. Uvita, ballenas (día 8): seteo 4 en la punta corta del lente, el bote se mueve.
 
 Fuentes: [manual D7500, tamaño y cuadros](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_04.html) · [manual D7500, ISO en video](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_07.html) · [manual D7500, VR electrónico](https://onlinemanual.nikonimglib.com/d7500/en/24_menu_guide_04_17.html) · [Videomaker, recorte en 4K](https://www.videomaker.com/videonews/2017/04/new-nikon-d7500-surprisingly-appealing-for-video-shooters/) · [The Camera Store, regla de la velocidad](https://thecamerastore.com/blogs/blog/tips-for-capturing-wildlife-photo-video-with-sony).
@@ -1753,3 +1755,4 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 14. ~~**Política de combustible de Avis**~~ — ✅ **resuelto (23/9/2026):** lleno/lleno, confirmado por Daniel en el voucher.
 15. **eSIM para el viaje (pedido de Daniel, 28/9/2026):** sacar una eSIM de **Holafly** o de un operador similar (Airalo, que ya figuraba recomendada en "Conectividad") para tener datos en Costa Rica durante todo el viaje. Instalarla antes de salir y activarla al aterrizar.
 16. **Apps de aves y fauna (12/10/2026):** Merlin, eBird e iNaturalist ya están bajadas. Antes de viajar, con wifi: bajar el paquete de aves de Costa Rica en Merlin y el de eBird, y desactivar la subida automática de iNaturalist. Detalle en la sección "Apps de aves y fauna en el teléfono".
+17. **Video con la Nikon (12/10/2026):** antes de viajar, practicar los seteos al aire libre y con distintas luces (sol pleno, sombra o nublado, temprano y atardecer, contraluz), y armar un reel de prueba. Detalle en la sección "Video con la Nikon D7500 para reels".
