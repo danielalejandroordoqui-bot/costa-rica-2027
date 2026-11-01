@@ -7,23 +7,31 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌴</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#12161f;
-    --panel:#1a2030;
-    --panel-2:#212739;
-    --hairline:#2c3346;
-    --ink:#eef1f6;
-    --ink-dim:#93a0b8;
-    --ink-faint:#5c6680;
-    --amber:#ffb020;
-    --amber-dim:#a97a1e;
-    --green:#5fd38d;
-    --alert:#ff8a5c;
-    --info:#57c8d6;
-    --danger:#ff5c5c;
-    --radius:2px;
+    --bg:#f5f0e8;
+    --panel:#ffffff;
+    --panel-2:#faf6ee;
+    --hairline:#d8cfc0;
+    --ink:#1a2f4a;
+    --ink-dim:#4a3f30;
+    --ink-faint:#6b5e4a;
+    --amber:#c8481f;
+    --amber-dim:#d4700a;
+    --green:#2a6645;
+    --alert:#c8481f;
+    --info:#1d5c8a;
+    --danger:#b3261e;
+    --radius:14px;
+    --navy:#1a2f4a;
+    --navy2:#0e1f33;
+    --cream:#f5f0e8;
+    --terracotta:#c8481f;
+    --muted:#6b5e4a;
+    --border:#d8cfc0;
+    --text:#1c1812;
+    --shadow:0 2px 16px rgba(26,18,8,.08);
   }
 
   *,*::before,*::after{ box-sizing:border-box; }
@@ -34,102 +42,14 @@
     margin:0;
     background:var(--bg);
     color:var(--ink);
-    font-family:'IBM Plex Sans',system-ui,sans-serif;
+    font-family:'Inter',system-ui,sans-serif;
     line-height:1.5;
     -webkit-font-smoothing:antialiased;
   }
-  .mono{ font-family:'Space Mono',ui-monospace,monospace; }
+  .mono{ font-family:'Inter',system-ui,sans-serif; }
   a{ color:var(--amber); }
 
   .wrap{ max-width:920px; margin:0 auto; padding:0 20px; }
-
-  /* ---------- TOP NAV ---------- */
-  .top-nav{
-    position:sticky; top:0; z-index:40;
-    background:rgba(18,22,31,.92); backdrop-filter:blur(6px);
-    border-bottom:1px solid var(--hairline);
-  }
-  .top-nav-inner{
-    max-width:920px; margin:0 auto; padding:0 12px;
-    display:flex; gap:2px; overflow-x:auto;
-    scrollbar-width:none;
-  }
-  .top-nav-inner::-webkit-scrollbar{ display:none; }
-  .top-nav a{
-    flex:0 0 auto; font-family:'Space Mono',monospace; font-size:11px;
-    letter-spacing:.06em; text-transform:uppercase; color:var(--ink-dim);
-    text-decoration:none; padding:13px 10px; border-bottom:2px solid transparent;
-    white-space:nowrap; transition:color .15s ease, border-color .15s ease;
-  }
-  .top-nav a:hover{ color:var(--ink); }
-  .top-nav a.active{ color:var(--amber); border-bottom-color:var(--amber); }
-  .top-nav a:focus-visible{ outline:2px solid var(--info); outline-offset:-2px; }
-
-  /* ---------- HERO ---------- */
-  .board-case{
-    background:var(--panel);
-    border:1px solid var(--hairline);
-    border-top:6px solid var(--green);
-    margin-top:28px;
-    padding:28px 24px 22px;
-  }
-  .board-topline{
-    display:flex; justify-content:space-between; align-items:baseline;
-    font-family:'Space Mono',monospace; font-size:11px; letter-spacing:.14em;
-    color:var(--ink-faint); text-transform:uppercase; margin-bottom:18px;
-  }
-  .hero-title{
-    font-family:'Space Mono',monospace; font-weight:700;
-    font-size:clamp(2.2rem,8vw,3.8rem); letter-spacing:.02em;
-    color:var(--amber); margin:0; line-height:1; display:flex; flex-wrap:wrap;
-  }
-  .flap-char{ display:inline-block; min-width:.62em; }
-  .flap-char.space{ min-width:.32em; }
-
-  /* Contador al vuelo de ida (mismas letras que el título) */
-  .countdown{ margin:20px 0 4px; padding:14px 16px 12px; background:var(--panel-2); border:1px solid var(--hairline); border-left:3px solid var(--amber); }
-  .cd-label{ font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-faint); margin:0 0 10px; line-height:1.5; }
-  .cd-label b{ color:var(--ink-dim); font-weight:700; }
-  .cd-row{ display:flex; align-items:flex-start; flex-wrap:wrap; gap:.35rem .7rem; font-family:'Space Mono',monospace; }
-  .cd-unit{ display:flex; flex-direction:column; align-items:flex-start; }
-  .cd-digits{ display:flex; font-weight:700; font-size:clamp(1.9rem,7.4vw,3rem); line-height:1; color:var(--amber); letter-spacing:.02em; }
-  .cd-name{ font-size:9px; letter-spacing:.16em; text-transform:uppercase; color:var(--ink-faint); margin-top:6px; }
-  .cd-sep{ font-weight:700; font-size:clamp(1.9rem,7.4vw,3rem); line-height:1; color:var(--ink-faint); opacity:.6; }
-  .cd-note{ font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.06em; color:var(--ink-faint); margin:10px 0 0; }
-  .cd-done{ font-family:'Space Mono',monospace; font-weight:700; font-size:clamp(1.3rem,5vw,2rem); color:var(--green); }
-
-  .hero-sub{
-    font-family:'Space Mono',monospace; font-size:clamp(.85rem,2.4vw,1.05rem);
-    color:var(--ink-dim); margin:10px 0 22px; letter-spacing:.03em;
-  }
-  .hero-sub b{ color:var(--ink); }
-
-  .daystrip{ display:grid; grid-template-columns:repeat(10,1fr); gap:5px; margin-bottom:18px; }
-  .day{ background:var(--panel-2); border:1px solid var(--hairline); padding:8px 2px 7px; text-align:center; font-family:'Space Mono',monospace; }
-  .day .dow{ display:block; font-size:9px; letter-spacing:.1em; color:var(--ink-faint); text-transform:uppercase; }
-  .day .num{ display:block; font-size:16px; font-weight:700; color:var(--ink-dim); margin:2px 0 3px; }
-  .day .tag{ display:block; font-size:7.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-faint); min-height:9px; }
-  .day.on{ background:var(--amber); border-color:var(--amber); }
-  .day.on .dow, .day.on .tag{ color:#2b1e04; opacity:.75; }
-  .day.on .num{ color:#241a03; }
-
-  .board-decided{
-    display:flex; gap:10px; align-items:flex-start;
-    background:rgba(95,211,141,.12);
-    border:1px solid rgba(95,211,141,.4);
-    padding:12px 14px; font-size:13.5px; color:#cdf3dd;
-  }
-  .board-decided .ico{ color:var(--green); font-family:'Space Mono',monospace; font-weight:700; }
-  .board-decided b{ color:#fff; }
-
-  .stat-row{
-    display:grid; grid-template-columns:repeat(4,1fr); gap:1px;
-    background:var(--hairline); border:1px solid var(--hairline);
-    margin-top:18px;
-  }
-  .stat{ background:var(--panel-2); padding:9px 10px; }
-  .stat .lbl{ display:block; font-family:'Space Mono',monospace; font-size:8.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:3px; }
-  .stat .val{ font-family:'Space Mono',monospace; font-size:13px; color:var(--ink); }
 
   /* ---------- PHOTO STRIP ---------- */
   .photo-strip{
@@ -140,7 +60,7 @@
   .photo-strip img{ width:100%; height:100%; object-fit:cover; display:block; }
   .photo-strip figcaption{
     position:absolute; left:0; right:0; bottom:0;
-    font-family:'Space Mono',monospace; font-size:9px; letter-spacing:.03em;
+    font-family:'Inter',system-ui,sans-serif; font-size:9px; letter-spacing:.03em;
     color:#fff; background:linear-gradient(transparent,rgba(0,0,0,.75)); padding:14px 6px 5px;
   }
 
@@ -150,7 +70,7 @@
   }
   .map-embed iframe{ width:100%; height:380px; display:block; border:0; }
   .map-caption{
-    font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.05em; text-transform:uppercase;
+    font-family:'Inter',system-ui,sans-serif; font-size:10px; letter-spacing:.05em; text-transform:uppercase;
     color:var(--ink-faint); padding:8px 2px 0;
   }
 
@@ -167,7 +87,7 @@
     display:inline-flex; align-items:center; justify-content:center;
     min-width:34px; height:30px; padding:0 8px; flex-shrink:0;
     background:var(--accent, var(--amber-dim)); color:#12161f;
-    font-family:'Space Mono',monospace; font-weight:700; font-size:13px;
+    font-family:'Inter',system-ui,sans-serif; font-weight:700; font-size:13px;
     border-radius:2px;
   }
   .section-head h2{ margin:0; font-size:19px; font-weight:700; letter-spacing:.005em; }
@@ -184,7 +104,7 @@
   .subsection-head .sub-ico{ font-size:17px; line-height:1; }
   .subsection-head h3{
     margin:0; font-size:15px; font-weight:700; color:var(--ink);
-    font-family:'IBM Plex Sans',sans-serif; letter-spacing:0; text-transform:none;
+    font-family:'Inter',system-ui,sans-serif; letter-spacing:0; text-transform:none;
   }
 
   /* ---------- VARIANT CARDS ---------- */
@@ -192,12 +112,12 @@
   .variant-head{
     display:flex; align-items:flex-start; gap:12px; padding:16px 18px 0;
   }
-  .v-num{ font-family:'Space Mono',monospace; font-size:12px; color:var(--ink-faint); padding-top:3px; }
+  .v-num{ font-family:'Inter',system-ui,sans-serif; font-size:12px; color:var(--ink-faint); padding-top:3px; }
   .variant-head .titles{ flex:1; min-width:0; }
   .v-name{ font-weight:600; font-size:16px; margin:0; }
-  .v-tag{ font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:var(--ink-faint); margin-top:3px; display:block; }
+  .v-tag{ font-family:'Inter',system-ui,sans-serif; font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:var(--ink-faint); margin-top:3px; display:block; }
   .v-status{
-    font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.05em; text-transform:uppercase;
+    font-family:'Inter',system-ui,sans-serif; font-size:10px; letter-spacing:.05em; text-transform:uppercase;
     padding:4px 8px; border-radius:2px; white-space:nowrap; text-align:center; flex-shrink:0;
   }
   .v-status.top{ background:rgba(95,211,141,.14); color:var(--green); }
@@ -207,7 +127,7 @@
   .variant-body{ padding:14px 18px 20px; }
   .v-section{ margin-bottom:14px; }
   .v-section h4{
-    margin:0 0 8px; font-family:'Space Mono',monospace; font-size:10px;
+    margin:0 0 8px; font-family:'Inter',system-ui,sans-serif; font-size:10px;
     letter-spacing:.08em; text-transform:uppercase; color:var(--amber-dim);
   }
   .v-section ul{ margin:0; padding-left:16px; font-size:13.5px; color:var(--ink-dim); }
@@ -223,7 +143,7 @@
   .res-list li{ font-size:13px; color:var(--ink-dim); line-height:1.5; padding-left:15px; position:relative; }
   .res-list li::before{ content:'→'; position:absolute; left:0; top:0; color:var(--amber); font-size:11px; }
   .res-list li b{ color:var(--ink); font-weight:600; }
-  .info-card h3{ margin:0 0 10px; font-family:'Space Mono',monospace; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--amber); }
+  .info-card h3{ margin:0 0 10px; font-family:'Inter',system-ui,sans-serif; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--amber); }
   .info-card ul{ margin:0; padding-left:16px; font-size:13.5px; color:var(--ink-dim); }
   .info-card li{ margin-bottom:7px; }
   .info-card li b{ color:var(--ink); font-weight:600; }
@@ -236,9 +156,9 @@
   .day-card.light{ border-left-color:var(--green); }
   .day-card .day-img{ position:relative; height:260px; background-size:cover; background-position:center; }
   .day-card .day-img-overlay{ position:absolute; inset:0; background:linear-gradient(to top, rgba(18,22,31,.95) 0%, rgba(18,22,31,.3) 60%, transparent 100%); display:flex; align-items:flex-end; gap:10px; padding:10px 16px; }
-  .day-card .day-img .dn{ font-family:'Space Mono',monospace; font-size:26px; font-weight:700; color:var(--amber); line-height:1; }
-  .day-card .day-img .dd{ font-family:'Space Mono',monospace; font-size:10px; color:var(--ink-dim); text-transform:uppercase; letter-spacing:.05em; padding-bottom:4px; }
-  .day-card .day-tag{ position:absolute; top:10px; right:10px; font-family:'Space Mono',monospace; font-size:9.5px; letter-spacing:.05em; text-transform:uppercase; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-dim); background:rgba(18,22,31,.78); }
+  .day-card .day-img .dn{ font-family:'Inter',system-ui,sans-serif; font-size:26px; font-weight:700; color:var(--amber); line-height:1; }
+  .day-card .day-img .dd{ font-family:'Inter',system-ui,sans-serif; font-size:10px; color:var(--ink-dim); text-transform:uppercase; letter-spacing:.05em; padding-bottom:4px; }
+  .day-card .day-tag{ position:absolute; top:10px; right:10px; font-family:'Inter',system-ui,sans-serif; font-size:9.5px; letter-spacing:.05em; text-transform:uppercase; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-dim); background:rgba(18,22,31,.78); }
   .day-card.tight .day-tag{ color:#ff9494; border-color:rgba(255,92,92,.5); background:rgba(70,18,18,.8); }
   .day-card.light .day-tag{ color:#8ef0b3; border-color:rgba(95,211,141,.45); background:rgba(13,45,28,.8); }
   .day-card .day-body{ padding:14px 16px; }
@@ -257,7 +177,7 @@
   .alert-inline.amber{ border-color:rgba(255,176,32,.3); background:rgba(255,176,32,.06); }
   .alert-inline b{ color:var(--ink); }
   .day-card .cta-row{ display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; }
-  .day-card .cta-pill{ display:inline-flex; align-items:center; gap:5px; font-family:'Space Mono',monospace; font-size:10.5px; font-weight:600; letter-spacing:.02em; padding:5px 10px; border-radius:2px; text-decoration:none; border:1px solid var(--hairline); color:var(--ink-dim); background:var(--bg); transition:opacity .15s,border-color .15s; }
+  .day-card .cta-pill{ display:inline-flex; align-items:center; gap:5px; font-family:'Inter',system-ui,sans-serif; font-size:10.5px; font-weight:600; letter-spacing:.02em; padding:5px 10px; border-radius:2px; text-decoration:none; border:1px solid var(--hairline); color:var(--ink-dim); background:var(--bg); transition:opacity .15s,border-color .15s; }
   .day-card .cta-pill:hover{ opacity:.72; }
   .day-card .cta-pill.ticket{ color:var(--amber); border-color:rgba(255,176,32,.35); }
   .day-card .cta-pill.car{ color:var(--info); border-color:rgba(87,200,214,.35); }
@@ -266,23 +186,23 @@
   /* ---------- FLIGHT CARD ---------- */
   .flight-card{ background:var(--panel); border:1px solid var(--hairline); padding:18px 20px; margin-bottom:16px; }
   .flight-card-head{ display:flex; align-items:center; gap:10px; margin-bottom:16px; }
-  .flight-badge{ font-family:'Space Mono',monospace; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--green); border:1px solid rgba(95,211,141,.35); background:rgba(95,211,141,.08); padding:4px 9px; }
+  .flight-badge{ font-family:'Inter',system-ui,sans-serif; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--green); border:1px solid rgba(95,211,141,.35); background:rgba(95,211,141,.08); padding:4px 9px; }
   .flight-card-head b{ font-size:14px; color:var(--ink); }
   .flight-leg{ margin-bottom:18px; }
   .flight-leg:last-of-type{ margin-bottom:0; }
-  .flight-leg-label{ font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:10px; }
+  .flight-leg-label{ font-family:'Inter',system-ui,sans-serif; font-size:10.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:10px; }
   .flight-route{ display:flex; align-items:center; gap:4px; }
   .flight-point{ text-align:center; flex-shrink:0; }
-  .flight-code{ display:block; font-family:'Space Mono',monospace; font-size:20px; font-weight:700; color:var(--ink); }
-  .flight-time{ display:block; font-family:'Space Mono',monospace; font-size:12.5px; color:var(--ink-dim); margin-top:2px; }
+  .flight-code{ display:block; font-family:'Inter',system-ui,sans-serif; font-size:20px; font-weight:700; color:var(--ink); }
+  .flight-time{ display:block; font-family:'Inter',system-ui,sans-serif; font-size:12.5px; color:var(--ink-dim); margin-top:2px; }
   .flight-path{ flex:1; position:relative; height:1px; background:var(--hairline); margin:0 8px; min-width:40px; }
-  .flight-path .flight-stop{ position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:var(--panel); padding:0 10px; font-family:'Space Mono',monospace; font-size:10px; color:var(--ink-faint); white-space:nowrap; }
-  .flight-meta{ font-size:12px; color:var(--ink-faint); margin-top:10px; font-family:'Space Mono',monospace; }
+  .flight-path .flight-stop{ position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:var(--panel); padding:0 10px; font-family:'Inter',system-ui,sans-serif; font-size:10px; color:var(--ink-faint); white-space:nowrap; }
+  .flight-meta{ font-size:12px; color:var(--ink-faint); margin-top:10px; font-family:'Inter',system-ui,sans-serif; }
   .flight-footer{ border-top:1px solid var(--hairline); margin-top:18px; padding-top:16px; }
-  .flight-price{ font-family:'Space Mono',monospace; font-size:22px; font-weight:700; color:var(--amber); }
+  .flight-price{ font-family:'Inter',system-ui,sans-serif; font-size:22px; font-weight:700; color:var(--amber); }
   .flight-note{ font-size:12.5px; color:var(--ink-dim); }
   .chip-row{ display:flex; flex-wrap:wrap; gap:6px; margin-top:12px; }
-  .chip{ font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.03em; color:var(--ink-dim); border:1px solid var(--hairline); padding:3px 9px; background:var(--panel-2); }
+  .chip{ font-family:'Inter',system-ui,sans-serif; font-size:10.5px; letter-spacing:.03em; color:var(--ink-dim); border:1px solid var(--hairline); padding:3px 9px; background:var(--panel-2); }
 
   /* ---------- LODGING GRID ---------- */
   .lodging-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:12px; margin-bottom:18px; }
@@ -292,20 +212,20 @@
   .lodging-card.warn{ border-top-color:var(--danger); }
   .lodging-card .lc-head{ display:flex; justify-content:space-between; align-items:flex-start; gap:8px; }
   .lodging-card .lc-name{ font-size:14px; font-weight:700; color:var(--ink); line-height:1.3; }
-  .lodging-card .lc-badge{ flex-shrink:0; font-family:'Space Mono',monospace; font-size:9px; letter-spacing:.04em; text-transform:uppercase; padding:2px 6px; white-space:nowrap; color:var(--green); border:1px solid rgba(95,211,141,.4); background:rgba(95,211,141,.08); }
-  .lodging-card .lc-rating{ font-family:'Space Mono',monospace; font-size:11px; color:var(--ink-faint); }
-  .lodging-card .lc-price{ font-family:'Space Mono',monospace; font-size:19px; font-weight:700; color:var(--amber); }
+  .lodging-card .lc-badge{ flex-shrink:0; font-family:'Inter',system-ui,sans-serif; font-size:9px; letter-spacing:.04em; text-transform:uppercase; padding:2px 6px; white-space:nowrap; color:var(--green); border:1px solid rgba(95,211,141,.4); background:rgba(95,211,141,.08); }
+  .lodging-card .lc-rating{ font-family:'Inter',system-ui,sans-serif; font-size:11px; color:var(--ink-faint); }
+  .lodging-card .lc-price{ font-family:'Inter',system-ui,sans-serif; font-size:19px; font-weight:700; color:var(--amber); }
   .lodging-card .lc-price span{ font-size:11px; font-weight:400; color:var(--ink-faint); }
   .lodging-card .lc-tags{ display:flex; flex-wrap:wrap; gap:5px; }
-  .lodging-card .lc-tag{ font-family:'Space Mono',monospace; font-size:9.5px; letter-spacing:.03em; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-dim); }
+  .lodging-card .lc-tag{ font-family:'Inter',system-ui,sans-serif; font-size:9.5px; letter-spacing:.03em; padding:2px 7px; border:1px solid var(--hairline); color:var(--ink-dim); }
   .lodging-card .lc-tag.yes{ color:var(--green); border-color:rgba(95,211,141,.3); }
   .lodging-card .lc-tag.no{ color:var(--danger); border-color:rgba(255,92,92,.3); }
   .lodging-card .lc-note{ font-size:12px; color:var(--ink-dim); line-height:1.45; flex:1; margin:0; }
-  .lodging-card .lc-link{ font-family:'Space Mono',monospace; font-size:11px; color:var(--info); text-decoration:none; margin-top:2px; }
+  .lodging-card .lc-link{ font-family:'Inter',system-ui,sans-serif; font-size:11px; color:var(--info); text-decoration:none; margin-top:2px; }
   .lodging-card .lc-link:hover{ text-decoration:underline; }
 
   .compare-table{ width:100%; border-collapse:collapse; font-size:13px; }
-  .compare-table th{ text-align:left; padding:6px 10px 8px 0; font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.05em; text-transform:uppercase; color:var(--ink-faint); border-bottom:1px solid var(--hairline); }
+  .compare-table th{ text-align:left; padding:6px 10px 8px 0; font-family:'Inter',system-ui,sans-serif; font-size:10px; letter-spacing:.05em; text-transform:uppercase; color:var(--ink-faint); border-bottom:1px solid var(--hairline); }
   .compare-table td{ padding:8px 10px 8px 0; border-bottom:1px solid var(--hairline); color:var(--ink-dim); vertical-align:top; }
   .compare-table td:first-child{ color:var(--ink); font-weight:600; white-space:nowrap; }
   .compare-table tr:last-child td{ border-bottom:none; }
@@ -316,7 +236,7 @@
   .loose-list li b{ color:var(--ink); font-weight:600; }
 
   .pending{ background:rgba(255,138,92,.08); border:1px solid rgba(255,138,92,.3); padding:16px 18px; }
-  .pending h3{ margin:0 0 10px; font-family:'Space Mono',monospace; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--alert); }
+  .pending h3{ margin:0 0 10px; font-family:'Inter',system-ui,sans-serif; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--alert); }
   .pending ol{ margin:0; padding-left:18px; font-size:13.5px; color:#ffd9c4; }
   .pending li{ margin-bottom:8px; }
 
@@ -326,7 +246,7 @@
   .gap-tier.mid{ border-left-color:var(--amber); }
   .gap-tier.hard{ border-left-color:var(--danger); }
   .gap-tier h3{ margin:0 0 4px; font-size:14px; font-weight:600; }
-  .gap-tier .gap-sub{ display:block; font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.05em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:12px; }
+  .gap-tier .gap-sub{ display:block; font-family:'Inter',system-ui,sans-serif; font-size:10.5px; letter-spacing:.05em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:12px; }
   .gap-item{ margin-bottom:12px; padding-bottom:12px; border-bottom:1px solid var(--hairline); }
   .gap-item:last-child{ margin-bottom:0; padding-bottom:0; border-bottom:none; }
   .gap-item h4{ margin:0 0 4px; font-size:13.5px; font-weight:600; color:var(--ink); }
@@ -336,7 +256,7 @@
   .cta-btn{
     display:inline-flex; align-items:center; gap:8px;
     background:var(--amber); color:#241a03; font-weight:700;
-    font-family:'Space Mono',monospace; font-size:13px; letter-spacing:.02em;
+    font-family:'Inter',system-ui,sans-serif; font-size:13px; letter-spacing:.02em;
     padding:10px 16px; border-radius:2px; text-decoration:none;
     margin-top:10px;
   }
@@ -359,7 +279,7 @@
 
   .foot{
     margin:44px 0 60px; padding-top:18px; border-top:1px solid var(--hairline);
-    font-family:'Space Mono',monospace; font-size:11px; color:var(--ink-faint); line-height:1.7;
+    font-family:'Inter',system-ui,sans-serif; font-size:11px; color:var(--ink-faint); line-height:1.7;
   }
 
   @media (max-width:640px){
@@ -414,54 +334,251 @@
     .pending-grid{ grid-template-columns:1fr 1fr; }
   }
 
+  /* Estilo compartido con los sitios de Iberá y USA */
+  a{ color:var(--amber); }
+  h1,h2,h3,h4,h5,p,ul,ol{ overflow-wrap:break-word; }
+    .topnav { position: sticky; top: 0; z-index: 100; background: rgba(245,240,232,0.96); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); padding: 0 20px; display: flex; align-items: center; gap: 0; overflow-x: auto; white-space: nowrap; }
+    .topnav::-webkit-scrollbar { display: none; }
+    .topnav-brand { font-family: 'Playfair Display', serif; font-size: 0.9rem; font-weight: 700; color: var(--navy); padding: 14px 16px 14px 0; border-right: 1px solid var(--border); margin-right: 12px; flex-shrink: 0; }
+    .nav-link { padding: 14px 14px; font-size: 0.72rem; font-weight: 500; color: var(--muted); cursor: pointer; transition: color 0.15s; flex-shrink: 0; text-decoration: none; display: inline-flex; align-items: center; gap: 5px; }
+    .nav-link:hover { color: var(--navy); }
+    .nav-link.active { color: var(--terracotta); font-weight: 600; }
+    .hero { background: var(--navy2); padding: 64px 40px 56px; text-align: center; position: relative; overflow: hidden; }
+    .hero::before { content: ''; position: absolute; inset: 0; background: url('img/costarica.jpg') center/cover no-repeat; opacity: 0.22; }
+    .hero-inner { position: relative; z-index: 1; max-width: 700px; margin: 0 auto; }
+    .hero-flag { font-size: 2.8rem; margin-bottom: 16px; }
+    .hero-title { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 5vw, 3.2rem); font-weight: 900; color: #f5f0e8; line-height: 1.1; margin-bottom: 8px; }
+    .hero-title span { color: #f4a261; }
+    .hero-sub { font-size: 0.9rem; color: rgba(245,240,232,0.6); margin-bottom: 32px; }
+    .hero-stats { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+    .hero-stat { background: rgba(245,240,232,0.1); border: 1px solid rgba(245,240,232,0.15); border-radius: 12px; padding: 14px 20px; text-align: center; min-width: 100px; }
+    .hero-stat-num { font-family: 'Playfair Display', serif; font-size: 1.8rem; font-weight: 700; color: #f4a261; line-height: 1; }
+    .hero-stat-label { font-size: 0.62rem; color: rgba(245,240,232,0.5); text-transform: uppercase; letter-spacing: 0.7px; margin-top: 4px; }
+    .route-ribbon { background: var(--navy); overflow-x: auto; display: flex; align-items: stretch; white-space: nowrap; }
+    .route-ribbon::-webkit-scrollbar { height: 3px; background: rgba(255,255,255,0.05); }
+    .route-ribbon::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); }
+    .route-step { display: inline-flex; align-items: center; flex-shrink: 0; }
+    .route-city { padding: 16px 20px; text-align: center; display: flex; flex-direction: column; gap: 2px; }
+    .route-city-name { font-size: 0.72rem; font-weight: 600; color: rgba(245,240,232,0.9); }
+    .route-city-date { font-size: 0.6rem; color: rgba(245,240,232,0.4); }
+    .route-arrow { color: rgba(245,240,232,0.2); font-size: 0.75rem; padding: 0 2px; align-self: center; }
+    .route-arrow.flight { color: #6baed6; }
+    .route-arrow.drive { color: #fd8d3c; }
+    .hamburger { display: none; background: none; border: none; cursor: pointer; padding: 11px 6px 11px 12px; font-size: 1.25rem; color: var(--navy); margin-left: auto; flex-shrink: 0; line-height: 1; }
+    .mobile-overlay { display: none; position: fixed; inset: 0; background: rgba(14,31,51,0.55); z-index: 998; backdrop-filter: blur(2px); -webkit-backdrop-filter: blur(2px); }
+    .mobile-overlay.open { display: block; }
+    .mobile-menu { position: fixed; top: 0; right: -295px; width: 295px; height: 100dvh; background: var(--navy2); z-index: 999; transition: right 0.26s cubic-bezier(0.4,0,0.2,1); display: flex; flex-direction: column; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+    .mobile-menu.open { right: 0; }
+    .mobile-menu-header { display: flex; align-items: center; justify-content: space-between; padding: 18px 20px 16px; border-bottom: 1px solid rgba(245,240,232,0.1); flex-shrink: 0; }
+    .mobile-menu-brand { font-family: 'Playfair Display', serif; color: #f5f0e8; font-size: 0.92rem; font-weight: 700; }
+    .mobile-menu-close { background: none; border: none; color: rgba(245,240,232,0.5); font-size: 1.5rem; cursor: pointer; padding: 2px 8px; line-height: 1; }
+    .mobile-nav-link { display: flex; align-items: center; padding: 14px 20px; font-size: 0.9rem; font-weight: 500; color: rgba(245,240,232,0.82); text-decoration: none; border-bottom: 1px solid rgba(245,240,232,0.06); transition: background 0.12s; gap: 10px; }
+    .mobile-nav-link:active { background: rgba(245,240,232,0.08); }
+    .mobile-nav-link.map-link { color: var(--amber); font-weight: 700; }
+    .mobile-nav-section { padding: 10px 20px 4px; font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: rgba(245,240,232,0.3); }
+    .nav-link{ text-decoration:none; white-space:nowrap; }
+    .hero-stat-num{ font-variant-numeric:lining-nums tabular-nums; min-width:2.4ch; }
+    .cd-label{ font-size:.72rem; letter-spacing:.7px; text-transform:uppercase; color:rgba(245,240,232,.62); margin:0 0 12px; }
+    .cd-note{ font-size:.68rem; color:rgba(245,240,232,.45); margin:12px 0 0; }
+    .cd-done{ font-family:'Playfair Display',serif; font-size:1.8rem; font-weight:700; color:#f4a261; }
+    .flap-char{ display:inline-block; min-width:.6em; text-align:center; }
+
+  .trip-box{ background:var(--panel); border:1px solid var(--hairline); border-radius:16px; box-shadow:var(--shadow); padding:22px 24px; margin-top:28px; }
+  .trip-sub{ font-size:.86rem; color:var(--ink-dim); margin:0 0 16px; line-height:1.6; }
+  .trip-sub b{ color:var(--ink); }
+  .daystrip{ display:grid; grid-template-columns:repeat(10,1fr); gap:5px; margin-bottom:18px; }
+  .day{ background:var(--panel-2); border:1px solid var(--hairline); border-radius:10px; padding:8px 2px 7px; text-align:center; }
+  .day .dow{ display:block; font-size:.58rem; letter-spacing:.5px; color:var(--ink-faint); text-transform:uppercase; }
+  .day .num{ display:block; font-family:'Playfair Display',serif; font-size:1.2rem; font-weight:700; color:var(--ink); line-height:1.2; font-variant-numeric:lining-nums; }
+  .day .tag{ display:block; font-size:.54rem; text-transform:uppercase; color:var(--ink-faint); min-height:9px; }
+  .day.on{ background:var(--navy); border-color:var(--navy); }
+  .day.on .dow, .day.on .tag{ color:rgba(245,240,232,.65); }
+  .day.on .num{ color:#f4a261; }
+
+  .map-embed{ border-radius:14px; }
+  .map-caption{ text-transform:none; letter-spacing:0; font-size:.72rem; }
+  .photo-strip{ border-radius:14px; overflow:hidden; }
+
+  .section{ margin-top:56px; padding-top:0; border-top:none; }
+  .section-head{ justify-content:center; gap:14px; border-bottom:none; padding-bottom:0; margin-bottom:20px; }
+  .section-head::before, .section-head::after{ content:''; flex:1; height:1px; background:var(--hairline); }
+  .section-head .num{ display:none; }
+  .section-head h2{ font-family:'Playfair Display',serif; font-weight:900; font-size:clamp(1.5rem,4vw,2rem); color:var(--ink); line-height:1.15; text-align:center; }
+  .section-note{ font-size:.86rem; line-height:1.6; margin:0 0 18px; }
+  .subsection-head{ background:var(--navy); border-left:none; border-radius:14px; padding:14px 18px; margin:32px 0 14px; }
+  .subsection-head h3{ font-family:'Playfair Display',serif; font-size:1.2rem; color:var(--cream); }
+  .subsection-head .sub-ico{ font-size:1.2rem; }
+
+  .variant{ background:none; border:none; margin-bottom:0; }
+  .variant-head{ padding:0 0 10px; }
+  .variant-body{ padding:0; }
+  .v-name{ font-family:'Playfair Display',serif; font-size:1.25rem; color:var(--ink); }
+  .v-tag{ text-transform:none; letter-spacing:0; font-size:.74rem; color:var(--ink-faint); }
+  .v-status{ border-radius:20px; padding:4px 11px; font-size:.62rem; font-weight:700; }
+  .v-status.top{ background:#e8f4ed; color:var(--green); }
+  .v-status.mid{ background:#e8f2fb; color:var(--info); }
+  .v-status.open{ background:#fef5e7; color:#8a5200; }
+  .v-section{ margin-bottom:18px; }
+  .v-section h4{ font-size:.68rem; font-weight:700; letter-spacing:.7px; color:var(--amber); }
+  .v-note{ border-left-color:var(--amber-dim); }
+
+  .info-card{ border-radius:16px; box-shadow:var(--shadow); padding:20px 22px; }
+  .info-card h3{ font-family:'Playfair Display',serif; font-size:1.15rem; font-weight:700; letter-spacing:0; text-transform:none; color:var(--ink); }
+  .info-grid{ align-items:start; }
+
+  .day-timeline{ gap:24px; }
+  .day-card{ border:1px solid var(--hairline); border-radius:16px; box-shadow:var(--shadow); }
+  .day-card.tight, .day-card.light{ border-left-color:var(--hairline); }
+  .day-card .day-img{ height:280px; }
+  .day-card .day-img-overlay{ background:linear-gradient(to top, rgba(14,31,51,.92) 0%, rgba(14,31,51,.35) 55%, transparent 100%); padding:18px 22px; gap:12px; }
+  .day-card .day-img .dn{ font-family:'Playfair Display',serif; font-size:2.4rem; font-weight:900; color:var(--cream); font-variant-numeric:lining-nums; }
+  .day-card .day-img .dd{ font-size:.76rem; letter-spacing:.3px; color:rgba(245,240,232,.75); text-transform:none; padding-bottom:6px; }
+  .day-card .day-tag{ top:14px; right:14px; border:none; border-radius:20px; padding:4px 11px; font-size:.6rem; font-weight:700; background:rgba(14,31,51,.7); color:var(--cream); }
+  .day-card.tight .day-tag{ background:rgba(200,72,31,.9); color:#fff; }
+  .day-card.light .day-tag{ background:rgba(42,102,69,.9); color:#e8f4ed; }
+  .day-card .day-body{ padding:20px 24px; }
+  .day-card .day-body h5{ font-size:1rem; font-weight:700; margin-bottom:8px; }
+  .day-card .day-items li{ font-size:.82rem; }
+  .day-card .day-spots{ font-size:.74rem; }
+  .alert-inline{ border:none; border-left:3px solid; border-radius:8px; padding:9px 12px; font-size:.76rem; }
+  .alert-inline.red{ background:#fdf0ef; border-left-color:var(--amber); color:#8b2a10; }
+  .alert-inline.amber{ background:#fef5e7; border-left-color:var(--amber-dim); color:#7a4800; }
+  .alert-inline b{ color:inherit; }
+  .day-card .cta-pill{ border-radius:20px; padding:5px 12px; font-size:.66rem; letter-spacing:0; background:#eef1f5; color:var(--ink); border-color:#cdd5df; }
+  .day-card .cta-pill.ticket{ background:#fef8e7; color:#7a6000; border-color:#e8d870; }
+  .day-card .cta-pill.car{ background:#fef3e2; color:#8a5200; border-color:#f0d090; }
+  .day-card .cta-pill.map{ background:#f0edfb; color:#4a3a8a; border-color:#c9bff0; }
+
+  .flight-card{ border-radius:16px; box-shadow:var(--shadow); padding:20px 22px; }
+  .flight-badge{ border-radius:20px; color:var(--green); background:#e8f4ed; border-color:#b2d8c0; font-size:.62rem; font-weight:700; }
+  .flight-leg-label, .flight-meta, .flight-time, .flight-note{ letter-spacing:0; text-transform:none; }
+  .flight-leg-label{ font-size:.74rem; }
+  .flight-code{ font-family:'Playfair Display',serif; font-size:1.6rem; font-weight:900; color:var(--ink); }
+  .flight-time{ font-variant-numeric:lining-nums; }
+  .flight-price{ font-family:'Playfair Display',serif; font-variant-numeric:lining-nums; }
+  .chip{ border-radius:20px; background:var(--panel-2); letter-spacing:0; }
+
+  .lodging-card{ border-radius:14px; box-shadow:var(--shadow); padding:16px 18px; }
+  .lodging-card .lc-name{ font-size:.95rem; }
+  .lodging-card .lc-badge{ border-radius:20px; color:var(--green); background:#e8f4ed; border-color:#b2d8c0; padding:2px 8px; }
+  .lodging-card .lc-price{ font-family:'Playfair Display',serif; font-variant-numeric:lining-nums; }
+  .lodging-card .lc-price span{ font-family:'Inter',system-ui,sans-serif; font-size:.7rem; }
+  .flight-price + *, .flight-price span{ font-family:'Inter',system-ui,sans-serif; }
+  .lodging-card .lc-tag{ border-radius:20px; letter-spacing:0; }
+  .lodging-card .lc-tag.yes{ background:#e8f4ed; border-color:#b2d8c0; }
+  .lodging-card .lc-tag.no{ background:#fdf0ef; border-color:#f0c4b8; }
+  .lodging-card .lc-link{ color:var(--amber); font-weight:600; }
+
+  .compare-table th{ text-transform:none; letter-spacing:0; font-size:.72rem; }
+  .loose-list, .gap-tier{ border-radius:14px; box-shadow:var(--shadow); }
+
+  .place-list li{ font-size:.8rem; }
+  .place-list a{ color:var(--info); }
+  .jump-row a{ color:var(--ink); background:var(--panel-2); border-color:var(--hairline); border-radius:20px; padding:5px 13px; font-weight:600; }
+  .jump-row a:hover{ border-color:var(--amber); color:var(--amber); }
+  .cal-step{ background:var(--panel-2); border-left-color:var(--amber-dim); border-radius:10px; }
+  .cal-step h4{ font-size:.92rem; font-weight:700; }
+  .pending{ background:var(--panel); border:1px solid var(--hairline); border-radius:16px; box-shadow:var(--shadow); padding:20px 22px; }
+  .pending h3{ font-family:'Playfair Display',serif; font-size:1.15rem; font-weight:700; letter-spacing:0; text-transform:none; color:var(--amber); }
+  .pending ol{ color:var(--ink-dim); font-size:.84rem; }
+  .pending li b{ color:var(--ink); }
+
+  .cta-btn{ background:var(--amber); color:#fff; border-radius:20px; font-size:.8rem; }
+  .cta-btn:hover{ background:#b03818; }
+  .back-to-top{ background:var(--amber); color:#fff; box-shadow:0 4px 14px rgba(26,18,8,.25); }
+  .back-to-top:hover{ background:#b03818; }
+
+  @media (max-width:760px){
+    .topnav .nav-link{ display:none; }
+    .topnav-brand{ border-right:none; }
+    .hamburger{ display:flex; }
+    .hero{ padding:44px 20px 40px; }
+    #cd-row{ display:grid; grid-template-columns:repeat(4,1fr); gap:8px; }
+    .hero-stat{ padding:12px 4px; }
+    #cd-row .hero-stat-num{ font-size:1.5rem; min-width:0; }
+    .wrap{ padding:0 16px; }
+    .trip-box{ padding:18px 16px; }
+    .daystrip{ grid-template-columns:repeat(5,1fr); }
+    .day-card .day-img{ height:200px; }
+    .day-card .day-body{ padding:16px; }
+    .info-card, .flight-card, .pending{ padding:16px; }
+  }
+
 </style>
 </head>
 <body>
 
-<nav class="top-nav" aria-label="Navegación de secciones">
-  <div class="top-nav-inner">
-    <a href="#top" class="nav-link">Destino</a>
-    <a href="#itinerario" class="nav-link">Itinerario</a>
-    <a href="#vuelos" class="nav-link">Vuelos</a>
-    <a href="#auto" class="nav-link">Auto</a>
-    <a href="#hospedaje" class="nav-link">Hospedaje</a>
-    <a href="#entradas" class="nav-link">Entradas</a>
-    <a href="#comer" class="nav-link">Comer</a>
-    <a href="#camisetas" class="nav-link">Camisetas</a>
-    <a href="#naturaleza" class="nav-link">Fauna</a>
-    <a href="#preparacion" class="nav-link">Consejos</a>
-    <a href="#calendario-reservas" class="nav-link">Reservas</a>
-    <a href="#pendientes" class="nav-link">Pendientes</a>
-  </div>
+<nav class="topnav" aria-label="Navegación de secciones">
+  <div class="topnav-brand">🌴 Costa Rica</div>
+  <a class="nav-link" href="#top">🌴 Destino</a>
+  <a class="nav-link" href="#itinerario">🗓️ Itinerario</a>
+  <a class="nav-link" href="#vuelos">✈️ Vuelos</a>
+  <a class="nav-link" href="#auto">🚗 Auto</a>
+  <a class="nav-link" href="#hospedaje">🏨 Hospedaje</a>
+  <a class="nav-link" href="#entradas">🎟️ Entradas</a>
+  <a class="nav-link" href="#comer">🍽️ Comer</a>
+  <a class="nav-link" href="#camisetas">⚽ Camisetas</a>
+  <a class="nav-link" href="#naturaleza">🦥 Fauna</a>
+  <a class="nav-link" href="#preparacion">🧭 Consejos</a>
+  <a class="nav-link" href="#calendario-reservas">📅 Reservas</a>
+  <a class="nav-link" href="#pendientes">📋 Pendientes</a>
+  <button class="hamburger" onclick="openMobileMenu()" aria-label="Abrir menú">☰</button>
 </nav>
+
+<div id="mobile-overlay" class="mobile-overlay" onclick="closeMobileMenu()"></div>
+<nav id="mobile-menu" class="mobile-menu" aria-label="Menú de navegación">
+  <div class="mobile-menu-header">
+    <span class="mobile-menu-brand">🌴 Costa Rica</span>
+    <button class="mobile-menu-close" onclick="closeMobileMenu()" aria-label="Cerrar menú">✕</button>
+  </div>
+  <span class="mobile-nav-section">El viaje</span>
+  <a class="mobile-nav-link" href="#top" onclick="closeMobileMenu()">🌴 Destino</a>
+  <a class="mobile-nav-link" href="#itinerario" onclick="closeMobileMenu()">🗓️ Itinerario</a>
+  <a class="mobile-nav-link" href="#vuelos" onclick="closeMobileMenu()">✈️ Vuelos</a>
+  <a class="mobile-nav-link" href="#auto" onclick="closeMobileMenu()">🚗 Auto</a>
+  <a class="mobile-nav-link" href="#hospedaje" onclick="closeMobileMenu()">🏨 Hospedaje</a>
+  <a class="mobile-nav-link" href="#entradas" onclick="closeMobileMenu()">🎟️ Entradas</a>
+  <span class="mobile-nav-section">Para tener a mano</span>
+  <a class="mobile-nav-link" href="#comer" onclick="closeMobileMenu()">🍽️ Comer</a>
+  <a class="mobile-nav-link" href="#camisetas" onclick="closeMobileMenu()">⚽ Camisetas</a>
+  <a class="mobile-nav-link" href="#naturaleza" onclick="closeMobileMenu()">🦥 Fauna</a>
+  <a class="mobile-nav-link" href="#preparacion" onclick="closeMobileMenu()">🧭 Consejos</a>
+  <a class="mobile-nav-link" href="#calendario-reservas" onclick="closeMobileMenu()">📅 Reservas</a>
+  <a class="mobile-nav-link" href="#pendientes" onclick="closeMobileMenu()">📋 Pendientes</a>
+</nav>
+
+<section class="hero" id="top">
+  <div class="hero-inner">
+    <div class="hero-flag">🌴</div>
+    <h1 class="hero-title">Costa <span>Rica</span> 2027</h1>
+    <p class="hero-sub">19 al 28 de marzo · un loop por volcanes, bosque nuboso y Pacífico</p>
+    <div class="countdown" id="countdown" role="timer" aria-live="off">
+      <p class="cd-label">Faltan para el vuelo de ida</p>
+      <div class="hero-stats" id="cd-row">
+        <div class="hero-stat"><div class="hero-stat-num" id="cd-d" aria-label="Días"></div><div class="hero-stat-label">Días</div></div>
+        <div class="hero-stat"><div class="hero-stat-num" id="cd-h" aria-label="Horas"></div><div class="hero-stat-label">Horas</div></div>
+        <div class="hero-stat"><div class="hero-stat-num" id="cd-m" aria-label="Min"></div><div class="hero-stat-label">Min</div></div>
+        <div class="hero-stat"><div class="hero-stat-num" id="cd-s" aria-label="Seg"></div><div class="hero-stat-label">Seg</div></div>
+      </div>
+      <p class="cd-note">Avianca EZE 16:50 → SJO · vie 19/3/2027 · hora de Argentina</p>
+    </div>
+  </div>
+</section>
+
+<div class="route-ribbon">
+  <div class="route-step"><div class="route-city"><div class="route-city-name">✈️ Ezeiza</div><div class="route-city-date">vie 19/3 · 16:50</div></div><div class="route-arrow flight">✈️ ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🛏️ Alajuela</div><div class="route-city-date">noche del 19/3</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🌋 La Fortuna</div><div class="route-city-date">20 al 23/3</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">☁️ Monteverde</div><div class="route-city-date">23 al 25/3</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🏖️ Manuel Antonio</div><div class="route-city-date">25 y 26/3</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">🐋 Uvita</div><div class="route-city-date">26 y 27/3</div></div><div class="route-arrow drive">🚗 ──</div></div>
+  <div class="route-step"><div class="route-city"><div class="route-city-name">✈️ San José</div><div class="route-city-date">dom 28/3 · 01:40</div></div></div>
+</div>
 
 <div class="wrap">
 
-  <div class="board-case" id="top">
-    <div class="board-topline mono">
-      <span>🌴 Destino elegido</span>
-      <span id="clock-stamp">Costa Rica · marzo 2027</span>
-    </div>
-
-    <h1 class="hero-title mono" id="hero-title" aria-label="COSTA RICA"></h1>
-
-    <div class="countdown" id="countdown" role="timer" aria-live="off">
-      <p class="cd-label">Faltan para el vuelo de ida · <b>Avianca EZE 16:50 → SJO</b> · vie 19/3/2027</p>
-      <div class="cd-row" id="cd-row">
-        <div class="cd-unit"><div class="cd-digits" id="cd-d" aria-label="días"></div><span class="cd-name">días</span></div>
-        <span class="cd-sep" aria-hidden="true">:</span>
-        <div class="cd-unit"><div class="cd-digits" id="cd-h" aria-label="horas"></div><span class="cd-name">horas</span></div>
-        <span class="cd-sep" aria-hidden="true">:</span>
-        <div class="cd-unit"><div class="cd-digits" id="cd-m" aria-label="minutos"></div><span class="cd-name">min</span></div>
-        <span class="cd-sep" aria-hidden="true">:</span>
-        <div class="cd-unit"><div class="cd-digits" id="cd-s" aria-label="segundos"></div><span class="cd-name">seg</span></div>
-      </div>
-      <p class="cd-note">Hora de Argentina · pasajes comprados</p>
-    </div>
-
-    <p class="hero-sub">
-      <b>Vie 19 → Dom 28 de marzo, 2027</b> · salida el viernes a la tarde, 8 días en destino y vuelta el domingo · con <b>3 días de licencia</b> (vie 19, lun 22 y mar 23)
-    </p>
+  <div class="trip-box">
+    <p class="trip-sub"><b>Vie 19 → Dom 28 de marzo, 2027</b> · salida el viernes a la tarde, 8 días en destino y vuelta el domingo · con <b>3 días de licencia</b> (vie 19, lun 22 y mar 23)</p>
 
     <div class="daystrip" aria-hidden="false">
       <div class="day on"><span class="dow">Vie</span><span class="num">19</span><span class="tag">Lic.</span></div>
@@ -911,7 +1028,7 @@
       <h3>Alojamiento — criterio y opciones por zona</h3>
       <p style="font-size:13px; color:var(--ink-dim); margin:0 0 12px;"><b>Criterio:</b> se pasa poco tiempo en el hospedaje y no hace falta lujo. Lo necesario: baño privado, agua caliente, ropa de cama y toallas, A/C y cama cómoda.</p>
 
-      <p style="margin:0 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Noche de llegada (1 noche, 19-20/3) — reservado</p>
+      <p style="margin:0 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Inter',system-ui,sans-serif;">Noche de llegada (1 noche, 19-20/3) — reservado</p>
       <div class="lodging-grid">
         <div class="lodging-card best">
           <div class="lc-head"><span class="lc-name">Apart. 5 min del Aeropuerto</span><span class="lc-badge">✓ Reservado</span></div>
@@ -925,7 +1042,7 @@
         </div>
       </div>
 
-      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">La Fortuna (3 noches, 20-23/3) — 13 referencias, a elegir</p>
+      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Inter',system-ui,sans-serif;">La Fortuna (3 noches, 20-23/3) — 13 referencias, a elegir</p>
       <div class="lodging-grid">
         <div class="lodging-card best">
           <div class="lc-head"><span class="lc-name">Vistas Volcán Arenal 4</span><span class="lc-badge">⭐ Mejor precio</span></div>
@@ -1033,7 +1150,7 @@
         </div>
       </div>
 
-      <p style="margin:16px 0 4px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">La Fortuna — más opciones (Google Hotels, sin verificar)</p>
+      <p style="margin:16px 0 4px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Inter',system-ui,sans-serif;">La Fortuna — más opciones (Google Hotels, sin verificar)</p>
       <p style="font-size:12.5px; color:var(--ink-faint); margin:0 0 10px;">Precios aproximados, convertidos de pesos argentinos. Son pistas para confirmar directo en Booking o con el hotel, no cotizaciones cerradas.</p>
       <div class="lodging-grid">
         <div class="lodging-card warn">
@@ -1078,7 +1195,7 @@
         </div>
       </div>
 
-      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Monteverde (2 noches, 23-25/3) — reservado</p>
+      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Inter',system-ui,sans-serif;">Monteverde (2 noches, 23-25/3) — reservado</p>
       <div class="lodging-grid">
         <div class="lodging-card best">
           <div class="lc-head"><span class="lc-name">Bello Horizonte, vista increíble cerca de Monteverde</span><span class="lc-badge">✓ Reservado</span></div>
@@ -1096,7 +1213,7 @@
         </div>
       </div>
 
-      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Manuel Antonio / Quepos (1 noche, 25-26/3) — reservado</p>
+      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Inter',system-ui,sans-serif;">Manuel Antonio / Quepos (1 noche, 25-26/3) — reservado</p>
       <div class="lodging-grid">
         <div class="lodging-card best">
           <div class="lc-head"><span class="lc-name">Pura Natura Lodge</span><span class="lc-badge">✓ Reservado</span></div>
@@ -1117,7 +1234,7 @@
         </div>
       </div>
 
-      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Space Mono',monospace;">Uvita (1 noche, 26-27/3) — reservado</p>
+      <p style="margin:16px 0 8px; font-size:12px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; font-family:'Inter',system-ui,sans-serif;">Uvita (1 noche, 26-27/3) — reservado</p>
       <div class="lodging-grid">
         <div class="lodging-card best">
           <div class="lc-head"><span class="lc-name">Ballena Rey Hotel</span><span class="lc-badge">✓ Reservado</span></div>
@@ -1537,35 +1654,19 @@
 <button type="button" class="back-to-top" id="back-to-top" aria-label="Volver arriba" title="Volver arriba">↑</button>
 
 <script>
+function openMobileMenu(){
+  document.getElementById('mobile-menu').classList.add('open');
+  document.getElementById('mobile-overlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeMobileMenu(){
+  document.getElementById('mobile-menu').classList.remove('open');
+  document.getElementById('mobile-overlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', function(e){ if(e.key === 'Escape') closeMobileMenu(); });
 (function(){
   var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  var title = document.getElementById('hero-title');
-  var text = 'COSTA RICA';
-  var glyphs = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
-
-  text.split('').forEach(function(ch, i){
-    var span = document.createElement('span');
-    span.className = 'flap-char' + (ch === ' ' ? ' space' : '');
-    span.textContent = reduced ? ch : glyphs[Math.floor(Math.random()*glyphs.length)];
-    title.appendChild(span);
-
-    if(!reduced){
-      var ticks = 8 + Math.floor(Math.random()*6);
-      var delay = i * 55;
-      var count = 0;
-      setTimeout(function step(){
-        if(ch === ' '){ span.textContent = ' '; return; }
-        if(count < ticks){
-          span.textContent = glyphs[Math.floor(Math.random()*glyphs.length)];
-          count++;
-          setTimeout(step, 40 + count*4);
-        } else {
-          span.textContent = ch;
-        }
-      }, delay);
-    }
-  });
-
   /* Contador: vuelo de ida vie 19/3/2027 16:50 (EZE, UTC-3) */
   (function(){
     var box = document.getElementById('countdown');
@@ -1627,7 +1728,7 @@
     tick();
   })();
 
-  var navLinks = Array.prototype.slice.call(document.querySelectorAll('.top-nav a.nav-link'));
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll('.topnav a.nav-link'));
   var navTargets = navLinks.map(function(a){ return document.getElementById(a.getAttribute('href').slice(1)); }).filter(Boolean);
   if(navTargets.length && 'IntersectionObserver' in window){
     var observer = new IntersectionObserver(function(entries){
