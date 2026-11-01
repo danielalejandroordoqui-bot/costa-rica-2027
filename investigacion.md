@@ -1446,7 +1446,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
   - ❌ **La Paz Waterfall Gardens — DESCARTADO (21/9/2026)**, decisión de Daniel después de ver un video completo: le da pena cómo están los animales (recintos) y las cascadas no lo sorprendieron; le gustaron más las de Río Celeste. Costaba US$56 sin IVA, US$63,28 con IVA (~US$126 los dos).
   - 🆕 **Colibrí Café – Soda y Mirador Cinchona** (parada de ruta, no es el Colibrí Café de Monteverde) — sobre la ruta 126, pasando La Paz y antes de San Miguel. Gratis (aceptan aportes), abre desde las 6:00; más de una docena de especies de colibríes, tángaras y con suerte quetzal, y vista a la catarata San Fernando de 70 m; hay soda para almorzar. Ideal para la lente 150-600. Según el video que vio Daniel, la gente almuerza ahí después de Poás y ve colibríes, tucanes y otras aves en los comederos; Google Maps muestra cerca las cataratas San Fernando, Paula y Botos. Estimado 30-60 min; hora de cierre sin confirmar. [Ficha](https://natureincostarica.com/place/colibri-cafe-soda-y-mirador-cinchona/).
   - 🆕 **Catarata de la Paz desde el puente de la ruta** (la cascada gratis; en Google Maps la ficha se llama "Catarata de la Paz", mientras que "Catarata La Paz" es el listado del complejo pago) — parada de 5-10 min justo sobre la ruta 126, antes de Cinchona. ⚠️ Hubo robos a autos en ese punto: no dejar nada adentro.
-  - Cinchona → La Fortuna (~1h30-2h, estimado; Poás → La Fortuna directo son ~2h15). Noche en **La Fortuna**. Saliendo de Cinchona a las ~15:45 se llega ~17:15-17:30, antes de la puesta de sol (~17:50).
+  - Cinchona → La Fortuna (~1h30-2h, estimado; Poás → La Fortuna directo son ~2h15). Noche en **La Fortuna**. Con retiro a las 10:00 y una parada corta en Cinchona se llega ~17:40-18:10, justo con la puesta de sol (~17:50).
   - De paso, **Fraijanes** (sobre la ruta 712 de Alajuela a Poasito, antes de Poás): ventas de fresas al costado del camino, restaurantes de casado a menos de US$15 y el Parque Recreativo Laguna de Fraijanes. Parada libre, sin prioridad.
   - 📍 Aeropuerto SJO · Hacienda Alsacia · Volcán Poás · Catarata de la Paz (puente) · Colibrí Café Cinchona · Fraijanes · La Fortuna
   - 🛣️ **Ruta y servicios — SJO → Alsacia → Poás → Cinchona → La Fortuna (~156 km)** (relevado 23/9/2026; puntos marcados en la capa "🛣️ Servicios en ruta" del My Maps y en la lista nativa "Costa Rica"):
@@ -1723,8 +1723,8 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 - ✅ **Vuelo comprado** (1/11/2026, Expedia).
 - ✅ **Noche de llegada reservada** (1/11/2026, Airbnb). Falta preguntar por el portón.
 
-### 🟡 Principios de diciembre 2026
-- **Hospedaje de La Fortuna** (3 noches, 20-23/3), con cancelación gratis siempre que se pueda. Es el único que falta; recordatorio en Google Calendar el mar 1/12/2026 09:00. En el sitio, el bloque "Ahora (octubre)" pasó a llamarse "Ya reservado" (8/10/2026).
+### 🟡 Diciembre 2026
+- **Hospedaje de La Fortuna** (3 noches, 20-23/3), con pago al reservar y cancelación gratis siempre que se pueda. Decisión de Daniel (1/11/2026): reservarlo en diciembre con tarjeta para que el pago entre en enero. Es el único que falta; recordatorio en Google Calendar el mar 1/12/2026 09:00. En el sitio, el bloque "Ahora (octubre)" pasó a llamarse "Ya reservado" (8/10/2026).
 
 ### 🟡 Desde el 1/12/2026: vigilar SINAC hasta que se habilite marzo
 - **Cuándo se habilita, sin confirmar.** Las fuentes no coinciden: unas dicen que Poás abre franjas 30 días antes (~4 semanas), otras hablan de 30-60 días, y para el Chirripó SINAC abre hasta 6 meses antes. Lo único seguro es lo que vio Daniel el 12/9/2026: marzo 2027 figuraba como "período no disponible". **No pude verlo directo: la consulta de disponibilidad de SINAC pide un captcha**, que tiene que resolver Daniel.
@@ -1739,14 +1739,14 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
   - Hay que llegar en la franja comprada; si hay atraso, avisar al parque.
   - Los parques abren los feriados, salvo riesgo.
 
-### 🟢 Enero 2027 (tours y reservas)
-- **Hacienda Alsacia, Coffee Tour de 90 min (sábado 20/3):** reservar **después** de comprar Poás, porque el orden del Día 1 depende de la franja que toque. Tours entre las 8 y las 16; se recomienda reservar online (en promedio se reserva ~8 días antes, pero es sábado de Semana Santa: mejor 3-4 semanas antes). Confirmar al reservar que el tour corre ese sábado. La cancelación depende de dónde se compre: algunas reventas no devuelven nada, el sitio oficial no lo pude leer. [Sitio oficial](https://www.starbuckscoffeefarm.com/)
+### 🟢 Diciembre 2026 y enero 2027 (tours y reservas)
+- **Hacienda Alsacia, Coffee Tour de 90 min (sábado 20/3):** reservar **después** de comprar Poás, porque el orden del Día 1 depende de la franja que toque. Tours entre las 8 y las 16; se recomienda reservar online (en promedio se reserva ~8 días antes, pero es sábado de Semana Santa: reservar en cuanto esté la entrada del Poás). Confirmar al reservar que el tour corre ese sábado. La cancelación depende de dónde se compre: algunas reventas no devuelven nada, el sitio oficial no lo pude leer. [Sitio oficial](https://www.starbuckscoffeefarm.com/)
 - **Selvatura, santuario de perezosos + puentes (miércoles 24/3):** en el santuario la **reserva es obligatoria** (grupos chicos, salidas cada hora y cuarto de 8:15 a 15:15, US$40 + 13%). Cancelación: **100% hasta 48 h antes**, 50% entre 24 y 48 h, nada con menos de 24 h. De diciembre a abril recomiendan reservar para asegurar la entrada. Reservar en enero. [Selvatura — santuario](https://www.selvatura.com/tours/the-sloth-sanctuary/)
 - **Tour de ballenas en Uvita (sábado 27/3, ~8:15):** la mayoría de los operadores devuelve todo cancelando hasta 24 h antes, y si se suspende por clima reprograman o devuelven. Reservar en enero y **preguntar si incluye parqueo**. [GetYourGuide — Uvita](https://www.getyourguide.com/uvita-costa-rica-l187790/uvita-whale-watching-tour-in-marino-ballena-national-park-t712261/)
 - **Caminata nocturna en Monteverde (miércoles 24/3):** elegir operador (ver Día 5). Refugio Monteverde pide reservar **al menos un día antes de diciembre a abril**, y Curi-Cancha tiene cupos limitados. Reservar en enero.
 - **Constancia de la Visa Signature:** pedirla al banco en enero o febrero (ver Auto).
 
-### 🔵 Enero 2027 (opcional, con cancelación gratis)
+### 🔵 Diciembre 2026 y enero 2027 (opcional, con cancelación gratis)
 - **Catarata La Fortuna (domingo 21/3):** se puede comprar en la puerta, pero **en Semana Santa conviene la entrada online con franja** (7:00, 9:00, 11:00, 13:00 o 15:00). Es muy flexible: se cambia la fecha o se pide devolución por mail hasta las 17:00 del mismo día de la visita. [Sitio oficial](https://www.cataratalafortuna.com/es) · [Condiciones](https://www.cataratalafortuna.com/terms)
 - **Arenal 1968 (domingo 21/3):** abre de 8:00 a 17:00, último ingreso 15:00. Entrada online desde ~US$26-27; llegando temprano se compra en el lugar. Comprarla online solo si se quiere asegurar.
 
