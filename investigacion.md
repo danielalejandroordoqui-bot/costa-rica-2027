@@ -2,7 +2,7 @@
 
 Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viajes/proyectos de viaje/` (que sigue comparando los destinos NO elegidos para esta ventana). Acá va todo el detalle de research: videos, itinerarios reales, precios, logística — sin resumir de más, para que nada se pierda entre sesión y sesión.
 
-**Ventana del viaje:** sábado 20 a domingo 28 de marzo de 2027, 9 días corridos, con solo 2 días de licencia (lunes 22 y martes 23) ya pedidos y confirmados en el trabajo — el 24/3 (feriado Día de la Memoria), Jueves Santo (25) y Viernes Santo (26) caen pegados al fin de semana. Semana Santa 2027 cae 21-28/3, prácticamente toda la ventana.
+**Ventana del viaje (actualizada 1/11/2026):** viernes 19 a las 16:50 a domingo 28 de marzo de 2027, con 3 días de licencia: lunes 22 y martes 23 ya pedidos, **viernes 19 a pedir esta semana** (el pedido es autónomo). Antes era sábado 20 a domingo 28, 9 días corridos — el 24/3 (feriado Día de la Memoria), Jueves Santo (25) y Viernes Santo (26) caen pegados al fin de semana. Semana Santa 2027 cae 21-28/3, prácticamente toda la ventana.
 
 **Estado:** ✅ **Costa Rica es el destino elegido** para este viaje (decisión del 12/9/2026). El resto de los destinos que se venían comparando (Salta/Jujuy, Ecuador, Perú, Colombia, y los ya descartados) quedan documentados en `viajes/proyectos de viaje/` para retomar en otro viaje futuro — no se mezclan con este proyecto.
 
@@ -20,13 +20,22 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 
 ## Vuelo BUE-San José — a monitorear (no comprado)
 
+> ✈️ **VUELO NUEVO ELEGIDO (1/11/2026, decisión de Daniel; falta que Melisa lo lea y confirmar fiebre amarilla con Avianca):** ida **vie 19/3 AV8396 + AV692, EZE 16:50 → SJO 00:30 del sábado**, escala 1h45 en Bogotá, 10h40. Vuelta sin cambios: dom 28/3 AV691 + AV8395, SJO 01:40 → EZE 15:40. Solo carry-on (Daniel: alcanza).
+> **Por qué:** cotizado el 1/11/2026, por persona, ida y vuelta: **US$794 en Avianca** (US$663-691 en agencias) contra **US$1.574 en Avianca** (US$1.263-1.288 en agencias) del vuelo anterior de sáb 20/3 01:40. Son US$1.560 menos entre los dos, con la misma aerolínea, escala y equipaje. Google mostró ese vuelo a US$691 más tarde el mismo día, sin aclarar si era Avianca o agencia.
+> **Comprar en dólares:** avianca.com con `pointOfSale=US` muestra USD; con `AR` cobra en pesos y salía más caro (ida del sábado US$920,13 contra ARS 1.673.872).
+> **Noche de llegada 19-20/3:** primera opción [Apart. 5 min del Aeropuerto](https://www.airbnb.com.ar/rooms/848768464036370981?check_in=2027-03-19&check_out=2027-03-20&adults=2&currency=USD) (Airbnb, 4,81 con 551 reseñas, A/C, baño privado, cerradura inteligente, US$39 de ficha y US$38,77 en la pantalla de contacto). Check-in formal 15-23 h; la anfitriona respondió el 1/11 que llegar a la 1:30 no es problema porque la llegada es autónoma. Falta preguntarle por el portón (en 2023 un huésped que llegó tarde sin avisar quedó trabado ahí) y ver el total y el cobro en el pago. Sin reservar. Alternativas: A 3 minutos del aeropuerto (rooms/50663162, ~US$85), Acogedor loft (rooms/702741145567395221, ~US$115), Berlor Airport Inn (~US$85) y Zeus Guest House (US$124, traslado gratis).
+> **Ajuste del Día 1:** con retiro a las 10:00 y 45-60 min de trámite se arranca a manejar 10:45-11:00, unos 30-40 min más tarde que con el vuelo anterior. A cambio se llega durmiendo en cama. Se puede evaluar adelantar el retiro del auto.
+
+> ⬇️ Lo que sigue es el análisis anterior (histórico).
+
 > 📅 **Plan de compra (23/9/2026, decisión de Daniel):** comprar los pasajes en **noviembre de 2026** con tarjeta de crédito, para que el gasto caiga en el **resumen de diciembre**, que se paga con el aguinaldo. Hasta entonces, seguir monitoreando el precio.
 
 **Itinerario elegido para seguir de cerca, Avianca vía Bogotá** — es el único que evita manejar de noche el día de regreso: sale de SJO recién a las 01:40, así que el traslado Manuel Antonio→SJO se hace con luz de día, sin horario límite de check-in esa tarde/noche. El resto de las combinaciones evaluadas (Copa, LATAM, salidas sábado a la tarde) quedaron descartadas por forzar ese manejo nocturno o llegar a Buenos Aires recién el lunes, sin margen de descanso antes de trabajar.
 
 | Tramo | Vuelos | Horario | Vía | Duración |
 |---|---|---|---|---|
-| Ida (sáb 20/3) | AV218 + AV696 | EZE 01:40 → SJO 08:50 | Bogotá (escala 1h10) | 10h10 |
+| Ida (vie 19/3) | AV8396 + AV692 | EZE 16:50 → SJO 00:30 (sáb) | Bogotá (escala 1h45) | 10h40 |
+| ~~Ida anterior (sáb 20/3)~~ | ~~AV218 + AV696~~ | ~~EZE 01:40 → SJO 08:50~~ | ~~Bogotá (escala 1h10)~~ | ~~10h10~~ |
 | Vuelta (dom 28/3) | AV691 + AV8395 | SJO 01:40 → EZE 15:40 | Bogotá (escala 2h25) | 11h00 |
 
 Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija despachada — sin selección de asiento anticipada ni cambios/reembolsos gratis.
@@ -1416,7 +1425,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
 
 - **Día 1 (sáb 20/3):** Llegada + Alsacia + Poás + Cinchona
   - ✅ **DÍA 1 CERRADO (21/9/2026)** con las decisiones de Daniel: **La Paz Waterfall Gardens descartado**; **se suman** Catarata de la Paz (puente), Colibrí Café de Cinchona y, de paso, Fraijanes; **Alsacia queda como el único tour de café del viaje** (sin el tour de Café Monteverde ni North Fields); Poás se mantiene. ✅ **Formato de Alsacia decidido (22/9/2026): Coffee Tour de 90 min.** Queda una sola definición chica, a resolver cuando abra el calendario: el orden Poás/Alsacia.
-  - Aterrizaje SJO **08:50** (AV218+AV696 vía Bogotá) + inmigración (15-60 min) + retiro del auto en Avis (45-60 min) — recién se arranca a manejar entre las **10:05 y 10:35am**.
+  - **Actualizado 1/11/2026:** aterrizaje SJO **00:30** del sábado (AV8396+AV692 vía Bogotá), migraciones y traslado en Uber o taxi, cama cerca de la 1:30. Salir del apartamento tipo 9:30, retiro del auto en Avis a las **10:00** (45-60 min) y se arranca a manejar entre las **10:45 y 11:00**. Con Poás primero se llega tipo 12:00; con Alsacia primero, tipo 13:30.
   - SJO → Hacienda Alsacia (~45 min). ✅ **Hacienda Alsacia — Coffee Tour de 90 min, DECIDIDO (22/9/2026).** US$36 por adulto (mínimo 2 pagantes): vivero, beneficio húmedo, patio de secado y tostadora. ⚠️ En marzo, fuera de cosecha, parte de eso está parado: una reseña de 1★ de agosto de 2026 dice que la finca solo opera de octubre a febrero — igual se ve el tueste en vivo y la cata final. Reservar cuando abra el calendario de marzo de 2027 (solo con reserva, tours 8:00-16:00). Descartados: el Coffee Lab de 45 min y el café suelto sin tour. Instagram: @haciendaalsacia. [Reservar (oficial)](https://www.starbuckscoffeefarm.com/visit).
   - Alsacia → Volcán Poás (~15-20 min). **Volcán Poás** — SINAC vende franjas de 20 min de 8:00 a 14:00 (hasta 56 personas por franja desde la erupción del 27/8/2026; antes eran 108); entrada US$15 (probable +13% de IVA). La visita es corta: ~10 min de caminata plana por sendero asfaltado hasta el mirador, 20 min permitidos ahí y 10 de vuelta (~45-60 min en total). ⚠️ **El texto anterior decía "franja 11:00-12:00", pero con Alsacia primero se llega ~13:00.** Con Poás primero sería ~11:00-12:00, con mejor chance de cráter despejado (⏳ orden por decidir; recomendado: Poás primero).
   - **Poás — estado de los senderos (sin confirmar):** dos fuentes (el video que vio Daniel y la guía de Viajeros Callejeros) dicen que hoy solo se visita el cráter principal y que los senderos a la Laguna Botos y Escalonia no se pueden hacer por daños de la actividad eruptiva; una guía de 2026 los menciona como abiertos, pero cita datos de 2018. No pude leer la página oficial de SINAC. Daniel lo va a seguir investigando con el correr de los meses para ver en qué estado están; de todos modos, se reconfirma al reservar en enero y de nuevo antes del viaje. El parque cierra por actividad volcánica y SINAC lo avisa en su web y sus redes.
@@ -1698,7 +1707,9 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 - **Hospedaje en las 4 zonas.** Es lo único que ya conviene cerrar: en Semana Santa lo bueno se va primero. **Reservar con cancelación gratis** siempre que se pueda, así se asegura el lugar sin perder flexibilidad. ~~Al menos uno por Booking, para usar el saldo de US$72,09~~ (saldo ya usado el 1/10/2026 en Manuel Antonio).
 
 ### 🟠 Noviembre 2026
-- **Vuelo Avianca** (ya decidido), con tarjeta de crédito, para que caiga en el resumen de diciembre que se paga con el aguinaldo.
+- **Esta semana (desde el 1/11/2026): pedir el viernes 19/3 de vacaciones**, antes de comprar.
+- **Vuelo Avianca del vie 19/3 16:50**, con tarjeta de crédito y en dólares.
+- **Hospedaje de la noche de llegada (19-20/3):** reservarlo con el vuelo comprado; preguntar por el portón y el código.
 
 ### 🟡 Principios de diciembre 2026
 - **Hospedaje de La Fortuna** (3 noches, 20-23/3), con cancelación gratis siempre que se pueda. Es el único que falta; recordatorio en Google Calendar el mar 1/12/2026 09:00. En el sitio, el bloque "Ahora (octubre)" pasó a llamarse "Ya reservado" (8/10/2026).
@@ -1756,3 +1767,7 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 15. **eSIM para el viaje (pedido de Daniel, 28/9/2026):** sacar una eSIM de **Holafly** o de un operador similar (Airalo, que ya figuraba recomendada en "Conectividad") para tener datos en Costa Rica durante todo el viaje. Instalarla antes de salir y activarla al aterrizar.
 16. **Apps de aves y fauna (12/10/2026):** Merlin, eBird e iNaturalist ya están bajadas. Antes de viajar, con wifi: bajar el paquete de aves de Costa Rica en Merlin y el de eBird, y desactivar la subida automática de iNaturalist. Detalle en la sección "Apps de aves y fauna en el teléfono".
 17. **Video con la Nikon (12/10/2026):** antes de viajar, practicar los seteos al aire libre y con distintas luces (sol pleno, sombra o nublado, temprano y atardecer, contraluz), y armar un reel de prueba. Detalle en la sección "Video con la Nikon D7500 para reels".
+18. **Viernes 19/3 de vacaciones (1/11/2026):** pedirlo esta semana; se suma a los 2 días ya pedidos.
+19. **Fiebre amarilla (1/11/2026):** confirmar con Avianca si la escala en Bogotá exige certificado a turistas argentinos. Colombia está en la lista de Costa Rica; las notas de septiembre 2026 hablan de ciudadanos y residentes, y las conexiones sin pasar migración cuentan como tránsito ([Tico Times](https://ticotimes.net/2026/09/27/costa-rica-yellow-fever-vaccine-requirement-october), [Delfino](https://www.delfino.cr/2026/09/salud-recuerda-que-requisito-de-vacunacion-contra-fiebre-amarilla-inicia-el-1-de-octubre)). Vacuna: al menos 10 días antes.
+20. **Ida a Ezeiza (1/11/2026):** Uber o similar con tiempo, saliendo de La Plata tipo 11:30 del viernes 19/3.
+21. **Retiro del auto (1/11/2026):** ver en el voucher dónde presentarse llegando desde el apartamento, y si conviene adelantarlo para llegar antes a Poás.
