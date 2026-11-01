@@ -25,15 +25,15 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 > ⚠️ **Día 1 con el vuelo nuevo (auditoría 1/11/2026):** con retiro a las 10:00 se arranca 10:45-11:00. Poás 12:00-13:00, Alsacia 13:20-14:50, Cinchona ~15:40-16:10 y La Fortuna 17:40-18:10: el último tramo se pasa de la puesta del sol (~17:50). Adelantando el retiro a las 9:00, Poás cae tipo 11:00 y se llega con luz; se duerme ~7 h. Falta verificar con EconomyBookings si se puede cambiar y si tiene costo.
 > 🕒 **Decisión de Daniel (1/11/2026):** no adelantar por ahora; queda como opción para revisar en las próximas semanas. **Objetivo:** tener todo lo pendiente (hospedaje de La Fortuna, entradas y tours) pago y resuelto entre diciembre y enero, salvo que SINAC habilite marzo más tarde.
 
-> ✈️ **VUELO NUEVO ELEGIDO (1/11/2026, decisión de Daniel; falta que Melisa lo lea y confirmar fiebre amarilla con Avianca):** ida **vie 19/3 AV8396 + AV692, EZE 16:50 → SJO 00:30 del sábado**, escala 1h45 en Bogotá, 10h40. Vuelta sin cambios: dom 28/3 AV691 + AV8395, SJO 01:40 → EZE 15:40. Solo carry-on (Daniel: alcanza).
+> ✈️ **Vuelo elegido y comprado (1/11/2026, decisión de Daniel):** ida **vie 19/3 AV8396 + AV692, EZE 16:50 → SJO 00:30 del sábado**, escala 1h45 en Bogotá, 10h40. Vuelta sin cambios: dom 28/3 AV691 + AV8395, SJO 01:40 → EZE 15:40. Solo carry-on (Daniel: alcanza).
 > **Por qué:** cotizado el 1/11/2026, por persona, ida y vuelta: **US$794 en Avianca** (US$663-691 en agencias) contra **US$1.574 en Avianca** (US$1.263-1.288 en agencias) del vuelo anterior de sáb 20/3 01:40. Son US$1.560 menos entre los dos, con la misma aerolínea, escala y equipaje. Google mostró ese vuelo a US$691 más tarde el mismo día, sin aclarar si era Avianca o agencia.
 > **Comprar en dólares:** avianca.com con `pointOfSale=US` muestra USD; con `AR` cobra en pesos y salía más caro (ida del sábado US$920,13 contra ARS 1.673.872).
-> **Noche de llegada 19-20/3:** primera opción [Apart. 5 min del Aeropuerto](https://www.airbnb.com.ar/rooms/848768464036370981?check_in=2027-03-19&check_out=2027-03-20&adults=2&currency=USD) (Airbnb, 4,81 con 551 reseñas, A/C, baño privado, cerradura inteligente, US$39 de ficha y US$38,77 en la pantalla de contacto). Check-in formal 15-23 h; la anfitriona respondió el 1/11 que llegar a la 1:30 no es problema porque la llegada es autónoma. Falta preguntarle por el portón (en 2023 un huésped que llegó tarde sin avisar quedó trabado ahí) y ver el total y el cobro en el pago. Sin reservar. Alternativas: A 3 minutos del aeropuerto (rooms/50663162, ~US$85), Acogedor loft (rooms/702741145567395221, ~US$115), Berlor Airport Inn (~US$85) y Zeus Guest House (US$124, traslado gratis).
+> **Noche de llegada 19-20/3:** reservada en [Apart. 5 min del Aeropuerto](https://www.airbnb.com.ar/rooms/848768464036370981?check_in=2027-03-19&check_out=2027-03-20&adults=2&currency=USD) (Airbnb, 4,81 con 551 reseñas, A/C, baño privado, cerradura inteligente, US$39 de ficha y US$38,77 en la pantalla de contacto). Check-in formal 15-23 h; la anfitriona respondió el 1/11 que llegar a la 1:30 no es problema porque la llegada es autónoma. Falta preguntarle por el portón (en 2023 un huésped que llegó tarde sin avisar quedó trabado ahí). Total pagado: US$38,77. Alternativas que quedaron sin usar: A 3 minutos del aeropuerto (rooms/50663162, ~US$85), Acogedor loft (rooms/702741145567395221, ~US$115), Berlor Airport Inn (~US$85) y Zeus Guest House (US$124, traslado gratis).
 > **Ajuste del Día 1:** con retiro a las 10:00 y 45-60 min de trámite se arranca a manejar 10:45-11:00, unos 30-40 min más tarde que con el vuelo anterior. A cambio se llega durmiendo en cama. Se puede evaluar adelantar el retiro del auto.
 
 > ⬇️ Lo que sigue es el análisis anterior (histórico).
 
-> 📅 **Plan de compra (23/9/2026, decisión de Daniel):** comprar los pasajes en **noviembre de 2026** con tarjeta de crédito, para que el gasto caiga en el **resumen de diciembre**, que se paga con el aguinaldo. Hasta entonces, seguir monitoreando el precio.
+> 📅 **Histórico, ya comprado. Plan de compra (23/9/2026, decisión de Daniel):** comprar los pasajes en **noviembre de 2026** con tarjeta de crédito, para que el gasto caiga en el **resumen de diciembre**, que se paga con el aguinaldo. Hasta entonces, seguir monitoreando el precio.
 
 **Itinerario elegido para seguir de cerca, Avianca vía Bogotá** — es el único que evita manejar de noche el día de regreso: sale de SJO recién a las 01:40, así que el traslado Manuel Antonio→SJO se hace con luz de día, sin horario límite de check-in esa tarde/noche. El resto de las combinaciones evaluadas (Copa, LATAM, salidas sábado a la tarde) quedaron descartadas por forzar ese manejo nocturno o llegar a Buenos Aires recién el lunes, sin margen de descanso antes de trabajar.
 
@@ -49,7 +49,8 @@ Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija
 
 ## Trámites, moneda y logística general
 
-- **Sin trámites especiales para argentinos** (confirmado por Daniel).
+- **Sin trámites especiales para argentinos** (confirmado por Daniel). A confirmar: certificado de fiebre amarilla por la escala en Bogotá (ver Pendientes).
+- **Equipaje del vuelo:** solo carry-on y artículo personal; líquidos en envases de hasta 100 ml, protector y repelente se compran allá.
 - **Moneda:** colón costarricense (1€ ≈ 568 colones, sept. 2026), dólares aceptados ampliamente. Tarjeta de crédito aceptada casi en todas partes para gastos grandes.
 - **⚠️ Cuidacoches informales ("wachiman") — research 20/9/2026:** casi todo el estacionamiento de playa/calle en Costa Rica es informal (sin seguro, sin cámaras, chalecos comprados por su cuenta). Cobran en **efectivo** — propina habitual US$1-2 o ₡500-1.000, a veces más en zonas turísticas y feriados. Hay relatos documentados de viajeros a los que un cuidacoches **siguió hasta un cajero automático** exigiendo el pago porque no aceptan tarjeta (fuente: [The Lost Bells — 10 Tips Manuel Antonio](https://www.thelostbells.com/post/costa-ricas-manuel-antonio-10-tips-you-need-to-know-before-you-go)). Cerca de Manuel Antonio además hay falsos "encargados" que dicen que el estacionamiento oficial está lleno para derivar a uno propio más caro (⚠️ corregido 21/9/2026: el parque no tiene estacionamiento propio, ver Día 7) (fuentes: [Rick Steves Forum](https://community.ricksteves.com/travel-forum/tourist-scams/word-to-the-wise-manuel-antonio-national-park-scam), [Costa Rica Vibes](https://www.costaricavibes.com/common-scams-in-costa-rica/), [MyTanFeet](https://mytanfeet.com/about-cr/shopping-eating-tipping-in-costa-rica/)). Detalle de estacionamiento oficial vs. informal por parada, día por día, más abajo en cada tarjeta del itinerario.
 
@@ -112,6 +113,10 @@ Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija
 Reserva oficial: enlace en el archivo local.
 
 ## Alojamiento — referencias reales por zona
+
+### Noche de llegada — 1 noche, 19-20/3/2027
+
+**✅ RESERVADO Y PAGADO (1/11/2026): [Apart. 5 min del Aeropuerto](https://www.airbnb.com.ar/rooms/848768464036370981)**, Airbnb, 4,81 con 551 reseñas, US$38,77, A/C, baño privado, entrada autónoma con cerradura inteligente. Se llega tipo 1:30 del sábado; la anfitriona confirmó por escrito que se puede entrar después de medianoche. Salida sáb 20/3 hasta las 11:00. Cancelación gratuita antes de las 15:00 del 18/3. El código llega el día anterior o alrededor de las 12:00 del 19/3. Dirección y códigos en el archivo local.
 
 **Criterio de Daniel para elegir alojamiento** (12/9/2026): no pasan mucho tiempo en el hospedaje, así que no buscan lujo — piden **baño privado, agua caliente, ropa de cama y toallas, aire acondicionado, y una cama cómoda**. Ese es el estándar mínimo para las 4 zonas con noche (La Fortuna, Monteverde, Manuel Antonio, Uvita — esta última reemplazó a Puntarenas/golfo el 20/9/2026).
 
@@ -1195,6 +1200,8 @@ Repaso de cada parada de Itinerario contra los días de calendario exactos que l
 
 **Ningún lugar del itinerario actual tiene un cierre semanal que choque con el día asignado.** Dos puntos a tener en cuenta, no cierres sino riesgos de organización:
 
+*(Auditoría histórica, con el vuelo anterior. Vigente: sección Vuelo.)*
+
 1. **⚠️ Día 1 (sáb 20/3) es el más ajustado de todo el viaje:** llegada a SJO 08:50am tras un vuelo nocturno, y ese mismo día hay que encadenar Hacienda Alsacia + Volcán Poás (con franja horaria ya reservada, hora fija) + La Paz Waterfall Gardens (mínimo 2h de recorrido, hay que entrar antes de las 3pm) + 2h de manejo hasta La Fortuna. Si el vuelo se atrasa o el trámite migratorio en SJO tarda, se corre toda la cadena y se puede perder la franja de Poás o llegar tarde a La Paz Waterfall Gardens. Es el día con menos margen de todo el itinerario.
 
    **Cronología detallada (13/9/2026):** aterrizaje 08:50 + inmigración (15-60min, mejor por llegar antes de las 9am) + retiro del auto (45-60min con traslado al lote) → recién se empieza a manejar entre las 10:05 y 10:35am. Con ese punto de partida, la franja de Poás realmente alcanzable es la de 11am-12pm (no la de 8am, ideal para cráter despejado — a esa hora ya suele estar nublado, sea cual sea el orden de las paradas). Siguiendo con Alsacia y después La Paz Waterfall Gardens, la llegada a La Paz cae entre las 14:35 y las 15:50 — la última entrada es a las 15:00, así que en el escenario más realista **no se llega a entrar**.
@@ -1732,14 +1739,14 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
   - Hay que llegar en la franja comprada; si hay atraso, avisar al parque.
   - Los parques abren los feriados, salvo riesgo.
 
-### 🟢 Con la compra de SINAC hecha (enero-febrero 2027)
+### 🟢 Enero 2027 (tours y reservas)
 - **Hacienda Alsacia, Coffee Tour de 90 min (sábado 20/3):** reservar **después** de comprar Poás, porque el orden del Día 1 depende de la franja que toque. Tours entre las 8 y las 16; se recomienda reservar online (en promedio se reserva ~8 días antes, pero es sábado de Semana Santa: mejor 3-4 semanas antes). Confirmar al reservar que el tour corre ese sábado. La cancelación depende de dónde se compre: algunas reventas no devuelven nada, el sitio oficial no lo pude leer. [Sitio oficial](https://www.starbuckscoffeefarm.com/)
 - **Selvatura, santuario de perezosos + puentes (miércoles 24/3):** en el santuario la **reserva es obligatoria** (grupos chicos, salidas cada hora y cuarto de 8:15 a 15:15, US$40 + 13%). Cancelación: **100% hasta 48 h antes**, 50% entre 24 y 48 h, nada con menos de 24 h. De diciembre a abril recomiendan reservar para asegurar la entrada. Reservar en febrero. [Selvatura — santuario](https://www.selvatura.com/tours/the-sloth-sanctuary/)
-- **Tour de ballenas en Uvita (sábado 27/3, ~8:15):** la mayoría de los operadores devuelve todo cancelando hasta 24 h antes, y si se suspende por clima reprograman o devuelven. Reservar en febrero y **preguntar si incluye parqueo**. [GetYourGuide — Uvita](https://www.getyourguide.com/uvita-costa-rica-l187790/uvita-whale-watching-tour-in-marino-ballena-national-park-t712261/)
+- **Tour de ballenas en Uvita (sábado 27/3, ~8:15):** la mayoría de los operadores devuelve todo cancelando hasta 24 h antes, y si se suspende por clima reprograman o devuelven. Reservar en enero y **preguntar si incluye parqueo**. [GetYourGuide — Uvita](https://www.getyourguide.com/uvita-costa-rica-l187790/uvita-whale-watching-tour-in-marino-ballena-national-park-t712261/)
 - **Caminata nocturna en Monteverde (miércoles 24/3):** elegir operador (ver Día 5). Refugio Monteverde pide reservar **al menos un día antes de diciembre a abril**, y Curi-Cancha tiene cupos limitados. Reservar en febrero.
 - **Constancia de la Visa Signature:** pedirla al banco en enero o febrero (ver Auto).
 
-### 🔵 Febrero 2027 (opcional, con cancelación gratis)
+### 🔵 Enero 2027 (opcional, con cancelación gratis)
 - **Catarata La Fortuna (domingo 21/3):** se puede comprar en la puerta, pero **en Semana Santa conviene la entrada online con franja** (7:00, 9:00, 11:00, 13:00 o 15:00). Es muy flexible: se cambia la fecha o se pide devolución por mail hasta las 17:00 del mismo día de la visita. [Sitio oficial](https://www.cataratalafortuna.com/es) · [Condiciones](https://www.cataratalafortuna.com/terms)
 - **Arenal 1968 (domingo 21/3):** abre de 8:00 a 17:00, último ingreso 15:00. Entrada online desde ~US$26-27; llegando temprano se compra en el lugar. Comprarla online solo si se quiere asegurar.
 
@@ -1758,7 +1765,7 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 1. ✅ **CERRADO (20/9/2026) — tramo del golfo de Nicoya:** se sacó Puntarenas del Itinerario y se sumó Uvita/Parque Nacional Marino Ballena en su lugar (ballenas jorobadas, temporada alta en marzo). Uvita: el hospedaje ya está relevado (12 referencias, ver punto 10) y la tabla de mareas no hace falta (ver punto 9).
 2. **Verificar estacionalidad del Caribe** (lluvias invertidas) — ya no aplica al Itinerario (que descarta el Caribe), pero sigue pendiente si en algún momento se retoma la variante 3 (Tortuguero) como alternativa.
 3. ~~Confirmar qué cubre el seguro del Adobe Rent a Car antes de reservar~~ — sin efecto, no se usó esa opción (ver punto 9).
-4. **Cerrar el Itinerario con horarios y hospedaje concretos.** Comprar los pasajes en **noviembre de 2026** con tarjeta de crédito (cae en el resumen de diciembre, que se paga con el aguinaldo); queda dentro de los 3-6 meses de anticipación que pide la sobretasa de Semana Santa.
+4. ✅ **Pasajes comprados el 1/11/2026** (ver sección Vuelo). Histórico: cerrar el Itinerario con horarios y hospedaje concretos. Comprar los pasajes en **noviembre de 2026** con tarjeta de crédito (cae en el resumen de diciembre, que se paga con el aguinaldo); queda dentro de los 3-6 meses de anticipación que pide la sobretasa de Semana Santa.
 5. **Ubicar Isla Venado (variante 4) en el mapa** respecto a las otras zonas, y conseguir precio — sigue siendo la variante independiente con menos datos concretos de costo (ya no forma parte del Itinerario, ver punto 1).
 9. ✅ **Uvita — tabla de mareas ELIMINADO (21/9/2026):** no importa. Si el tómbolo Cola de Ballena no se puede caminar ese día, se sigue de largo.
 10. ✅ **Uvita — hospedaje RESERVADO (1/10/2026):** Ballena Rey Hotel, confirmación [en archivo local], US$109,88 no reembolsable. Historial: relevado el 20/9/2026, 12 referencias reales cotizadas (Booking, Hoteles.com, Airbnb) — ver sección de hospedaje arriba. Falta decidir entre las opciones, recomendadas: Ballena Rey Hotel (mejor puntaje) o Cabinas Bahía Uvita (mejor precio).
@@ -1769,7 +1776,7 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 12. ✅ **Cafeterías por zona — CERRADO (20/9/2026):** 4 recomendadas (Red Frog Coffee Roasters en La Fortuna, Café Monteverde en Santa Elena, Cafe Milagro en Quepos, Sibu Coffee Store en Uvita), integradas al itinerario y marcadas en el Google My Maps. Ver sección "Cafeterías recomendadas por zona" arriba.
 13. **Constancia de la Visa Signature (21/9/2026):** pedirla al banco en enero o febrero de 2027, con el texto "Costa Rica/Centroamérica", e imprimirla para el mostrador de Avis. Detalle en la sección "Auto de alquiler".
 14. ~~**Política de combustible de Avis**~~ — ✅ **resuelto (23/9/2026):** lleno/lleno, confirmado por Daniel en el voucher.
-15. **eSIM para el viaje (pedido de Daniel, 28/9/2026):** sacar una eSIM de **Holafly** o de un operador similar (Airalo, que ya figuraba recomendada en "Conectividad") para tener datos en Costa Rica durante todo el viaje. Instalarla antes de salir y activarla al aterrizar.
+15. **eSIM para el viaje (pedido de Daniel, 28/9/2026):** sacar una eSIM de **Holafly** o de un operador similar (Airalo, que ya figuraba recomendada en "Conectividad") para tener datos en Costa Rica durante todo el viaje. Tiene que quedar instalada y probada antes de salir: hace falta al aterrizar para pedir el Uber de madrugada.
 16. **Apps de aves y fauna (12/10/2026):** Merlin, eBird e iNaturalist ya están bajadas. Antes de viajar, con wifi: bajar el paquete de aves de Costa Rica en Merlin y el de eBird, y desactivar la subida automática de iNaturalist. Detalle en la sección "Apps de aves y fauna en el teléfono".
 17. **Video con la Nikon (12/10/2026):** antes de viajar, practicar los seteos al aire libre y con distintas luces (sol pleno, sombra o nublado, temprano y atardecer, contraluz), y armar un reel de prueba. Detalle en la sección "Video con la Nikon D7500 para reels".
 18. **Viernes 19/3 de vacaciones (1/11/2026):** pedirlo esta semana; se suma a los 2 días ya pedidos.
