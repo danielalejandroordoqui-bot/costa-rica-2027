@@ -18,7 +18,10 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 - **Semana Santa en Costa Rica** es la fecha de mayor demanda turística INTERNA del propio país del año — afecta precio y ocupación (hoteles y parques más llenos y más caros que cualquier otra semana), no la viabilidad del viaje.
 - **Salvedad reconocida desde el principio:** no se puede hacer todo el país en 7-8 días netos (Tortuguero + Corcovado + Manuel Antonio + playa + ruta no entran todos juntos) — hay que elegir.
 
-## Vuelo BUE-San José — a monitorear (no comprado)
+## Vuelo BUE-San José — ✅ COMPRADO
+
+> ✅ **COMPRADO (1/11/2026):** Avianca por Expedia, para 2 pasajeros, tarifa Light con artículo personal y carry-on, US$1.353,65 en total (US$697,76 por persona menos US$41,87 de descuento). Ida vie 19/3 AV8396 + AV692, EZE 16:50 → BOG 21:30 / 23:15 → SJO 00:30 del sábado. Vuelta dom 28/3 AV691 + AV8395, SJO 01:40 → BOG 04:50 / 07:15 → EZE 15:40. No reembolsable, cambios con cargo, asientos sin elegir. Se compró en Expedia y no en Avianca (US$1.607) porque costaba US$253 menos y mostraba el carry-on; eDreams salía US$1.320 pero sin dato de equipaje.
+> ✅ **Noche de llegada reservada y paga (1/11/2026):** Apart. 5 min del Aeropuerto, Airbnb, US$38,77.
 
 > ✈️ **VUELO NUEVO ELEGIDO (1/11/2026, decisión de Daniel; falta que Melisa lo lea y confirmar fiebre amarilla con Avianca):** ida **vie 19/3 AV8396 + AV692, EZE 16:50 → SJO 00:30 del sábado**, escala 1h45 en Bogotá, 10h40. Vuelta sin cambios: dom 28/3 AV691 + AV8395, SJO 01:40 → EZE 15:40. Solo carry-on (Daniel: alcanza).
 > **Por qué:** cotizado el 1/11/2026, por persona, ida y vuelta: **US$794 en Avianca** (US$663-691 en agencias) contra **US$1.574 en Avianca** (US$1.263-1.288 en agencias) del vuelo anterior de sáb 20/3 01:40. Son US$1.560 menos entre los dos, con la misma aerolínea, escala y equipaje. Google mostró ese vuelo a US$691 más tarde el mismo día, sin aclarar si era Avianca o agencia.
