@@ -22,6 +22,7 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 
 > ✅ **COMPRADO (1/11/2026):** Avianca por Expedia, para 2 pasajeros, tarifa Light con artículo personal y carry-on, US$1.353,65 en total (US$697,76 por persona menos US$41,87 de descuento). Ida vie 19/3 AV8396 + AV692, EZE 16:50 → BOG 21:30 / 23:15 → SJO 00:30 del sábado. Vuelta dom 28/3 AV691 + AV8395, SJO 01:40 → BOG 04:50 / 07:15 → EZE 15:40. No reembolsable, cambios con cargo, asientos sin elegir. Se compró en Expedia y no en Avianca (US$1.607) porque costaba US$253 menos y mostraba el carry-on; eDreams salía US$1.320 pero sin dato de equipaje.
 > ✅ **Noche de llegada reservada y paga (1/11/2026):** Apart. 5 min del Aeropuerto, Airbnb, US$38,77.
+> ⚠️ **Día 1 con el vuelo nuevo (auditoría 1/11/2026):** con retiro a las 10:00 se arranca 10:45-11:00. Poás 12:00-13:00, Alsacia 13:20-14:50, Cinchona ~15:40-16:10 y La Fortuna 17:40-18:10: el último tramo se pasa de la puesta del sol (~17:50). Adelantando el retiro a las 9:00, Poás cae tipo 11:00 y se llega con luz; se duerme ~7 h. Falta verificar con EconomyBookings si se puede cambiar y si tiene costo.
 
 > ✈️ **VUELO NUEVO ELEGIDO (1/11/2026, decisión de Daniel; falta que Melisa lo lea y confirmar fiebre amarilla con Avianca):** ida **vie 19/3 AV8396 + AV692, EZE 16:50 → SJO 00:30 del sábado**, escala 1h45 en Bogotá, 10h40. Vuelta sin cambios: dom 28/3 AV691 + AV8395, SJO 01:40 → EZE 15:40. Solo carry-on (Daniel: alcanza).
 > **Por qué:** cotizado el 1/11/2026, por persona, ida y vuelta: **US$794 en Avianca** (US$663-691 en agencias) contra **US$1.574 en Avianca** (US$1.263-1.288 en agencias) del vuelo anterior de sáb 20/3 01:40. Son US$1.560 menos entre los dos, con la misma aerolínea, escala y equipaje. Google mostró ese vuelo a US$691 más tarde el mismo día, sin aclarar si era Avianca o agencia.
@@ -1710,9 +1711,9 @@ Pedido de Daniel: saber cuándo hay que reservar cada cosa paga para que no se p
 - **Hospedaje en las 4 zonas.** Es lo único que ya conviene cerrar: en Semana Santa lo bueno se va primero. **Reservar con cancelación gratis** siempre que se pueda, así se asegura el lugar sin perder flexibilidad. ~~Al menos uno por Booking, para usar el saldo de US$72,09~~ (saldo ya usado el 1/10/2026 en Manuel Antonio).
 
 ### 🟠 Noviembre 2026
-- **Esta semana (desde el 1/11/2026): pedir el viernes 19/3 de vacaciones**, antes de comprar.
-- **Vuelo Avianca del vie 19/3 16:50**, con tarjeta de crédito y en dólares.
-- **Hospedaje de la noche de llegada (19-20/3):** reservarlo con el vuelo comprado; preguntar por el portón y el código.
+- **Esta semana (desde el 1/11/2026): pedir el viernes 19/3 de vacaciones.**
+- ✅ **Vuelo comprado** (1/11/2026, Expedia).
+- ✅ **Noche de llegada reservada** (1/11/2026, Airbnb). Falta preguntar por el portón.
 
 ### 🟡 Principios de diciembre 2026
 - **Hospedaje de La Fortuna** (3 noches, 20-23/3), con cancelación gratis siempre que se pueda. Es el único que falta; recordatorio en Google Calendar el mar 1/12/2026 09:00. En el sitio, el bloque "Ahora (octubre)" pasó a llamarse "Ya reservado" (8/10/2026).
