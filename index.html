@@ -391,6 +391,29 @@
   .place-list a{ color:var(--info); text-decoration:none; }
   .place-list a:hover{ text-decoration:underline; }
 
+  /* Orden de las secciones finales (1/11/2026) */
+  .info-card h3{ scroll-margin-top:70px; }
+  .stack{ margin-top:16px; }
+  .fuentes{ margin-top:16px; font-size:12px; color:var(--ink-faint); }
+  .fuentes summary{ cursor:pointer; color:var(--ink-dim); }
+  .fuentes p{ margin:8px 0 0; font-size:11px; line-height:1.6; }
+  .info-card ul.place-list{ padding-left:0; }
+  .jump-row{ display:flex; flex-wrap:wrap; gap:8px; margin:14px 0 0; }
+  .jump-row a{ font-size:12px; color:var(--ink); text-decoration:none; border:1px solid var(--hairline); background:rgba(255,255,255,.04); padding:5px 10px; border-radius:2px; }
+  .jump-row a:hover{ border-color:var(--amber); color:var(--amber); }
+  .cal-grid{ margin-top:14px; }
+  .cal-step{ border-left:3px solid var(--amber-dim); background:rgba(255,255,255,.025); padding:10px 12px; margin:0 0 14px; break-inside:avoid; }
+  .cal-step h4{ margin:0 0 8px; font-size:14px; color:var(--ink); }
+  .pending-grid{ display:grid; grid-template-columns:1fr; gap:18px; }
+  .pending-grid ol{ margin:0; }
+  @media (min-width:760px){
+    .place-list{ column-count:2; column-gap:28px; }
+    .place-list li{ break-inside:avoid; }
+    .info-grid .place-list{ column-count:1; }
+    .cal-grid{ column-count:2; column-gap:16px; }
+    .pending-grid{ grid-template-columns:1fr 1fr; }
+  }
+
 </style>
 </head>
 <body>
@@ -405,6 +428,8 @@
     <a href="#entradas" class="nav-link">Entradas</a>
     <a href="#comer" class="nav-link">Comer</a>
     <a href="#camisetas" class="nav-link">Camisetas</a>
+    <a href="#naturaleza" class="nav-link">Fauna</a>
+    <a href="#preparacion" class="nav-link">Consejos</a>
     <a href="#calendario-reservas" class="nav-link">Reservas</a>
     <a href="#pendientes" class="nav-link">Pendientes</a>
   </div>
@@ -1149,14 +1174,20 @@
       <p style="font-size:13.5px; color:var(--ink-dim); margin:0;">Lo único que no se ve en marzo es la recolección de granos maduros y el beneficio húmedo procesando cereza fresca en vivo — esas paradas se vuelven más explicativas que "en acción". Se pierde ver la cosecha, no la esencia del tour: reseñas fuera de temporada siguen siendo positivas, sobre todo por el recorrido educativo completo y la cata final.</p>
     </div>
 
+  </div>
+
+  <div class="section" id="compras" style="--accent:var(--green);">
+    <div class="section-head"><span class="num mono">03</span><h2>Comer y compras</h2></div>
+
     <div class="subsection-head" id="comer" style="--sub-accent:var(--green);"><span class="sub-ico">🍽️</span><h3>Comer, café y comprar café — por región</h3></div>
 
     <div class="info-card">
-      <p style="font-size:13px; color:var(--ink-dim); margin:0;">Lista por región, sin repartir por día: nombre, dirección, días y horarios, con link al mapa y a su sitio. <b>Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.</b> ☕ café · 🍽️ comer · 🛍️ para llevar. Todo está marcado en el <a href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">mapa del viaje</a>, en las capas Comer, Café y comprar café y Camisetas (los cafés que ya estaban quedaron en la capa base del itinerario). También están guardados en tu lista nativa "Costa Rica" de Google Maps (44 sitios contando los 8 originales), la que se usa para navegar desde el iPhone. Incluye recomendaciones de la pareja de viajeros Two Roaming Souls. Todo está marcado en la capa "🍽️ Comer" del mapa y en la lista "Costa Rica".</p>
+      <p style="font-size:13px; color:var(--ink-dim); margin:0;">Lista por región, con dirección, horarios y links. ☕ café · 🍽️ comer · 🛍️ para llevar. Todo está en el <a href="https://www.google.com/maps/d/viewer?mid=1oVfjRUMIbQ8as2Zb8GagRgfLQ2ADuVg" target="_blank" rel="noopener">mapa del viaje</a> y en la lista "Costa Rica" de Google Maps. <b>Los horarios vienen de agregadores (Wanderlog, Tripadvisor, Google) salvo Don Rufino y María Bonita, que son de su sitio oficial: reconfirmar por WhatsApp en feb/mar 2027.</b></p>
+      <div class="jump-row"><a class="cta-pill" href="#comer-dia1">Día 1 · Poás</a><a class="cta-pill" href="#comer-fortuna">La Fortuna</a><a class="cta-pill" href="#comer-monteverde">Monteverde</a><a class="cta-pill" href="#comer-ma">Manuel Antonio</a><a class="cta-pill" href="#comer-dominical">Dominical</a><a class="cta-pill" href="#comer-uvita">Uvita</a></div>
     </div>
 
     <div class="info-card" style="margin-top:16px;">
-      <h3>🌋 Ruta Día 1 · Alajuela / Poás</h3>
+      <h3 id="comer-dia1">🌋 Ruta Día 1 · Alajuela / Poás</h3>
       <ul class="place-list">
         <li><b>Hacienda Alsacia (Starbucks Coffee Farm)</b> <span class="pl-tags">☕ 🛍️ café</span><span class="pl-meta">📍 San Luis, Sabanilla, Alajuela, en las faldas del Volcán Poás</span><span class="pl-meta">🕒 Tours de 90 min todos los días, 8:00 a 16:00 (reconfirmar al reservar)</span><span class="pl-note">Ya está en el itinerario (US$35). Tiene café-pabellón con cata y una tienda con café, tazas y remeras.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Hacienda+Alsacia+Starbucks+Coffee+Farm+Alajuela" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://www.getyourguide.com/hacienda-alsacia-starbucks-coffee-farm-l179584/tours-tc1/" target="_blank" rel="noopener">Comprar tour</a></span></li>
         <li><b>Restaurante El Sabor de la Montaña</b> <span class="pl-tags">🍽️</span><span class="pl-meta">📍 50 m norte de la delegación de Poasito, sobre la ruta al Volcán Poás</span><span class="pl-meta">🕒 Mar y mié 12-16 · jue 12-17 · vie 12-16 · sáb 9-17 · dom 9-18 · lunes sin dato (probable cerrado)</span><span class="pl-note">4,8★. Comida típica a buen precio; recomiendan la cazuela de queso con chorizo. Tel 6361-7395 / 2482-1367. Acepta reservas y tarjeta.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Restaurante+El+Sabor+de+la+Monta%C3%B1a+Poasito+Alajuela" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://www.facebook.com/sabordelamontanacr/" target="_blank" rel="noopener">Facebook</a></span></li>
@@ -1164,7 +1195,7 @@
     </div>
 
     <div class="info-card" style="margin-top:16px;">
-      <h3>🌋 La Fortuna / Arenal</h3>
+      <h3 id="comer-fortuna">🌋 La Fortuna / Arenal</h3>
       <ul class="place-list">
         <li class="prio"><b>⭐ Raúl Castaño Fortuna Mirador</b> <span class="pl-tags">☕ 🍽️</span><span class="pl-meta">📍 Hotel Montaña de Fuego, a ~10 min del centro (se llega fácil por Waze)</span><span class="pl-meta">🕒 Sin confirmar para este local (el del centro cierra a las 22:00)</span><span class="pl-note">El de la vista: terraza trasera con el Arenal de fondo, vacas y cuatriciclos pasando. En los videos: "el café estaba bien, pero las vistas eran todo". Con cielo despejado se ve el volcán; se puede reservar la cena para ver el atardecer. Otros locales de la cadena: Fortuna Downtown (frente a Spectacolar Cantina, +506 8800-3911), Bakery, Coronado, Plaza San Carlos. ⭐ Prioridad.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Ra%C3%BAl+Casta%C3%B1o+Fortuna+Mirador+La+Fortuna+Costa+Rica" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://raulcastano.com/en/" target="_blank" rel="noopener">Web</a></span></li>
         <li><b>Sloffee Coffee Station</b> <span class="pl-tags">☕</span><span class="pl-meta">📍 Diagonal al Hotel Arenal Paraíso</span><span class="pl-meta">🕒 Todos los días, 6:00 o 7:00 a 17:00 (las fuentes difieren)</span><span class="pl-note">4,8★ (913 reseñas). Primera cafetería de especialidad del pueblo. Croissants, pie de limón, banana bread. Terraza con selva (tucanes y perezosos).</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Sloffee+Coffee+Station+La+Fortuna+Costa+Rica" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://www.instagram.com/sloffeecr/" target="_blank" rel="noopener">Instagram</a></span></li>
@@ -1193,7 +1224,7 @@
     </div>
 
     <div class="info-card" style="margin-top:16px;">
-      <h3>☁️ Monteverde / Santa Elena</h3>
+      <h3 id="comer-monteverde">☁️ Monteverde / Santa Elena</h3>
       <ul class="place-list">
         <li><b>Café Monteverde (Santa Elena Coffee Shop)</b> <span class="pl-tags">☕ 🛍️ café</span><span class="pl-meta">📍 Vitosi, costado oeste de la farmacia, centro de Santa Elena (el otro local está cerca de Casemcoop)</span><span class="pl-meta">🕒 Abre 7:00 (cierre sin confirmar; otra fuente da 8:00 a 17:00 todos los días)</span><span class="pl-note">4,7★. Cooperativa de familias que cultivan y tuestan su propio arábica. Catas gratis, cinnamon rolls, el mejor lugar para comprar café en la zona. También hacen un tour de 2 h "de la semilla a la taza" en su finca.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Caf%C3%A9+Monteverde+Coffee+Shop+Santa+Elena+Costa+Rica" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://cafedemonteverde.com/" target="_blank" rel="noopener">Web</a> · <a href="https://cafedemonteverde.com/shop/" target="_blank" rel="noopener">Tienda online</a></span></li>
         <li><b>El Sapo Restaurant &amp; Bar (Senda Monteverde)</b> <span class="pl-tags">🍽️</span><span class="pl-meta">📍 Senda Monteverde Hotel, 250 m norte del BCR, Cerro Plano</span><span class="pl-meta">🕒 Desayuno 6:30-10:00 · almuerzo 11:30-15:15 · happy hour 16:30-18:00 · cena 18:00-21:15 <span class="pl-warn">⚠️ La cena es solo con reserva.</span></span><span class="pl-note">4,9★ en Tripadvisor, #2 de 118 en Monteverde. Cocina costarricense de autor con producto local orgánico y pescado "del muelle al plato". Buenas opciones veg, vegana y sin gluten. Tel +506 4001-6349.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=El+Sapo+Restaurant+Senda+Monteverde+Santa+Elena" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://www.facebook.com/el.sapo.monteverde/" target="_blank" rel="noopener">Facebook</a></span></li>
@@ -1206,7 +1237,7 @@
     </div>
 
     <div class="info-card" style="margin-top:16px;">
-      <h3>🏖️ Manuel Antonio / Quepos</h3>
+      <h3 id="comer-ma">🏖️ Manuel Antonio / Quepos</h3>
       <ul class="place-list">
         <li><b>Café Milagro Coffee Roasters</b> <span class="pl-tags">☕ 🛍️ café</span><span class="pl-meta">📍 Calle Principal, centro de Quepos, cerca del puente (2do local: El Patio de Café Milagro)</span><span class="pl-meta">🕒 Lun a sáb 9:00-17:00 <span class="pl-warn">⚠️ Cerrado los domingos.</span></span><span class="pl-note">Tuestan su café, hacen tours y muestras, venden para llevar. Tel +506 2777-4982.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Caf%C3%A9+Milagro+Coffee+Roasters+Quepos+Costa+Rica" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://www.cafemilagro.com/" target="_blank" rel="noopener">Web</a></span></li>
         <li><b>Emilio's Café</b> <span class="pl-tags">☕ 🍽️</span><span class="pl-meta">📍 40 m antes del Hotel Mariposa, camino al Parque Nacional Manuel Antonio</span><span class="pl-meta">🕒 Todos los días 7:00-21:00 <span class="pl-warn">⚠️ Cerrado los martes.</span></span><span class="pl-note">Terraza con vista panorámica al Pacífico, macarrones, café local.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Emilio%27s+Caf%C3%A9+Manuel+Antonio+Costa+Rica" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://www.instagram.com/cafeemilios/" target="_blank" rel="noopener">Instagram</a></span></li>
@@ -1216,7 +1247,7 @@
     </div>
 
     <div class="info-card" style="margin-top:16px;">
-      <h3>🌴 Dominical (de paso entre Manuel Antonio y Uvita)</h3>
+      <h3 id="comer-dominical">🌴 Dominical (de paso entre Manuel Antonio y Uvita)</h3>
       <p style="font-size:12.5px; color:var(--ink-dim); margin:0 0 8px;">Pueblo surfero sobre la misma Costanera Sur, en el trayecto del Día 7 (Manuel Antonio → Uvita). Buen lugar para almorzar o tomar algo. <span class="pl-warn">⚠️ No dejar nada de valor en el auto en Dominical:</span> les pidieron plata en la calle y hay antecedentes de robos a autos en Poza Azul.</p>
       <ul class="place-list">
         <li><b>La Junta</b> <span class="pl-tags">🍽️ 🍺</span><span class="pl-meta">📍 Dominical (sin dirección exacta)</span><span class="pl-meta">🕒 Sin dato</span><span class="pl-note">Uno de sus restaurantes favoritos de todo el viaje: sándwiches (el Thai Buffalo Chicken, picante, y el Yard Bird), cócteles creativos y la carta de cerveza artesanal más grande que encontraron en Costa Rica. Local chico con mesas largas donde se comparte, música en vivo.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=La+Junta+Dominical+Costa+Rica" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://tworoamingsouls.com/things-to-do-in-dominical-costa-rica/" target="_blank" rel="noopener">Two Roaming Souls</a></span></li>
@@ -1227,7 +1258,7 @@
     </div>
 
     <div class="info-card" style="margin-top:16px;">
-      <h3>🐋 Uvita / Bahía Ballena</h3>
+      <h3 id="comer-uvita">🐋 Uvita / Bahía Ballena</h3>
       <ul class="place-list">
         <li><b>Sibu Restaurant &amp; Coffee Store</b> <span class="pl-tags">☕ 🍽️ 🛍️ café</span><span class="pl-meta">📍 Uvita, sobre la Costanera (Carr. Pacífica Fernández Oreamuno)</span><span class="pl-meta">🕒 Todos los días 7:00-21:30 (una fuente da los martes hasta las 21:00)</span><span class="pl-note">Café 100% orgánico y chocolate orgánico para llevar; también pizzas y hamburguesas wagyu.</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Sibu+Restaurant+Coffee+Store+Uvita+Costa+Rica" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://www.tripadvisor.com/Restaurant_Review-g635755-d7791770-Reviews-Sibu_Restaurant_Coffee_Store-Uvita_Province_of_Puntarenas.html" target="_blank" rel="noopener">Tripadvisor</a></span></li>
         <li><b>Sebas Restaurant</b> <span class="pl-tags">🍽️</span><span class="pl-meta">📍 Calle Bejuco, a 50 m de la cascada de Uvita</span><span class="pl-meta">🕒 Sin dato (llamar al +506 8414-1888)</span><span class="pl-note">Cocina rústica de inspiración argentino-italiana, fuego de leña, de la granja a la mesa. Pizza y pastas artesanales elogiadas; algunas reseñas marcan precios altos y platos irregulares. Two Roaming Souls lo califica como "la mejor pizza de Costa Rica"; una pizza mediana sale US$20-30; su ceviche también les gustó. Sirve también de hospedaje (Seaside Luxury Villas).</span><span class="pl-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Sebas+Restaurant+Uvita+Costa+Rica" target="_blank" rel="noopener">📍 Google Maps</a> · <a href="https://www.facebook.com/p/sebasresto-100093153503908/" target="_blank" rel="noopener">Facebook</a></span></li>
@@ -1242,7 +1273,7 @@
     </div>
 
     <div class="info-card" style="margin-top:16px;">
-      <p style="font-size:11px; color:var(--ink-faint); margin:0;">Fuentes: <a href="https://vt.tiktok.com/ZSq33MAga/" target="_blank" rel="noopener">Sheay Travel Beaucoup</a> (3 cafés de La Fortuna: Sloffee, D'Balu y Raúl Castaño) · <a href="https://vt.tiktok.com/ZSqw8mLHu/" target="_blank" rel="noopener">russ</a> (Jungle Bowls, al lado de The Green Spoon) · <a href="https://vt.tiktok.com/ZSqw8T3db/" target="_blank" rel="noopener">Regina Gonzalez</a> (Anch'io (pizza y pasta de horno de leña)) · <a href="https://vt.tiktok.com/ZSqw8bppn/" target="_blank" rel="noopener">Cindy</a> (Soda Tita Rosa, Soda La Hormiga, Arenal Manoa, Fortuneño) · <a href="https://vt.tiktok.com/ZSqw8xjfJ/" target="_blank" rel="noopener">Yailene</a> (María Bonita Steak House, cena favorita de la autora) · <a href="https://vt.tiktok.com/ZSqw8nxhD/" target="_blank" rel="noopener">El Arturito</a> (Don Rufino, 7:47 min, en español) · <a href="https://vt.tiktok.com/ZSqwLhHyF/" target="_blank" rel="noopener">lostintimezones</a> (Chocolate Fusion: café y panadería del centro) · <a href="https://vt.tiktok.com/ZSqwLBsWB/" target="_blank" rel="noopener">Mels | side questing</a> (Raúl Castaño Mirador, con vista al Arenal) · <a href="https://vt.tiktok.com/ZSqwL8ntU/" target="_blank" rel="noopener">Ange</a> (Tour de un día a Arenal: Místico Hanging Bridges, Baldi Hot Springs, Café Macadamia) · <a href="https://www.youtube.com/watch?v=HQEhFUdtG0c" target="_blank" rel="noopener">Emma Terra (YouTube)</a> (Guía general de Costa Rica; de ahí salen Organico Fortuna y la advertencia sobre el comprobante del seguro) · <a href="https://vt.tiktok.com/ZSqwLDFU4/" target="_blank" rel="noopener">Matilda</a> (Carrusel de 10 actividades; lo relevante ya está en el itinerario)</p>
+      <details class="fuentes" style="margin-top:0;"><summary>Fuentes de esta lista</summary><p><a href="https://vt.tiktok.com/ZSq33MAga/" target="_blank" rel="noopener">Sheay Travel Beaucoup</a> (3 cafés de La Fortuna: Sloffee, D'Balu y Raúl Castaño) · <a href="https://vt.tiktok.com/ZSqw8mLHu/" target="_blank" rel="noopener">russ</a> (Jungle Bowls, al lado de The Green Spoon) · <a href="https://vt.tiktok.com/ZSqw8T3db/" target="_blank" rel="noopener">Regina Gonzalez</a> (Anch'io (pizza y pasta de horno de leña)) · <a href="https://vt.tiktok.com/ZSqw8bppn/" target="_blank" rel="noopener">Cindy</a> (Soda Tita Rosa, Soda La Hormiga, Arenal Manoa, Fortuneño) · <a href="https://vt.tiktok.com/ZSqw8xjfJ/" target="_blank" rel="noopener">Yailene</a> (María Bonita Steak House, cena favorita de la autora) · <a href="https://vt.tiktok.com/ZSqw8nxhD/" target="_blank" rel="noopener">El Arturito</a> (Don Rufino, 7:47 min, en español) · <a href="https://vt.tiktok.com/ZSqwLhHyF/" target="_blank" rel="noopener">lostintimezones</a> (Chocolate Fusion: café y panadería del centro) · <a href="https://vt.tiktok.com/ZSqwLBsWB/" target="_blank" rel="noopener">Mels | side questing</a> (Raúl Castaño Mirador, con vista al Arenal) · <a href="https://vt.tiktok.com/ZSqwL8ntU/" target="_blank" rel="noopener">Ange</a> (Tour de un día a Arenal: Místico Hanging Bridges, Baldi Hot Springs, Café Macadamia) · <a href="https://www.youtube.com/watch?v=HQEhFUdtG0c" target="_blank" rel="noopener">Emma Terra (YouTube)</a> (Guía general de Costa Rica; de ahí salen Organico Fortuna y la advertencia sobre el comprobante del seguro) · <a href="https://vt.tiktok.com/ZSqwLDFU4/" target="_blank" rel="noopener">Matilda</a> (Carrusel de 10 actividades; lo relevante ya está en el itinerario)</p></details>
     </div>
 
     <div class="subsection-head" id="camisetas" style="--sub-accent:var(--info);"><span class="sub-ico">⚽</span><h3>Camisetas de fútbol originales</h3></div>
@@ -1262,6 +1293,11 @@
       </ul>
       <p style="font-size:12.5px; color:var(--danger); margin:10px 0 0;">⚠️ Semana Santa: el sábado 27/3 es Sábado Santo. Confirmar los horarios del City Mall y de las tiendas para ese día antes de contar con ellos.</p>
     </div>
+
+  </div>
+
+  <div class="section" id="naturaleza" style="--accent:var(--info);">
+    <div class="section-head"><span class="num mono">04</span><h2>Naturaleza, fauna y video</h2></div>
 
     <div class="subsection-head" id="reservas" style="--sub-accent:var(--green);"><span class="sub-ico">🌿</span><h3>Reservas naturales cerca de la ruta (opcionales)</h3></div>
 
@@ -1284,8 +1320,11 @@
         <li><b>eBird</b> <span class="pl-tags">🗺️ dónde ver cada especie</span><span class="pl-note">Muestra qué aves se registraron en cada lugar y cuándo. <b>Antes de viajar, con wifi:</b> bajar el paquete de la región desde el menú y buscar en el mapa los puntos de la ruta (Cinchona, Arenal Observatory Lodge, Curi-Cancha, Selvatura, Tárcoles, Manuel Antonio); la lista de cada uno se puede filtrar por marzo. Opcional: armar una lista propia por salida.</span><span class="pl-links"><a href="https://ebird.org/hotspots" target="_blank" rel="noopener">eBird — mapa de puntos</a></span></li>
         <li><b>iNaturalist</b> <span class="pl-tags">🦥 todo lo demás</span><span class="pl-note">Para lo que no es ave: perezosos, monos, ranas, iguanas, insectos y plantas. Se sube la foto y sugiere la especie; necesita datos para sugerir. <b>Antes de viajar:</b> desactivar la subida automática en los ajustes, así en un sendero sin señal guarda la observación y se sube después.</span><span class="pl-links"><a href="https://www.inaturalist.org/" target="_blank" rel="noopener">iNaturalist</a></span></li>
       </ul>
-      <p style="font-size:13px; color:var(--ink-dim); margin:16px 0 0;"><b>En qué parada rinde cada una</b></p>
-      <ul class="place-list" style="margin-top:8px;">
+      </div>
+
+    <div class="info-card stack">
+      <h3>En qué parada rinde cada una</h3>
+      <ul class="place-list">
         <li><b>Colibrí Café de Cinchona</b> <span class="pl-tags">Día 1</span><span class="pl-note">Comederos con colibríes y tucanes a pocos metros: Merlin por foto.</span></li>
         <li><b>Arenal</b> <span class="pl-tags">Días 2 a 4</span><span class="pl-note">Merlin por sonido y por foto en los senderos. En Sendero Bogarín y Arenal Observatory Lodge, eBird muestra qué se registró esa semana.</span></li>
         <li><b>Monteverde</b> <span class="pl-tags">Días 4 y 5</span><span class="pl-note">En el bosque nuboso se escucha mucho más de lo que se ve: Merlin por sonido. En la caminata nocturna, iNaturalist con foto del teléfono para ranas, insectos y mamíferos.</span></li>
@@ -1305,23 +1344,33 @@
         <li><b>3. Máxima calidad</b> <span class="pl-tags">4K a 30p · 1/60 · f/8 a f/11</span><span class="pl-note">Solo con el lente apoyado: no tiene estabilización electrónica y recorta más (150 mm rinde como unos 340 mm). Deja margen para recortar a vertical.</span></li>
         <li><b>4. Acción</b> <span class="pl-tags">1080 a 60p · 1/250 a 1/500 · f/6.3</span><span class="pl-note">Colibríes, aves en vuelo y ballenas: más nítido cuadro por cuadro, menos fluido.</span></li>
       </ul>
-      <p style="font-size:13px; color:var(--ink-dim); margin:16px 0 0;"><b>En todos los seteos</b></p>
-      <ul class="place-list" style="margin-top:8px;">
+      </div>
+
+    <div class="info-grid stack">
+      <div class="info-card">
+      <h3>En todos los seteos</h3>
+      <ul class="place-list">
         <li><b>ISO</b> <span class="pl-note">Automático con máximo 6400. Estabilizador del lente encendido.</span></li>
         <li><b>Color</b> <span class="pl-note">Balance de blancos fijo (Luz día, Nublado o Sombra en la selva), para que no cambie en medio de la toma.</span></li>
         <li><b>Foco</b> <span class="pl-note">Enfocar antes de grabar y pasar a manual. El autofoco en video es lento y va y viene.</span></li>
         <li><b>Mucha luz</b> <span class="pl-note">En la playa, si la imagen se quema con el ISO en 100, cerrar a f/11 o f/16.</span></li>
         <li><b>Tomas</b> <span class="pl-note">De 5 a 8 segundos, arrancando a grabar un par de segundos antes. Un reel se arma con 4 o 5.</span></li>
       </ul>
-      <p style="font-size:13px; color:var(--ink-dim); margin:16px 0 0;"><b>Sin trípode</b></p>
-      <ul class="place-list" style="margin-top:8px;">
+      </div>
+      <div class="info-card">
+      <h3>Sin trípode</h3>
+      <ul class="place-list">
         <li><b>Apoyo</b> <span class="pl-note">Barandas de puentes y miradores, la mochila o la ventanilla del auto.</span></li>
         <li><b>Zoom</b> <span class="pl-note">Filmar entre 150 y 250 mm; a 600 mm el temblor se nota mucho.</span></li>
         <li><b>Vertical</b> <span class="pl-note">Aflojar el collar del lente y girar la cámara, para grabar directo en formato de reel.</span></li>
         <li><b>Contexto</b> <span class="pl-note">Las tomas abiertas (senderos, puentes colgantes, playa) con el teléfono, que estabiliza mejor.</span></li>
       </ul>
-      <p style="font-size:13px; color:var(--ink-dim); margin:16px 0 0;"><b>Qué seteo en cada parada</b></p>
-      <ul class="place-list" style="margin-top:8px;">
+      </div>
+    </div>
+
+    <div class="info-card stack">
+      <h3>Qué seteo en cada parada</h3>
+      <ul class="place-list">
         <li><b>Colibrí Café de Cinchona</b> <span class="pl-tags">Día 1</span><span class="pl-note">Seteo 4 para los colibríes, y probar el 1 para verlos en cámara lenta. Apoyado en la baranda.</span></li>
         <li><b>Arenal</b> <span class="pl-tags">Días 2 a 4</span><span class="pl-note">Seteo 1 en los senderos. Los perezosos casi no se mueven: ideales para empezar.</span></li>
         <li><b>Monteverde</b> <span class="pl-tags">Días 4 y 5</span><span class="pl-note">Seteo 2, por la poca luz del bosque nuboso.</span></li>
@@ -1331,6 +1380,11 @@
       </ul>
     </div>
 
+
+  </div>
+
+  <div class="section" id="preparacion" style="--accent:var(--amber);">
+    <div class="section-head"><span class="num mono">05</span><h2>Consejos y preparación</h2></div>
 
     <div class="subsection-head" id="consejos" style="--sub-accent:var(--amber);"><span class="sub-ico">🧭</span><h3>Consejos prácticos</h3></div>
 
@@ -1374,75 +1428,103 @@
   </div>
 
   <div class="section" id="calendario-reservas" style="--accent:var(--amber);">
-    <div class="section-head"><span class="num mono">📅</span><h2>Calendario de reservas</h2></div>
+    <div class="section-head"><span class="num mono">06</span><h2>Calendario de reservas</h2></div>
     <div class="info-card">
       <p style="font-size:13px; color:var(--ink-dim); margin:0 0 10px;">Cuándo se reserva cada cosa para que no se pasen las fechas. <b>Jueves y Viernes Santo (25-26/3) son feriado en Costa Rica:</b> el Día 7 en Manuel Antonio cae Viernes Santo, en pleno pico de gente.</p>
-      <h4 style="margin:14px 0 6px; font-size:14px; color:var(--ink);">✅ Ya reservado</h4>
-      <ul class="res-list">
+      <div class="cal-grid">
+      <div class="cal-step">
+        <h4>✅ Ya reservado</h4>
+        <ul class="res-list">
         <li><b>Vuelo:</b> comprado (Avianca, por Expedia).</li>
         <li><b>Noche de llegada (19-20/3):</b> reservada (Apart. 5 min del Aeropuerto, por Airbnb). La anfitriona confirmó que se puede llegar a la 1:30. Falta preguntarle por el portón.</li>
         <li><b>Monteverde:</b> reservado (Bello Horizonte, por Airbnb).</li>
         <li><b>Uvita:</b> reservado (Ballena Rey Hotel).</li>
         <li><b>Manuel Antonio:</b> reservado (Pura Natura Lodge). El día anterior al check-in (mié 24/3) llega el código de acceso por WhatsApp o correo.</li>
       </ul>
-      <h4 style="margin:14px 0 6px; font-size:14px; color:var(--ink);">🟠 Noviembre 2026</h4>
-      <ul class="res-list">
+      </div>
+      <div class="cal-step">
+        <h4>🟠 Noviembre 2026</h4>
+        <ul class="res-list">
         <li><b>Vacaciones:</b> pedir el viernes 19/3 esta semana.</li>
         </ul>
-      <h4 style="margin:14px 0 6px; font-size:14px; color:var(--ink);">🟡 Diciembre 2026</h4>
-      <ul class="res-list">
+      </div>
+      <div class="cal-step">
+        <h4>🟡 Diciembre 2026</h4>
+        <ul class="res-list">
         <li><b>Hospedaje de La Fortuna</b> (3 noches, 20-23/3), con pago al reservar y cancelación gratis siempre que se pueda. Es el único que falta.</li>
       </ul>
-      <h4 style="margin:14px 0 6px; font-size:14px; color:var(--ink);">🟡 Desde el 1/12/2026: vigilar SINAC</h4>
-      <ul class="res-list">
+      </div>
+      <div class="cal-step">
+        <h4>🟡 Desde el 1/12/2026: vigilar SINAC</h4>
+        <ul class="res-list">
         <li>Entrar a la <a href="https://serviciosenlinea.sinac.go.cr/" target="_blank" rel="noopener">disponibilidad de SINAC</a> <b>una vez por semana desde el 1/12</b> y <b>todos los días desde el 15/1/2027</b>, hasta que aparezca marzo. No se sabe con cuánta anticipación abre (las fuentes dicen entre 30 y 60 días) y la consulta pide captcha.</li>
         <li><b>El día que se habilite, comprar las dos en el momento:</b> Poás (sáb 20/3), porque el cupo bajó a 56 por turno, y Manuel Antonio (vie 26/3, Grupo 01 de las 07:00), porque en Semana Santa se agota.</li>
         <li><b>Reglas:</b> no hay devolución. Si el parque cierra por emergencia, se cambia la fecha escribiendo a reservaciones.sinac@sinac.go.cr. En Manuel Antonio, <b>una sola compra por usuario por día</b>: las dos entradas juntas.</li>
       </ul>
-      <h4 style="margin:14px 0 6px; font-size:14px; color:var(--ink);">🟢 Diciembre 2026 y enero 2027 (tours y reservas)</h4>
-      <ul class="res-list">
+      </div>
+      <div class="cal-step">
+        <h4>🟢 Diciembre 2026 y enero 2027 (tours y reservas)</h4>
+        <ul class="res-list">
         <li><b>Hacienda Alsacia</b> (sáb 20/3): reservar <b>después</b> de Poás, porque el orden del Día 1 depende de esa franja. En cuanto esté la entrada.</li>
         <li><b>Selvatura, santuario de perezosos</b> (mié 24/3): <b>reserva obligatoria</b>. Devuelven el 100% cancelando hasta 48 h antes.</li>
         <li><b>Tour de ballenas</b> (sáb 27/3): devolución cancelando hasta 24 h antes; si hay mal clima reprograman. Preguntar si incluye parqueo.</li>
         <li><b>Caminata nocturna</b> (mié 24/3): elegir operador. De diciembre a abril, reservar al menos un día antes.</li>
         <li><b>Constancia de la Visa Signature</b> para Avis.</li>
       </ul>
-      <h4 style="margin:14px 0 6px; font-size:14px; color:var(--ink);">🔵 Diciembre 2026 y enero 2027 (opcional, con cancelación gratis)</h4>
-      <ul class="res-list">
+      </div>
+      <div class="cal-step">
+        <h4>🔵 Diciembre 2026 y enero 2027 (opcional, con cancelación gratis)</h4>
+        <ul class="res-list">
         <li><b>Catarata La Fortuna</b> (dom 21/3): en Semana Santa conviene la entrada online con franja. Se cambia o se devuelve hasta las 17:00 del mismo día. <a href="https://www.cataratalafortuna.com/es" target="_blank" rel="noopener">Sitio oficial →</a></li>
         <li><b>Arenal 1968</b> (dom 21/3): llegando temprano se compra en el lugar (último ingreso 15:00).</li>
       </ul>
-      <h4 style="margin:14px 0 6px; font-size:14px; color:var(--ink);">⚪ La semana antes (13-19/3/2027)</h4>
-      <ul class="res-list">
+      </div>
+      <div class="cal-step">
+        <h4>⚪ La semana antes (13-19/3/2027)</h4>
+        <ul class="res-list">
         <li><b>El Castillo:</b> pedir por WhatsApp (+506 8310 0223) dónde dejar el auto y el precio del traslado.</li>
         <li><b>Poás:</b> mirar el estado del volcán; si cierra, pedir el cambio de fecha.</li>
         <li><b>Reconfirmar</b> Alsacia, Selvatura, caminata nocturna y ballenas.</li>
       </ul>
-      <h4 style="margin:14px 0 6px; font-size:14px; color:var(--ink);">✅ No hace falta reservar</h4>
-      <ul class="res-list">
+      </div>
+      <div class="cal-step">
+        <h4>✅ No hace falta reservar</h4>
+        <ul class="res-list">
         <li><b>Blue Falls + Catarata del Toro</b> (lun 22/3), se paga en la puerta. ⚠️ <b>Cierra los domingos</b>: no moverlo al domingo.</li>
         <li>El Choyin, Reserva Santa Elena, Playa Espadilla, Playa Biesanz y el puente de Tárcoles.</li>
       </ul>
+      </div>
+      </div>
     </div>
   </div>
 
   <!-- ---------- PENDIENTES ---------- -->
   <div class="section" id="pendientes" style="--accent:var(--alert);">
-    <div class="section-head"><span class="num mono">03</span><h2>Pendiente / próximos pasos</h2></div>
+    <div class="section-head"><span class="num mono">07</span><h2>Pendiente / próximos pasos</h2></div>
     <div class="pending">
-      <ol>
-        <li><b>Esta semana: pedir el viernes 19/3 de vacaciones.</b> Se suma al lunes 22 y martes 23.</li>
-        <li><b>Fiebre amarilla:</b> confirmar con Avianca o Expedia si la escala en Bogotá les exige certificado de vacunación a turistas argentinos. Si hiciera falta, darse la vacuna al menos 10 días antes.</li>
-        <li><b>Cosas a llevar:</b> PID (Permiso Internacional de Conducción, ya sacado en el ACA, válido 1 año), pasaporte (de los dos), DNI, dólares en efectivo (sobre todo billetes chicos con cambio, para cuidacoches) y botella de agua reutilizable (el agua de la canilla es potable en casi todo el país, y parques como Manuel Antonio no dejan entrar con botellas de plástico de un solo uso — hay puntos de recarga adentro).</li>
-        <li><b>Hospedaje:</b> la noche de llegada, Monteverde, Manuel Antonio y Uvita ya están reservados. Falta elegir y reservar La Fortuna. Las opciones están en Alojamiento.</li>
-        <li><b>Reservas con fecha:</b> ver el <a href="#calendario-reservas">Calendario de reservas</a>. Lo próximo: hospedaje de La Fortuna en diciembre y vigilar SINAC desde el 1/12.</li>
-        <li><b>Constancia de la Visa Signature:</b> pedirla al banco en enero/febrero de 2027 (con el texto "Costa Rica/Centroamérica") e imprimirla para el mostrador de Avis. Detalle en la sección de Auto.</li>
-        <li><b>Ida a Ezeiza:</b> reservar Uber o similar para salir de La Plata tipo 11:30 del viernes 19/3.</li>
-        <li><b>Retiro del auto:</b> ver en el voucher dónde presentarse llegando desde el apartamento y no desde el avión, y revisar si conviene adelantar el retiro a las 9:00 para que el Día 1 cierre con luz.</li>
-        <li><b>eSIM para el viaje:</b> sacar una de <b>Holafly</b> o de un operador similar (Airalo) para tener datos en Costa Rica todo el viaje. Tiene que quedar instalada y probada antes de salir: hace falta al aterrizar para pedir el Uber de madrugada.</li>
-        <li><b>Apps de aves y fauna:</b> Merlin, eBird e iNaturalist ya están instaladas. Antes de viajar, con wifi, bajar el paquete de aves de Costa Rica en Merlin y el de eBird, y desactivar la subida automática de iNaturalist. Detalle en <a href="#apps">Apps de aves y fauna</a>.</li>
-        <li><b>Video con la Nikon:</b> antes de viajar, practicar los seteos al aire libre y con distintas luces: sol pleno del mediodía (ver cuándo se quema la imagen y cuánto cerrar el diafragma), sombra o día nublado (hasta dónde sube el ISO), temprano y al atardecer, y contraluz. Armar un reel de prueba de 15 segundos. Los seteos están en <a href="#video">Video con la Nikon</a>.</li>
-      </ol>
+      <div class="pending-grid">
+        <div>
+          <h3>Ahora y reservas</h3>
+          <ol>
+            <li><b>Esta semana: pedir el viernes 19/3 de vacaciones.</b> Se suma al lunes 22 y martes 23.</li>
+            <li><b>Fiebre amarilla:</b> confirmar con Avianca o Expedia si la escala en Bogotá les exige certificado de vacunación a turistas argentinos. Si hiciera falta, darse la vacuna al menos 10 días antes.</li>
+            <li><b>Hospedaje:</b> la noche de llegada, Monteverde, Manuel Antonio y Uvita ya están reservados. Falta elegir y reservar La Fortuna. Las opciones están en Alojamiento.</li>
+            <li><b>Reservas con fecha:</b> ver el <a href="#calendario-reservas">Calendario de reservas</a>. Lo próximo: hospedaje de La Fortuna en diciembre y vigilar SINAC desde el 1/12.</li>
+            <li><b>Constancia de la Visa Signature:</b> pedirla al banco en enero/febrero de 2027 (con el texto "Costa Rica/Centroamérica") e imprimirla para el mostrador de Avis. Detalle en la sección de Auto.</li>
+          </ol>
+        </div>
+        <div>
+          <h3>Antes de salir</h3>
+          <ol start="6">
+            <li><b>Ida a Ezeiza:</b> reservar Uber o similar para salir de La Plata tipo 11:30 del viernes 19/3.</li>
+            <li><b>Retiro del auto:</b> ver en el voucher dónde presentarse llegando desde el apartamento y no desde el avión, y revisar si conviene adelantar el retiro a las 9:00 para que el Día 1 cierre con luz.</li>
+            <li><b>eSIM para el viaje:</b> sacar una de <b>Holafly</b> o de un operador similar (Airalo) para tener datos en Costa Rica todo el viaje. Tiene que quedar instalada y probada antes de salir: hace falta al aterrizar para pedir el Uber de madrugada.</li>
+            <li><b>Apps de aves y fauna:</b> Merlin, eBird e iNaturalist ya están instaladas. Antes de viajar, con wifi, bajar el paquete de aves de Costa Rica en Merlin y el de eBird, y desactivar la subida automática de iNaturalist. Detalle en <a href="#apps">Apps de aves y fauna</a>.</li>
+            <li><b>Video con la Nikon:</b> antes de viajar, practicar los seteos al aire libre y con distintas luces: sol pleno del mediodía (ver cuándo se quema la imagen y cuánto cerrar el diafragma), sombra o día nublado (hasta dónde sube el ISO), temprano y al atardecer, y contraluz. Armar un reel de prueba de 15 segundos. Los seteos están en <a href="#video">Video con la Nikon</a>.</li>
+            <li><b>Cosas a llevar:</b> PID (Permiso Internacional de Conducción, ya sacado en el ACA, válido 1 año), pasaporte (de los dos), DNI, dólares en efectivo (sobre todo billetes chicos con cambio, para cuidacoches) y botella de agua reutilizable (el agua de la canilla es potable en casi todo el país, y parques como Manuel Antonio no dejan entrar con botellas de plástico de un solo uso — hay puntos de recarga adentro).</li>
+          </ol>
+        </div>
+      </div>
     </div>
   </div>
 
