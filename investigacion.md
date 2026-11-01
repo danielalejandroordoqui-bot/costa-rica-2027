@@ -40,7 +40,7 @@ Documento vivo, dedicado exclusivamente a Costa Rica. Proyecto separado de `viaj
 
 Tarifa Light (Economy estándar), personal item + carry-on incluidos, sin valija despachada — sin selección de asiento anticipada ni cambios/reembolsos gratis.
 
-**⚠️ El precio fluctúa fuerte y no hay que confiar en ningún número viejo.** Última cotización real: US$658,16 (12/9/2026) → subió a ~US$1.148-1.449 (verificado 17/9/2026, ~2,2x). Volver a cotizar este itinerario exacto antes de comprar — [cotizar en avianca.com →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28).
+**⚠️ El precio fluctúa fuerte y no hay que confiar en ningún número viejo.** Última cotización real: US$658,16 (12/9/2026) → subió a ~US$1.148-1.449 (verificado 17/9/2026, ~2,2x). Volver a cotizar este itinerario exacto antes de comprar — [cotizar en avianca.com →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-19&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=US&returnDate=2027-03-28).
 
 ## Trámites, moneda y logística general
 
@@ -1607,7 +1607,7 @@ Mirando el mapa embebido en vivo, Daniel armó un itinerario concreto propio com
     - **Peajes (Ruta 27):** tres casetas de ₡650-950 cada una (~US$4 en total). Se paga en efectivo o con tarjeta; con tarjeta cobran un recargo.
     - **🚻☕ Paradas:** **Mirador de Jacó**, **The Croc Skywalk** (Tárcoles, con baños) y **Restaurante y Artesanías El Jardín** (Coyolar, con baños, sobre la Ruta 27).
   - ⛽ **Devolver con el tanque lleno** (política lleno/lleno, confirmada en el voucher). Cargar en **Estación Villa Bonita** (24 h, ~1,5 km del aeropuerto) justo antes de la devolución y **guardar el ticket**: para no cobrar la recarga, Avis pide tanque lleno y comprobante de la carga del mismo día. Comparar con la foto del tablero del Día 1.
-- **Día 9 (dom 28/3):** Vuelo de regreso — sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40 (Avianca AV691+AV8395, vía Bogotá). [Cotizar →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-20&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=AR&returnDate=2027-03-28)
+- **Día 9 (dom 28/3):** Vuelo de regreso — sin actividades en Costa Rica. Sale SJO 01:40, llega a Buenos Aires 15:40 (Avianca AV691+AV8395, vía Bogotá). [Cotizar →](https://booking.avianca.com/av/booking/avail?departureDate=2027-03-19&tripType=round-trip&platform=WEBB2C&from=EZE&to=SJO&nbAdults=1&nbYoungs=0&nbChildren=0&nbInfants=0&language=ES&pointOfSale=US&returnDate=2027-03-28)
 
 **✅ Resuelto (12/9/2026) — horario oficial del Parque Nacional Manuel Antonio:** según SINAC, el parque abre **7:00am y cierra a las 3:00pm** (no 4pm como se pensaba por un video) — cerrado los martes, miércoles a lunes el resto de la semana. El viernes 26/3 (día asignado tras el cambio Puntarenas→Uvita, 20/9/2026) no es martes, así que no hay conflicto de día cerrado. **Las entradas se compran únicamente online**, por el sitio oficial de SINAC — no hay venta en puerta, hay que sacarlas con anticipación.
 
