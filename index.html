@@ -104,7 +104,7 @@
   }
   .hero-sub b{ color:var(--ink); }
 
-  .daystrip{ display:grid; grid-template-columns:repeat(9,1fr); gap:5px; margin-bottom:18px; }
+  .daystrip{ display:grid; grid-template-columns:repeat(10,1fr); gap:5px; margin-bottom:18px; }
   .day{ background:var(--panel-2); border:1px solid var(--hairline); padding:8px 2px 7px; text-align:center; font-family:'Space Mono',monospace; }
   .day .dow{ display:block; font-size:9px; letter-spacing:.1em; color:var(--ink-faint); text-transform:uppercase; }
   .day .num{ display:block; font-size:16px; font-weight:700; color:var(--ink-dim); margin:2px 0 3px; }
@@ -363,7 +363,7 @@
   }
 
   @media (max-width:640px){
-    .daystrip{ grid-template-columns:repeat(9,minmax(28px,1fr)); gap:3px; }
+    .daystrip{ grid-template-columns:repeat(10,minmax(26px,1fr)); gap:3px; }
     .day .num{ font-size:13px; }
     .day .dow{ font-size:7.5px; }
     .day .tag{ font-size:6px; }
@@ -439,6 +439,7 @@
     </p>
 
     <div class="daystrip" aria-hidden="false">
+      <div class="day on"><span class="dow">Vie</span><span class="num">19</span><span class="tag">Licencia</span></div>
       <div class="day"><span class="dow">Sáb</span><span class="num">20</span><span class="tag">Finde</span></div>
       <div class="day"><span class="dow">Dom</span><span class="num">21</span><span class="tag">Finde</span></div>
       <div class="day on"><span class="dow">Lun</span><span class="num">22</span><span class="tag">Licencia</span></div>
